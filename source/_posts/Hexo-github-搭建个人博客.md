@@ -73,5 +73,5 @@ npm install hexo-generator-feed@1 --save
 npm install hexo-generator-sitemap@1 --save
 ```
 
-当你在浏览器中访问你的"GitHub Pages'时, 就会看到部署好的博客.
+当你在浏览器中访问你的"GitHub Pages"时, 就会看到部署好的博客.
 在[这里](https://youngforest.github.io/)可以看到我部署好的博客.

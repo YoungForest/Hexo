@@ -73,6 +73,19 @@ sudo polipo -v
 这样就算成功了.
 
 ## 更进一步
-每次都打这么长的命令`http_proxy=http://localhost:8123`着实不是我们想要的,为了方便使用,可以在终端键入`export http_proxy=http://localhost:8123',表示对该终端所有命令生效;或者更进一步,在.bashrc中加入`export http_proxy=http://localhost:8123',每次启动终端时自动执行.如果不想要每次都走代理,可以像我一样,在.bashrc中加入'alias hp=http://localhost:8123"',每次需要代理时,只需要在命令前面加`hp `就好了.
+每次都打这么长的命令`http_proxy=http://localhost:8123`着实不是我们想要的,为了方便使用,可以在终端键入`export http_proxy=http://localhost:8123`,表示对该终端所有命令生效;或者更进一步,在.bashrc中加入`export http_proxy=http://localhost:8123`,每次启动终端时自动执行.如果不想要每次都走代理,可以像我一样,在.bashrc中加入`alias hp=http://localhost:8123`,每次需要代理时,只需要在命令前面加`hp `就好了.
 
+## 为git配置代理
+git clone的速度很是感人, 只有几十k, 为git配置代理也是很简单的.
+
+Add the following setting to the http items of .gitconfig files.
+``` bash
+[http]
+proxy = <address of the proxy server>:<port of the proxy server>
+```
+
+You can also configure it using the following config command:
+``` bash
+git config --global http.proxy <address of the proxy server>:<port of the proxy server>
+```
 在终端中尽情享受科学上网吧!
