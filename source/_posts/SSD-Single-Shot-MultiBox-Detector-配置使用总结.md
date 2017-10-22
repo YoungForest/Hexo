@@ -8,9 +8,9 @@ tags:
 + Ubuntu 16.04
 + CPU only (自己的机器上没有NVIDIA的卡, AMD说起来都是泪.)
 
-##　环境配置
+## 环境配置
 基本上是按照[官方文档](https://github.com/weiliu89/caffe/tree/ssd). 这里只展示与文档中不同的部分.
-
+<!-- more -->
 ### Makefile.confile
 + line 8: CPU only
 + line 79, 80: support for python3

@@ -1,16 +1,25 @@
 ---
 title: 实现terminal代理
-tags: []
+tags: 
+  - Linux
 date: 2016-11-02 23:30:00
 ---
 
 ## 问题
 作为一名Linuxer，熟练使用终端是一项必备技能，但终端中有时下载安装功能速度很慢，令人崩溃.我自然而然想到了可否加个代理,提高速度。我之前一直用shadowsocks,浏览器使用switchyProxy,实现了初步的科学上网。那么,终端中是否有类似的工具呢？答案是肯定的。通过科学搜索，我成功解决了terminal中的科学上网问题，在此总结一下，希望可以帮到大家。
-
+<!-- more -->
 ## 准备工具
 shadowsocks, polipo
 
 ### shadowsocks
+[Download and Install Client](https://shadowsocks.org/en/download/clients.html)
+
+#### Install Command-line Client
+```bash
+pip install shadowsocks
+apt-get install shadowsocks-libev
+cpan Net::Shadowsocks
+```
 shadowsocks的配置可以参考[这篇文章](http://bblove.me/2015/03/09/use-ss/), 我很久之前配置的,这里就不回忆了(忘得差不多了).
 
 让我们直接从polipo开始吧.
@@ -73,7 +82,7 @@ sudo polipo -v
 这样就算成功了.
 
 ## 更进一步
-每次都打这么长的命令`http_proxy=http://localhost:8123`着实不是我们想要的,为了方便使用,可以在终端键入`export http_proxy=http://localhost:8123`,表示对该终端所有命令生效;或者更进一步,在.bashrc中加入`export http_proxy=http://localhost:8123`,每次启动终端时自动执行.如果不想要每次都走代理,可以像我一样,在.bashrc中加入`alias hp=http://localhost:8123`,每次需要代理时,只需要在命令前面加`hp `就好了.
+每次都打这么长的命令`http_proxy=http://localhost:8123`着实不是我们想要的,为了方便使用,可以在终端键入`export http_proxy=http://localhost:8123`,表示对该终端所有命令生效;或者更进一步,在.bashrc中加入`export http_proxy=http://localhost:8123`,每次启动终端时自动执行.如果不想要每次都走代理,可以像我一样,在.bashrc中加入`alias hp="http_proxy=http://localhost:8123"`,每次需要代理时,只需要在命令前面加`hp `就好了.
 
 ## 为git配置代理
 git clone的速度很是感人, 只有几十k, 为git配置代理也是很简单的.

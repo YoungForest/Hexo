@@ -8,6 +8,15 @@ rss: /atom.xml
 excerpt_link: Read More
 fancybox: true
 
+markdown:
+  plugins:
+    - markdown-it-abbr
+    - markdown-it-footnote
+    - markdown-it-ins
+    - markdown-it-sub
+    - markdown-it-sup
+    - markdown-it-emoji
+
 # Sidebar
 sidebar: right
 widgets:
@@ -19,9 +28,9 @@ widgets:
 
 # display widgets at the bottom of index pages (pagination == 2)
 index_widgets:
-# - category
-# - tagcloud
-# - archive
+- category
+- tagcloud
+- archive
 
 # widget behavior
 archive_type: 'monthly'

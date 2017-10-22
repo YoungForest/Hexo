@@ -8,7 +8,7 @@ date: 2016-11-22 01:42:23
 ---
 
 有关如何将其他博客上的文章迁移到`Hexo`上, [官方文档](https://hexo.io/docs/migration.html)给出了一些指引. 我也是根据官方文档进行了将自己之前在博客园中的随笔迁移到新博客上的尝试. 这个过程中遇到过一些问题, 再此给出解决方法.
-
+<!-- more -->
 ## 未安装迁移插件
 
 博客园需要用rss迁移, 我根据文档, `$ npm install hexo-migrator-rss --save` 安装了相关的插件, 但在运行迁移命令`$ hexo migrate rss <source>`时, 报出了如下错误:

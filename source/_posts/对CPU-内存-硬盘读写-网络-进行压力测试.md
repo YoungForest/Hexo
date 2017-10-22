@@ -8,6 +8,7 @@ categories:
 ---
 近来实验室的师兄有个需求, 写4个小程序, 分别对内存, CPU, 硬盘, 网络进行压力测试, 要求测试程序有压力档位可以调, 比如压力可以分为大, 中, 小. 二话不说, 撸起袖子加油干. 需求很简单, 但实现起来却并不简单, 笔者边学习, 边写程序, 才勉强完成任务. 
 
+<!-- more -->
 ## 测试环境
 Ubuntu 14.04
 
@@ -96,6 +97,32 @@ $ python3 memory_benchmark.py 2m
 ```
 
 ## 网络
-师兄的需求是需要公网测试...
+师兄的需求是需要公网压力测试, 查找了很多资料, 大多数工具都是测网速的, 而不是可以指定上下行速率进行测试. 幸运的是, 找了几天之后, 终于找到一个工具`iperf`可以勉强完成任务.
 
-----未完待续----
+#### 基本思路
+一台机器作为服务器, 另一台机器作为客户端, 客户端向服务器发包, 服务器接受, 连接使用UDP连接. 这也就是说, 如果没有服务器的话, 客户端仍然可以对网络上行进行压力测试; 但没有客户端, 服务器则没法对网络下行进行压力测试. 简单地说, 服务器(下行)是被动的, 客户端(上行)是主动的, 没人收包仍然可以狂发包, 但没人发包, 无论如何是收不到包的.
+
+#### 安装
+``` bash
+$ sudo apt-get install iperf
+```
+
+#### 使用方法
+
+##### 服务器
+启动服务器
+``` bash
+$ iperf -s
+```
+
+##### 客户端
+``` bash
+$ iperf -c 服务器ip -b 压力值
+$ # 比如:
+$ iperf -c 123.206.61.77 -b 11m
+```
+
+#### 参考
+[Linux下如何监控网络](http://www.binarytides.com/linux-commands-monitor-network/)
+[Linux网络测试和监控](https://www.linux.com/learn/five-funny-little-linux-network-testers-and-monitors)
+[[Linux] 局域网中测试网速](http://tuxtweaks.com/2014/11/linux-network-speed-test/?utm_source=tuicool&utm_medium=referral)
