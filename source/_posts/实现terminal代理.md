@@ -72,11 +72,11 @@ sudo polipo -v
 配置完成后,怎么才知道自己是否已经可以科学上网了呢?
 可以使用以下命令:
 ```
-~$ curl ip.gs
+~$ curl -i http://ip.cn
 当前 IP：60.xxx.xxx.x 来自：中国北京北京 xxx/电信
 ```
 ```
-~$ http_proxy=http://localhost:8123 curl ip.gs # polipo的默认端口为8123,如有需要可以自行改动
+~$ http_proxy=http://localhost:8123 curl -i http://ip.cn # polipo的默认端口为8123,如有需要可以自行改动
 当前 IP：xxx.xxx.xxx.xx0 来自：美国加利福尼亚州洛杉矶
 ```
 这样就算成功了.
