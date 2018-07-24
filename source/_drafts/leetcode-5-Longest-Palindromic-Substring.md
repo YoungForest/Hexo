@@ -195,4 +195,48 @@ if __name__ == '__main__':
 英文版：https://articles.leetcode.com/longest-palindromic-substring-part-ii/
 中文版：https://www.felix021.com/blog/read.php?2040
 
-自己实现的python版：待续
+自己实现的python版：
+```python
+class Solution:
+    def longestPalindrome(self, s):
+        """
+        :type s: str
+        :rtype: str
+        """
+        def preProcess(s):
+            if len(s) == 0:
+                return '^$'
+            ret = '^'
+            for i in s:
+                ret += '#' + i
+            
+            ret += '#$'
+            return ret
+        
+        T = preProcess(s)
+        P = [0] * len(T)
+        C, R = 0, 0
+        for i in range(len(T)-1):
+            i_mirror = 2*C - i  # i' = C - (i - C)
+            
+            if R > i:
+                P[i] = min(R-i, P[i_mirror])
+            else:
+                P[i] = 0
+            
+            while T[i + 1 + P[i]] == T[i - 1 - P[i]]:
+                P[i] += 1
+                
+            if i + P[i] > R:
+                C = i
+                R = i + P[i]
+                
+        max_len = 0
+        center_index = 0
+        for i in range(len(T)-1):
+            if P[i] > max_len:
+                max_len = P[i]
+                center_index = i
+                
+        return s[(center_index - 1 - max_len) // 2: (center_index - 1 - max_len) // 2 + max_len]
+```
