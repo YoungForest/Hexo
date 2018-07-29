@@ -12,7 +12,7 @@ categories:
 没有对比就没有伤害，自己的菜和师兄的强让我知耻而后勇，有了进阶SQL的想法和行动。
 
 <!--more-->
-我被推荐的2份教程（感谢师兄和二mentor）：
+我被推荐的2份教程（感谢快手师兄和二mentor）：
 - sql必知必会
 - [runoob](http://www.runoob.com/sql/sql-constraints.html)
 
@@ -20,6 +20,8 @@ categories:
 我认为只看一个教程就够了。
 runoob的优点是可以在网站提供的线上数据库进行测试和练习，这一点和[w3school的教程](https://www.w3schools.com/sql/)有些像。
 《sql必知必会》的优点是内容比较多，作者会传授一些写sql的经验，还会涉及到不同数据库的移植性和区别。
+
+[leetcode上有42道Database的面试题目](https://leetcode.com/problemset/database/)，有时间一定要刷一刷。
 
 # 实践中遇到的问题
 由于我的岗位是推荐组的算法工程师，有大量的数据挖掘的需要。
