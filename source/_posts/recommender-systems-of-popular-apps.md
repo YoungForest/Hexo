@@ -1,9 +1,11 @@
 ---
 title: recommender systems of popular apps
 tags:
-- tech
+  - tech
+date: 2018-07-30 22:55:55
 categories:
 ---
+
 
 # 论推荐系统如何改造和奴役你的思维
 

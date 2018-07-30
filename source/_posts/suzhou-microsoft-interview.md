@@ -1,9 +1,11 @@
 ---
 title: 微软苏州面试
 tags:
-- interview
+  - interview
+date: 2018-07-30 22:54:08
 categories:
 ---
+
 # 面试环节
 
 ## 一面

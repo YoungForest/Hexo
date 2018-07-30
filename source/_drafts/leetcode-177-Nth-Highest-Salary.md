@@ -3,6 +3,7 @@ title: leetcode 177 Nth Highest Salary
 date: 2018-07-21 19:52:35
 tags:
 categories:
+- Leetcode
 ---
 
 园子宝宝，周六快乐。今天带来的是一道Medium难度的SQL题目（其实一下子讲了2道题）。在我做这道题的时候，你或许正在吃抹茶冰淇凌，你吃东西的时候好可爱呀。

@@ -2,6 +2,7 @@
 title: leetcode 819 Most Common Word
 tags:
 categories:
+- Leetcode
 ---
 
 一道Easy难度的题目。此题的考察的是基本的数据结构和build-in函数的使用，如 字典，对字符串的处理。不存在算法上的优化和考察。

@@ -36,3 +36,11 @@ $ hexo deploy
 ```
 
 More info: [Deployment](https://hexo.io/docs/deployment.html)
+
+### My toubleshooting
+
+#### generated file has no `index.html`
+
+```bash
+npm install
+```
