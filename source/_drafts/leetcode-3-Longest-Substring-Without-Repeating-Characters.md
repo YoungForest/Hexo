@@ -3,7 +3,7 @@ title: leetcode 3 Longest Substring Without Repeating Characters
 date: 2018-07-19 13:57:40
 tags:
 categories:
-- Leetcode
+- LeetCode
 ---
 
 问题描述：https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/description/

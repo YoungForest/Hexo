@@ -3,7 +3,7 @@ title: leetcode-2-add-two-numbers
 date: 2018-07-18 18:12:39
 tags:
 categories:
-- Leetcode
+- LeetCode
 ---
 
 # 方法：初等数学

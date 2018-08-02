@@ -2,7 +2,7 @@
 title: leetcode 7 Reverse Integer
 tags:
 categories:
-- Leetcode
+- LeetCode
 ---
 
 问题描述：https://leetcode.com/problems/reverse-integer/description/

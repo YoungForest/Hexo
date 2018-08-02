@@ -2,7 +2,7 @@
 title: leetcode 9 Palindrome Number
 tags:
 categories:
-- Leetcode
+- LeetCode
 ---
 
 问题描述：https://leetcode.com/problems/palindrome-number/description/

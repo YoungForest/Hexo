@@ -2,7 +2,7 @@
 title: leetcode 8 String to Integer
 tags:
 categories:
-- Leetcode
+- LeetCode
 ---
 
 问题描述：https://leetcode.com/problems/string-to-integer-atoi/description/

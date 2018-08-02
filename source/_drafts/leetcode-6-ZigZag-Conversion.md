@@ -2,7 +2,7 @@
 title: leetcode 6 ZigZag Conversion
 tags:
 categories:
-- Leetcode
+- LeetCode
 ---
 
 问题描述：https://leetcode.com/problems/zigzag-conversion/description/

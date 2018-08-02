@@ -2,7 +2,7 @@
 title: leetcode 12 Integer to Roman
 tags:
 categories:
-- Leetcode
+- LeetCode
 ---
 
 问题描述：https://leetcode.com/problems/integer-to-roman/description/
