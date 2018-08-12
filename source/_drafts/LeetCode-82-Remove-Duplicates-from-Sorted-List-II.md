@@ -7,6 +7,7 @@ categories:
 
 Description: https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/
 Solution: 无
+Difficulty: Medium
 
 
 ```python

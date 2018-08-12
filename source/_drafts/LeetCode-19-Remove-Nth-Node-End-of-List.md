@@ -7,6 +7,7 @@ categories:
 
 Description: https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/
 Solution: https://leetcode.com/problems/remove-nth-node-from-end-of-list/solution/
+Difficulty: Medium
 
 ## 我的submission
 
