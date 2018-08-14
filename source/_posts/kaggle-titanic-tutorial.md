@@ -1,9 +1,11 @@
 ---
 title: kaggle入门之-titanic
-tags:
 categories:
-- kaggle
+  - kaggle
+date: 2018-08-14 11:22:23
+tags:
 ---
+
 
 为了更快地锻炼自己数据挖掘的能力，我计划最近一个月花一定的时间在kaggle比赛上。目前的计划是把[Tutorial](https://www.kaggle.com/tags/tutorial)上的比赛、Datasets和牛人们的notebook跟完作为入门。之后再选择一个简单的常规比赛参加。
 至于最后是否像欢哥一样走上数据挖掘竞赛之路，看入门之后的感受。自己是否愿意继续花大量的精力在上面。
