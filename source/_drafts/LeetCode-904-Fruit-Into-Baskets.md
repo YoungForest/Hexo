@@ -9,6 +9,8 @@ Description: https://leetcode.com/contest/weekly-contest-102/problems/fruit-into
 Solution: 无
 Difficulty: Medium
 
+此问题可以转化为：返回包括2个数字的最长子数组。
+
 ```python
 class Solution:
     def totalFruit(self, tree):

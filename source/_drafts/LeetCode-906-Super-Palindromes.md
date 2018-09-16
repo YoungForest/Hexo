@@ -5,6 +5,10 @@ categories:
 - LeetCode
 ---
 
+Description: https://leetcode.com/problems/super-palindromes/description/
+Solution: 无
+Difficulty: Hard
+
 ```python
 class Solution:
     def superpalindromesInRange(self, L, R):
@@ -29,7 +33,7 @@ class Solution:
         return ret
 ```
 
-时间复杂度 O(n^0.5 log n)，for遍历sqrt(n)次，判断回文数和数字的长度log n成正比；
+时间复杂度 O(n^0.5 log n)，for遍历sqrt(n)次，判断回文数和数字的长度log n成正比；结果TLE
 空间复杂度 O(1)。
 
 ## 打表
