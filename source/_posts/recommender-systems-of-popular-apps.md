@@ -1,13 +1,11 @@
 ---
-title: recommender systems of popular apps
+title: 论推荐系统如何改造和奴役你的思维
 tags:
   - tech
-date: 2018-07-30 22:55:55
+date: 2018-07-3 22:55:55
 categories:
 ---
 
-
-# 论推荐系统如何改造和奴役你的思维
 
 应园子的邀请，我撰写了一篇关于现今流行的内容app的推荐系统的研究与讨论的文章。
 事情的起因是这样：
