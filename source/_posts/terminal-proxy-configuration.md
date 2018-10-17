@@ -81,6 +81,8 @@ sudo polipo -v
 ```
 这样就算成功了.
 
+最近发现"ip.cn"这个网站不能用了，500访问错误。可以将其替换为“ipinfo.io/ip”就可以了i，这是另一个返回你的公网IP的网站。
+
 ## 更进一步
 每次都打这么长的命令`http_proxy=http://localhost:8123`着实不是我们想要的,为了方便使用,可以在终端键入`export http_proxy=http://localhost:8123`,表示对该终端所有命令生效;或者更进一步,在.bashrc中加入`export http_proxy=http://localhost:8123`,每次启动终端时自动执行.如果不想要每次都走代理,可以像我一样,在.bashrc中加入`alias hp="http_proxy=http://localhost:8123"`,每次需要代理时,只需要在命令前面加`hp `就好了.
 
