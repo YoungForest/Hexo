@@ -5,9 +5,9 @@
 # Site
 title: YoungForest's blog
 subtitle:
-description: My personal blog.
+description: 佛系更新；生活、学习
 author: 杨森
-language: en
+language: zh-Hans
 timezone:
 email: yangsen758@foxmail.com
 
@@ -64,7 +64,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape 
+theme: next
 # anisina
 # bootstrap-blog
 # landscape
