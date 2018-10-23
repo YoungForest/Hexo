@@ -21,3 +21,5 @@ categories:
 过去值得留恋，现在值得珍惜，未来值得期待。
 
 总之，开心就好。
+
+![小班合影](/images/shaheheying.jpg)
