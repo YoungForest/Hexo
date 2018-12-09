@@ -16,9 +16,13 @@
     "hexo-generator-tag": "~0.2.0",
     "hexo-migrator-rss": "~0.1.2",
     "hexo-renderer-ejs": "^0.2.0",
+    "hexo-renderer-markdown-it": "^3.4.1",
     "hexo-renderer-marked": "~0.2.11",
+    "hexo-renderer-sass": "^0.3.2",
     "hexo-renderer-stylus": "^0.3.3",
     "hexo-server": "^0.2.2",
-    "hexo-tag-fontawesome": "^1.0.0"
+    "hexo-tag-fontawesome": "^1.0.0",
+    "markdown-it-emoji": "^1.4.0",
+    "twemoji": "^11.0.1"
   }
 }
