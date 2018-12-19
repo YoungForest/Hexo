@@ -84,16 +84,16 @@ categories:
 通过推荐页的提示“关注话题获取精准内容推荐”，可以看出，推荐页的内容主要依据的是你关注的话题。这相当于是基于内容过滤的场景。
 从结果来看，向我推荐的回答大多是我显式选择的关注话题或者是于此相关的话题（如下图2所示：话题之间有父子、相关等关系），
 
-![推荐页](../assets/zhihu-recommend-page.jpg)
+![推荐页](/assets/zhihu-recommend-page.jpg)
 
-![相关话题页](../assets/zhihu-topic-page.jpg)
+![相关话题页](/assets/zhihu-topic-page.jpg)
 
 
 ### 网易云音乐
 
 网易云音乐的推荐可以分为3个板块：私人FM，每日推荐，推荐歌单。
 
-![网易云音乐推荐模块](../assets/netease-music-homepage.jpg)
+![网易云音乐推荐模块](/assets/netease-music-homepage.jpg)
 
 私人FM有3个主要操作：
 - 喜欢
