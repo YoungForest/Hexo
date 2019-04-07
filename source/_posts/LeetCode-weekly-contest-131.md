@@ -15,7 +15,7 @@ categories:
 |323 / 4894|	YoungForest |	22 | 	0:59:58	 | 0:10:44 | 0:19:06(2) |	0:30:57 |0:49:58 |
 也是大概需要50min内完成，才能进入200名内。
 
-## 5016. Remove Outermost Parentheses
+## 1021. Remove Outermost Parentheses
 
 Intution:
 括号匹配的问题。利用栈的思维，设置一个flag表示是否是Outermost。利用状态机的思维构造返回的字符串。
@@ -46,7 +46,7 @@ public:
 };
 ```
 
-## 5017. Sum of Root To Leaf Binary Numbers
+## 1022. Sum of Root To Leaf Binary Numbers
 
 Intution:
 recurse, 二进制表示的值用传值的方式进行传递。
@@ -86,7 +86,7 @@ public:
 时间复杂度: O(N)，所有节点都要遍历一次。
 空间复杂度: O(N)，树的深度，最差的情况是等于节点数。
 
-## 5018. Camelcase Matching
+## 1023. Camelcase Matching
 
 Intution:
 直接比较即可。借鉴状态机的思想，不同条件下，执行的操作不同(`i`, `j`的变化)。
@@ -130,7 +130,7 @@ public:
 时间复杂度: O(N * M), queries的长度，和每个query的长度。
 空间复杂度: O(N).
 
-## 5019. Video Stitching
+## 1024. Video Stitching
 
 Intution:
 贪心。每次添加的clip都使得拼接完的视频最长。
