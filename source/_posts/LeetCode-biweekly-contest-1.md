@@ -126,3 +126,45 @@ public:
 看了Discuss, 共有2种解法。优先队列 或 DP。
 
 ## 1067. Digit Count in Range
+
+首先，先解决一个更简单的问题。
+[Solution](https://leetcode.com/problems/number-of-digit-one/solution/)
+求数字1的个数。
+
+```cpp
+int countDigitOne(int n)
+{
+    int countr = 0;
+    for (long long i = 1; i <= n; i *= 10) {
+        long long divider = i * 10;
+        countr += (n / divider) * i + min(max(n % divider - i + 1, 0LL), i);
+    }
+    return countr;
+}
+```
+
+根据以上解法，很容易扩充到任何数字。
+需要注意数字`0`因为不能开头，所以需要特殊处理
+
+```cpp
+class Solution {
+    // include n
+    int helper(int d, int n) {
+        int ret = 0;
+        for (long long i = 1; i <= n; i *= 10) {
+            long long divisor = i * 10;
+            ret += (n / divisor) * i + min(i, max(0LL, n % divisor - d * i + 1)) - (d == 0 ? i : 0);
+            // cout << ret << " ";
+        }
+        // cout << n << " " << ret << endl;
+        return ret;
+    }
+public:
+    int digitsCount(int d, int low, int high) {
+        return helper(d, high) - helper(d, low - 1);
+    }
+};
+```
+
+时间复杂度: O(log N)
+空间复杂度: O(1)
