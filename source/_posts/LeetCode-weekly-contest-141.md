@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 141
 date: 2019-06-16 11:44:47
+tags:
 - LeetCode
 categories:
 - Programming
