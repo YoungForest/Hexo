@@ -8,6 +8,7 @@ categories:
 ---
 
 赛后补的题解。
+[题目链接](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050eda)
 
 ## Building Palindromes
 
