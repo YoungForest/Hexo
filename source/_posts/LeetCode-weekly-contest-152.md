@@ -2,7 +2,9 @@
 title: LeetCode weekly contest 152
 date: 2019-09-01 19:52:40
 tags:
+- LeetCode
 categories:
+- Programming
 ---
 
 | Rank |	Name |	Score |	Finish Time | 	Q1 (3) |	Q2 (4) |	Q3 (5) |	Q4 (6)|
