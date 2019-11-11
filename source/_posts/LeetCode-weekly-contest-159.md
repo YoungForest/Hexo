@@ -133,3 +133,36 @@ public:
     }
 };
 ```
+
+## 1235. Maximum Profit in Job Scheduling
+
+类似背包问题。
+先把job按照endTime排序，遍历每个job，加入或不加入，更新总的profit。
+更新策略为：根据job的start_time 二分查找符合条件的 end_time，得到加入该job的最大收益。如果最大收益大于之前 end_time的最大收益（因为 事先已经根据end_time排好序了，所以可以保证job的end_time是获得最大收益的end_time，则更新profit。
+最后返回最大的end_time的profit。
+
+时间 复杂度: O(N log N),
+空间 复杂度: O(N).
+
+```
+class Solution {
+public:
+    int jobScheduling(vector<int>& startTime, vector<int>& endTime, vector<int>& profit) {
+        map<int, int> dp;
+        dp[0] = 0;
+        const int n = startTime.size();
+        vector<tuple<int, int, int>> jobs(n);
+        for (int i = 0; i < n; ++i) {
+            jobs[i] = {endTime[i], startTime[i], profit[i]};
+        }
+        sort(jobs.begin(), jobs.end());
+        for (const auto& job : jobs) {
+            int cur = prev(dp.upper_bound(get<1>(job)))->second + get<2>(job);
+            if (cur > dp.rbegin()->second) {
+                dp[get<0>(job)] = cur;
+            }
+        }
+        return dp.rbegin()->second;
+    }
+};
+```
