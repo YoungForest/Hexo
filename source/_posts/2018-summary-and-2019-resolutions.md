@@ -4,6 +4,7 @@ date: 2018-12-12 21:29:47
 tags:
 - life
 categories:
+- dairy
 ---
 
 Merry Christmas!
