@@ -3,6 +3,7 @@ title: jingchi interview
 tags:
 - interview
 categories:
+date: 2018-09-28 11:22:23
 ---
 
 昨天参与了景驰科技的实习生面试。此次实习生面试是实验室统一安排的，并不是我自己找的。
