@@ -81,6 +81,12 @@ pub fn queens_attackthe_king(queens: Vec<Vec<i32>>, king: Vec<i32>) -> Vec<Vec<i
 
 ## 1223. Dice Roll Simulation
 
+有memoization的dfs。
+
+通过分析memo的最多可能，可知
+时间复杂度: O(6 * N ^ 2),
+空间复杂度: O(6 * N ^ 2).
+
 ```rust
 use std::collections::HashMap;
 
@@ -130,3 +136,54 @@ impl Solution {
 
 ## 1224. Maximum Equal Frequency
 
+首先明确 `an array prefix of nums`的意义，即前缀数组。
+再看到加粗的`exactly one`，可知符合要求的前缀数组有2种情况：
+- 出现次数最多的数的数目 - 1 = 所有其他数的出现次数的数目
+- 有一个数出现次数为 1，其他数出现的次数相同
+最后看数据规模`10^5`，基本上可以确定必须要`O(N * log N) 或 O(N)`的算法了。
+
+算法其实已经呼之欲出了，很自然地想到用 散列表 记录不同数的出现次数，用 TreeSet对出现次数进行存储，可以快速更新出现次数。然后One Pass即可。
+
+时间复杂度: O(N log N),
+空间复杂度: O(N).
+
+```cpp
+class Solution {
+public:
+    int maxEqualFreq(vector<int>& nums) {
+        unordered_map<int, int> count;
+        multiset<int> order;
+        int ans = 0;
+        for (int x = 0; x < nums.size(); ++x) {
+            int i = nums[x];
+            if (count[i] != 0) {
+                auto it = order.find(count[i]);
+                order.erase(it);
+            }
+            ++count[i];
+            order.insert(count[i]);
+            // detemiate
+            auto it1 = order.begin();
+            auto it2 = order.end();
+            --it2;
+            int n = order.size() - 1;
+            int length = x + 1;
+            if (it1 == it2) {
+                ans = x + 1;
+            } else {
+                if ((*it2) == (*it1) + 1) {
+                    if ( (*it2) * 1 + (*it1) * (n) == length) {
+                        ans = x + 1;
+                    }
+                }
+                if (*it1 == 1) {
+                    if (*it2 * n == length - 1) {
+                        ans = x + 1;
+                    }
+                }
+            }
+        }
+        return ans;
+    }
+};
+```
