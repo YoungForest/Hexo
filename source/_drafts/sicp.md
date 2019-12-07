@@ -4,6 +4,10 @@ tags:
 categories:
 ---
 
+# Chapter 1. 构造过程抽象
+
+## 1.1 
+
 不区分表达式（有返回值）和语句，或者说 只有表达式。
 特例：
 define
@@ -129,3 +133,55 @@ if 语句是一种特殊形式，当它的 predicate 部分为真时， then-cla
 
 块结构：
 函数定义里面定义函数（局部函数）
+
+## 1.2 过程和它们产生的计算
+
+递归计算过程（线性递归过程）：构造起一个**推迟进行**的操作所行程的链条，先逐步展开而后收缩。
+迭代计算过程（线性迭代过程）：其状态可以用固定数目的**状态变量**描述的计算过程。
+
+### 练习 1.11
+
+```lisp
+(define (f1_11 n)
+  (if (< n 3)
+      n
+      (+ (f1_11 (- n 1))
+         (* 2 (f1_11 (- n 2)))
+         (* 3 (f1_11 (- n 3))))))
+
+(f1_11 4)
+
+(define (f1_11_iter a b c i size)
+  (if (= i size)
+      c
+      (f1_11_iter b c (+ (* 3 a) (* 2 b) c) (+ i 1) size)))
+(define (f1_11_2 n)
+  (f1_11_iter 0 1 2 2 n))
+
+(f1_11_2 4)
+```
+
+## 练习 1.16
+```lisp
+(define (fast-expt b n)
+    (expt-iter b n 1))
+
+(define (expt-iter b n a)
+    (cond ((= n 0)
+            a)
+          ((even? n)
+            (expt-iter (square b)
+                       (/ n 2)
+                       a))
+          ((odd? n)
+            (expt-iter b
+                       (- n 1)
+                       (* b a)))))
+```
+
+## 1.3 使用高阶函数做抽象
+
+lambda 表达式：
+```lisp
+(lambda <formal-parameters> <body>)
+```
