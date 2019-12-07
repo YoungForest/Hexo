@@ -4,6 +4,7 @@ date: 2018-12-26 11:26:03
 tags:
 - LeetCode
 categories:
+- Programming
 ---
 
 又到周末LeetCode weekly contest的时候了，这次战果不佳。原因主要是，二三题都想做出来，结果都没有做出来。如果把时间都集中于第二题，应该也还是能AC的。
@@ -117,6 +118,9 @@ Solution中还有一种时间复杂度为O(n^2 log n)的解法，利用了矩�
 题解看的一塌糊涂，完全不知所以。幸运的是，找到一份很好理解的[Discuss](https://leetcode.com/problems/least-operators-to-express-number/discuss/208376/python2-O(log-target)-chinese)。
 正如作者所云：
 > 此题归根结底还是考察对进制的理解
+
+时间复杂度: O(log target),
+空间复杂度: O(log target).
 
 ```python
 class Solution:

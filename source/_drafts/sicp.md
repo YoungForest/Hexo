@@ -4,13 +4,43 @@ tags:
 categories:
 ---
 
-过程定义：
+不区分表达式（有返回值）和语句，或者说 只有表达式。
+特例：
+define
+(define x 3)
+
+过程定义:
+```lisp
 (define (<name> <formal parameters>) <body>)
+```
 
 正则序求值：完全展开而后规约
 应用序求值：先求值参数，后应用
 
 谓词：返回真或假的过程
+#t
+#f
+
+条件表达式：
+```lisp
+(cond (<p1> <e1>)
+      (<p2> <e2>)
+      ...
+      (<pn> <en>))
+```
+`else`是一种符号，类似switch里的default
+
+if 语句
+```lisp
+(if <predicate> <consequent> <alternative>)
+```
+
+逻辑符合运算符
+```
+(and <e1> <e2> <e3>)
+(or <e1> <e2> <e3>)
+(not <e>)
+```
 
 http://sicp.readthedocs.io/
 
@@ -63,6 +93,39 @@ if 语句是一种特殊形式，当它的 predicate 部分为真时， then-cla
 
 ### 1.7
 
+牛顿法求平方根
+
+```lisp
+(define (sqrt-iter guess x)
+    (if (good-enough? guess x)
+        guess
+        (sqrt-iter
+         (improve guess x) x)))
+(define (mysqrt x) (sqrt-iter 1.0 x))
+(define (improve guess x)
+    (average guess (/ x guess))
+    )
+(define (average x y)
+    (/ (+ x y) 2)
+    )
+(define (good-enough? guess x)
+    (<
+     (abs (-
+      (* guess guess)
+      x))
+     0.00001))
+(define (abs x)
+    (if (< x 0)
+        (- x)
+        x))
+(mysqrt 10)
+```
+
 很小的数失败是由于如果这个小数比阈值设置的还小，自然会出问题。
 
 大数，则是因为 mit-scheme 实现的小数精度不足以表示两个大数之间的差。
+
+函数与过程之间的矛盾，不过是在描述一件事的特征，和描述如何去做那件事之间普遍性差异的一个具体反映。
+
+块结构：
+函数定义里面定义函数（局部函数）

@@ -3,7 +3,8 @@ title: LeetCode weekly contest 115
 date: 2018-12-19 10:34:23
 tags:
 - LeetCode
-categories:
+ccategories:
+- Programming
 ---
 
 有些日子没有参加LeetCode的weekly contest了，最近由于准备一月末的Google电话面试，需要重新把算法捡起来。复习算法书是一部分，另一手就是准备刷题啦。由于时间有限，LeetCode的weekly contest不失为一个更好的选择。因为contest有时间限制，和实际面试更像。
@@ -26,18 +27,14 @@ weekly contest时长为1个半小时，4道不同难度的题目，每周末10�
 #         self.right = None
 
 class Solution:
-    def isCompleteTree(self, root):
-        """
-        :type root: TreeNode
-        :rtype: bool
-        """
+    def isCompleteTree(self, root: TreeNode) -> bool:
         no_child = False
-        myqueue = []
+        myqueue = collections.deque()
         if root:
             myqueue.append(root)
         
         while len(myqueue) > 0:
-            node = myqueue.pop(0)
+            node = myqueue.popleft()
             if no_child:
                 if node.left != None or node.right != None:
                     return False
@@ -67,6 +64,9 @@ class Solution:
 状态转移的题目，可以直接模拟。但缺点是但N太大时，会TLE。
 不难发现，Cells的状态最多有`2^6 = 64`种，所以在状态转移时，必然会出现循环。所以只要保存之前遇到的状态，如果再次遇到，就可以直接模掉循环长度了。
 把状态转移打印出来，很快就可以发现，14是一个很神奇的数，每隔14必循环。所以最后的实现很多人都是直接mod 14了事。
+
+时间复杂度: O(1),
+空间复杂度: O(1).
 
 ```python
 class Solution:
@@ -111,11 +111,7 @@ class Solution:
 
 ```python
 class Solution:
-    def regionsBySlashes(self, grid):
-        """
-        :type grid: List[str]
-        :rtype: int
-        """
+    def regionsBySlashes(self, grid: List[str]) -> int:
         class UF:
             # quick union implement
             def __init__(self, size):
@@ -123,10 +119,11 @@ class Solution:
                 self.count = size
                 
             def find(self, x):
-                while self.parents[x] != x:
-                    x = self.parents[x]
-                    
-                return self.parents[x]
+                if self.parents[x] == x:
+                    return x
+                else:
+                    self.parents[x] = self.find(self.parents[x])
+                    return self.parents[x]
             
             def union(self, x, y):
                 i = self.find(x)
@@ -173,7 +170,7 @@ class Solution:
 ## 960. Delete Columns to Make Sorted III
 
 这是一道Dynamic Programming发挥作用的典型题目。(由于时间不够了，最后还是去看了Solution才豁然开朗。)
-可惜的是 算法第4版 并未设计DP这么重要的概念，如果要系统地学习DP的话，还是去看 算法导论 吧（虽然我从来都没有看完，向来都是挑着看的）。
+可惜的是 算法第4版 并未涉及DP这么重要的概念，如果要系统地学习DP的话，还是去看 算法导论 吧（虽然我从来都没有看完，向来都是挑着看的）。
 
 我们按照算法导论上的一步一步来吧：
 动态规划解题的4 steps:
@@ -192,6 +189,9 @@ When should we look for a Dynamic Programming solution to a problem?
 2. 递归定义最优解的值：dp[i] = max(dp[k] + 1), for every string .indexAt[i] >= .indexAt[k]
 3. 使用 Bottom-top 方法求解答案，for i in 0～len(A[0]), 计算dp[i], 最大留下列数为max(dp)。不是dp[-1]因为最后一列不一定要留下。
 4. 由于问题不需要求解最后删去/留下哪几行，所以构造最优解可以忽略
+
+时间复杂度: O(A.length ^2 * A[i].length),
+空间复杂度: O(A.length).
 
 ```python
 class Solution:
