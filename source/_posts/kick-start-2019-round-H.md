@@ -93,6 +93,186 @@ int main() {
 
 ## B. Diagonal Puzzle
 
+比赛时试图通过回溯枚举所有的翻转找到最小解，时间复杂度O(2 ^ (4 * N))。没想到连最小的数据集都超时了。所以，题解都是通过赛后从官方的Analysis中看来得。
+
+### 小测试集
+
+没必要枚举所有的翻转。我们可以只枚举同一个方向的翻转，然后检查是否另一个方向每条线上都同色。
+与主对角线平行的翻转有`2 * N - 1`个，与主对角线垂直的也有`2 * N - 1`个。
+检查同色的复杂度为`O(N ^ 2)`.
+所以总的时间复杂度为`O(2 ^ (2 * N - 1) * N ^ 2)`.
+
+### 大测试集
+
+本解法基于一个有趣的观察，如果我们确定主对角线和反主对角线的翻转，为了确定最后全为白色，其余翻转可以因此确定。当N为奇数时，是主对角线和次反主对角线。`N == 6， 7`时的情况如下所示。
+
+```
+\..../ \......
+.\../. .\..../
+..\/.. ..\../.
+../\.. ...\/..
+./..\. .../\..
+/....\ ../..\.
+       ./....\
+```
+
+所以，我们可以枚举主对角线的翻转 情况 ，共4种，然后根据对角线上 的 其他元素的颜色，确定其他翻转 。最后检查是否符合全是白的要求。
+时间复杂度: `O(4 * N ^ 2)`.
+
+此解法其实和我之前经常做的翻灯的题目很像，翻转一个灯，同时会翻转其周围的4个灯。最后求全部灭掉灯的步数。
+只需要枚举第一行的翻转，为了改变当前行的灯的状态，我们只能翻转下一行的灯，其余行会因此确定。
+题目在LeetCode上可以找到：[LeetCode 1284. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/description/).
+我的解法是从[acwing](https://www.acwing.com/problem/content/97/)获得的，还可以 看大雪菜的视频学习。
+
+#### 另一种解法
+
+将此问题转换成[2-coloring](https://en.wikipedia.org/wiki/Graph_coloring#Vertex_coloring)的一种变形。每个格子都由2条线共享。如果格子是白的，2条线之一需要被翻转。如果格子是黑的，不需要翻转，或 都翻转。
+我们考虑每条对角线是图中的节点，格子是边。
+如果格子是黑的，对应的边连接的2个节点必须是相同颜色的。反之，必须是不同颜色的。
+可以通过DFS解决2-coloring的图问题。
+枚举root的颜色，DFS确定邻居的颜色，如果邻居的颜色已确定，则检查即可。更少的颜色就代表着翻的个数。
+
+边数 为 `O(N^2)`, DFS的解法复杂度为`O(|Edges|)`。
+总的时间复杂度为`O(N ^ 2)`.
+
+```cpp
+#include <iostream>
+#include <memory>
+#include <set>
+#include <unordered_map>
+#include <unordered_set>
+#include <vector>
+
+using namespace std;
+using ll = long long;
+
+struct Line {
+    ll difference;
+    bool positive;
+    vector<weak_ptr<Line>> same_color_neighbors, different_color_neighbors;
+    Line(ll d, bool p) : difference(d), positive(p) {}
+};
+
+bool dfs(shared_ptr<Line> root, set<shared_ptr<Line>> &white,
+         set<shared_ptr<Line>> &black) {
+    if (root == nullptr)
+        return false;
+    ;
+    bool w = white.find(root) != white.end();
+    for (auto node : root->different_color_neighbors) {
+        if (auto node_shared_ptr = node.lock()) {
+            if (white.find(node_shared_ptr) == white.end() &&
+                black.find(node_shared_ptr) == black.end()) {
+                auto &color = w ? black : white;
+                color.insert(node_shared_ptr);
+                if (!dfs(node_shared_ptr, white, black))
+                    return false;
+            } else if (white.find(node_shared_ptr) != white.end()) {
+                if (w) {
+                    return false;
+                }
+            } else {
+                if (!w) {
+                    return false;
+                }
+            }
+        }
+    }
+    for (auto node : root->same_color_neighbors) {
+        if (auto node_shared_ptr = node.lock()) {
+            if (white.find(node_shared_ptr) == white.end() &&
+                black.find(node_shared_ptr) == black.end()) {
+                auto &color = w ? white : black;
+                color.insert(node_shared_ptr);
+                if (!dfs(node_shared_ptr, white, black))
+                    return false;
+            } else if (white.find(node_shared_ptr) != white.end()) {
+                if (!w)
+                    return false;
+            } else {
+                if (w)
+                    return false;
+            }
+        }
+    }
+
+    return true;
+}
+
+ll solve(vector<vector<bool>> &puzzle) {
+    unordered_map<int, shared_ptr<Line>> positive, negative;
+    const int n = puzzle.size();
+    for (int i = 0; i < n; ++i) {
+        for (int j = 0; j < n; ++j) {
+            int j_sub_i = j - i;
+            int j_add_i = j + i;
+            if (positive[j_sub_i] == nullptr) {
+                positive[j_sub_i] = make_shared<Line>(j_sub_i, true);
+            }
+            if (negative[j_add_i] == nullptr) {
+                negative[j_add_i] = make_shared<Line>(j_add_i, false);
+            }
+            if (puzzle[i][j]) { // black
+                positive[j_sub_i]->same_color_neighbors.push_back(
+                    negative[j_add_i]);
+                negative[j_add_i]->same_color_neighbors.push_back(
+                    positive[j_sub_i]);
+            } else {
+                positive[j_sub_i]->different_color_neighbors.push_back(
+                    negative[j_add_i]);
+                negative[j_add_i]->different_color_neighbors.push_back(
+                    positive[j_sub_i]);
+            }
+        }
+    }
+    set<shared_ptr<Line>> seen;
+    ll ans = 0;
+    for (auto &direction : {positive, negative}) {
+        for (auto p : direction) {
+            auto node = p.second;
+            if (seen.find(node) == seen.end()) {
+                set<shared_ptr<Line>> white, black;
+                white.insert(node);
+                if (!dfs(node, white, black)) {
+                    return -1;
+                }
+                ans += min(white.size(), black.size());
+                seen.insert(white.begin(), white.end());
+                seen.insert(black.begin(), black.end());
+            }
+        }
+    }
+    return ans;
+}
+
+int main(int argc, char const *argv[]) {
+    ll T;
+    cin >> T;
+    for (int iCase = 1; iCase <= T; ++iCase) {
+        ll n;
+        cin >> n;
+        vector<vector<bool>> pullze(n, vector<bool>(n));
+        for (int i = 0; i < n; ++i) {
+            string row;
+            cin >> row;
+            for (int j = 0; j < n; ++j) {
+                if (row[j] == '#')
+                    pullze[i][j] = true;
+                else
+                    pullze[i][j] = false;
+            }
+        }
+        ll ans = solve(pullze);
+        cout << "Case #" << iCase << ": " << ans << endl;
+    }
+    return 0;
+}
+```
+实现过程中，需要注意的点有：
+- 如何存储和构造Graph。
+- DFS解法时，需要遍历所有的节点。因为整个图是可以分为多个联通子图的。只从一个root开始dfs得到的染色不完整。
+
+
 ## C. Elevanagram
 
 小测试集时，`0 <= A_i <= 20`，可以使用回溯法，尝试所有的正负号分配方式。
