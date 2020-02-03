@@ -181,7 +181,23 @@ if 语句是一种特殊形式，当它的 predicate 部分为真时， then-cla
 
 ## 1.3 使用高阶函数做抽象
 
-lambda 表达式：
+`lambda` 表达式：
 ```lisp
 (lambda <formal-parameters> <body>)
 ```
+
+`let` 表达式：
+```
+(let ((<var1> <express1>)
+    (<var2> <express2>)
+    (<var3> <express3>)
+    ...
+    (<varnn> <expressn>))
+    <body>)
+```
+
+# Chapter 2. 构造数据抽象
+
+序对
+
+数据的过程性表示 消息传递
