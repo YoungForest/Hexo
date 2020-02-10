@@ -82,6 +82,18 @@ sudo polipo -v
 这样就算成功了.
 
 最近发现"ip.cn"这个网站不能用了，500访问错误。可以将其替换为“ipinfo.io/ip”就可以了i，这是另一个返回你的公网IP的网站。
+还有一些其他的网站提供类似的返回IP的服务:
+```bash
+curl ifconfig.me
+curl icanhazip.com
+curl ipecho.net/plain
+curl ifconfig.co
+```
+
+从浏览器中获得自己公网IP的方法:
+- [Google](https://www.google.com/search?q=what%20is%20my%20IP%20address)
+- [DuckDuckGo](https://duckduckgo.com/?q=ip)
+- [Wolframalpha](https://www.wolframalpha.com/input/?i=what+is+my+ip+address), 推荐
 
 ## 更进一步
 每次都打这么长的命令`http_proxy=http://localhost:8123`着实不是我们想要的,为了方便使用,可以在终端键入`export http_proxy=http://localhost:8123`,表示对该终端所有命令生效;或者更进一步,在.bashrc中加入`export http_proxy=http://localhost:8123`,每次启动终端时自动执行.如果不想要每次都走代理,可以像我一样,在.bashrc中加入`alias hp="http_proxy=http://localhost:8123"`,每次需要代理时,只需要在命令前面加`hp `就好了.
@@ -99,4 +111,7 @@ You can also configure it using the following config command:
 ``` bash
 git config --global http.proxy <address of the proxy server>:<port of the proxy server>
 ```
+
+[ssh形式连接Github](https://gist.github.com/chuyik/02d0d37a49edc162546441092efae6a1)
+
 在终端中尽情享受科学上网吧!

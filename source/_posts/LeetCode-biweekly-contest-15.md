@@ -16,7 +16,7 @@ categories:
 
 比赛结束之前的排名是92，参与人数为1900，赛后发现名次掉了。我猜测并验证是，赛后的排名把中国区的人也算进来了。增加的人数和第一名的变化完全符合我的猜测。到leetcode-cn上看了下，那里的排名是分为中国区和全球区的。看来以后比赛时要更加油了，有许多不知道的人在中国区打同样的比赛。
 
-## 5126. Element Appearing More Than 25% In Sorted Array
+## 1287. Element Appearing More Than 25% In Sorted Array
 
 One pass统计所有数的出现次数。
 时间复杂度: O(N),
@@ -61,7 +61,7 @@ public:
 };
 ```
 
-## 5127. Remove Covered Intervals
+## 1288. Remove Covered Intervals
 
 数据规模为1000，所以O(N ^ 2)的解法就可以过。
 最暴力的方法就是两两比较，该remove的remove。
@@ -124,7 +124,7 @@ public:
 };
 ```
 
-## 5123. Iterator for Combination
+## 1286. Iterator for Combination
 
 最暴力的方法是用回溯法生成所有的组合，存起来，然后封装迭代器。缺点是：空间消耗会比较大；在next调用次数小的时候，速度上没有懒运算经济。无奈我不知道C++中如何实现 Python 的 `yield`，否则就可以懒运算了。
 当然，赛后有时间我还是研究了下C++ yield的实现策略。
@@ -178,7 +178,7 @@ public:
  */
 ```
 
-## 5129. Minimum Falling Path Sum II
+## 1289. Minimum Falling Path Sum II
 
 和[Minimum Falling Path Sum I](https://leetcode.com/problems/minimum-falling-path-sum/)一样，属于 DP 问题。
 状态转移方程为:
