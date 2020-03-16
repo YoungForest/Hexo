@@ -21,7 +21,7 @@ categories:
 时间复杂度: O(N),
 空间复杂度: O(N).
 
-```
+```cpp
 class Solution {
 public:
     int tribonacci(int n) {
