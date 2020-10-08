@@ -6,7 +6,6 @@ categories:
 - LeetCode
 ---
 
-由于园子宝宝不会Java，而leetcode的官方题解是 Java代码，不方便园子宝宝学习。虽然Discuss板块有不同语言的题解，但对于初学者园子来说，过于困难。所以我在刷leetcode的同时，把题解转换成Python3版本的，以帮助园子。
 所有的Solution都是在Leetcode上Submit并Accepted的，请放心食用。
 
 # 1. [two sum](https://leetcode-cn.com/problems/two-sum/description/)

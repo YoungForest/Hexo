@@ -6,8 +6,6 @@ categories:
 - LeetCode
 ---
 
-园子宝宝，周六快乐。今天带来的是一道Medium难度的SQL题目（其实一下子讲了2道题）。在我做这道题的时候，你或许正在吃抹茶冰淇凌，你吃东西的时候好可爱呀。
-
 之前发现LeetCode上也有SQL的面试题：https://leetcode.com/problemset/database/。一共42道，难度还可以，比之前BA的每日一练要难很多，尤其是Medium或Hard难度的。我认为这些题尤其适合巩固你之前学的SQL，LeetCode上对MYSQL支持的也很棒，讨论区的很多解答都是用MYSQL完成的。实话说，这道题我也是看别人题解才做出来的。再也不敢再简历上写“精通SQL”了，我只能算是“熟悉”吧。
 
 问题描述：https://leetcode.com/problems/nth-highest-salary/description/
