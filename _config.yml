@@ -130,11 +130,12 @@ theme_config:
     alipay: /uploads/alipay.png
     #paypal: /images/paypal.png
     #bitcoin: /images/bitcoin.png
-    wechat: /uploads/wechatpay.jpeg
+    wechatpay: /uploads/wechatpay.jpeg
+
   follow_me:
     #Twitter: https://twitter.com/username || fab fa-twitter
     #Telegram: https://t.me/channel_name || fab fa-telegram
-    WeChat: /uploads/wechat_qcode.jpg || fab fa-weixin
+    WeChat: /uploads/wechat-qcode.jpg || fab fa-weixin
     RSS: /atom.xml || fa fa-rss
   # Related popular posts
   # Dependencies: https://github.com/tea3/hexo-related-popular-posts
@@ -207,3 +208,7 @@ theme_config:
   # Read more button
   # If true, the read more button will be displayed in excerpt section.
   read_more_btn: true
+
+  # Google Webmaster tools verification.
+  # See: https://www.google.com/webmasters
+  google_site_verification: 1T-h_WTI8xskfXv9HxKWHfxqfzny6jcGdT5hmIExYqY
