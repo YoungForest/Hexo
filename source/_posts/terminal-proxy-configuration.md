@@ -2,6 +2,8 @@
 title: 实现terminal代理
 tags: 
   - Linux
+categories:
+- 折腾
 date: 2016-11-02 23:30:00
 ---
 

@@ -55,3 +55,5 @@ int main() {
     return 0;
 }
 ```
+
+There is a hash implementation for `Tuple`. I updated the answer in[StackOverflow](https://stackoverflow.com/a/62035742/6393787)。Please go there if you need hash tuple.
