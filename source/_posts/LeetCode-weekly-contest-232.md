@@ -1,5 +1,5 @@
 ---
-title: LeetCode-weekly-contest-232
+title: LeetCode weekly contest 232
 date: 2021-03-14 15:36:47
 tags:
 - LeetCode
