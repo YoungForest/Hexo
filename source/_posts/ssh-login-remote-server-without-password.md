@@ -4,6 +4,7 @@ date: 2018-05-08 18:47:09
 tags:
 - tech
 categories:
+- 折腾
 ---
 以下命令仅针对Unix-like系统。
 Windows是不需要这样的解决方法的，Windows下很多类Putty工具都可以选择"记住密码"来实现免密登陆。

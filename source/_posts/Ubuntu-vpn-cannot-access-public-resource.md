@@ -1,5 +1,5 @@
 ---
-title: Ubuntu vpn cannot access public resource
+title: Ubuntu OpenVPN 无法获取公网资源
 date: 2021-03-18 11:20:13
 tags: 
 - Linux
