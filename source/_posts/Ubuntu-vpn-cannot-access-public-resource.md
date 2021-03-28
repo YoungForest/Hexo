@@ -39,4 +39,4 @@ Apply后，重新连接VPN即可解决问题。
 
 ## 后记
 
-下一步，我还会试着在Ubuntu上装个跳板机。这样我的Mac或许可以通过该跳板机连入杭研院的机器。
+下一步，我还会试着在Ubuntu上装个跳板机。这样我的Mac或许可以通过该跳板机连入杭研院的机器。 (已经成功啦，下篇更新在[这里](https://youngforest.github.io/2021/03/26/SSH-proxy-by-jump-server/))。
