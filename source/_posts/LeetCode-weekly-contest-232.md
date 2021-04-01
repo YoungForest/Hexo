@@ -2,9 +2,9 @@
 title: LeetCode weekly contest 232
 date: 2021-03-14 15:36:47
 tags:
-- LeetCode
+- Competitive Programming
 categories:
-- Programming
+- LeetCode
 ---
 
 | Rank |	Name |	Score |	Finish Time | 	Q1 (3) |	Q2 (4) |	Q3 (5) |	Q4 (7)|

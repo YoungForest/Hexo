@@ -2,9 +2,9 @@
 title: kick start 2019 round H
 date: 2019-11-25 22:11:22
 tags:
-- kick start
+- Competitive Programming
 categories:
-- Algorithm
+- KickStart
 ---
 
 由于欧洲这边夏令时的原因，处于UTC +1.00，所以本次比赛我是特意早上6点起来打的。打完后休息了一个小时，又和小伙伴去根特玩了一天。晚上回来的时候，才想起来Machine Learning的assignment 2当天截止，又疯狂地赶起了Deadline。事实证明，没有认真学习还是搞不定作业的。马马虎虎交上去了，总比不交好些。空白的题目，大方地告诉助教我就是不会。

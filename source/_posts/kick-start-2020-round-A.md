@@ -2,9 +2,9 @@
 title: kick start 2020 round A
 date: 2020-03-22 14:43:50
 tags:
-- kick start
+- Competitive Programming
 categories:
-- Algorithm
+- KickStart
 ---
 
 新一年的kick start有了些许变化：

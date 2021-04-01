@@ -2,9 +2,9 @@
 title: kick start 2019 round E
 date: 2019-08-29 19:12:03
 tags:
-- kick start
+- Competitive Programming
 categories:
-- Algorithm
+- KickStart
 ---
 
 ## Cherries Mesh

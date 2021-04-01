@@ -2,9 +2,9 @@
 title: kick start 2021 round A
 date: 2021-03-22 19:19:06
 tags:
-- kick start
+- Competitive Programming
 categories:
-- Algorithm
+- KickStart
 ---
 
 | ID | score | rank | K-Goodness String | L Shaped Plots | Rabbit House | Checksum | Penalty Time |

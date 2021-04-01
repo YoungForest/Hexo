@@ -2,9 +2,9 @@
 title: LeetCode weekly contest 234
 date: 2021-03-28 11:42:25
 tags:
-- LeetCode
+- Competitive Programming
 categories:
-- Programming
+- LeetCode
 ---
 
 
@@ -13,6 +13,8 @@ categories:
 | 672 / 12421 | YoungForest | 19 | 1:19:08 | 0:12:04  2 | 0:23:51 | 0:29:26 | 0:54:08  3 |
 
 又要打卡了，已经连续5周残酷打卡了。而且确实自己本次做题没觉得多简单，WA5次，心态爆炸，但是排名却不理想。感觉还是LeetCode越来越卷了。
+
+<!-- more -->
 
 ## 1805. Number of Different Integers in a String
 

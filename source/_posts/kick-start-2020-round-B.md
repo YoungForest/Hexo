@@ -2,9 +2,9 @@
 title: kick start 2020 round B
 date: 2020-04-19 20:39:28
 tags:
-- kick start
+- Competitive Programming
 categories:
-- Algorithm
+- KickStart
 ---
 
 | ID | score | rank | Bike Tour | Bus Routes | Robot Path Coding | Wandering Robot | Time |

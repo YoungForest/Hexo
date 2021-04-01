@@ -2,9 +2,9 @@
 title: Kick start 2019 round A
 date: 2019-03-24 13:29:15
 tags:
-- kick start
+- Competitive Programming
 categories:
-- Algorithm
+- KickStart
 ---
 
 [题目链接]

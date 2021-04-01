@@ -2,9 +2,9 @@
 title: kick start 2019 round G
 date: 2019-10-20 18:53:36
 tags:
-- kick start
+- Competitive Programming
 categories:
-- Algorithm
+- KickStart
 ---
 
 本轮是今年的倒数第二轮，也是相对比较简单的一个轮次。

@@ -2,9 +2,9 @@
 title: kick start 2019 round B
 date: 2019-07-24 11:04:30
 tags:
-- kick start
+- Competitive Programming
 categories:
-- Algorithm
+- KickStart
 ---
 
 赛后补的题解。
