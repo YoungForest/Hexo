@@ -2,9 +2,9 @@
 title: LeetCode weekly contest 175
 date: 2020-02-09 15:46:26
 tags:
-- LeetCode
+- Competitive Programming
 categories:
-- Programming
+- LeetCode
 ---
 
 本周由于眼镜坏掉了，不在状态。在家吃饭也晚，所以题目并没有做完。

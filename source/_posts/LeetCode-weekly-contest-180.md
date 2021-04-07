@@ -2,9 +2,9 @@
 title: LeetCode weekly contest 180
 date: 2020-03-15 22:04:28
 tags:
-- LeetCode
+- Competitive Programming
 categories:
-- Programming
+- LeetCode
 ---
 
 自从LeetCode[更新了周赛rating算法](https://leetcode.com/discuss/general-discussion/518516/New-Rating-Algorithm-Details-Contest-Season-and-Absence-in-Participation)后，结果下我一跳。Rating直接涨到2171，全球排名608/81184, 完成比赛53场。记得上周我还在期望可以近几周突破2000分的，已经1990+了。更新后的算法显示去年8月份就已经2000了。

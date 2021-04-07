@@ -2,9 +2,9 @@
 title: LeetCode weekly contest 135
 date: 2019-05-05 12:47:02
 tags:
-- LeetCode
+- Competitive Programming
 categories:
-- Programming
+- LeetCode
 ---
 
 | Rank |	Name |	Score |	Finish Time | 	Q1 (4) |	Q2 (5) |	Q3 (5) |	Q4 (5)|

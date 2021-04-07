@@ -2,9 +2,9 @@
 title: LeetCode weekly contest 139
 date: 2019-06-03 18:53:23
 tags:
-- LeetCode
+- Competitive Programming
 categories:
-- Programming
+- LeetCode
 ---
 
 

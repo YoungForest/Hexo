@@ -2,9 +2,9 @@
 title: LeetCode weekly contest 182
 date: 2020-03-29 12:42:45
 tags:
-- LeetCode
+- Competitive Programming
 categories:
-- Programming
+- LeetCode
 ---
 
 

@@ -2,9 +2,9 @@
 title: LeetCode weekly contest 123
 date: 2019-02-10 10:29:44
 tags:
-- LeetCode
+- Competitive Programming
 categories:
-- Programming
+- LeetCode
 ---
 
 本次比赛是春节后的第一次。

@@ -2,9 +2,9 @@
 title: LeetCode weekly contest 127
 date: 2019-03-10 10:32:00
 tags:
-- LeetCode
+- Competitive Programming
 categories:
-- Programming
+- LeetCode
 ---
 
 本周4道题目分数分别为4 4 5 6, 应该不是很难的，加油， Forest！

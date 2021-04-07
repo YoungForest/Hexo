@@ -2,9 +2,9 @@
 title: LeetCode weekly contest 144
 date: 2019-07-07 19:18:15
 tags:
-- LeetCode
+- Competitive Programming
 categories:
-- Programming
+- LeetCode
 ---
 
 今早由于参加托福考试，无法像往常一样参加周赛。赛后补题。

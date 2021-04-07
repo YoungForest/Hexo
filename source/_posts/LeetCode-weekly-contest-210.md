@@ -2,9 +2,9 @@
 title: LeetCode weekly contest 210
 date: 2020-10-11 19:23:21
 tags:
-- LeetCode
+- Competitive Programming
 categories:
-- Programming
+- LeetCode
 ---
 
 | Rank |	Name |	Score |	Finish Time | 	Q1 (3) |	Q2 (4) |	Q3 (5) |	Q4 (6)|

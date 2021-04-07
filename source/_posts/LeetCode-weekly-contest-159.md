@@ -2,9 +2,9 @@
 title: LeetCode weekly contest 159
 date: 2019-10-21 09:29:11
 tags:
-- LeetCode
+- Competitive Programming
 categories:
-- Programming
+- LeetCode
 ---
 
 ## 1232. Check If It Is a Straight Line

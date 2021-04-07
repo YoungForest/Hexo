@@ -2,9 +2,9 @@
 title: LeetCode weekly contest 176
 date: 2020-02-16 12:07:55
 tags:
-- LeetCode
+- Competitive Programming
 categories:
-- Programming
+- LeetCode
 ---
 
 

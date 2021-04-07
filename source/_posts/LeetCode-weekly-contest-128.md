@@ -2,9 +2,9 @@
 title: LeetCode weekly contest 128
 date: 2019-03-17 15:50:49
 tags:
-- LeetCode
+- Competitive Programming
 categories:
-- Programming
+- LeetCode
 ---
 
 前3道题比较顺利，30min内解决。最后一道hard题目，思路比较混乱，1个小时愣是没做出来。

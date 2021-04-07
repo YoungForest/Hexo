@@ -2,9 +2,9 @@
 title: LeetCode biweekly contest 14
 date: 2019-12-14 16:12:29
 tags:
-- LeetCode
+- Competitive Programming
 categories:
-- Programming
+- LeetCode
 ---
 
 这周没有出去玩，恰好遇到双周赛。久违地参加了一场，确实难得。

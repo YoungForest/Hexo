@@ -2,9 +2,9 @@
 title: LeetCode weekly conteset 138
 date: 2019-05-26 11:27:38
 tags:
-- LeetCode
+- Competitive Programming
 categories:
-- Programming
+- LeetCode
 ---
 
 本周比赛虽然题目质量还不错，但难度不高，是一场比拼速度的题目。

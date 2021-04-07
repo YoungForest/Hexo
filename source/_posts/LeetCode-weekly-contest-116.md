@@ -2,9 +2,9 @@
 title: LeetCode weekly contest 116
 date: 2018-12-26 11:26:03
 tags:
-- LeetCode
+- Competitive Programming
 categories:
-- Programming
+- LeetCode
 ---
 
 又到周末LeetCode weekly contest的时候了，这次战果不佳。原因主要是，二三题都想做出来，结果都没有做出来。如果把时间都集中于第二题，应该也还是能AC的。

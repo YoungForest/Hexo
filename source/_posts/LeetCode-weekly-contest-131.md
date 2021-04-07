@@ -2,9 +2,9 @@
 title: LeetCode weekly contest 131
 date: 2019-04-07 12:19:41
 tags:
-- LeetCode
+- Competitive Programming
 categories:
-- Programming
+- LeetCode
 ---
 
 本次比赛的题号吓了我一跳. LeetCode也是任性，直接从5000+开始出题了。看来题量上涨的空间已经超乎我的想象了。

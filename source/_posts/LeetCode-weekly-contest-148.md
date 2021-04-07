@@ -2,9 +2,9 @@
 title: LeetCode weekly contest 148
 date: 2019-08-04 12:03:11
 tags:
-- LeetCode
+- Competitive Programming
 categories:
-- Programming
+- LeetCode
 ---
 
 | Rank |	Name |	Score |	Finish Time | 	Q1 (4) |	Q2 (5) |	Q3 (6) |	Q4 (8)|

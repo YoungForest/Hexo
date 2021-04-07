@@ -2,8 +2,9 @@
 title: LeetCode weekly contest 118
 date: 2019-01-06 10:37:36
 tags:
-- LeetCode
+- Competitive Programming
 categories:
+- LeetCode
 ---
 
 一周一度的LeetCode weekly contest 开始啦。本周着实比之前有所进步，首先是对C++更加熟悉了，之前都是用Python写的。答题过程也更流畅了，差点做出来3道题目。

@@ -2,9 +2,9 @@
 title: LeetCode  weekly contest 181
 date: 2020-03-22 18:57:47
 tags:
-- LeetCode
+- Competitive Programming
 categories:
-- Programming
+- LeetCode
 ---
 
 自从LeetCode rating算法更新后，我的rating到达了顶峰，之后就一直向下掉。不过也是因为自己菜，每次都打的大好几百名，偶尔还上千。

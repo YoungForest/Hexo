@@ -2,9 +2,9 @@
 title: LeetCode weeekly contest 125
 date: 2019-02-24 11:11:14
 tags:
-- LeetCode
+- Competitive Programming
 categories:
-- Programming
+- LeetCode
 ---
 
 本周末真是忙炸，为自己的拖延和懒惰付出了代价。事情都堆在了一起，周日的deadline超级多。早上10点和老板开会，商量 怎么出本科计算机组成原理补考试题 的事儿。开完会回到实验室，contest已经开始了。在短暂犹豫是否按计划参加contest，还是先完成出补考题的任务后，我开始了本周的weekly contest。也算是自己这2个月来坚持的为数不多的事情，继续坚持下去对我来说不仅是提高算法能力的事情了，更是对掌控自己生活的信心的一种极大鼓舞。

@@ -2,9 +2,9 @@
 title: LeetCode weekly contest 154
 date: 2019-09-18 10:08:36
 tags:
-- LeetCode
+- Competitive Programming
 categories:
-- Programming
+- LeetCode
 ---
 
 上周末在比利时，比赛时间是凌晨的4点半到6点，时间不合适，所以就没有参加。发现只有双周赛的时间是周六的下午4点半到6点，稍微合适些。ranking 2000的目标今年怕是要鸽了。最好的情况下，参与比赛的数目也只有国内的1/3.

@@ -2,9 +2,9 @@
 title: LeetCode-biweekly-contest-48
 date: 2021-03-21 16:55:34
 tags:
-- LeetCode
+- Competitive Programming
 categories:
-- Programming
+- LeetCode
 ---
 
 昨晚和女朋友KFC，耽误了比赛，赛后补题。

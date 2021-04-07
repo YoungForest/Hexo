@@ -2,9 +2,9 @@
 title: LeetCode weekly contest 129
 date: 2019-03-31 10:24:51
 tags:
-- LeetCode
+- Competitive Programming
 categories:
-- Programming
+- LeetCode
 ---
 
 上周末由于准备 Google的kick start round A，放弃了一次LeetCode weekly contest。但当天晚上还是把LeetCode的题补完了。4题不简单，但经过思考还是独立做出来了。算是给被kick start难到自闭的我一个安慰吧。

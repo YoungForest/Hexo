@@ -2,9 +2,9 @@
 title: LeetCode weekly  contest 158
 date: 2019-10-14 10:09:33
 tags:
-- LeetCode
+- Competitive Programming
 categories:
-- Programming
+- LeetCode
 ---
 
 ## 1221. Split a String in Balanced Strings

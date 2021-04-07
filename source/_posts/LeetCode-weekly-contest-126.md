@@ -2,9 +2,9 @@
 title: LeetCode weekly contest 126
 date: 2019-03-03 11:55:17
 tags:
-- LeetCode
+- Competitive Programming
 categories:
-- Programming
+- LeetCode
 ---
 
 今天试着边做题边录视频，由于场地的限制，无法用麦克风进行讲解，效果差强人意。虽然可以用文字注释进行一些弥补，但丧失了视频传播的最大优势。以后还是以博客为主，传播自己的思想吧。

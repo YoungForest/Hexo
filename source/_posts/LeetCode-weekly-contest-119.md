@@ -2,8 +2,9 @@
 title: LeetCode weekly contest 119
 date: 2019-01-13 10:56:25
 tags:
-- LeetCode
+- Competitive Programming
 categories:
+- LeetCode
 ---
 
 这次contest做的比较惨，排名大致是1486 / 3845。出现的问题有：

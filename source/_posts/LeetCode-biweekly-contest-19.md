@@ -2,9 +2,9 @@
 title: LeetCode biweekly contest 19
 date: 2020-02-10 11:30:20
 tags:
-- LeetCode
+- Competitive Programming
 categories:
-- Programming
+- LeetCode
 ---
 
 | Rank |	Name |	Score |	Finish Time | 	Q1 (3) |	Q2 (4) |	Q3 (5) |	Q4 (6)|

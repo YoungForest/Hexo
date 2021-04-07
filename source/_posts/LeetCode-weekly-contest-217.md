@@ -2,9 +2,9 @@
 title: LeetCode weekly contest 217
 date: 2020-11-29 20:28:52
 tags:
-- LeetCode
+- Competitive Programming
 categories:
-- Programming
+- LeetCode
 ---
 
 

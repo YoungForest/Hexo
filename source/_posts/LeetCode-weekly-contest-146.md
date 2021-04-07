@@ -2,9 +2,9 @@
 title: LeetCode weekly contest 146
 date: 2019-07-21 22:49:39
 tags:
-- LeetCode
+- Competitive Programming
 categories:
-- Programming
+- LeetCode
 ---
 
 今天由于高中同学xl来北京找我聊，和hcq一起吃了午饭和晚饭，并聊了一下午。上午的contest只匆匆做了签到题。第二题因为粗心，写错了`red`变化的时机，也没有时间调试。后2题干脆没有看。

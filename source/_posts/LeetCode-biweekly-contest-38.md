@@ -2,9 +2,9 @@
 title: LeetCode biweekly contest 38
 date: 2020-11-01 08:56:43
 tags:
-- LeetCode
+- Competitive Programming
 categories:
-- Programming
+- LeetCode
 ---
 
 | Rank |	Name |	Score |	Finish Time | 	Q1 (3) |	Q2 (4) |	Q3 (5) |	Q4 (6)|

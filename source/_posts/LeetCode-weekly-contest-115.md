@@ -2,9 +2,9 @@
 title: LeetCode weekly contest 115
 date: 2018-12-19 10:34:23
 tags:
+- Competitive Programming
+categories:
 - LeetCode
-ccategories:
-- Programming
 ---
 
 有些日子没有参加LeetCode的weekly contest了，最近由于准备一月末的Google电话面试，需要重新把算法捡起来。复习算法书是一部分，另一手就是准备刷题啦。由于时间有限，LeetCode的weekly contest不失为一个更好的选择。因为contest有时间限制，和实际面试更像。

@@ -2,9 +2,9 @@
 title: LeetCode weekly contest 177
 date: 2020-02-23 12:12:46
 tags:
-- LeetCode
+- Competitive Programming
 categories:
-- Programming
+- LeetCode
 ---
 
 | Rank |	Name |	Score |	Finish Time | 	Q1 (4) |	Q2 (5) |	Q3 (5) |	Q4 (6)|

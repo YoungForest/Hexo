@@ -2,8 +2,9 @@
 title: LeetCode weekly contest 120
 date: 2019-01-20 11:51:13
 tags:
-- LeetCode
+- Competitive Programming
 categories:
+- LeetCode
 ---
 
 本周和好友“女声男”同时参加weekly contest。有同学共同竞争还是挺有压力的。因为我练习算法题已经有半年时间了，他还是新手，如若最后还败北了，岂不丢人。不过结果还好，没有丢自己的人。我在离比赛结束还有10min时全部AC，而且所有题目都是一遍过，略胜一筹。不得不说，这次的题比往届简单不少，之前我的水平一直维持在只做出2道题目，ranking 800左右，而本次ranking 为 356 / 3870。从排名上看有所进步。

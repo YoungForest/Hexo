@@ -2,9 +2,9 @@
 title: LeetCode weekly contest 151
 date: 2019-08-31 20:25:38
 tags:
-- LeetCode
+- Competitive Programming
 categories:
-- Programming
+- LeetCode
 ---
 
 这周去字节跳动参加夏令营了，周日还需要上课，所以就鸽了周赛。那你怎么能参加kick start呢？毕竟本月的round E是所谓的黄金轮次，对面试获取名额很重要，所以我选择翘掉夏令营。

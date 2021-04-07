@@ -2,9 +2,9 @@
 title: LeetCode weekly contest 137
 date: 2019-05-19 14:35:35
 tags:
-- LeetCode
+- Competitive Programming
 categories:
-- Programming
+- LeetCode
 ---
 
 本周的题目要比以往的难，也可以说恰好考到我的知识盲区，DP问题。老实的说，我对DP问题没有过深入的研究。这次DP题目尤其多，尤其是第4题，更是可以可以用经典的**背包问题**求解。

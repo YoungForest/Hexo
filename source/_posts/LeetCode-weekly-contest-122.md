@@ -2,10 +2,9 @@
 title: LeetCode weekly contest 122
 date: 2019-02-04 18:38:09
 tags:
-- LeetCode
-- Weekly Contest
+- Competitive Programming
 categories:
-- Programming
+- LeetCode
 ---
 
 由于宅在家里过节，竟然忘记了每天是星期几，只知道农历腊月几日。今天才发现已经到了周一了，错过了每周一度的weekly contest。在此除夕之夜，和家人一起看春晚之前，Forest携全家人一起祝大家新年快乐！快些刷完这4道比赛题目，好安心吃年夜饭。
