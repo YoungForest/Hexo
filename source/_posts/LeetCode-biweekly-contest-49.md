@@ -192,6 +192,43 @@ public:
 
 也可以去看[花花的视频讲解](https://www.bilibili.com/video/BV1CU4y187tk)，讲的还不错。
 
+我的实现：
+
+```cpp
+struct VectorHasher {
+  size_t operator()(const vector<int>& V) const {
+    size_t hash = V.size();
+    for (auto i : V)
+      hash ^= i + 0x9e3779b9 + (hash << 6) + (hash >> 2);
+    return hash;
+  }
+};
+class Solution {
+public:
+    int maxHappyGroups(int batchSize, vector<int>& groups) {
+        vector<int> cnt(batchSize, 0);
+        for (int x : groups) {
+            ++cnt[x % batchSize];
+        }
+        unordered_map<vector<int>, int, VectorHasher> memo;
+        function<int(const int)> dfs = [&](const int s) -> int {
+            auto it = memo.find(cnt);
+            if (it != memo.end()) return it->second;
+            int ans = 0;
+            for (int i = 1; i < batchSize; ++i) {
+                if (cnt[i] == 0) continue;
+                --cnt[i];
+                ans = max(ans, dfs((s + i) % batchSize) + (s == 0 ? 1 : 0));
+                ++cnt[i];
+            }
+            return memo[cnt] = ans;
+        };
+        
+        return cnt[0] + dfs(0);
+    }
+};
+```
+
 时间复杂度: O(cnt 个非0元素之积 * batchSize);
 空间复杂度: O(cnt 个非0元素之积). (其实就是cache的空间大小).
 

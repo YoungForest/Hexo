@@ -120,3 +120,6 @@ public:
     }
 };
 ```
+
+其他 GCD类似的题目，大家感兴趣可以一做：
+- https://atcoder.jp/contests/abc191/tasks/abc191_f
