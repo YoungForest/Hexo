@@ -2,7 +2,10 @@
 title: face++ interview
 date: 2018-08-14 11:23:52
 tags:
+- 旷视
+- intern
 categories:
+- interview
 ---
 
 

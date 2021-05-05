@@ -1,9 +1,11 @@
 ---
 title: 微软苏州面试
-tags:
-  - interview
 date: 2018-06-01 22:54:08
+tags:
+- Microsoft
+- intern
 categories:
+- interview
 ---
 
 在@lxc师兄的内推下，我有幸可以前往 苏州微软，面试O365部门的暑期实习生。虽然最后失败了，但从这次失败的经历中，我学习到很多。

@@ -1,8 +1,10 @@
 ---
 title: jingchi interview
 tags:
-- interview
+- WeRide
+- intern
 categories:
+- interview
 date: 2018-09-28 11:22:23
 ---
 
