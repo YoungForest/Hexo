@@ -106,3 +106,11 @@ crontab rentaocron
 ```bash
 crontab -l
 ```
+
+## 获得打卡地址
+
+### Mac 配置代理服务器
+
+```bash
+brew install mitmproxy
+```
