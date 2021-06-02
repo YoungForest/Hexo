@@ -20,6 +20,8 @@ categories:
 1878,Get Biggest Three Rhombus Sums in a Grid,get-biggest-three-rhombus-sums-in-a-grid,1897.5516652727
 1879,Minimum XOR Sum of Two Arrays,minimum-xor-sum-of-two-arrays,2145.1839952670
 
+<!-- more -->
+
 ## 1876. Substrings of Size Three with Distinct Characters
 
 签到题。因为子字符串长度是确定长度（3）。因此可以用一个滑动窗口枚举所有的长度为3的子串，判断是否每个字符都只出现一次。

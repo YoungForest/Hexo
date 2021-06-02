@@ -1,7 +1,7 @@
 ---
 title: 英伦游学所见所思
 tags:
-  - trvalling
+- trvalling
 date: 2016-08-25 14:48:19
 categories:
 - dairy

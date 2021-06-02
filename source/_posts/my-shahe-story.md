@@ -1,7 +1,6 @@
 ---
 title: 我的沙航故事
 tags:
-  - diary
 date: 2016-05-25 14:48:41
 categories:
 - dairy

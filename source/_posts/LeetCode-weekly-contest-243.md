@@ -17,6 +17,9 @@ categories:
 1882,Process Tasks Using Servers,process-tasks-using-servers,1979.1112273597
 1883,Minimum Skips to Arrive at Meeting On Time,minimum-skips-to-arrive-at-meeting-on-time,2587.8725248485
 
+
+<!-- more -->
+
 ## 1880. Check if Word Equals Summation of Two Words
 
 签到题。按题目要求转换字符串到数字，再进行判断。
