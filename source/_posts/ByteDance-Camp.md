@@ -3,9 +3,9 @@ title: 2019 字节跳动夏令营
 date: 2019-09-06 19:25:56
 tags:
 - ByteDance
+- interview
 categories:
 - dairy
-- interview
 ---
 
 总的体验是很开心，收获很大。
