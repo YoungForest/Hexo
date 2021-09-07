@@ -7,7 +7,9 @@ title: YoungForest's blog
 subtitle:
 description: 佛系更新；生活、学习
 author: 杨森
-language: zh-Hans
+language: 
+- zh-CN
+- en
 timezone:
 email: yangsen758@foxmail.com
 
@@ -195,6 +197,7 @@ theme_config:
     categories: /categories/ || fa fa-th
     archives: /archives/ || fa fa-archive
     #schedule: /schedule/ || fa fa-calendar
+    English: https://youngforest.github.io/en/ || fa fa-globe
     #sitemap: /sitemap.xml || fa fa-sitemap
     #commonweal: /404/ || fa fa-heartbeat
 
