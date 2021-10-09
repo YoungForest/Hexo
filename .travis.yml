@@ -1,0 +1,30 @@
+os: linux
+language: node_js 
+node_js:
+  - 12  # using nodejs LTS v12
+branches:
+  only:
+    - master # only monitor master branch
+cache:
+  directories:
+    - node_modules # cache node_modules to speed up build process
+before_script: ## According to your theme and custom configuration, update the script
+  - npm install -g hexo-cli # install Hexo in CI environment
+  - cd themes 
+  - git clone https://github.com/next-theme/hexo-theme-next.git next # We do not commit the themes/next folder. Therefore, pull it every time.
+  - cd next
+  - npm install # install next dependencies
+  - cd ../.. # return the root folder
+  - npm install # install the dependencies
+script: 
+  - hexo generate # generate static files
+deploy:
+  provider: pages
+  skip_cleanup: true # not clean after build
+  token: $GH_TOKEN # the variable you set in last step
+  keep_history: true
+  # fqdn: blog.ne0ng.page # custom domain，delete this field if using username.github.io
+  on:
+    branch: master # sources files is in master branch
+  local_dir: public 
+  target_branch: master # the branch of generated files. If using username.github.io, it has to be master
