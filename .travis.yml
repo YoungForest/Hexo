@@ -24,6 +24,7 @@ deploy:
   token: $GH_TOKEN # the variable you set in last step
   keep_history: true
   # fqdn: blog.ne0ng.page # custom domain，delete this field if using username.github.io
+  repo: YoungForest/youngforest.github.io # the repo you want to deploy. If this field is not set manually, the default value is current repo. Sometimes, the site repo is the same with the source files but in different branches.
   on:
     branch: master # sources files is in master branch
   local_dir: public 
