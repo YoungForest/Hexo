@@ -173,6 +173,14 @@ theme_config:
     # If you only need the pageview feature, set the following option to true to get a better performance.
     only_pageview: false
 
+  # Google AdSense
+  google_adsense:
+    enable: true
+    google_ad_client_id: pub-9046219176772396 # 請修改成自己的
+    enable_page_level_ads: true
+    ## siderbar_enable 這邊建立廣告後才會用到
+    siderbar_enable: true # 是否開啟側邊欄廣告
+
   local_search:
     enable: false
     # If auto, trigger search by changing input.
