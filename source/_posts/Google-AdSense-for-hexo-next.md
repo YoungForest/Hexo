@@ -24,11 +24,28 @@ tags:
 <script data-ad-client="ca-pub-9*******6" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 ```
 
+Option1:
+
 将广告脚本粘贴在`./themes/next/layout/_partials/head/head-unique.swig`的末尾。
 
 然后进行验证。一般几天就会通过，发邮件通知到你。
 
 通过审核后，需要去AdSense上进行配置。基本上把 **自动广告** 打开即可。
+
+Option2:
+
+在博客根目录下创建`_config.next.yml`文件，内容如下：
+```yml
+custom_file_path:
+  head: source/_data/head.swig
+```
+
+创建`source/_data/head.swig`文件，内容如下：
+```html
+<script data-ad-client="ca-pub-9046219176772396" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9046219176772396"></script>
+```
+
+Option2的优势在于对`next`不侵入，方便用Github Action做CD.
 
 ### ads.txt 的设置
 

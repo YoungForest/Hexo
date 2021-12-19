@@ -1,0 +1,129 @@
+custom_file_path:
+  head: source/_data/head.swig
+# Schemes
+# scheme: Muse
+scheme: Mist
+#scheme: Pisces
+#scheme: Gemini
+
+# Dark Mode
+darkmode: false
+
+# Social Links
+# Usage: `Key: permalink || icon`
+# Key is the link label showing to end users.
+# Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
+social:
+  GitHub: https://github.com/YoungForest || fab fa-github
+  E-Mail: mailto:sen.yang96@outlook.com || fa fa-envelope
+  Weibo: https://weibo.com/u/1111372490 || fab fa-weibo
+  #Google: https://plus.google.com/yourname || fab fa-google
+  #Twitter: https://twitter.com/yourname || fab fa-twitter
+  #FB Page: https://www.facebook.com/yourname || fab fa-facebook
+  StackOverflow: https://stackoverflow.com/users/6393787/youngforest || fab fa-stack-overflow
+  LinkedIn: https://www.linkedin.com/in/杨-森-a20a02137 || fab fa-linkedin
+  #YouTube: https://youtube.com/yourname || fab fa-youtube
+  #Instagram: https://instagram.com/yourname || fab fa-instagram
+  #Skype: skype:yourname?call|chat || fab fa-skype
+social_icons:
+  enable: true
+  icons_only: false
+  transition: false
+links:
+  # Title: http://yoursite.com
+reward:
+  #wechatpay: /images/wechatpay.png
+  alipay: /uploads/alipay.png
+  #paypal: /images/paypal.png
+  #bitcoin: /images/bitcoin.png
+  wechatpay: /uploads/wechatpay.jpeg
+
+follow_me:
+  #Twitter: https://twitter.com/username || fab fa-twitter
+  #Telegram: https://t.me/channel_name || fab fa-telegram
+  WeChat: /uploads/wechat-qcode.jpg || fab fa-weixin
+  RSS: /atom.xml || fa fa-rss
+# Related popular posts
+# Dependencies: https://github.com/tea3/hexo-related-popular-posts
+related_posts:
+  enable: false
+  title: # Custom header, leave empty to use the default one
+  display_in_home: false
+  params:
+    maxCount: 5
+    #PPMixingRate: 0.0
+    #isDate: false
+    #isImage: false
+    isExcerpt: true
+
+# `Follow me on GitHub` banner in the top-right corner.
+github_banner:
+  enable: true
+  permalink: https://github.com/YoungForest
+  title: Follow me on GitHub
+
+# Disqus
+disqus:
+  enable: true
+  shortname: YoungForest
+  count: true
+  #post_meta_order: 0
+
+# Google Analytics
+google_analytics:
+  tracking_id: UA-88350169-1 # <app_id>
+  # By default, NexT will load an external gtag.js script on your site.
+  # If you only need the pageview feature, set the following option to true to get a better performance.
+  only_pageview: false
+
+# Google AdSense
+google_adsense:
+  enable: true
+  google_ad_client_id: pub-9046219176772396 # 請修改成自己的
+  enable_page_level_ads: true
+  ## siderbar_enable 這邊建立廣告後才會用到
+  siderbar_enable: true # 是否開啟側邊欄廣告
+
+local_search:
+  enable: false
+  # If auto, trigger search by changing input.
+  # If manual, trigger search by pressing enter key or search button.
+  trigger: auto
+  # Show top n results per article, show all results by setting to -1
+  top_n_per_article: 1
+  # Unescape html strings to the readable one.
+  unescape: false
+  # Preload the search data when the page loads.
+  preload: false
+
+# Usage: `Key: /link/ || icon`
+# Key is the name of menu item. If the translation for this item is available, the translated text will be loaded, otherwise the Key name will be used. Key is case-senstive.
+# Value before `||` delimiter is the target link, value after `||` delimiter is the name of Font Awesome icon.
+# When running the site in a subdirectory (e.g. yoursite.com/blog), remove the leading slash from link value (/archives -> archives).
+# External url should start with http:// or https://
+menu:
+  home: / || fa fa-home
+  about: /about/ || fa fa-user
+  tags: /tags/ || fa fa-tags
+  categories: /categories/ || fa fa-th
+  archives: /archives/ || fa fa-archive
+  #schedule: /schedule/ || fa fa-calendar
+  English: https://youngforest.github.io/en/ || fa fa-globe
+  #sitemap: /sitemap.xml || fa fa-sitemap
+  #commonweal: /404/ || fa fa-heartbeat
+
+# Enable / Disable menu icons / item badges.
+menu_settings:
+  icons: true
+  badges: false
+
+# Automatically excerpt description in homepage as preamble text.
+excerpt_description: true
+
+# Read more button
+# If true, the read more button will be displayed in excerpt section.
+read_more_btn: true
+
+# Google Webmaster tools verification.
+# See: https://www.google.com/webmasters
+google_site_verification: 1T-h_WTI8xskfXv9HxKWHfxqfzny6jcGdT5hmIExYqY
