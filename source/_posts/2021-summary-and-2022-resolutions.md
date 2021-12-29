@@ -17,7 +17,7 @@ categories:
 - [2017新年展望](https://youngforest.github.io/2017/02/22/2017-resolutions/)
 
 里程碑回顾:
-- [硕士3年复盘](https://youngforest.github.io/2021/12/19/my-3-years-master/)
+- [硕士3年复盘](https://youngforest.github.io/2021/07/03/my-3-years-master/)
 - [大学4年复盘](https://youngforest.github.io/2018/10/03/my-4-years-college/)
 
 这些重要的博文都放在我博客的[dairy分类下](https://youngforest.github.io/categories/dairy/)。
