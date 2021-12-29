@@ -1,5 +1,5 @@
 ---
-title: 2020 summary and 2021 resolutions
+title: 2020年终总结 与 2021新年展望
 date: 2020-11-25 20:28:16
 tags:
   - life

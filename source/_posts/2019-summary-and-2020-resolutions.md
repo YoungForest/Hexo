@@ -1,5 +1,5 @@
 ---
-title: 2019 summary and 2020 resolutions
+title: 2019年终总结 与 2020新年展望
 tags:
   - life
 categories:
