@@ -29,8 +29,18 @@ social_icons:
   enable: true
   icons_only: false
   transition: false
+# Blog rolls
+links_settings:
+  icon: fa fa-globe
+  title: 友情链接
+  # Available values: block | inline
+  layout: block
+
 links:
-  # Title: http://yoursite.com
+  Fred: https://www.kenshinji.me
+  LiuBo: https://jacklandrin.github.io
+  Timothy: https://xiaozhou.net
+
 reward:
   #wechatpay: /images/wechatpay.png
   alipay: /uploads/alipay.png
