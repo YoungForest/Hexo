@@ -2,7 +2,7 @@
 title: 武汉游记 暨硕士毕业旅行
 date: 2021-07-2 19:26:23
 tags:
-- trvalling
+- travel
 categories:
 - dairy
 ---
