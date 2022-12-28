@@ -49,9 +49,9 @@ reward:
   wechatpay: /uploads/wechatpay.jpeg
 
 follow_me:
-  #Twitter: https://twitter.com/username || fab fa-twitter
+  Twitter: https://twitter.com/youngforest || fab fa-twitter
   #Telegram: https://t.me/channel_name || fab fa-telegram
-  WeChat: /uploads/wechat-qcode.jpg || fab fa-weixin
+  # WeChat: /uploads/wechat-qcode.jpg || fab fa-weixin
   RSS: /atom.xml || fa fa-rss
 # Related popular posts
 # Dependencies: https://github.com/tea3/hexo-related-popular-posts
