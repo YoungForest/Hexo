@@ -8,8 +8,11 @@ categories:
   - dairy
 ---
 
+转自[我的博客](https://youngforest.github.io/2022/12/09/Find-a-Europe-SDE-job-from-China/)
 
 今年，我按照预期计划，从国内投欧洲程序员的岗位，虽然赶上宏观经济下行，各个公司纷纷hire freeze甚至layoff。幸运地，还是拿到了2个offer，并在11月成功入职完成肉翻。虽然历经了不少坎坷，回过头看也算是一切顺利。在“润”地道路上被很多有经验地群友帮助，因此我也撰写一篇博客，总结自己地经验和教训，以方便后来人。
+
+![润了](/images/润了.png)
 
 ## 背景
 
@@ -126,7 +129,7 @@ YouTube
 爱尔兰算是一个不大热门也不引人关注的国家。其实我投递的时候也是没以爱尔兰为主的，但是后来发现这里大厂很多，包括很多美企巨头的欧洲总部，如 Microsoft，Apple，Google，AWS （Amazon的欧洲总部在卢森堡）。基本上都有3千研发的办公室。比如微软这里有2栋楼，3500+个研发。工作机会很多，尤其是如果你偏爱美企大厂，或者以后想通过L1润美的话。以后跳槽和职业发展也不错，也被称为欧洲小硅谷。
 除了程序员比较好找工作外，药企也是爱尔兰支柱产业。
 
-另外爱尔兰移民政策十分友好，有offer就能办工作许可，也就能办工签。程序员的话基本都是Critical Skill Work Permit。头1年不能换工作，头2年（Stamp 1）需要雇主担保Work Permit。2年后（Stamp 4）就可以自由换工作和自雇了。配偶签证也都可以学习工作。[最快5年可以换护照（不过爱尔兰也有移民监，每年离境时间需要不超过6周，否则这年是不算在你的5年里的。）](https://www.citizensinformation.ie/en/moving_country/irish_citizenship/becoming_an_irish_citizen_through_naturalisation.html#l9d317)。不像其他国家，需要语言要求和融入考试。推荐一下我微软同事的帖子: [爱尔兰移民签证体系讲解](https://www.1point3acres.com/bbs/thread-901327-1-1.html) 和 [各种居留签官方说明](https://www.irishimmigration.ie/registering-your-immigration-permission/information-on-registering/immigration-permission-stamps/#5b7196a7b9ecd4ab3). 
+另外爱尔兰移民政策十分友好，有offer就能办工作许可，也就能办工签。程序员的话基本都是Critical Skill Work Permit。头1年不能换工作，头2年（Stamp 1）需要雇主担保Work Permit。2年后（Stamp 4）就可以自由换工作和自雇了。配偶签证也都可以学习工作。[最快5年可以换护照（不过爱尔兰也有移民监，每年离境时间需要不超过6周，否则这年是不算在你的5年里的。）](https://www.citizensinformation.ie/en/moving_country/irish_citizenship/becoming_an_irish_citizen_through_naturalisation.html#l9d317)。不像其他国家，需要语言要求和融入考试。推荐一下我微软同事的帖子: [爱尔兰移民签证体系讲解](https://www.1point3acres.com/bbs/thread-901327-1-1.html) 和 [各种居留签官方说明](https://www.irishimmigration.ie/registering-your-immigration-permission/information-on-registering/immigration-permission-stamps/#5b7196a7b9ecd4ab3). 感觉爱尔兰其实是价值洼地。岗位多，竞争少。和不少人聊过，感觉面试都更简单。
 
 大家润出来一部分人最主要的目的是逃离国内996的卷，更好的生活。爱尔兰像其他国家一样都可以满足这样的需求，也有相对完善的福利制度，完全足以过上“老婆孩子热炕头”的生活。
 
