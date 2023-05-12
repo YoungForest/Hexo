@@ -5,6 +5,7 @@ categories:
 - 折腾
 tags:
 - Hexo
+mathjax: false
 ---
 
 ## 动机(放在前面)
@@ -48,7 +49,7 @@ npm WARN For further explanations, please read
 由此看来, debian系的发布版都会出现这个问题.
 
 ### 发布到github上
-在github上新建一个库, 库名为 "$(你想要的名字).github.io", 比如, 我的是"youngforest.github.io". 事实上, 以这样的格式命名, github会默认配置好你的`[GitHub Pages](https://pages.github.com/)`, 默认发布到"https://$(你想要的名字).github.io/", 比如我的就是"https://youngforest.github.io/".
+在github上新建一个库, 库名为 "{your name}.github.io", 比如, 我的是"youngforest.github.io". 事实上, 以这样的格式命名, github会默认配置好你的`[GitHub Pages](https://pages.github.com/)`, 默认发布到"https://{your name}.github.io/", 比如我的就是"https://youngforest.github.io/".
 当然, 如果你不这样命名的话, 自己也可去库中的设置中设置发布`GitHub Page`.
 
 在本地的博客目录下, 运行`hexo generate`, 即可在`public/`中生成你博客的静态页面, 在这个文件夹下, 将其中所有的文件推到你在github上建好的库就可以了.

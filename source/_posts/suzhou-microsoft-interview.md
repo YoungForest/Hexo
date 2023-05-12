@@ -6,6 +6,7 @@ tags:
 - intern
 categories:
 - interview
+mathjax: true
 ---
 
 在@lxc师兄的内推下，我有幸可以前往 苏州微软，面试O365部门的暑期实习生。虽然最后失败了，但从这次失败的经历中，我学习到很多。
@@ -26,9 +27,10 @@ categories:
 
 斐波那契数列大家应该都很熟悉，高中数学课本上提到的经典递归数列。
 其数学定义为：
+
 $$
 f_n = \begin{cases}
-f_{n-1} + f_(n-2) & \quad \text{if } n > 2 \\
+f_{n-1} + f_{n-2} & \quad \text{if } n > 2 \\
 1 & \quad \text{if } n = 0, 1
 \end{cases}
 $$

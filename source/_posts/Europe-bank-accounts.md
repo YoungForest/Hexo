@@ -88,7 +88,7 @@ Revolt作为我的主力网上银行使用。我通常从ING转账到Revolt，�
 - 换汇汇率比较好
 - 支持虚拟卡，有CVV码
 
-[推广链接](https://revolut.com/referral/sen15gok)
+[推广链接](https://revolut.com/referral/?referral-code=seny00v6)
 
 ## Curve
 
