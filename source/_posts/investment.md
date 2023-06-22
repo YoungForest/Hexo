@@ -3,6 +3,7 @@ title: 我的投资故事（一）
 date: 2021-03-22 20:32:28
 tags:
 - money
+- 投资
 categories:
 - Life
 ---
