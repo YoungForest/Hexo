@@ -3,8 +3,9 @@ title: 阿姆斯特丹
 date: 2019-09-23 11:57:12
 tags:
 - travel
-categories:
 - 游记
+categories:
+- dairy
 ---
 
 来到欧洲安顿下来的第一周，我们去了美丽的荷兰-阿姆斯特丹和周围的2座村庄。
