@@ -7,7 +7,7 @@ categories:
 - LeetCode
 ---
 
-昨晚和女朋友KFC，耽误了比赛，赛后补题。
+耽误了比赛，赛后补题。
 
 ## 1796. Second Largest Digit in a String
 
