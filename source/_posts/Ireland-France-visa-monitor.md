@@ -6,6 +6,8 @@ tags:
 - 法签
 - 申根签证
 - Side Project
+- Ireland
+- Life
 categories:
 - 爱尔兰
 ---

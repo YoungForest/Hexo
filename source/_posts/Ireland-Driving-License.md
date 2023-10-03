@@ -3,8 +3,9 @@ title: 爱尔兰驾照申请 Ireland Driving License Application
 date: 2023-06-10 11:50:50
 tags:
 - Ireland
-categories:
 - Life
+categories:
+- 爱尔兰
 ---
 
 爱尔兰作为一个岛国，公共交通不甚发达，城市也十分小。拥有一辆汽车对长期生活的质量提高十分重要。尤其是如果你打算成家的话，没有车肯定是十分不方便的。所以，我来爱尔兰不久，就开始了驾照申请之旅。
