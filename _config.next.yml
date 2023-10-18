@@ -31,6 +31,7 @@ social_icons:
   icons_only: false
   transition: false
 # Blog rolls
+# Friends link
 links_settings:
   icon: fa fa-globe
   title: 友情链接
@@ -41,6 +42,7 @@ links:
   Fred: https://www.kenshinji.me
   LiuBo: https://jacklandrin.github.io
   Timothy: https://xiaozhou.net
+  Jeremy's World: https://nicelylit.net/
 
 reward:
   #wechatpay: /images/wechatpay.png
