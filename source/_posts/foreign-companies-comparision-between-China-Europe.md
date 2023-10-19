@@ -1,5 +1,5 @@
 ---
-title: foreign companies comparision between China Europe
+title: 国内外企 和 欧洲外企 对比
 date: 2023-10-18 19:56:40
 tags:
 - Amazon
