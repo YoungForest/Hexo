@@ -112,8 +112,6 @@ Behavior questions 很好准备，换一两周即可。网上有大量的问题�
 文章
 - [一亩三分地](https://www.1point3acres.com/bbs/google_search.php?q=behavior%20question)
 - [一亩三分地 Behavior questions合集](https://www.1point3acres.com/bbs/thread-529217-1-1.html)
-- [自我介绍类型Behavioral-based interviewing Competency-Based Interviewing](https://chenyilong.notion.site/Behavioral-based-interviewing-Competency-Based-Interviewing-a728c50a5ba244188e1c66e28d34dd1c)
-- [主观面试Behavioral-based interviewing Competency-Based Interviewing](https://chenyilong.notion.site/Behavioral-based-interviewing-Competency-Based-Interviewing-e6d18711a4114bc1926820fc537b5af4)
 
 Podcast
 - [softskills](https://softskills.audio/)
