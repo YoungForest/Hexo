@@ -2,6 +2,7 @@
 title: 2019年终总结 与 2020新年展望
 tags:
   - life
+  - 年终总结
 categories:
   - dairy
 date: 2020-02-20 16:50:42
