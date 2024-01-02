@@ -107,7 +107,7 @@ categories:
 
 ### 行为面试
 
-Behavior questions 很好准备，换一两周即可。网上有大量的问题，自己提前根据自己的过往经历准备几个故事，足以应付大多数问题即可。一定要基于自己过往经历，可以添油加醋，但不要无中生有，要不面试时如果问follow up有可能圆不上露馅。
+Behavior questions 很好准备，用一两周即可。网上有大量的问题，自己提前根据自己的过往经历准备几个故事，足以应付大多数问题即可。一定要基于自己过往经历，可以添油加醋，但不要无中生有，要不面试时如果问follow up有可能圆不上露馅。
 
 文章
 - [一亩三分地](https://www.1point3acres.com/bbs/google_search.php?q=behavior%20question)
