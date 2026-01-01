@@ -94,7 +94,7 @@ google_analytics:
 
 # Google AdSense
 google_adsense:
-  enable: true
+  enable: false
   google_ad_client_id: pub-9046219176772396 # 請修改成自己的
   enable_page_level_ads: true
   ## siderbar_enable 這邊建立廣告後才會用到
