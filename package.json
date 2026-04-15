@@ -14,7 +14,7 @@
   "dependencies": {
     "hexo": "^5.4.0",
     "hexo-auto-excerpt": "^1.1.2",
-    "hexo-deployer-git": "^2.1.0",
+    "hexo-deployer-git": "^4.0.0",
     "hexo-excerpt": "^1.1.6",
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-category": "^1.0.0",
