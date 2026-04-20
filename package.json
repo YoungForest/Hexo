@@ -16,7 +16,7 @@
     "hexo-auto-excerpt": "^1.1.2",
     "hexo-deployer-git": "^4.0.0",
     "hexo-excerpt": "^1.1.6",
-    "hexo-generator-archive": "^1.0.0",
+    "hexo-generator-archive": "^2.0.0",
     "hexo-generator-category": "^1.0.0",
     "hexo-generator-index": "^2.0.0",
     "hexo-generator-searchdb": "^1.3.3",
