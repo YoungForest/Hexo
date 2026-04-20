@@ -28,6 +28,6 @@
     "hexo-server": "^2.0.0"
   },
   "devDependencies": {
-    "hexo-generator-feed": "^3.0.0"
+    "hexo-generator-feed": "^4.0.0"
   }
 }
