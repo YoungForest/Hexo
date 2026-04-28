@@ -13,7 +13,6 @@
   },
   "dependencies": {
     "hexo": "^8.1.0",
-    "hexo-auto-excerpt": "^1.1.2",
     "hexo-deployer-git": "^4.0.0",
     "hexo-excerpt": "^1.1.6",
     "hexo-generator-archive": "^1.0.0",

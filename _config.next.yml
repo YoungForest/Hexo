@@ -16,6 +16,8 @@ darkmode: false
 social:
   GitHub: https://github.com/YoungForest || fab fa-github
   E-Mail: mailto:sen.yang96@outlook.com || fa fa-envelope
+  # 豆瓣链接需要填写你自己的 Douban 主页 URL，例如 https://www.douban.com/people/<your_id>/
+  #Douban: https://www.douban.com/people/your_id/ || fab fa-douban
   Weibo: https://weibo.com/u/1111372490 || fab fa-weibo
   #Google: https://plus.google.com/yourname || fab fa-google
   Twitter: https://twitter.com/youngforest || fab fa-twitter
@@ -87,7 +89,7 @@ disqus:
 
 # Google Analytics
 google_analytics:
-  tracking_id: UA-88350169-1 # <app_id>
+  tracking_id: G-G6NR9DW560 # GA4 Measurement ID
   # By default, NexT will load an external gtag.js script on your site.
   # If you only need the pageview feature, set the following option to true to get a better performance.
   only_pageview: false
@@ -101,7 +103,7 @@ google_adsense:
   siderbar_enable: true # 是否開啟側邊欄廣告
 
 local_search:
-  enable: false
+  enable: true
   # If auto, trigger search by changing input.
   # If manual, trigger search by pressing enter key or search button.
   trigger: auto
