@@ -72,6 +72,35 @@ pagination_dir: page
 theme: next
 # landscape
 
+# Markdown renderer (hexo-renderer-markdown-it)
+# Switched from hexo-renderer-markdown-it-plus to clear unmaintained
+# transitive XSS advisories. KaTeX support is provided via the
+# @traptitech/markdown-it-katex plugin so existing $$...$$ blocks keep working.
+markdown:
+  preset: default
+  render:
+    html: true
+    xhtmlOut: false
+    breaks: true
+    linkify: true
+    typographer: true
+    quotes: '“”‘’'
+  plugins:
+    - markdown-it-abbr
+    - markdown-it-footnote
+    - markdown-it-ins
+    - markdown-it-sub
+    - markdown-it-sup
+    - '@traptitech/markdown-it-katex'
+  anchors:
+    level: 2
+    collisionSuffix: 'v'
+    permalink: false
+    permalinkClass: header-anchor
+    permalinkSymbol: ¶
+    case: 0
+    separator: '-'
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
