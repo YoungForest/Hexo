@@ -146,7 +146,7 @@ class Solution {
         bool ret = true;
         while (expression.at(i) != ')') {
             ++i; // skip ',' or '('
-            ret = parse(expression, i) && ret;  // Warning: ret 必需写到后面，在比赛过程中，由于我写到前面了。忽略了逻辑短路问题，一直wrong answer。功亏一篑。
+            ret = parse(expression, i) && ret;  // Warning: ret 必须写到后面，在比赛过程中，由于我写到前面了。忽略了逻辑短路问题，一直wrong answer。功亏一篑。
         }
         ++i;    // skip ')'
         return ret;
