@@ -15,7 +15,7 @@ categories:
 
 ## 1837. Sum of Digits in Base K
 
-签到题。10进制转6进制。
+签到题。10 进制转 K 进制。
 
 ```python
 class Solution:
@@ -73,14 +73,14 @@ class Solution:
 ## 1839. Longest Substring Of All Vowels in Order
 
 相比上题，本题更是明显的滑动窗口题。
-窗口`[l:r]`的不变量是字串递增。
+窗口`[l:r]`的不变量是子串递增。
 
 ```python
 class Solution:
     def longestBeautifulSubstring(self, word: str) -> int:
         # brute force: N^3, enumerate all substring * check each substring
         # sliding window: N
-        # at least once, incresing
+        # at least once, increasing
         l = 0
         r = 0
         n = len(word)
