@@ -28,7 +28,7 @@
     "@traptitech/markdown-it-katex": "^3.6.0"
   },
   "devDependencies": {
-    "hexo-generator-feed": "^3.0.0"
+    "hexo-generator-feed": "^4.0.0"
   },
   "overrides": {
     "cross-spawn": ">=7.0.6",
