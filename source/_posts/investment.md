@@ -8,8 +8,12 @@ categories:
 - Life
 ---
 
+![我的投资故事的起点](/images/ai/investment/zh-hero.webp)
+
 分享我的投资故事。
 首发于 [Forest的博客](https://youngforest.github.io/2021/03/22/investment/).
+
+![初入市场的投资学习](/images/ai/investment/zh-first-steps.webp)
 
 ## 初出茅庐
 
@@ -21,6 +25,8 @@ categories:
 后来我过上了北漂生活，半年才能回一次家。赶不上时间，也怕麻烦，这笔钱竟然就一直在那里。
 
 这次理财经历算是一次失败的教训，毕竟本金都取不出来了。
+
+![再次尝试资产配置](/images/ai/investment/zh-trying-again.webp)
 
 ## 再试牛刀
 
