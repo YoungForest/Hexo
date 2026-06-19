@@ -8,6 +8,8 @@ categories:
 - 读后感
 ---
 
+![反脆弱中的压力与恢复力](/images/ai/Antifragile-Things-That-Gain-from-Disorder/zh-hero.webp)
+
 保守主义，自由主义，乐观主义 的盛宴。
 
 纳西姆.塔勒布 是 纳瓦尔 和 李总 都很推荐的一位作家，或许他们也叫他哲学家。

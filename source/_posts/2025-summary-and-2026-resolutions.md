@@ -10,6 +10,8 @@ categories:
 
 转自[我的博客](https://youngforest.github.io/2025/12/27/2025-summary-and-2026-resolutions/)
 
+![2025 年终总结的夜晚书桌](/images/ai/2025-summary-and-2026-resolutions/zh-hero.webp)
+
 往年的年终总结：
 - [2024年终总结](https://youngforest.github.io/2024/12/28/2024-summary-and-2025-resolutions/)
 - [2023年终总结](https://youngforest.github.io/2023/12/23/2023-summary-and-2024-resolutions/)
@@ -28,6 +30,8 @@ categories:
 这些重要的博文都放在我博客的[dairy分类下](https://youngforest.github.io/categories/dairy/)。
 
 # 2025年总结
+
+![欧元、资产与 AI 时代交织的历史进程](/images/ai/2025-summary-and-2026-resolutions/zh-historical-process.webp)
 
 ## 历史进程
 
@@ -59,6 +63,8 @@ categories:
 现在大语言模型，已经把人类的浩如烟海的语料和知识学习完了，已经在自己产生知识互相学习了。不知道，AI超过人类整体智慧的那天，所谓的技术奇点何时到来。我预言不会晚于2030年底。
 关于AI的哲学讨论，也越来越变得现实了。从宇宙和智慧，意识的角度，现代智人之外的第二个智慧也就快要诞生了。从进化和技术进步的角度看，AI在智慧上超越人类也是必然的。
 我也不认为人类会要灭绝或是被取代。达尔文的进化论的观点是，适者生存，也不是智者生存。虽然在历史上，直立人的后代，只留下了智人一支，其他人种要么自我灭绝，要么在于智人的竞争中灭绝。但考虑到人的生态位和近亲确实是竞争关系。AI 和 人 的关系并非如此，更多的是合作。现代也并非自然状态下，而是文明状态，也史前也不能同日而语。
+
+![读书笔记与世界地图](/images/ai/2025-summary-and-2026-resolutions/zh-reading.webp)
 
 ## 读万卷书
 

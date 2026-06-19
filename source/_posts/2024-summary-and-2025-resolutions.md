@@ -10,6 +10,8 @@ categories:
 
 转自[我的博客](https://youngforest.github.io/2024/12/28/2024-summary-and-2025-resolutions/)
 
+![2024 年终总结的程序员书桌](/images/ai/2024-summary-and-2025-resolutions/zh-hero.webp)
+
 往年的年终总结：
 - [2023年终总结](https://youngforest.github.io/2023/12/23/2023-summary-and-2024-resolutions/)
 - [2022年终总结](https://youngforest.github.io/2022/12/25/2022-summary-and-2023-resolutions/)
@@ -26,6 +28,8 @@ categories:
 
 这些重要的博文都放在我博客的[dairy分类下](https://youngforest.github.io/categories/dairy/)。
 
+![十年编程经验的积累](/images/ai/2024-summary-and-2025-resolutions/zh-ten-years-programming.webp)
+
 ## 十年编程经验
 
 此处BGM应为，叶圣涛的“还有多少个十年",唱尽了多少人生的感悟。
@@ -37,6 +41,8 @@ categories:
 真是如金庸所言，独孤求败 一开始“青光利剑，过刚则折”，之后"紫薇软剑，灵活变通", 中年“重剑无锋，大巧不工。”, 最后"草木之剑，返璞归真"，花草树木，皆可为剑。达到最高境界。程序员也是如此。
 
 还有一首歌，我也很喜欢。“你曾是少年”是电影《少年班》的主题曲。其中的每句歌词，真是都唱出了我的心声，曾经的浪漫主义和理想主义，到如今的现实主义、怀念和憧憬。历史的车轮滚滚向前，命运推着我走过不可想象的路，前往未知的道路。虽然我每年都会做新年展望，但一旦拉长到10年的尺度，人生就无法预测，更不能设限。我现在的生活是10年前无法想象的，而现在的我，也无法想象10年后的生活。人往往高估自己和世界短期的进步，但低估长期的进步。这就是指数增长的可怕之处。希望自己永远是少年！继续保持对世界的好奇心和善良乐观。
+
+![2024 年个人生活与阅读回顾](/images/ai/2024-summary-and-2025-resolutions/zh-personal-review.webp)
 
 ## 2024年个人回顾
 

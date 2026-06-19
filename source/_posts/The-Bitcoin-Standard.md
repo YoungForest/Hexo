@@ -8,6 +8,8 @@ categories:
 - 读后感
 ---
 
+![比特币标准中的货币与稀缺性](/images/ai/The-Bitcoin-Standard/zh-hero.webp)
+
 [台译本豆瓣链接](https://book.douban.com/subject/35332013/)
 
 硬通货：库存流通比 高。这点比特币十分满足，而且反而是一种通缩货币。
