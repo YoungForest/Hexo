@@ -5,8 +5,10 @@ tags:
 - Competitive Programming
 categories:
 - LeetCode
+translations:
+  zh-CN: https://youngforest.github.io/2020/03/15/LeetCode-weekly-contest-180/
+  en: https://youngforest.github.io/en/2020/03/15/LeetCode-weekly-contest-180/
 ---
-
 自从LeetCode[更新了周赛rating算法](https://leetcode.com/discuss/general-discussion/518516/New-Rating-Algorithm-Details-Contest-Season-and-Absence-in-Participation)后，结果下我一跳。Rating直接涨到2171，全球排名608/81184, 完成比赛53场。记得上周我还在期望可以近几周突破2000分的，已经1990+了。更新后的算法显示去年8月份就已经2000了。
 
 本周日会村里看望奶奶，由于疫情原因，之前一家人一直未能团聚。今天好不容易，几乎所有人都到场了。周赛也是回老家参加的。由于环境不适合思考，所以结果也差强人意。

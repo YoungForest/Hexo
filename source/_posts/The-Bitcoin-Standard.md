@@ -1,13 +1,16 @@
 ---
 title: 比特幣標準
+description: "从稀缺性、库存流通比和货币史理解《比特币标准》的核心论点。"
 date: 2026-01-01 20:33:57
 tags:
 - Reading
 - The Bitcoin Standard
 categories:
 - 读后感
+translations:
+  zh-CN: https://youngforest.github.io/2026/01/01/The-Bitcoin-Standard/
+  en: https://youngforest.github.io/en/2026/01/01/The-Bitcoin-Standard/
 ---
-
 ![比特币标准中的货币与稀缺性](/images/ai/The-Bitcoin-Standard/zh-hero.webp)
 
 [台译本豆瓣链接](https://book.douban.com/subject/35332013/)
@@ -15,6 +18,8 @@ categories:
 硬通货：库存流通比 高。这点比特币十分满足，而且反而是一种通缩货币。
 
 接受度/流通性
+
+<!-- more -->
 
 70年代末，亨特兄弟炒作白银的失败案例，被最近看的几本书中反复提及（达里欧 的 《原则》， 沃尔克 的 《坚定不移》 和 此书。反复鞭尸。
 

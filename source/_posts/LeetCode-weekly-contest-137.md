@@ -5,8 +5,10 @@ tags:
 - Competitive Programming
 categories:
 - LeetCode
+translations:
+  zh-CN: https://youngforest.github.io/2019/05/19/LeetCode-weekly-contest-137/
+  en: https://youngforest.github.io/en/2019/05/19/LeetCode-weekly-contest-137/
 ---
-
 本周的题目要比以往的难，也可以说恰好考到我的知识盲区，DP问题。老实的说，我对DP问题没有过深入的研究。这次DP题目尤其多，尤其是第4题，更是可以可以用经典的**背包问题**求解。
 
 | Rank |	Name |	Score |	Finish Time | 	Q1 (4) |	Q2 (5) |	Q3 (6) |	Q4 (8)|

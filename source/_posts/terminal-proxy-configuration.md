@@ -5,8 +5,10 @@ tags:
 categories:
 - 折腾
 date: 2016-11-02 23:30:00
+translations:
+  zh-CN: https://youngforest.github.io/2016/11/02/terminal-proxy-configuration/
+  en: https://youngforest.github.io/en/2016/11/02/terminal-proxy-configuration/
 ---
-
 ## 问题
 作为一名Linuxer，熟练使用终端是一项必备技能，但终端中有时下载安装功能速度很慢，令人崩溃.我自然而然想到了可否加个代理,提高速度。我之前一直用shadowsocks,浏览器使用switchyProxy,实现了初步的科学上网。那么,终端中是否有类似的工具呢？答案是肯定的。通过科学搜索，我成功解决了terminal中的科学上网问题，在此总结一下，希望可以帮到大家。
 <!-- more -->

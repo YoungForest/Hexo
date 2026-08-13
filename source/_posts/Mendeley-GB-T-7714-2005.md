@@ -4,8 +4,10 @@ date: 2021-05-06 00:10:43
 tags:
 categories:
 - Paper
+translations:
+  zh-CN: https://youngforest.github.io/2021/05/06/Mendeley-GB-T-7714-2005/
+  en: https://youngforest.github.io/en/2021/05/06/Mendeley-GB-T-7714-2005/
 ---
-
 ## Mendeley GB/T 7714-2005
 
 - 针对英文文献中作者名字使用了全大写

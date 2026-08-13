@@ -6,8 +6,10 @@ tags:
 - 迷人的温度
 categories:
 - 读后感
+translations:
+  zh-CN: https://youngforest.github.io/2024/09/02/A-Matter-of-Degrees/
+  en: https://youngforest.github.io/en/2024/09/02/A-Matter-of-Degrees/
 ---
-
 A Matter of Degrees: What Temperature Reveals about the Past and Future of Our Species, Planet, and Universe
 
 [豆瓣链接](https://book.douban.com/subject/27016304/)

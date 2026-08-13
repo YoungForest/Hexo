@@ -6,8 +6,10 @@ tags:
 - intern
 categories:
 - interview
+translations:
+  zh-CN: https://youngforest.github.io/2020/03/04/Alibaba-Dingding-backend-intern-interview/
+  en: https://youngforest.github.io/en/2020/03/04/Alibaba-Dingding-backend-intern-interview/
 ---
-
 通过钉钉电话视频面试，手撕代码通过阿里在线平台完成。
 
 算法题2道：

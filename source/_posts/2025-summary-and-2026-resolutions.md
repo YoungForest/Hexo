@@ -1,16 +1,21 @@
 ---
 title: 2025年终总结 与 2026新年展望
+description: "回望 2025 年的工作、阅读、投资与生活，用可执行的目标迎接 2026 年。"
 date: 2025-12-27 16:22:50
 tags:
   - life
   - 年终总结
 categories:
   - dairy
+translations:
+  zh-CN: https://youngforest.github.io/2025/12/27/2025-summary-and-2026-resolutions/
+  en: https://youngforest.github.io/en/2025/12/27/2025-summary-and-2026-resolutions/
 ---
-
 转自[我的博客](https://youngforest.github.io/2025/12/27/2025-summary-and-2026-resolutions/)
 
 ![2025 年终总结的夜晚书桌](/images/ai/2025-summary-and-2026-resolutions/zh-hero.webp)
+
+<!-- more -->
 
 往年的年终总结：
 - [2024年终总结](https://youngforest.github.io/2024/12/28/2024-summary-and-2025-resolutions/)
@@ -29,7 +34,7 @@ categories:
 
 这些重要的博文都放在我博客的[dairy分类下](https://youngforest.github.io/categories/dairy/)。
 
-# 2025年总结
+## 2025年总结
 
 ![欧元、资产与 AI 时代交织的历史进程](/images/ai/2025-summary-and-2026-resolutions/zh-historical-process.webp)
 
@@ -114,7 +119,7 @@ categories:
 
 Madeira 是6月份去的。天朗气清，民风热情，道路基础建设很好，适合自驾环岛，登山。还赶上了节日游行，喜庆极了。葡萄牙 和 西班牙 在大西洋上蛮多大的岛，蛮适合度假的。作为曾经大航海时代的领导国和日不落帝国，只剩下这些海外领地作为辉煌的见证了。
 
-# 2026年展望
+## 2026年展望
 
 明年继续做时间的朋友。坚持做有长期收益的事情。继续健身，读书，观影，旅行（想去日本、韩国、东南亚），与人面对面聊天，Just Keep Buying and Holding 投资。
 

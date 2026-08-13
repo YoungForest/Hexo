@@ -8,8 +8,10 @@ tags:
 - English
 categories:
 - Programming
+translations:
+  zh-CN: https://youngforest.github.io/2020/05/27/best-implement-to-use-pair-as-key-to-std-unordered-map-in-C/
+  en: https://youngforest.github.io/en/2020/05/27/best-implement-to-use-pair-as-key-to-std-unordered-map-in-C/
 ---
-
 Reference: [C++ Standard Library: A tutorial and reference, Second version](https://www.mica.edu.vn/perso/Vu-Hai/EE3490/Ref/The%20C++Standard%20Library%20-%202nd%20Edition.pdf) Chapter 7.9.2: Creating and Controlling unordered Container
 
 All solutions I found in Google use `XOR` to generate hashcode of `pair`, which is totally bad. see [why-is-xor-the-default-way-to-combine-hashes](https://stackoverflow.com/questions/5889238/why-is-xor-the-default-way-to-combine-hashes). However, the book has given us the best solution, using `hash_combine`, which is taken from `Boost`. The solution is much better than XOR when I tested it in Online Judge([Atcoder](https://atcoder.jp/contests/abc168/tasks/abc168_e)). I organized the code as a template as follow. You can copy and paste it as much as you can. And it is convenient to change it to fit any custom struct/class.

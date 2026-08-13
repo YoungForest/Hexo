@@ -6,8 +6,10 @@ tags:
 - 六神磊磊读金庸
 categories:
 - 读后感
+translations:
+  zh-CN: https://youngforest.github.io/2024/07/22/Liu-Shen-Lei-Lei-Du-Jin-Yong/
+  en: https://youngforest.github.io/en/2024/07/22/Liu-Shen-Lei-Lei-Du-Jin-Yong/
 ---
-
 [豆瓣链接](https://book.douban.com/subject/35479455/)
 
 是六神磊磊同名公众号文章的集合，以不同金庸小说分类，一次性读完，大快人心。多次拍手称快。

@@ -5,8 +5,10 @@ tags:
 - RIP
 categories:
 - Life
+translations:
+  zh-CN: https://youngforest.github.io/2023/05/15/rip-hao/
+  en: https://youngforest.github.io/en/2023/05/15/rip-hao/
 ---
-
 R.I.P.
 有幸和 左耳朵耗子 在同一个群里刷题。大家得知消息以为是谣言，还at了他。但多方消息佐证，现在应该是真的了。
 

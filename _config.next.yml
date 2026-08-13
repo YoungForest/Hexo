@@ -1,5 +1,7 @@
 custom_file_path:
-  head: source/_data/head.swig
+  head: source/_data/head.njk
+  bodyEnd: source/_data/body-end.njk
+  style: source/_data/styles.styl
 # Schemes
 # scheme: Muse
 scheme: Mist
@@ -8,6 +10,11 @@ scheme: Mist
 
 # Dark Mode
 darkmode: false
+
+open_graph:
+  enable: true
+  options:
+    twitter_card: summary_large_image
 
 # Social Links
 # Usage: `Key: permalink || icon`
@@ -93,14 +100,6 @@ google_analytics:
   # By default, NexT will load an external gtag.js script on your site.
   # If you only need the pageview feature, set the following option to true to get a better performance.
   only_pageview: false
-
-# Google AdSense
-google_adsense:
-  enable: false
-  google_ad_client_id: pub-9046219176772396 # 請修改成自己的
-  enable_page_level_ads: true
-  ## siderbar_enable 這邊建立廣告後才會用到
-  siderbar_enable: true # 是否開啟側邊欄廣告
 
 local_search:
   enable: true

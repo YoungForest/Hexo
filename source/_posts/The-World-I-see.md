@@ -1,16 +1,22 @@
 ---
 title: The World I see
+description: "从李飞飞的自传出发，思考 AI 历史、移民经验、科学成长与美国梦。"
 date: 2025-12-31 20:06:52
 tags:
 - Reading
 - The World I see
 categories:
 - 读后感
+translations:
+  zh-CN: https://youngforest.github.io/2025/12/31/The-World-I-see/
+  en: https://youngforest.github.io/en/2025/12/31/The-World-I-see/
 ---
 [台译本豆瓣链接](https://book.douban.com/subject/36698437/)
 刚出来的时候，尝试读英文原版。发现太难了，作为一个科学家，辞藻和句式过于华丽繁杂。可能是因为移民1.5代，对语言的伤痛记忆，现在熟练之后开始炫技了。作为畅销书，果然很快等到了中文翻译。赞！
 
 书中反复提及的 国家航空太空博物馆 National Air and Space Museum 也是我憧憬的地方，可惜上次去DC每去。
+
+<!-- more -->
 
 算法 数据 算力。现代AI的三大基础，李飞飞 对数据的贡献，就足以留下名字和江湖地位了。算法 很多都已经提前准备好了，尤其是对于Compute Vision来说，上世纪90年代就准备好了。算力 直到最近十多年才准备好，英伟达 的 传记明年就去读 https://book.douban.com/subject/37210122/
 

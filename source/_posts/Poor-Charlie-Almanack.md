@@ -6,8 +6,10 @@ tags:
 - 穷查理宝典
 categories:
 - 读后感
+translations:
+  zh-CN: https://youngforest.github.io/2024/08/07/Poor-Charlie-Almanack/
+  en: https://youngforest.github.io/en/2024/08/07/Poor-Charlie-Almanack/
 ---
-
 每周一本书 18:穷查理宝典:查理芒格的人生智慧
 
 查理芒格去年底去世，享年99岁。惭愧现在才读集他思想大成的“穷查理宝典”。算是凝结他80年思想智慧的产物，因为原书第三版成书于2008年。最近看了太多的成功学书籍，对未来和自己真是充满了期待和自信。

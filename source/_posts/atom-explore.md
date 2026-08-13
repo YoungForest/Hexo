@@ -5,6 +5,9 @@ tags:
 - atom
 categories:
 - 折腾
+translations:
+  zh-CN: https://youngforest.github.io/2017/04/08/atom-explore/
+  en: https://youngforest.github.io/en/2017/04/08/atom-explore/
 ---
 ## 配置代理
 笔者的需求是在markdown文档中插入LaTeX公式, atom默认的`markdown-preview`包无法满足要求. 经过搜索, 社区包`markdown-preview-plus`可是满足该需求.

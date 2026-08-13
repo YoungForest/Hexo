@@ -5,8 +5,10 @@ tags:
 - life
 categories:
 - dairy
+translations:
+  zh-CN: https://youngforest.github.io/2016/11/09/gogogo/
+  en: https://youngforest.github.io/en/2016/11/09/gogogo/
 ---
-
 最近经历了两件事情, 使得我感觉需要反思一下近几年的自己.
 
 第一件事是, 昨晚的编译测试一没过, 具体地说是正确的程序没有跑出正确的结果. 编译测试让我想起两年前的计组测试, 进而想了很多.

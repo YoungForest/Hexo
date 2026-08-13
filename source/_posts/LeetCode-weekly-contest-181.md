@@ -5,8 +5,10 @@ tags:
 - Competitive Programming
 categories:
 - LeetCode
+translations:
+  zh-CN: https://youngforest.github.io/2020/03/22/LeetCode-weekly-contest-181/
+  en: https://youngforest.github.io/en/2020/03/22/LeetCode-weekly-contest-181/
 ---
-
 自从LeetCode rating算法更新后，我的rating到达了顶峰，之后就一直向下掉。不过也是因为自己菜，每次都打的大好几百名，偶尔还上千。
 
 | Rank |	Name |	Score |	Finish Time | 	Q1 (3) |	Q2 (4) |	Q3 (5) |	Q4 (6)|

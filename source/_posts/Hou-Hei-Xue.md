@@ -6,8 +6,10 @@ tags:
 - 厚黑学
 categories:
 - 读后感
+translations:
+  zh-CN: https://youngforest.github.io/2024/07/20/Hou-Hei-Xue/
+  en: https://youngforest.github.io/en/2024/07/20/Hou-Hei-Xue/
 ---
-
 [豆瓣链接](https://book.douban.com/subject/1911687/)
 
 千万别被书名骗了，望文生义，以为这是一本成功学书籍，看完后，就能学到脸厚心黑，成为英雄豪杰。其实不然，这本书主要是一本讽刺历史和社会现实得书。厚黑学成书于民国初年，正是社会剧烈变革之际。中国传统的学说被反思和打倒，西方现在学说又未被完全接受。厚黑学教主，正是在这个背景下，写出了这部讽刺学说。真是把旧中国的仁义道德撕个粉碎，揭露了社会黑暗的现实。

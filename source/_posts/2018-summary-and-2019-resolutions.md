@@ -6,8 +6,10 @@ tags:
 - 年终总结
 categories:
 - dairy
+translations:
+  zh-CN: https://youngforest.github.io/2018/12/12/2018-summary-and-2019-resolutions/
+  en: https://youngforest.github.io/en/2018/12/12/2018-summary-and-2019-resolutions/
 ---
-
 Merry Christmas!
 
 离2019年还有5天，2018年就要结束了。一年过的真快呀。不知道你的2018年怎么样呀？一年前制定的新年计划实现了多少呢？

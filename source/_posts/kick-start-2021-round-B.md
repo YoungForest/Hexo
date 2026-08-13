@@ -5,8 +5,10 @@ tags:
 - Competitive Programming
 categories:
 - KickStart
+translations:
+  zh-CN: https://youngforest.github.io/2021/04/20/kick-start-2021-round-B/
+  en: https://youngforest.github.io/en/2021/04/20/kick-start-2021-round-B/
 ---
-
 比赛时间是北京的19号上午7点到10点，因为恰好下午2点要交毕设初稿。最近忙着一直在写大论文。因此并未参加Round B. 现如今自己已经过了校招的年纪，打Kick Start纯粹是为了娱乐。
 赛后补题。
 

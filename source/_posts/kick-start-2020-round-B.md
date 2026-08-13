@@ -5,8 +5,10 @@ tags:
 - Competitive Programming
 categories:
 - KickStart
+translations:
+  zh-CN: https://youngforest.github.io/2020/04/19/kick-start-2020-round-B/
+  en: https://youngforest.github.io/en/2020/04/19/kick-start-2020-round-B/
 ---
-
 | ID | score | rank | Bike Tour | Bus Routes | Robot Path Coding | Wandering Robot | Time |
 |--|--|--|--|--|--|--|--|
 | YoungForest | 74 | 524 | 5 + 7 | 10 + 13 | 11 + 16 | 14 + 0 | 1:35:18 |

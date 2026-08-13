@@ -5,8 +5,10 @@ tags:
 - LeetCode
 categories:
 - Programming
+translations:
+  zh-CN: https://youngforest.github.io/2019/04/06/LeetCode-258-Add-Digits/
+  en: https://youngforest.github.io/en/2019/04/06/LeetCode-258-Add-Digits/
 ---
-
 今天刷题的时候遇到一个有趣的题目，求一个数字各个位相加的和，知道和小于10。[链接](https://leetcode.com/problems/add-digits/description/).
 题目本身并不难，递归或者迭代都可以解决。但如何在O(1)的复杂度内求解，才是真正的考点。
 

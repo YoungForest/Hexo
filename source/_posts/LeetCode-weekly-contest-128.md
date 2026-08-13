@@ -5,8 +5,10 @@ tags:
 - Competitive Programming
 categories:
 - LeetCode
+translations:
+  zh-CN: https://youngforest.github.io/2019/03/17/LeetCode-weekly-contest-128/
+  en: https://youngforest.github.io/en/2019/03/17/LeetCode-weekly-contest-128/
 ---
-
 前3道题比较顺利，30min内解决。最后一道hard题目，思路比较混乱，1个小时愣是没做出来。
 Contest给我的感觉是，还是拼的熟练度。
 因为第2、3题之前做过类似的，所以很快就做出来了。第2题甚至只用了2分钟!!!

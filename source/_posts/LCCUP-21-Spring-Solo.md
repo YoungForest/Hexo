@@ -5,8 +5,10 @@ tags:
 - Competitive Programming
 categories:
 - LeetCode
+translations:
+  zh-CN: https://youngforest.github.io/2021/04/05/LCCUP-21-Spring-Solo/
+  en: https://youngforest.github.io/en/2021/04/05/LCCUP-21-Spring-Solo/
 ---
-
 | Rank |	Name |	Score |	Finish Time | 	Q1 (2) |	Q2 (4) |	Q3 (6) |	Q4 (8)| Q5 (10)
 |--|--|--|--|--|--|--|--|--|
 | 171 / 2750 | YoungForest | 12 | 0:56:51 | 0:06:21 | 0:49:14 | 0:56:55 | null | null |

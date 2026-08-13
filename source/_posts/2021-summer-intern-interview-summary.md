@@ -5,8 +5,10 @@ tags:
 - intern
 categories:
 - interview
+translations:
+  zh-CN: https://youngforest.github.io/2020/04/30/2021-summer-intern-interview-summary/
+  en: https://youngforest.github.io/en/2020/04/30/2021-summer-intern-interview-summary/
 ---
-
 从在牛客网发暑期实习的第一篇面经开始，到现在已经过去近2个月了。中间陆陆续续参加了8个厂的招聘。岗位均为后端/服务器开发。base地点为北京。
 
 ## 失败

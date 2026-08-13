@@ -5,8 +5,10 @@ tags:
 - Database
 - Django
 categories:
+translations:
+  zh-CN: https://youngforest.github.io/2017/01/23/Django-note/
+  en: https://youngforest.github.io/en/2017/01/23/Django-note/
 ---
-
 **[摘要]** [Django](https://www.djangoproject.com/) 是一个高水平的Python Web框架, 可以帮助我们迅速开发, 设计一个干净, 程序化的应用. 虽然Django比较臃肿(现在大神都用[Flask](http://flask.pocoo.org/)?), 适合大型Web应用的开发, 笔者的数据库课程设计是一个小型工程, 但Django名声是在太大, 笔者之前在实验室也稍稍接触过, 所以和队友果断选择了Django. 我们的课设, 在Django的帮助下, 实现起来就和切菜一样.
 
 <!-- more -->

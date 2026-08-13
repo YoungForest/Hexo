@@ -3,6 +3,9 @@ title: Lunch IPython from differnt conda env
 date: 2017-11-02 22:36:37
 tags:
 categories:
+translations:
+  zh-CN: https://youngforest.github.io/2017/11/02/Lunch-IPython-from-differnt-conda-env/
+  en: https://youngforest.github.io/en/2017/11/02/Lunch-IPython-from-differnt-conda-env/
 ---
 [reference](http://ipython.readthedocs.io/en/stable/install/kernel_install.html)
 

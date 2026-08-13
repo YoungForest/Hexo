@@ -4,8 +4,10 @@ date: 2018-11-05 16:44:00
 tags:
 - tech
 categories:
+translations:
+  zh-CN: https://youngforest.github.io/2018/11/05/baidu-cloud-download-speed-hack/
+  en: https://youngforest.github.io/en/2018/11/05/baidu-cloud-download-speed-hack/
 ---
-
 最近因为英语学习的需要，经常到百度云上下载一些大文件。众所周知，百度云对下载进行了限速，不开他家的会员的话，下载速度只有几十k/s。实在不能忍，遂搜索了限速破解工具，下载速度达到了15M/s，哈哈。在此分享给大家。
 不过需要注意的是，由于百度云也会更新限速机制，防止大家滥用。所以如果本文的方法失效的话，也不足为奇，还可以在网上寻找其他更新的方法。要相信广大程序员的力量。
 截止至2018年11月5日，此方法是可行的。

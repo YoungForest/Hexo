@@ -6,9 +6,13 @@ tags:
 - 基因组 人种自传23章
 categories:
 - 读后感
+translations:
+  zh-CN: https://youngforest.github.io/2026/01/01/Genome-The-autobiography-of-a-species-in-23-chapters/
+  en: https://youngforest.github.io/en/2026/01/01/Genome-The-autobiography-of-a-species-in-23-chapters/
 ---
-
 穷查理宝典，芒格推荐。
+
+<!-- more -->
 
 >行为远不是受我们的生物特性所控制，我们的生物特性常常是受我们的行为控制的。
 

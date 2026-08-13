@@ -5,8 +5,10 @@ tags:
 - Competitive Programming
 categories:
 - LeetCode
+translations:
+  zh-CN: https://youngforest.github.io/2019/12/14/LeetCode-biweekly-contest-15/
+  en: https://youngforest.github.io/en/2019/12/14/LeetCode-biweekly-contest-15/
 ---
-
 这周没有出去玩，恰好遇到双周赛。久违地参加了一场，确实难得。
 本次双周赛都是常规题目，不难。我提前50min全部一次AC, 典型的手速场。
 

@@ -5,8 +5,10 @@ tags:
 - Competitive Programming
 categories:
 - LeetCode
+translations:
+  zh-CN: https://youngforest.github.io/2019/03/31/LeetCode-weekly-contest-129/
+  en: https://youngforest.github.io/en/2019/03/31/LeetCode-weekly-contest-129/
 ---
-
 上周末由于准备 Google的kick start round A，放弃了一次LeetCode weekly contest。但当天晚上还是把LeetCode的题补完了。4题不简单，但经过思考还是独立做出来了。算是给被kick start难到自闭的我一个安慰吧。
 
 ## 1020. Partition Array Into Three Parts With Equal Sum

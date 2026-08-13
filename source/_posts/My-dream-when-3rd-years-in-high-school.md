@@ -5,8 +5,10 @@ tags:
 - life
 categories:
 - dairy
+translations:
+  zh-CN: https://youngforest.github.io/2013/06/07/My-dream-when-3rd-years-in-high-school/
+  en: https://youngforest.github.io/en/2013/06/07/My-dream-when-3rd-years-in-high-school/
 ---
-
 2013年6月7日，是高中大我一届的高三学长学姐高考的最后一天。
 从那天以后，就是我离高考最近了，虽然要到9月份才正式升入高三。
 当时我在 山西省襄汾中学 读书，不到17岁，写下这篇“我的理想”，以明志和激励自己。现在10年过去了（2023年6月，整理自己硬盘资料时，惊喜地发现了这篇“文献”），回头看，自己并没有实现当年的清华梦。遭受了社会毒打后，理想（包括文采）也远没有当年优秀。但是，当年的文字依旧让我感动，感谢曾经的自己。

@@ -6,8 +6,10 @@ tags:
   - 年终总结
 categories:
   - dairy
+translations:
+  zh-CN: https://youngforest.github.io/2020/11/25/2020-summary-and-2021-resolutions/
+  en: https://youngforest.github.io/en/2020/11/25/2020-summary-and-2021-resolutions/
 ---
-
 转发自[我的博客](https://youngforest.github.io/2020/11/25/2020-summary-and-2021-resolutions/)
 
 今年也年终总结有些早，还没有步入12月份。不过因为今天刚交了大论文查重，虽然很多事儿要做，但完全没有工作的心情。不如就利用这种烦躁的心情写个年终总结的初稿，不知道会不会受影响。

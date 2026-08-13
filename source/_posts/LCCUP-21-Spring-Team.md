@@ -5,8 +5,10 @@ tags:
 - Competitive Programming
 categories:
 - LeetCode
+translations:
+  zh-CN: https://youngforest.github.io/2021/04/11/LCCUP-21-Spring-Team/
+  en: https://youngforest.github.io/en/2021/04/11/LCCUP-21-Spring-Team/
 ---
-
 | Rank |	Name |	Score |	Finish Time | 	Q1 (2) |	Q2 (4) |	Q3 (6) |	Q4 (8)| Q5 (9) | Q6(12) |
 |--|--|--|--|--|--|--|--|--|--|
 | 228 / 781 | 佛系刷题 | 6/41 | 1:00:00 | 0:42:42 | 1:00:00 | null | null | null | null |

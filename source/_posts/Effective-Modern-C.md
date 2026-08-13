@@ -6,6 +6,8 @@ tags:
 - C++
 categories:
 - 书评
+translations:
+  zh-CN: https://youngforest.github.io/2019/05/05/Effective-Modern-C/
+  en: https://youngforest.github.io/en/2019/05/05/Effective-Modern-C/
 ---
-
 [我的书评](https://book.douban.com/review/10131903/)

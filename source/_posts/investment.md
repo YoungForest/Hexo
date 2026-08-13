@@ -1,13 +1,16 @@
 ---
 title: 我的投资故事（一）
+description: "回顾个人投资起步时的选择、认知变化与教训，记录一段仍在继续的旅程。"
 date: 2021-03-22 20:32:28
 tags:
 - money
 - 投资
 categories:
 - Life
+translations:
+  zh-CN: https://youngforest.github.io/2021/03/22/investment/
+  en: https://youngforest.github.io/en/2021/03/22/investment/
 ---
-
 ![我的投资故事的起点](/images/ai/investment/zh-hero.webp)
 
 分享我的投资故事。

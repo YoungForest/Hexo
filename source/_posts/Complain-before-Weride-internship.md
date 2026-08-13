@@ -5,8 +5,10 @@ tags:
 - Weride
 categories:
 - Life
+translations:
+  zh-CN: https://youngforest.github.io/2018/10/28/Complain-before-Weride-internship/
+  en: https://youngforest.github.io/en/2018/10/28/Complain-before-Weride-internship/
 ---
-
 版权归作者所有，任何形式转载请联系作者。
 作者：YoungForest（来自豆瓣）
 来源：https://www.douban.com/note/694767558/

@@ -5,8 +5,10 @@ tags:
 - Competitive Programming
 categories:
 - KickStart
+translations:
+  zh-CN: https://youngforest.github.io/2019/10/20/kick-start-2019-round-G/
+  en: https://youngforest.github.io/en/2019/10/20/kick-start-2019-round-G/
 ---
-
 本轮是今年的倒数第二轮，也是相对比较简单的一个轮次。
 我做出了第3题和1 2题的小数据集。第二题我本身的算法是对的，但是没有正确的评估最大的k的位数，并防止溢出操作，所以字大数据集上WA。第一题其实本身不难，只是我对约数不很敏感，导致错失没有想出更好的解法。总的来说，本轮是我最接近AC的轮次，运气相对不错，也提前1个小时完成了比赛。因为后来实在想不出解法 和 要注意的点了，就放弃了。
 

@@ -5,8 +5,10 @@ categories:
 - 折腾
 tags:
 - Hexo
+translations:
+  zh-CN: https://youngforest.github.io/2021/09/07/Setup-English-blog/
+  en: https://youngforest.github.io/en/2021/09/07/Setup-English-blog/
 ---
-
 自从来到亚马逊工作，接触英文和外国同事比较多。锻炼使用英语的需求越来越大。而且为了和国际接轨，我决定创建自己的英文博客。
 
 ## 步骤

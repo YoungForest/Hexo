@@ -5,6 +5,9 @@ tags:
 - vim
 categories:
 - 折腾
+translations:
+  zh-CN: https://youngforest.github.io/2017/03/26/gvim-configuration-for-windows/
+  en: https://youngforest.github.io/en/2017/03/26/gvim-configuration-for-windows/
 ---
 最近由于准备GRE, 整天背单词, 练听力和写作, 很是心烦, 很久没折腾了, 所以抽出时间, 给自己的笔记本下载并配置gvim, 也算是休憩.
 

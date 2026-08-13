@@ -5,8 +5,10 @@ tags:
 - Competitive Programming
 categories:
 - LeetCode
+translations:
+  zh-CN: https://youngforest.github.io/2019/03/10/LeetCode-weekly-contest-127/
+  en: https://youngforest.github.io/en/2019/03/10/LeetCode-weekly-contest-127/
 ---
-
 本周4道题目分数分别为4 4 5 6, 应该不是很难的，加油， Forest！
 
 因为题目太简单，即使提前15min做完了，排名还是912 / 4712。这次比赛真的是简单，完全比拼的是写码的速度和熟练度。是否可以一次bug-free很重要。因为如果某个corner case错了，再去调试是很花时间的。我1，2题都是错了一次，耽误了很多时间。

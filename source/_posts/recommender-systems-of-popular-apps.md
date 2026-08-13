@@ -1,12 +1,14 @@
 ---
 title: 论推荐系统如何改造和奴役你的思维
+description: "从常见应用的推荐机制出发，讨论算法如何塑造注意力、偏好与信息环境。"
 tags:
   - tech
 date: 2018-07-3 22:55:55
 categories:
+translations:
+  zh-CN: https://youngforest.github.io/2018/07/03/recommender-systems-of-popular-apps/
+  en: https://youngforest.github.io/en/2018/07/03/recommender-systems-of-popular-apps/
 ---
-
-
 应园子的邀请，我撰写了一篇关于现今流行的内容app的推荐系统的研究与讨论的文章。
 事情的起因是这样：
 园子同学是知乎的重度用户，曾经有一段时间每天画在刷知乎的时间超过1个小时，其三观深受知乎的影响。

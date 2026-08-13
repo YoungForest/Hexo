@@ -6,8 +6,10 @@ tags:
 - 纳瓦尔宝典
 categories:
 - 读后感
+translations:
+  zh-CN: https://youngforest.github.io/2024/07/27/The-Almanack-of-Naval-Ravikant/
+  en: https://youngforest.github.io/en/2024/07/27/The-Almanack-of-Naval-Ravikant/
 ---
-
 [豆瓣链接](https://book.douban.com/subject/35876121/)
 
 前半本财富，适合35岁前读，改变现状。很多智慧也是世界上比较公认和容易的。后半本幸福，适合35岁后读，接受现状。但就比较主观和因人而异了，属于更大的智慧，也更加难得了。最后Die with zero (也是一本书).

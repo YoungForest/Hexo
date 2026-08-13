@@ -5,8 +5,10 @@ tags:
 - Competitive Programming
 categories:
 - LeetCode
+translations:
+  zh-CN: https://youngforest.github.io/2021/05/16/LeetCode-weekly-contest-241/
+  en: https://youngforest.github.io/en/2021/05/16/LeetCode-weekly-contest-241/
 ---
-
 本周周赛和双周赛都翻车了，开始残酷打卡之旅。
 
 | Rank |	Name |	Score |	Finish Time | 	Q1 (3) |	Q2 (5) |	Q3 (5) |	Q4 (6)|

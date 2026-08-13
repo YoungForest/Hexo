@@ -5,8 +5,10 @@ tags:
 - Competitive Programming
 categories:
 - LeetCode
+translations:
+  zh-CN: https://youngforest.github.io/2019/02/04/LeetCode-weekly-contest-122/
+  en: https://youngforest.github.io/en/2019/02/04/LeetCode-weekly-contest-122/
 ---
-
 由于宅在家里过节，竟然忘记了每天是星期几，只知道农历腊月几日。今天才发现已经到了周一了，错过了每周一度的weekly contest。在此除夕之夜，和家人一起看春晚之前，Forest携全家人一起祝大家新年快乐！快些刷完这4道比赛题目，好安心吃年夜饭。
 
 由于比赛不能用官方的Notes, 写在blog上还是蛮方便的一种替代品。

@@ -6,8 +6,10 @@ tags:
 categories:
   - dairy
 date: 2020-02-20 16:50:42
+translations:
+  zh-CN: https://youngforest.github.io/2020/02/20/2019-summary-and-2020-resolutions/
+  en: https://youngforest.github.io/en/2020/02/20/2019-summary-and-2020-resolutions/
 ---
-
 [转发自我的博客](https://youngforest.github.io/2020/02/20/2019-summary-and-2020-resolutions/)
 
 2020年注定对我是一个不平凡的一年，主要原因在于我面临着毕业和求职的关口。这一关口是我近2年面临的最重要的挑战和任务，我也为之筹备良久，期待可以厚积薄发。然而事实却并不如愿。

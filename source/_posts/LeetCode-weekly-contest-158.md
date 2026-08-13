@@ -5,8 +5,10 @@ tags:
 - Competitive Programming
 categories:
 - LeetCode
+translations:
+  zh-CN: https://youngforest.github.io/2019/10/14/LeetCode-weekly-contest-158/
+  en: https://youngforest.github.io/en/2019/10/14/LeetCode-weekly-contest-158/
 ---
-
 ## 1221. Split a String in Balanced Strings
 
 理解balanced的定义，发现只需要找到 L 和 R 出现个数相等的位置即可。

@@ -7,8 +7,10 @@ tags:
 - 马伯庸
 categories:
 - 读后感
+translations:
+  zh-CN: https://youngforest.github.io/2024/10/20/Shi-Nan-Zhi-Tu/
+  en: https://youngforest.github.io/en/2024/10/20/Shi-Nan-Zhi-Tu/
 ---
-
 每周一本书24：**食南之徒** [马伯庸](https://book.douban.com/search/%E9%A9%AC%E4%BC%AF%E5%BA%B8)
 
 作者貌似是在借汉朝的南越问题，映射台湾问题。马伯庸还是那么擅长，借用史书上的只言片语，脑补出完整的悬疑故事。之前的“两京十五日”，“长安的荔枝”都是如此。

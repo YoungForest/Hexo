@@ -1,13 +1,16 @@
 ---
 title: 2024年终总结 与 2025新年展望
+description: "复盘 2024 年的重要变化、得失与体验，并规划 2025 年的生活方向。"
 date: 2024-12-28 00:04:56
 tags:
   - life
   - 年终总结
 categories:
   - dairy
+translations:
+  zh-CN: https://youngforest.github.io/2024/12/28/2024-summary-and-2025-resolutions/
+  en: https://youngforest.github.io/en/2024/12/28/2024-summary-and-2025-resolutions/
 ---
-
 转自[我的博客](https://youngforest.github.io/2024/12/28/2024-summary-and-2025-resolutions/)
 
 ![2024 年终总结的程序员书桌](/images/ai/2024-summary-and-2025-resolutions/zh-hero.webp)

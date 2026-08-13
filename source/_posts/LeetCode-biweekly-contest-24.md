@@ -5,8 +5,10 @@ tags:
 - Competitive Programming
 categories:
 - LeetCode
+translations:
+  zh-CN: https://youngforest.github.io/2020/04/19/LeetCode-biweekly-contest-24/
+  en: https://youngforest.github.io/en/2020/04/19/LeetCode-biweekly-contest-24/
 ---
-
 | Rank |	Name |	Score |	Finish Time | 	Q1 (3) |	Q2 (4) |	Q3 (5) |	Q4 (6)|
 |--|--|--|--|--|--|--|--|
 | 700 / 7729 |	YoungForest | 18 | 	1:17:49 | 0:04:50 |  0:10:38 | 0:17:45 |   1:02:49 3 |

@@ -6,8 +6,10 @@ tags:
 - 年终总结
 categories:
 - dairy
+translations:
+  zh-CN: https://youngforest.github.io/2017/02/22/2017-resolutions/
+  en: https://youngforest.github.io/en/2017/02/22/2017-resolutions/
 ---
-
 ## 前言
 现在是大年初七, 是大多数有工作的人上班的日子, 也是襄中开学的日子, 而我作为一个大学生, 居然可以放假到农历二月, 致使现在凌晨2点还有时间码字. 刚刚看了[一篇文章](http://www.jianshu.com/p/0566385dceff), 作者的话很大程度上描述了我的状态, 咸鱼懒的翻身. 而作者的亲身经历和劝说也让我愧疚. 
 

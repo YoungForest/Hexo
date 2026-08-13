@@ -5,8 +5,10 @@ tags:
 - Competitive Programming
 categories:
 - LeetCode
+translations:
+  zh-CN: https://youngforest.github.io/2019/05/26/LeetCode-weekly-contest-138/
+  en: https://youngforest.github.io/en/2019/05/26/LeetCode-weekly-contest-138/
 ---
-
 本周比赛虽然题目质量还不错，但难度不高，是一场比拼速度的题目。
 因为第二题题目比较长，所以我做题的顺序是 1->3->4->2。
 

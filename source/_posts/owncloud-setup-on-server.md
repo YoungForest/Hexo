@@ -2,9 +2,12 @@
 title: owncloud setup on server
 date: 2017-08-20 22:42:32
 tags:
-	- Ubuntu
-	- Owncloud
+  - Ubuntu
+  - Owncloud
 categories:
+translations:
+  zh-CN: https://youngforest.github.io/2017/08/20/owncloud-setup-on-server/
+  en: https://youngforest.github.io/en/2017/08/20/owncloud-setup-on-server/
 ---
 ## 简介
 [owncloud](https://owncloud.org/)是一个私有云解决方案，可以替代百度云。其提供企业版和个人版，个人可以利用服务器搭建个人版的owncloud。官网提供了多种服务器端解决方案。其中，自己编译可以获得最新版的owncloud；owncloud也提供了各大发行版软件库的[二进制安装包](https://download.owncloud.org/download/repositories/stable/owncloud/)，更方便快速，更适合个人的应用。

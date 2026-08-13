@@ -5,8 +5,10 @@ tags:
 - Competitive Programming
 categories:
 - LeetCode
+translations:
+  zh-CN: https://youngforest.github.io/2019/04/07/LeetCode-weekly-contest-131/
+  en: https://youngforest.github.io/en/2019/04/07/LeetCode-weekly-contest-131/
 ---
-
 本次比赛的题号吓了我一跳. LeetCode也是任性，直接从5000+开始出题了。看来题量上涨的空间已经超乎我的想象了。
 
 言归正传，本次contest也是以简单题拼速度为主。

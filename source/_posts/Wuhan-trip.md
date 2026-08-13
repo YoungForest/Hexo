@@ -5,8 +5,10 @@ tags:
 - travel
 categories:
 - dairy
+translations:
+  zh-CN: https://youngforest.github.io/2021/07/02/Wuhan-trip/
+  en: https://youngforest.github.io/en/2021/07/02/Wuhan-trip/
 ---
-
 终于毕业了，筹划了许久的毕业旅行也正式提上议程。因为要等npy考完试，而且入职前要回来，最好还有几天休息和置办家具。我和npy只有1周时间旅行。共去了3个地方，山西临汾->湖北武汉->湖北随州。
 目的大概是见我的家长，看望npy十年没见的奶奶。
 

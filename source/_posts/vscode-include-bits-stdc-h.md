@@ -6,8 +6,10 @@ tags:
 - gcc
 categories:
 - Programming
+translations:
+  zh-CN: https://youngforest.github.io/2020/05/18/vscode-include-bits-stdc-h/
+  en: https://youngforest.github.io/en/2020/05/18/vscode-include-bits-stdc-h/
 ---
-
 最近经常打kickstart需要include万能头文件`bits/stdc++.h`，然而，我喜爱的编辑器vs code总是不能正确地找到该头文件，会有红色波浪线表示错误。作为程序员的我完全不能忍受，所以尝试解决该问题。在网络上搜了很多解决方案，大多数并不能直接地解决我的问题。所以，我总结自己的解决方案于此，方便各位取用。
 
 编程环境:

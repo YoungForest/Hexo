@@ -6,8 +6,10 @@ tags:
   - 年终总结
 categories:
   - dairy
+translations:
+  zh-CN: https://youngforest.github.io/2021/12/28/2021-summary-and-2022-resolutions/
+  en: https://youngforest.github.io/en/2021/12/28/2021-summary-and-2022-resolutions/
 ---
-
 新年快乐，离2021年结束还有3天。我终于提笔开始了我一年一度的年终总结和新年展望。最近发现写年终总结的同学越来越多，但我其实不是跟风。我很早就开始每年写年终总结。一开始是在日记本里，后来在博客里。除了每年辞旧迎新的时候，我还会在人生阶段性里程碑写下总结和展望，比如本科毕业和硕士毕业。
 
 之前的年终总结：

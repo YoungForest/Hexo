@@ -1,13 +1,16 @@
 ---
 title: 从北京到都柏林 一名程序员的润欧之旅
+description: "从中国寻找欧洲软件工程师工作的完整复盘：准备、面试、选择与跨国搬迁。"
 date: 2022-12-09 16:42:27
 tags:
   - life
   - Tech
 categories:
   - dairy
+translations:
+  zh-CN: https://youngforest.github.io/2022/12/09/Find-a-Europe-SDE-job-from-China/
+  en: https://youngforest.github.io/en/2022/12/09/Find-a-Europe-SDE-job-from-China/
 ---
-
 转自[我的博客](https://youngforest.github.io/2022/12/09/Find-a-Europe-SDE-job-from-China/)
 
 今年，我按照预期计划，从国内投欧洲程序员的岗位，虽然赶上宏观经济下行，各个公司纷纷hire freeze甚至layoff。幸运地，还是拿到了2个offer，并在11月成功入职完成肉翻。虽然历经了不少坎坷，回过头看也算是一切顺利。在“润”地道路上被很多有经验地群友帮助，因此我也撰写一篇博客，总结自己地经验和教训，以方便后来人。

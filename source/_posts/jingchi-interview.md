@@ -6,8 +6,10 @@ tags:
 categories:
 - interview
 date: 2018-09-28 11:22:23
+translations:
+  zh-CN: https://youngforest.github.io/2018/09/28/jingchi-interview/
+  en: https://youngforest.github.io/en/2018/09/28/jingchi-interview/
 ---
-
 昨天参与了景驰科技的实习生面试。此次实习生面试是实验室统一安排的，并不是我自己找的。
 形式为在线面试。总共2轮，预计每轮1小时，实际上第二轮只问了半个小时。第一轮用的Skype，通话质量比较差，视频输出也没有。第二轮，用的微信语音 + [collabedit](http://collabedit.com/)。效果好了很多。
 

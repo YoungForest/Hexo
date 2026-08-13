@@ -5,8 +5,10 @@ tags:
 - Competitive Programming
 categories:
 - LeetCode
+translations:
+  zh-CN: https://youngforest.github.io/2019/07/07/LeetCode-weekly-contest-144/
+  en: https://youngforest.github.io/en/2019/07/07/LeetCode-weekly-contest-144/
 ---
-
 今早由于参加托福考试，无法像往常一样参加周赛。赛后补题。
 
 

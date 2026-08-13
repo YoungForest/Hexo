@@ -7,8 +7,10 @@ tags:
 - unordered_map
 categories:
 - Programming
+translations:
+  zh-CN: https://youngforest.github.io/2020/05/27/unordered-map-hash-pair-c/
+  en: https://youngforest.github.io/en/2020/05/27/unordered-map-hash-pair-c/
 ---
-
 今天在做[一道AtCoder的题目](https://atcoder.jp/contests/abc168/tasks/abc168_e)，有个test case一直TLE。研究这个测试用例和其他用例的区别，苦思不得其解。后来把unordered_map换成map就过了。虽然在小数据集上hashmap和treemap区别不大，但数据量大的话，hashmap还是好些。所以最佳实践是，在不需要排序特性时，就用hashmap。
 而且之前也从来没有遇到过hashmap比treemap效果差这么多的原因。最后花了一上午时间，才定位到是我的 pair 的hash函数实现太糟糕了。因为C++ STL中并没有pair的hash特化，所以如果想把pair当作键用在unordered_map中的话，就需要自己实现hash函数。我直接从网上抄了一个实现, 直接将 `std::hash<T>()(pair.first) ^ std::hash<U>()(pair.second)`。为了避免误人子弟，我就不贴代码了。正是抄的这个实现害苦我了，hash函数碰撞严重，导致效率低下。令人惊讶的是，这种错误的实现遍布全网，无论是中文的还是英文的。我从犄角旮旯（[stackoverflow问题](https://stackoverflow.com/questions/20590656/error-for-hash-function-of-pair-of-ints)的评论区中）里才找到问题所在和正确的实现。所以特意总结此博文，避免更多的同学踩坑。
 >std::hash<T>()(x.first) ^ std::hash<T>()(x.second); - that's a spectacularly collision-prone way to hash a pair, as every pair with two identical value hashes to 0, and every pair {a, b} hashes the same as {b, a}. For vaguely demanding use, much better to find a hash_combine function and employ that.

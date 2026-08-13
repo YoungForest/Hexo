@@ -6,8 +6,10 @@ tags:
 - 游记
 categories:
 - dairy
+translations:
+  zh-CN: https://youngforest.github.io/2019/09/23/Amsterdam/
+  en: https://youngforest.github.io/en/2019/09/23/Amsterdam/
 ---
-
 来到欧洲安顿下来的第一周，我们去了美丽的荷兰-阿姆斯特丹和周围的2座村庄。
 由于是第一次出来玩，许多行程安排的有问题，花费也相对不菲。人均大概450欧。相比之下，一周之后的巴黎之旅只花了300欧，并且体验也更棒。
 我认为荷兰绝对是欣赏北欧乡村风光的最佳地点。

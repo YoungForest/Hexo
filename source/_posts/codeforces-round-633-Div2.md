@@ -6,8 +6,10 @@ tags:
 - contest
 categories:
 - Programming
+translations:
+  zh-CN: https://youngforest.github.io/2020/04/12/codeforces-round-633-Div2/
+  en: https://youngforest.github.io/en/2020/04/12/codeforces-round-633-Div2/
 ---
-
 [官方题解](https://codeforces.com/blog/entry/75913)
 
 codeforces上题目一般高于平时的面试题。如果是为了面试的话，只刷LeetCode就可以了。不过如果是对算法和竞赛感兴趣，强烈鼓励试一试。题目的数量和质量都远超LeetCode。而且为不同水平的同学有不同的赛道，题目难度也不同。对于高水平玩家来说，竞赛体验会好的多。

@@ -6,8 +6,10 @@ categories:
 tags:
 - Hexo
 mathjax: false
+translations:
+  zh-CN: https://youngforest.github.io/2016/11/02/Hexo-github-building-personal-blog/
+  en: https://youngforest.github.io/en/2016/11/02/Hexo-github-building-personal-blog/
 ---
-
 ## 动机(放在前面)
 之前在cnblog上有个博客, 但是也不经常维护, 到现在满打满算也才有3篇随笔, 1个粉. 主要是因为自己没有写东西的习惯. 高中的时候记过一段时间的日记, 零零总总写了有大半本, 都是一些励志(自欺欺人)的东西, 写给自己看的.
 

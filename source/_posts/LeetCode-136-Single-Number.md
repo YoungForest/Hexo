@@ -4,8 +4,10 @@ date: 2018-09-12 15:38:08
 tags:
 categories:
 - LeetCode
+translations:
+  zh-CN: https://youngforest.github.io/2018/09/12/LeetCode-136-Single-Number/
+  en: https://youngforest.github.io/en/2018/09/12/LeetCode-136-Single-Number/
 ---
-
 Description: https://leetcode.com/problems/single-number/description/
 Solution: https://leetcode.com/problems/single-number/solution/
 Difficulty: Easy

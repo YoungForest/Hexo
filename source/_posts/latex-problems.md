@@ -4,6 +4,9 @@ date: 2018-03-27 19:27:55
 tags:
 - tex
 categories:
+translations:
+  zh-CN: https://youngforest.github.io/2018/03/27/latex-problems/
+  en: https://youngforest.github.io/en/2018/03/27/latex-problems/
 ---
 笔者毕业设计论文的撰写使用了latex工具，遇到了许多问题，在此总结一下。
 

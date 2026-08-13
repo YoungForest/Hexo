@@ -5,8 +5,10 @@ tags:
 - 键盘
 categories:
 - 折腾
+translations:
+  zh-CN: https://youngforest.github.io/2021/10/13/Niz-plum-option-key-not-work/
+  en: https://youngforest.github.io/en/2021/10/13/Niz-plum-option-key-not-work/
 ---
-
 最近使用我心爱的Niz Plum 66键盘时遇到一个奇怪的bug。
 在蓝牙模式下，左option键失灵。因为我hammerspoon和其他应用的快捷键大量使用，虽然偶尔可以通过右option键短暂替代。但总不是回事儿，工作效率大幅降低。
 

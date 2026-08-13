@@ -6,6 +6,9 @@ tags:
 - intern
 categories:
 - interview
+translations:
+  zh-CN: https://youngforest.github.io/2018/04/30/kuaishou-intern-interview/
+  en: https://youngforest.github.io/en/2018/04/30/kuaishou-intern-interview/
 ---
 感谢@lxc师兄的内推和面试建议，我有幸可以参加快手推荐组算法实习生的面试，并最终通过面试被录取。
 虽然实习生的面试可能相对简单，但是我认为还是有参考价值的。

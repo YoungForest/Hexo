@@ -5,8 +5,10 @@ tags:
 - Competitive Programming
 categories:
 - LeetCode
+translations:
+  zh-CN: https://youngforest.github.io/2019/04/14/LeetCode-weekly-contest-132/
+  en: https://youngforest.github.io/en/2019/04/14/LeetCode-weekly-contest-132/
 ---
-
 本次比赛不难，但代码实现起来不易。不容易一次写到bug-free。考察的是用编程语言处理复杂的逻辑，和各种意外情况。比如 第3题，当前一个dp为0时，长度应该更新为2，除此之外，dp+1。第四题，在各种情况下寻找分隔符时，没有找到，应该如何处理。
 
 | Rank |	Name |	Score |	Finish Time | 	Q1 (4) |	Q2 (5) |	Q3 (5) |	Q4 (5)|

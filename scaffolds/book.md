@@ -1,6 +1,7 @@
 ---
 title: {{ title }}
 date: {{ date }}
+description:
 tags:
 - Reading
 categories:
@@ -23,6 +24,10 @@ book:
 [豆瓣链接]()
 
 <!-- 一段话总评：核心观点 + 推荐与否 + 推荐理由 -->
+
+<!-- 可选首图：使用 illustrations/README.md 中的 editorial-illustration 结构。 -->
+
+<!-- more -->
 
 
 ## 主要观点

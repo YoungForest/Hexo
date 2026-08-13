@@ -5,6 +5,9 @@ tags:
 - benchmark
 categories:
 - Laboratory
+translations:
+  zh-CN: https://youngforest.github.io/2017/01/14/pressure-test-to-CPU-memory-disk-network-IO/
+  en: https://youngforest.github.io/en/2017/01/14/pressure-test-to-CPU-memory-disk-network-IO/
 ---
 近来实验室的师兄有个需求, 写4个小程序, 分别对内存, CPU, 硬盘, 网络进行压力测试, 要求测试程序有压力档位可以调, 比如压力可以分为大, 中, 小. 二话不说, 撸起袖子加油干. 需求很简单, 但实现起来却并不简单, 笔者边学习, 边写程序, 才勉强完成任务. 
 

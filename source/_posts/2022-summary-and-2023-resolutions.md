@@ -6,8 +6,10 @@ tags:
   - 年终总结
 categories:
   - dairy
+translations:
+  zh-CN: https://youngforest.github.io/2022/12/25/2022-summary-and-2023-resolutions/
+  en: https://youngforest.github.io/en/2022/12/25/2022-summary-and-2023-resolutions/
 ---
-
 转身之间，2022年已经要过去了。不知道是因为疫情限制地原因，还是因为自己本身年级大了。感觉现在是时光飞逝，真的如白驹过隙。古人诚不欺我。
 
 之前的年终总结：

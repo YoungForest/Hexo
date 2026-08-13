@@ -5,8 +5,10 @@ tags:
 - Competitive Programming
 categories:
 - LeetCode
+translations:
+  zh-CN: https://youngforest.github.io/2018/12/19/LeetCode-weekly-contest-115/
+  en: https://youngforest.github.io/en/2018/12/19/LeetCode-weekly-contest-115/
 ---
-
 有些日子没有参加LeetCode的weekly contest了，最近由于准备一月末的Google电话面试，需要重新把算法捡起来。复习算法书是一部分，另一手就是准备刷题啦。由于时间有限，LeetCode的weekly contest不失为一个更好的选择。因为contest有时间限制，和实际面试更像。
 weekly contest时长为1个半小时，4道不同难度的题目，每周末10点半开始(之前是9点半，可能是因为美国冬令时的原因，所以后沿了一小时)。
 和之前一样，只完成了2道题目，第三道题有些思路(后来证明不对)，第四题看了下题目，果断放弃。

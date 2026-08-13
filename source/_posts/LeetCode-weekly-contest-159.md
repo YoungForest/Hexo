@@ -5,8 +5,10 @@ tags:
 - Competitive Programming
 categories:
 - LeetCode
+translations:
+  zh-CN: https://youngforest.github.io/2019/10/21/LeetCode-weekly-contest-159/
+  en: https://youngforest.github.io/en/2019/10/21/LeetCode-weekly-contest-159/
 ---
-
 ## 1232. Check If It Is a Straight Line
 
 依次检查3个点是否共线。

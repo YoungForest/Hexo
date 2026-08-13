@@ -6,8 +6,10 @@ tags:
 - 全球通史
 categories:
 - 读后感
+translations:
+  zh-CN: https://youngforest.github.io/2023/10/01/A-Global-History-From-Prehistory-to-the-21st-Century/
+  en: https://youngforest.github.io/en/2023/10/01/A-Global-History-From-Prehistory-to-the-21st-Century/
 ---
-
 [豆瓣链接 全球通史 从史前史到21世纪 A Global History: From Prehistory to the 21st Century](https://book.douban.com/subject/10583099/)
 
 强烈推荐每一个中国人阅读这本书，可能有些大部头，有些地方也比较简略。毕竟是全球通史，无法做到面面俱到。但读完之后，收获是巨大的。尤其是对于“生在红旗下，长在新中国”的我，从小学习的历史都是人教版历史课本。就算看些课外书，也是基于中国人的视角和经验，他们有着类似的教育和文化背景。本书是一个生在加拿大，后来又在美国执教的美国人写成，可以算是完全的西方视角。从这个角度，可以对我们之前的历史教育去媚化，减少意识形态的影响，更加接近现代历史。

@@ -5,8 +5,10 @@ tags:
 - Competitive Programming
 categories:
 - LeetCode
+translations:
+  zh-CN: https://youngforest.github.io/2019/07/21/LeetCode-weekly-contest-146/
+  en: https://youngforest.github.io/en/2019/07/21/LeetCode-weekly-contest-146/
 ---
-
 今天由于高中同学xl来北京找我聊，和hcq一起吃了午饭和晚饭，并聊了一下午。上午的contest只匆匆做了签到题。第二题因为粗心，写错了`red`变化的时机，也没有时间调试。后2题干脆没有看。
 晚上回来9点才把题目补完，第二题的bug也调出来了。
 不过时间上应该是超时了。

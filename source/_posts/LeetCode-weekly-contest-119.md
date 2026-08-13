@@ -5,8 +5,10 @@ tags:
 - Competitive Programming
 categories:
 - LeetCode
+translations:
+  zh-CN: https://youngforest.github.io/2019/01/13/LeetCode-weekly-contest-119/
+  en: https://youngforest.github.io/en/2019/01/13/LeetCode-weekly-contest-119/
 ---
-
 这次contest做的比较惨，排名大致是1486 / 3845。出现的问题有：
 - 第二题，比较简单。由于是easy的题目，直接brute force了，结果TLE一次。之前由于粗心，for循环条件中的变量还写错了一次。导致2次罚时。
 - 第三题，也不是很难，但最后并没有想到O(n)的解法。只想到了O(n ^ 2)的。想到了要算前缀和，也注意到了divisible这一关键词。但并没有联想到前缀和相等就可以这一关键点。

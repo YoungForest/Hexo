@@ -5,8 +5,10 @@ tags:
 - travel
 categories:
 - dairy
+translations:
+  zh-CN: https://youngforest.github.io/2022/12/15/Netherlands-Visa-from-Ireland/
+  en: https://youngforest.github.io/en/2022/12/15/Netherlands-Visa-from-Ireland/
 ---
-
 ![荷兰签证效果图](/images/NetherlandsVisa.jpg)
 
 终于在都柏林拿到心心念念的荷兰申根签证了，短期访问亲友签。

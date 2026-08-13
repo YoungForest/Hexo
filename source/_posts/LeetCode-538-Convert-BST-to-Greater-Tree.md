@@ -4,8 +4,10 @@ date: 2018-09-14 19:15:07
 tags:
 categories:
 - LeetCode
+translations:
+  zh-CN: https://youngforest.github.io/2018/09/14/LeetCode-538-Convert-BST-to-Greater-Tree/
+  en: https://youngforest.github.io/en/2018/09/14/LeetCode-538-Convert-BST-to-Greater-Tree/
 ---
-
 Description: https://leetcode.com/problems/convert-bst-to-greater-tree/description/
 Solution: https://leetcode.com/problems/convert-bst-to-greater-tree/solution/
 Difficulty: Easy

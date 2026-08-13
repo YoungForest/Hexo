@@ -5,8 +5,10 @@ tags:
 - Competitive Programming
 categories:
 - LeetCode
+translations:
+  zh-CN: https://youngforest.github.io/2021/03/21/LeetCode-biweekly-contest-48/
+  en: https://youngforest.github.io/en/2021/03/21/LeetCode-biweekly-contest-48/
 ---
-
 耽误了比赛，赛后补题。
 
 ## 1796. Second Largest Digit in a String

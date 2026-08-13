@@ -5,6 +5,9 @@ tags:
 - sublime
 categories:
 - 折腾
+translations:
+  zh-CN: https://youngforest.github.io/2017/01/18/sublime-personlize/
+  en: https://youngforest.github.io/en/2017/01/18/sublime-personlize/
 ---
 **[摘要]** [sublime text3](https://www.sublimetext.com/)是一款强大的editor, 我从大二下开始正式使用, 经过半年的不断摸索, 将sublime配置成为个性化的editor, 满足了我日常编码的大部分需求.
 

@@ -5,9 +5,10 @@ tags:
 - Competitive Programming
 categories:
 - KickStart
+translations:
+  zh-CN: https://youngforest.github.io/2019/07/28/kick-start-2019-round-D/
+  en: https://youngforest.github.io/en/2019/07/28/kick-start-2019-round-D/
 ---
-
-
 排名: 765 / 1866.
 
 ## X or What

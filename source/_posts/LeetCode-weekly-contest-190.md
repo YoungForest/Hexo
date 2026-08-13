@@ -5,8 +5,10 @@ tags:
 - Competitive Programming
 categories:
 - LeetCode
+translations:
+  zh-CN: https://youngforest.github.io/2020/05/24/LeetCode-weekly-contest-190/
+  en: https://youngforest.github.io/en/2020/05/24/LeetCode-weekly-contest-190/
 ---
-
 昨晚老爸帮我掏耳朵，一不小心掏出了血。今天一大早就去地区医院检查，还好并无大碍，只损伤了外耳道，休息一周，自然痊愈就好了。只要不感染，就没问题。开了些阿姆西林吃了。
 所以鸽了周赛，赛后补题。
 

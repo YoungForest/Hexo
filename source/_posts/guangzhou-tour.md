@@ -6,8 +6,10 @@ tags:
 - 游记
 categories:
 - dairy
+translations:
+  zh-CN: https://youngforest.github.io/2018/10/09/guangzhou-tour/
+  en: https://youngforest.github.io/en/2018/10/09/guangzhou-tour/
 ---
-
 国庆节后，我和二师兄有机会前往广东，依次游览了广州、澳门 和 香港。10月6号从北京出发，坐10个小时高铁，来到广州南站，之后落塌广东大厦。
 
 ## 广州

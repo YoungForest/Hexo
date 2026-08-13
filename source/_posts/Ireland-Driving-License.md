@@ -1,13 +1,16 @@
 ---
 title: 爱尔兰驾照申请 Ireland Driving License Application
+description: "记录在爱尔兰申请驾照的流程、材料、考试与容易踩坑的细节。"
 date: 2023-06-10 11:50:50
 tags:
 - Ireland
 - Life
 categories:
 - 爱尔兰
+translations:
+  zh-CN: https://youngforest.github.io/2023/06/10/Ireland-Driving-License/
+  en: https://youngforest.github.io/en/2023/06/10/Ireland-Driving-License/
 ---
-
 爱尔兰作为一个岛国，公共交通不甚发达，城市也十分小。拥有一辆汽车对长期生活的质量提高十分重要。尤其是如果你打算成家的话，没有车肯定是十分不方便的。所以，我来爱尔兰不久，就开始了驾照申请之旅。
 不像国内报个驾校，交一次钱 就有完整的服务。爱尔兰的驾照申请流程还算比较复杂，需要自己一步步去办理。
 这篇博文就是记录申请流程和攻略，方便在爱华人。

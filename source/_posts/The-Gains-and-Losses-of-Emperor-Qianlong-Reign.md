@@ -6,11 +6,15 @@ tags:
 - 饥饿的盛世乾隆时代的得与失
 categories:
 - 读后感
+translations:
+  zh-CN: https://youngforest.github.io/2026/01/01/The-Gains-and-Losses-of-Emperor-Qianlong-Reign/
+  en: https://youngforest.github.io/en/2026/01/01/The-Gains-and-Losses-of-Emperor-Qianlong-Reign/
 ---
-
 [豆瓣链接](https://book.douban.com/subject/35888701/)
 
-# 盛世的前奏是衰世，结局也是衰世
+## 盛世的前奏是衰世，结局也是衰世
+
+<!-- more -->
 
 >君权像恶性肿瘤一样，是世界上最具扩张性的事务之一，它不允许人和独立的事务存在。专制权力的独占性本质驱使它永远努力冲破一切限制，挣脱所有束缚，深入社会每一个角落，毒化每一个细胞，直至最后整个社会在它的紧紧拥抱中窒息而死。士人的人格追求，在专职达到极峰的清代就成了君权的障碍。
 

@@ -5,8 +5,10 @@ tags:
 - Competitive Programming
 categories:
 - LeetCode
+translations:
+  zh-CN: https://youngforest.github.io/2019/10/04/LeetCode-weekly-contest-156/
+  en: https://youngforest.github.io/en/2019/10/04/LeetCode-weekly-contest-156/
 ---
-
 赛后补题。
 
 ## 1207. Unique Number of Occurrences

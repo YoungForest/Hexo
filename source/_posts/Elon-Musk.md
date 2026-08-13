@@ -6,8 +6,10 @@ tags:
 - 埃隆·马斯克传
 categories:
 - 读后感
+translations:
+  zh-CN: https://youngforest.github.io/2024/03/07/Elon-Musk/
+  en: https://youngforest.github.io/en/2024/03/07/Elon-Musk/
 ---
-
 [豆瓣链接](https://book.douban.com/subject/36518892/)
 
 放弃英文版，转到翻译版果然是个正确的选择。38万字，一周看完，太爽了。尤其是从2000后第一个十年那段，关于SpaceX和Tesla的初创阶段，真的是振奋人心，改变人类历史进程的冒险。相比原版，是有些删减的，主要是关于中国部分。我对照着看了下，其实不多，为了过审可以理解。

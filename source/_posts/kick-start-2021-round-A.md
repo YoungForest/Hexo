@@ -5,8 +5,10 @@ tags:
 - Competitive Programming
 categories:
 - KickStart
+translations:
+  zh-CN: https://youngforest.github.io/2021/03/22/kick-start-2021-round-A/
+  en: https://youngforest.github.io/en/2021/03/22/kick-start-2021-round-A/
 ---
-
 | ID | score | rank | K-Goodness String | L Shaped Plots | Rabbit House | Checksum | Penalty Time |
 |--|--|--|--|--|--|--|--|
 | YoungForest | 56 | 1295 | 5 + 7 | 8 + 12 | 9 + 15 | 0 | 1:40:55 |

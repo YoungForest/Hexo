@@ -1,12 +1,15 @@
 ---
 title: 硕士3年复盘
+description: "复盘三年硕士生活中的学习、研究、实习与选择，记录成长也保留遗憾。"
 date: 2021-07-03 10:41:38
 tags:
 - life
 categories:
 - dairy
+translations:
+  zh-CN: https://youngforest.github.io/2021/07/03/my-3-years-master/
+  en: https://youngforest.github.io/en/2021/07/03/my-3-years-master/
 ---
-
 本科毕业时，我写了4年的总结：[大学4年复盘](https://youngforest.github.io/2018/10/03/my-4-years-college/). 现在转眼之间3年过去了，我已研究生毕业，即将进入职场。
 
 

@@ -6,8 +6,10 @@ tags:
 - intern
 categories:
 - interview
+translations:
+  zh-CN: https://youngforest.github.io/2018/12/09/sensetime-intern-interview/
+  en: https://youngforest.github.io/en/2018/12/09/sensetime-intern-interview/
 ---
-
 上周给在商汤实习的同学发了简历，和HR约了本周四的面试，周五就又接到HR的电话，商议Offer的事宜。不得不说，商汤招聘的效率还是很高的。这也从另一个侧面反应出，其十分缺人手的事实。很多商汤的同学都在询问我，有没有其他的同学可以推荐过来实习。
 商汤校友被誉为“北航实验室”。因为其招聘了大量的北航实习生，正式员工很多也是实习生直接转正的，本科的时候，就有几乎一个班都在那里实习。
 而我面试的时候，推我的是我的一个一直在那里实习的同学，一面的面试官是我大三编译实验课的助教，二三面的面试官也都是我的本科同学。可以说，如果你是北航的学生，那么进入商汤会比其他学校容易很多。

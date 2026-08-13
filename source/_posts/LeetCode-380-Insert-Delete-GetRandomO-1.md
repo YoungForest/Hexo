@@ -4,8 +4,10 @@ date: 2018-10-26 23:19:20
 tags:
 - LeetCode
 categories:
+translations:
+  zh-CN: https://youngforest.github.io/2018/10/26/LeetCode-380-Insert-Delete-GetRandomO-1/
+  en: https://youngforest.github.io/en/2018/10/26/LeetCode-380-Insert-Delete-GetRandomO-1/
 ---
-
 此题的重点在于理解“average O(1) time”，这是也是时间复杂度分析中的一个重要概念"amortized"。
 在 算法第4版 中，很多数据结构的操作的分析都是用的这个方法。所以，“amortized time complexity"常常和对应的数据结构的操作相对应。我5月时面试旷世科技的时候，第二题问的是构造一个维护最大值的队的数据结构，最后要求操作的时间复杂度是“amortized O(1)"。很遗憾，当时我对“amortized"这一概念还不熟悉，对最差情况下的时间复杂度分析的倒是可以，虽然在面试官的引导下最后得出正确答案，但可想而知，最后的结果是no hire。
 

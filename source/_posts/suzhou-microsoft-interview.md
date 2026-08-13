@@ -7,8 +7,10 @@ tags:
 categories:
 - interview
 mathjax: true
+translations:
+  zh-CN: https://youngforest.github.io/2018/06/01/suzhou-microsoft-interview/
+  en: https://youngforest.github.io/en/2018/06/01/suzhou-microsoft-interview/
 ---
-
 在@lxc师兄的内推下，我有幸可以前往 苏州微软，面试O365部门的暑期实习生。虽然最后失败了，但从这次失败的经历中，我学习到很多。
 总结在此，为未来的找实习和工作做准备。
 

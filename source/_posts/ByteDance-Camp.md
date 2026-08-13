@@ -6,8 +6,10 @@ tags:
 - interview
 categories:
 - dairy
+translations:
+  zh-CN: https://youngforest.github.io/2019/09/06/ByteDance-Camp/
+  en: https://youngforest.github.io/en/2019/09/06/ByteDance-Camp/
 ---
-
 总的体验是很开心，收获很大。
 
 很幸运可以参加今年的Byte Camp，我认为这一周的活动是我今年参加过的最有意义的活动了。今年的夏令营共分为3个赛道：工程、算法、和 产品。我参加的是工程赛道。

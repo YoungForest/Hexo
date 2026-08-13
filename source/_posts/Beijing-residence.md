@@ -6,8 +6,10 @@ tags:
 - 户口
 categories:
 - Life
+translations:
+  zh-CN: https://youngforest.github.io/2022/01/12/Beijing-residence/
+  en: https://youngforest.github.io/en/2022/01/12/Beijing-residence/
 ---
-
 户口作为中国特色的制度，一直以来是人们考虑工作、生活、定居的重要内容。从三十年前父辈们费尽心机从农村户口转到城市户口，到现在的我们，为了北京户口而煞费苦心。很多东西变了，但又有些东西没变。
 
 幸运的是，北京市今年也出台了[《户口新规》](http://rsj.beijing.gov.cn/xxgk/zcwj/202107/t20210712_2433865.html)。大多数内容都没变，只是其中的“单列指标”给了我们机会。

@@ -4,6 +4,9 @@ on:
   push:
     branches:
       - master
+  pull_request:
+    branches:
+      - master
 
 env:
   GIT_USER: YoungForest
@@ -36,6 +39,7 @@ jobs:
           path: themes/next
 
       - name: Checkout deploy repo
+        if: github.event_name == 'push' && github.ref == 'refs/heads/master'
         uses: actions/checkout@v4
         with:
           repository: ${{ env.DEPLOY_REPO }}
@@ -46,23 +50,33 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: ${{ matrix.node_version }}
+          cache: npm
 
       - name: Configuration environment
-        env:
-          HEXO_DEPLOY_PRI: ${{secrets.HEXO_DEPLOY_PRI}}
         run: |
           sudo timedatectl set-timezone "Asia/Shanghai"
+          git config --global user.name "$GIT_USER"
+          git config --global user.email "$GIT_EMAIL"
+
+      - name: Configure deploy authentication
+        if: github.event_name == 'push' && github.ref == 'refs/heads/master'
+        env:
+          HEXO_DEPLOY_PRI: ${{ secrets.HEXO_DEPLOY_PRI }}
+        run: |
           mkdir -p ~/.ssh/
           echo "$HEXO_DEPLOY_PRI" > ~/.ssh/id_rsa
           chmod 600 ~/.ssh/id_rsa
           ssh-keyscan github.com >> ~/.ssh/known_hosts
-          git config --global user.name $GIT_USER
-          git config --global user.email $GIT_EMAIL
 
       - name: Install dependencies
-        run: |
-          npm install
+        run: npm ci
+
+      - name: Validate content
+        run: npm run validate:content
+
+      - name: Build hexo
+        run: npm run build
 
       - name: Deploy hexo
-        run: |
-          npm run deploy
+        if: github.event_name == 'push' && github.ref == 'refs/heads/master'
+        run: npm run deploy

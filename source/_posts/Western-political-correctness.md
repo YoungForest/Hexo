@@ -5,8 +5,10 @@ tags:
 - life
 categories:
 - dairy
+translations:
+  zh-CN: https://youngforest.github.io/2022/11/19/Western-political-correctness/
+  en: https://youngforest.github.io/en/2022/11/19/Western-political-correctness/
 ---
-
 ![Green Book](/images/green-book.jpg)
 
 无论是在国内时看国内的新闻，还是来到爱尔兰后的真实感受，政治正确都是西方一个很明显的特点。国内普遍的观点是政治正确比较愚蠢，属于自掘坟墓，然而来了这里发现，他们本身竟以此为豪。今天就分享一些我自己关于政治正确的一些原因分析和看法。

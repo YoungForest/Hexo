@@ -6,8 +6,10 @@ tags:
 - 六神磊磊读唐诗
 categories:
 - 读后感
+translations:
+  zh-CN: https://youngforest.github.io/2024/07/25/Liu-Shen-Lei-Lei-Du-Tang-Shi/
+  en: https://youngforest.github.io/en/2024/07/25/Liu-Shen-Lei-Lei-Du-Tang-Shi/
 ---
-
 有种“当年明月”的“明朝那些事儿”的感觉呀。不知道是刻意模仿，还是无意为之。
 
 经常和金庸小说互动，尤其是同样的“悲天悯人”。

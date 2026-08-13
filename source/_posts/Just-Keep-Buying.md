@@ -6,8 +6,10 @@ tags:
 - 持续买进
 categories:
 - 读后感
+translations:
+  zh-CN: https://youngforest.github.io/2024/03/16/Just-Keep-Buying/
+  en: https://youngforest.github.io/en/2024/03/16/Just-Keep-Buying/
 ---
-
 [豆瓣链接](https://book.douban.com/subject/35871073/)
 
 很不错的投资书籍，和“金钱心理学”有些像。用很多数据和回测说服读者。

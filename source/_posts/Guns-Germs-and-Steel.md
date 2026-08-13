@@ -6,8 +6,10 @@ tags:
 - 枪炮、病菌与钢铁
 categories:
 - 读后感
+translations:
+  zh-CN: https://youngforest.github.io/2024/01/08/Guns-Germs-and-Steel/
+  en: https://youngforest.github.io/en/2024/01/08/Guns-Germs-and-Steel/
 ---
-
 [豆瓣链接 Guns, Germs, and Steel: The Fates of Human Societies](https://book.douban.com/subject/35714810/)
 
 为什么当今国际社会如此？（也就是书中新几内亚农民土著 亚力问的问题）欧亚大陆及欧亚大陆的移民地（如北美、澳洲）占主导。近因是1492年开始的大航海时代，欧洲人带着枪炮（马匹）、病菌、钢铁（各种技术）和先进的政治体制（如 国家），开启了殖民时代，同期配合西欧的工业革命，奠定了西方社会当今的领先状态。而后起之秀是 东亚（日韩中）和南亚（印度）、东南亚（越南、印尼），他们要么已经成为发达国家，要么是发展的很快的。而非洲（尤其是撒哈拉以南）仍处于贫困。这些近因一目了然，讨论也很多。

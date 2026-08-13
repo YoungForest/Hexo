@@ -5,8 +5,10 @@ tags:
 - Competitive Programming
 categories:
 - LeetCode
+translations:
+  zh-CN: https://youngforest.github.io/2021/09/25/LCCUP-21-Fall-Team/
+  en: https://youngforest.github.io/en/2021/09/25/LCCUP-21-Fall-Team/
 ---
-
 | Rank |	Name |	Score |	Finish Time | 	Q1 (2) |	Q2 (4) |	Q3 (6) |	Q4 (7)| Q5 (8) | Q6(9) |
 |--|--|--|--|--|--|--|--|--|--|
 | 81 / 1363 | 爸爸去哪儿 | 19/37 | 	1:07:44 | 0:03:40 by 爸 | 0:21:39 by 爸 | 0:53:13 by 宝  | 1:02:44 🐞 1 by 爸 | null | null |

@@ -6,8 +6,10 @@ tags:
 - intern
 categories:
 - interview
+translations:
+  zh-CN: https://youngforest.github.io/2020/02/27/Bytedance-Ads-backend-intern-interview/
+  en: https://youngforest.github.io/en/2020/02/27/Bytedance-Ads-backend-intern-interview/
 ---
-
 * HashMap
 * 数据库
     * 索引、优化、事务

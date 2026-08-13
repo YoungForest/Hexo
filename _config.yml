@@ -5,7 +5,7 @@
 # Site
 title: YoungForest's blog
 subtitle:
-description: 佛系更新；生活、学习
+description: 软件工程师，记录技术、阅读、投资与生活
 author: YoungForest
 language: 
 - zh-CN
@@ -71,6 +71,14 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: next
 # landscape
+
+# Automatic fallback for posts without an explicit <!-- more --> marker.
+# Three top-level blocks keeps the index scannable without cutting sentences.
+excerpt:
+  depth: 3
+  excerpt_excludes: []
+  more_excludes: []
+  hideWholePostExcerpts: true
 
 # Markdown renderer (hexo-renderer-markdown-it)
 # Switched from hexo-renderer-markdown-it-plus to clear unmaintained

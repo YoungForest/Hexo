@@ -5,8 +5,10 @@ tags:
 - Competitive Programming
 categories:
 - LeetCode
+translations:
+  zh-CN: https://youngforest.github.io/2020/02/09/LeetCode-weekly-contest-175/
+  en: https://youngforest.github.io/en/2020/02/09/LeetCode-weekly-contest-175/
 ---
-
 本周由于眼镜坏掉了，不在状态。在家吃饭也晚，所以题目并没有做完。
 
 | Rank |	Name |	Score |	Finish Time | 	Q1 (3) |	Q2 (4) |	Q3 (5) |	Q4 (6)|

@@ -6,8 +6,10 @@ tags:
 - New Graduate
 categories:
 - interview
+translations:
+  zh-CN: https://youngforest.github.io/2020/06/23/Bytedance-new-graduate-interview/
+  en: https://youngforest.github.io/en/2020/06/23/Bytedance-new-graduate-interview/
 ---
-
 我字节跳动提前批投了 技术中台 的 后端开发岗位。
 计算机基础没复习到位，答得不好。
 许愿offer。

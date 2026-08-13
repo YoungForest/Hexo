@@ -5,8 +5,10 @@ categories:
 - 折腾
 tags:
 - Hexo
+translations:
+  zh-CN: https://youngforest.github.io/2021/02/25/Google-AdSense-for-hexo-next/
+  en: https://youngforest.github.io/en/2021/02/25/Google-AdSense-for-hexo-next/
 ---
-
 ## 动机
 
 最近由于看了“半佛仙人”的一些视频，我对钱更感兴趣了。除了拿出积蓄的一部分投资A股外，还想着怎么提高被动收入。自己一直有写博客的习惯，写了有5年多，攒了一百余篇文章。虽然每日浏览量只有几十，但苍蝇再小也是肉。参照大佬的一些经验，尝试着通过投放广告来牟利。

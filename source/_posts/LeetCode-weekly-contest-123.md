@@ -5,8 +5,10 @@ tags:
 - Competitive Programming
 categories:
 - LeetCode
+translations:
+  zh-CN: https://youngforest.github.io/2019/02/10/LeetCode-weekly-contest-123/
+  en: https://youngforest.github.io/en/2019/02/10/LeetCode-weekly-contest-123/
 ---
-
 本次比赛是春节后的第一次。
 
 989. Add to Array-Form of Integer

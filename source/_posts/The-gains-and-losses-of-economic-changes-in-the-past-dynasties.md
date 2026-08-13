@@ -6,6 +6,9 @@ tags:
 - 历代经济变革得失
 categories:
 - 读后感
+translations:
+  zh-CN: https://youngforest.github.io/2024/01/29/The-gains-and-losses-of-economic-changes-in-the-past-dynasties/
+  en: https://youngforest.github.io/en/2024/01/29/The-gains-and-losses-of-economic-changes-in-the-past-dynasties/
 ---
 [豆瓣链接](https://book.douban.com/subject/24851460/)
 

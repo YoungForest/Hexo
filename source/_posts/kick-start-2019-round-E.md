@@ -5,8 +5,10 @@ tags:
 - Competitive Programming
 categories:
 - KickStart
+translations:
+  zh-CN: https://youngforest.github.io/2019/08/29/kick-start-2019-round-E/
+  en: https://youngforest.github.io/en/2019/08/29/kick-start-2019-round-E/
 ---
-
 ## Cherries Mesh
 
 Minimum spanning tree.

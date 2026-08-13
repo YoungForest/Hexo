@@ -6,8 +6,10 @@ tags:
 - intern
 categories:
 - interview
+translations:
+  zh-CN: https://youngforest.github.io/2020/03/09/Alibaba-Ant-backend-intern-interview/
+  en: https://youngforest.github.io/en/2020/03/09/Alibaba-Ant-backend-intern-interview/
 ---
-
 # 一面
 
 time: 2020-03-09 16:45:44

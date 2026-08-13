@@ -8,11 +8,15 @@ tags:
 - 塔勒布
 categories:
 - 读后感
+translations:
+  zh-CN: https://youngforest.github.io/2026/01/01/Skin-in-the-Game-Hidden-Asymmetries-in-Daily-Life/
+  en: https://youngforest.github.io/en/2026/01/01/Skin-in-the-Game-Hidden-Asymmetries-in-Daily-Life/
 ---
-
 [豆瓣链接](https://book.douban.com/subject/30417612/)
 
 之前读过“反脆弱”，惊为天人，名不虚传 。但这 不确定系列 的最后一本，“非对称风险”，却显的没那么有新知识和令人惊讶。很多时候看的有些糊涂，应该是江郎才尽了吧。毕竟出世退休这么久了，核心观点也输出的差不多了。翻译的也差强人意，尤其是这个题目。还是原先的 Skin in game，好得多。
+
+<!-- more -->
 
 >罗伯特·鲁宾 的勾当. 有人也许觉得推翻我们头上的贵族就意味着文明与进步，事实可能并非如此。
 

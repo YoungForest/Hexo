@@ -5,8 +5,10 @@ tags:
 - Competitive Programming
 categories:
 - LeetCode
+translations:
+  zh-CN: https://youngforest.github.io/2018/12/30/LeetCode-weekly-contest-117/
+  en: https://youngforest.github.io/en/2018/12/30/LeetCode-weekly-contest-117/
 ---
-
 今天参加LeetCode weekly contest 117, 采取了不同的策略：边做题边写博客总结。期望这样可以真实地记录所思所想，提高写博客的效率。因为之前2次，事后写博客总是耽误几天时间才写完。
 
 ## 965. Univalued Binary Tree

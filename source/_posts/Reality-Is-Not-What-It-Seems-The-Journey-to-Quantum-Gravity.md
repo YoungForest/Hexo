@@ -6,8 +6,10 @@ tags:
 - 现实不似你所见-量子引力之旅
 categories:
 - 读后感
+translations:
+  zh-CN: https://youngforest.github.io/2024/03/01/Reality-Is-Not-What-It-Seems-The-Journey-to-Quantum-Gravity/
+  en: https://youngforest.github.io/en/2024/03/01/Reality-Is-Not-What-It-Seems-The-Journey-to-Quantum-Gravity/
 ---
-
 [豆瓣链接](https://book.douban.com/subject/27156306/)
 
 又一本读起来很爽，欲罢不能的书。除了熟悉的希腊哲学到经典物理，再到现代物理（相对论和量子物理）的故事（书中讲的相对简略些，但有不同的角度。这部分也可以看[曹天元](https://book.douban.com/author/243729/)的[“**上帝掷骰子吗**"](https://book.douban.com/subject/1467022/)，同样十分精彩，讲的故事更多），本书主要重点讲了最前沿的“圈量子引力学”，也即试图融合相对论和量子力学的一个理论。作者目前更相信这个圈理论，而不是当今火热的弦/膜理论。当然，这些是已知和未知的交界，目前还没有绝对的优势和证据确定哪方是正确的。

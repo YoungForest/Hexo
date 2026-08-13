@@ -5,8 +5,10 @@ tags:
 - travel
 categories:
 - dairy
+translations:
+  zh-CN: https://youngforest.github.io/2016/08/25/my-britain-trip/
+  en: https://youngforest.github.io/en/2016/08/25/my-britain-trip/
 ---
-
 今年暑假，有幸参加我航高等工程学院和剑桥东方交流会联合承办的英国交流营。该交流营为期两周，内容充实，形式多样，让我深刻了解了英国的人文文化和中国人留学情况，圆满完成自己行前的目标。接下来，我就整个整理进行整理，分享给大家，希望对大家有所帮助。
 
 <!--more-->

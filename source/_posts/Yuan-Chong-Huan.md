@@ -6,8 +6,10 @@ tags:
 - 碧血剑
 categories:
 - 读后感
+translations:
+  zh-CN: https://youngforest.github.io/2023/08/20/Yuan-Chong-Huan/
+  en: https://youngforest.github.io/en/2023/08/20/Yuan-Chong-Huan/
 ---
-
 [豆瓣链接 碧血剑](https://book.douban.com/subject/1055976/)
 小说本身6分，但后附的《袁崇焕评传》写的十分好，有历史，也有金庸的评论。关键是很多关于明亡观点和我不谋而合。值得10分。 感想颇多，短评装不下。写了一个[很长的书评](https://book.douban.com/review/15397152/)
 

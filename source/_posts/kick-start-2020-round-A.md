@@ -5,8 +5,10 @@ tags:
 - Competitive Programming
 categories:
 - KickStart
+translations:
+  zh-CN: https://youngforest.github.io/2020/03/22/kick-start-2020-round-A/
+  en: https://youngforest.github.io/en/2020/03/22/kick-start-2020-round-A/
 ---
-
 新一年的kick start有了些许变化：
 1. 所有测试结果正确与否立即返回。之前是大的数据集的测试结果赛后才能看到。相当于是降低了难度，减少了参赛者失误的代价。之前发生一点失误的话，大数据集的分数就没了。现在相当于是增加了一次罚时。
 2. 题目从3到变成了4道，时间不变，增加了一道送分题。

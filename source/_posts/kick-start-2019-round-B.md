@@ -5,8 +5,10 @@ tags:
 - Competitive Programming
 categories:
 - KickStart
+translations:
+  zh-CN: https://youngforest.github.io/2019/07/24/kick-start-2019-round-B/
+  en: https://youngforest.github.io/en/2019/07/24/kick-start-2019-round-B/
 ---
-
 赛后补的题解。
 [题目链接](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050eda)
 

@@ -4,6 +4,9 @@ date: 2017-12-12 20:32:52
 tags:
 - git
 categories:
+translations:
+  zh-CN: https://youngforest.github.io/2017/12/12/work-with-two-github-accounts/
+  en: https://youngforest.github.io/en/2017/12/12/work-with-two-github-accounts/
 ---
 笔者3个月前来到[偶数科技公司](http://www.oushu.io/)实习，学习工作都用公司配的Mac。一分价钱一分货，Mac确实比自己15年买的5000RMB的HP好用多了。所以除了工作之外，学习和实验室的任务也渐渐迁移到Mac上。现在遇到的一个比较棘手的问题是，如何使自己工作的GitHub账号与个人的账号不冲突，同时方便地使用。
 

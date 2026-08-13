@@ -5,8 +5,10 @@ tags:
 - tech
 categories:
 - 折腾
+translations:
+  zh-CN: https://youngforest.github.io/2021/03/26/SSH-proxy-by-jump-server/
+  en: https://youngforest.github.io/en/2021/03/26/SSH-proxy-by-jump-server/
 ---
-
 ## 动机
 
 接上篇[解决台式机Ubuntu VPN访问公网资源](https://youngforest.github.io/2021/03/18/Ubuntu-vpn-cannot-access-public-resource/)的问题后，我尝试了配置跳板机访问杭研院机器。

@@ -5,8 +5,10 @@ tags:
 - Competitive Programming
 categories:
 - LeetCode
+translations:
+  zh-CN: https://youngforest.github.io/2019/08/31/LeetCode-weekly-contest-151/
+  en: https://youngforest.github.io/en/2019/08/31/LeetCode-weekly-contest-151/
 ---
-
 这周去字节跳动参加夏令营了，周日还需要上课，所以就鸽了周赛。那你怎么能参加kick start呢？毕竟本月的round E是所谓的黄金轮次，对面试获取名额很重要，所以我选择翘掉夏令营。
 
 夏令营结束后，按约补题。不得不说，LeetCode比Kick start的难度还是要低不少的。感觉Kick start的签到题难度是Medium，后2题是Hard。

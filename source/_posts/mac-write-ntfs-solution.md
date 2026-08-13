@@ -5,8 +5,10 @@ tags:
 - Mac
 categories:
 - Tech
+translations:
+  zh-CN: https://youngforest.github.io/2019/11/11/mac-write-ntfs-solution/
+  en: https://youngforest.github.io/en/2019/11/11/mac-write-ntfs-solution/
 ---
-
 使用Mac系统确实存在一些不方便的地方，比如 写入 NTFS的硬盘或U盘。默认情况下，MAC 只支持读取NTFS。不过只要你有勇气折腾，解决方案还是很简单的。
 
 ## 最推荐方法

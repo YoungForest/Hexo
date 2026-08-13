@@ -5,8 +5,10 @@ tags:
   - Windows
 categories:
   - 折腾
+translations:
+  zh-CN: https://youngforest.github.io/2017/08/12/optimize-cortana-in-searching-local-files-and-folders/
+  en: https://youngforest.github.io/en/2017/08/12/optimize-cortana-in-searching-local-files-and-folders/
 ---
-
 ## Problem description
 When I used the Cortana, the personal assistant of Windows 10, I found that it is confusing that searching 
 function worked badly sometimes but well sometimes. To improve my productivity, I googled this problem and 

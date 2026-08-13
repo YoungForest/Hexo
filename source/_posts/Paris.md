@@ -6,8 +6,10 @@ tags:
 - 游记
 categories:
 - dairy
+translations:
+  zh-CN: https://youngforest.github.io/2019/09/30/Paris/
+  en: https://youngforest.github.io/en/2019/09/30/Paris/
 ---
-
 上周五赶上了9月27日比利时的法语区节日，学校放假，连上周末，我们恰好有3天的假期。在上上周从阿姆斯特丹回来的火车上，我们就定下了本次的去巴黎之旅。本次旅行的成员有：我、zfn、lsd、wyd。
 
 总的感受是：我太喜欢巴黎了，我爱巴黎.

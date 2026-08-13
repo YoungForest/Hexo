@@ -1,13 +1,16 @@
 ---
 title: '反脆弱 从不确定性中获益'
+description: "从随机性、试错与冗余出发，记录《反脆弱》带来的关键启发与现实联想。"
 date: 2024-08-24 10:31:57
 tags:
 - Reading
 - 反脆弱
 categories:
 - 读后感
+translations:
+  zh-CN: https://youngforest.github.io/2024/08/24/Antifragile-Things-That-Gain-from-Disorder/
+  en: https://youngforest.github.io/en/2024/08/24/Antifragile-Things-That-Gain-from-Disorder/
 ---
-
 ![反脆弱中的压力与恢复力](/images/ai/Antifragile-Things-That-Gain-from-Disorder/zh-hero.webp)
 
 保守主义，自由主义，乐观主义 的盛宴。

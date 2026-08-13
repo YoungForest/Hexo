@@ -5,6 +5,9 @@ tags:
 - LeetCode
 categories:
 - Programming
+translations:
+  zh-CN: https://youngforest.github.io/2019/02/17/Queue-and-Stack/
+  en: https://youngforest.github.io/en/2019/02/17/Queue-and-Stack/
 ---
 今天我们一起学习2种重要的数据结构：队列 和 栈。
 本文根据LeetCode上的Explore教程 [Introduction to Data Structure - Queue & Stack](https://leetcode.com/explore/featured/card/queue-stack/) 整理而成。

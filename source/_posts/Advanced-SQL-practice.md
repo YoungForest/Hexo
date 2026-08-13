@@ -6,6 +6,9 @@ tags:
 - tech
 categories:
 - intern
+translations:
+  zh-CN: https://youngforest.github.io/2018/05/07/Advanced-SQL-practice/
+  en: https://youngforest.github.io/en/2018/05/07/Advanced-SQL-practice/
 ---
 这一周在公司写了很多很长功能很复杂的sql语句，深感自己的数据库和SQL学的还只是皮毛，完全没法满足工程上的要求。
 负责带我的二mentor对SQL比较也精通，对我有很多指导和建议。

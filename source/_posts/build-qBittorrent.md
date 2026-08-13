@@ -5,8 +5,10 @@ tags:
 - 折腾
 categories:
 - tech
+translations:
+  zh-CN: https://youngforest.github.io/2021/02/27/build-qBittorrent/
+  en: https://youngforest.github.io/en/2021/02/27/build-qBittorrent/
 ---
-
 ## 起因
 
 最近毕业压力比较大，想在北邮人上下载个电影看看，放松下。却发现一直使用的做种下载工具qBittorrent无法打开了。在网上寻找了半天原因和解决方案。

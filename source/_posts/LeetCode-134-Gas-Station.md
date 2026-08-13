@@ -5,8 +5,10 @@ tags:
 - Algorithm
 categories:
 - LeetCode
+translations:
+  zh-CN: https://youngforest.github.io/2019/09/06/LeetCode-134-Gas-Station/
+  en: https://youngforest.github.io/en/2019/09/06/LeetCode-134-Gas-Station/
 ---
-
 [题目描述](https://leetcode.com/problems/gas-station/description/)
 
 本题是我2月份Google实习生电话面试遇到的一道题目。我当时做的很混乱，一面直接挂了。今天看到[同学发的讲解](https://zhuanlan.zhihu.com/p/81412559)，决定重新尝试一下这道题目。毕竟自己这半年来刷了有500+道题目，算法实力有一定的增长。我只看到了讲解的题目，并没有看内容，算是自己半年后可以独立解决这个问题了吧。AC后，我竟然都哭了，为当时实力不济而伤心。不知道之后还有那么好的机会吗？

@@ -5,8 +5,10 @@ tags:
 - C++
 categories:
 - Programming
+translations:
+  zh-CN: https://youngforest.github.io/2019/03/17/pkg-config/
+  en: https://youngforest.github.io/en/2019/03/17/pkg-config/
 ---
-
 最近在学习[google-test](https://github.com/google/googletest)的使用和源码，在`make install`的时候发现除了向`/usr/local/`中安装了头文件，`/usr/lib/`中安装了shared library外，还向`/usr/local/lib/pkgconfig/`中安装了2个`.pc`文件。所以说，这个pkg-config是个什么东西呢？
 
 从一份[Guide](https://people.freedesktop.org/~dbn/pkg-config-guide.html)中，我们可以发现`pkg-config`的所有有用的基本信息。

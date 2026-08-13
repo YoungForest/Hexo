@@ -5,6 +5,9 @@ tags:
 - tech
 categories:
 - 折腾
+translations:
+  zh-CN: https://youngforest.github.io/2018/05/08/ssh-login-remote-server-without-password/
+  en: https://youngforest.github.io/en/2018/05/08/ssh-login-remote-server-without-password/
 ---
 以下命令仅针对Unix-like系统。
 Windows是不需要这样的解决方法的，Windows下很多类Putty工具都可以选择"记住密码"来实现免密登陆。

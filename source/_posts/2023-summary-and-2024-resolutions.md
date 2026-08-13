@@ -1,13 +1,16 @@
 ---
 title: 2023年终总结 与 2024新年展望
+description: "回顾 2023 年的工作、生活与成长，也为 2024 年留下清晰而诚实的目标。"
 date: 2023-12-23 12:15:24
 tags:
   - life
   - 年终总结
 categories:
   - dairy
+translations:
+  zh-CN: https://youngforest.github.io/2023/12/23/2023-summary-and-2024-resolutions/
+  en: https://youngforest.github.io/en/2023/12/23/2023-summary-and-2024-resolutions/
 ---
-
 转自[我的博客](https://youngforest.github.io/2023/12/23/2023-summary-and-2024-resolutions/)
 
 ![2023 年终总结的欧洲生活书桌](/images/ai/2023-summary-and-2024-resolutions/zh-hero.webp)

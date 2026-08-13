@@ -1,5 +1,6 @@
 ---
 title: 逃不开的经济周期 历史，理论与投资现实
+description: "梳理经济周期的历史、理论与市场心理，并思考宏观判断和投资现实的距离。"
 date: 2025-05-26 22:15:29
 tags:
 - Reading
@@ -7,13 +8,17 @@ tags:
 - Economics
 categories:
 - 读后感
+translations:
+  zh-CN: https://youngforest.github.io/2025/05/26/Business-cycles-history-theory-and-investment-reality/
+  en: https://youngforest.github.io/en/2025/05/26/Business-cycles-history-theory-and-investment-reality/
 ---
-
 前30%特别有趣。因为其古老，充满故事性和传奇，人物也相对比较少，经济学知识对于现代人也容易理解。进入后凯恩斯时代后，变难好多。人物众多，学派众多，分歧也多。
 
 关于自由市场的最重要的核心事实在于，除非交易双方都获得好处，否则交易根本不可能发生。
 
 微观经济学是科学。宏观经济学就相对像是社会学。就像之前读过的“[**深奥的简洁 : 从混沌、复杂到地球生命的起源**](https://book.douban.com/subject/3370214/)”。系统微小的变化带来不可计算的影响。
+
+<!-- more -->
 
 通过研究股票市场来预测经济活动，要比通过研究经济来预测股票市场容易得多。
 

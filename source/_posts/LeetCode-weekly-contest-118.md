@@ -5,8 +5,10 @@ tags:
 - Competitive Programming
 categories:
 - LeetCode
+translations:
+  zh-CN: https://youngforest.github.io/2019/01/06/LeetCode-weekly-contest-118/
+  en: https://youngforest.github.io/en/2019/01/06/LeetCode-weekly-contest-118/
 ---
-
 一周一度的LeetCode weekly contest 开始啦。本周着实比之前有所进步，首先是对C++更加熟悉了，之前都是用Python写的。答题过程也更流畅了，差点做出来3道题目。
 
 <!-- more -->

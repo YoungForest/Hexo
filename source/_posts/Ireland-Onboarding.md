@@ -6,8 +6,10 @@ tags:
 - Life
 categories:
 - 爱尔兰
+translations:
+  zh-CN: https://youngforest.github.io/2022/11/11/Ireland-Onboarding/
+  en: https://youngforest.github.io/en/2022/11/11/Ireland-Onboarding/
 ---
-
 成功润到爱尔兰2周时间了，因为刚一直在办各种东西。慢慢的生活开始步入了正规。从今天开始，我会陆续分享一些来爱尔兰工作留学初期的一些攻略。一方面自己经历了很多坑，另一方面现在终于成功了一些，也算是有些经验可以帮助到大家。
 
 ![爱尔兰国旗](/images/ireland-flag.png)

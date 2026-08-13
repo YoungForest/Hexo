@@ -6,8 +6,10 @@ tags:
 - 光荣与梦想
 categories:
 - 读后感
+translations:
+  zh-CN: https://youngforest.github.io/2025/05/18/The-Glory-and-the-Dream/
+  en: https://youngforest.github.io/en/2025/05/18/The-Glory-and-the-Dream/
 ---
-
 [The Glory and the Dream A Narrative History of America 1932-72](https://book.douban.com/subject/26314954/)
 
 罗辑思维推荐. 作者左派倾向严重，美化民主党，丑化共和党。文笔优美的有些过分，让我想起了太史公，不禁怀疑，是不是也是“一半道听途说，一半靠想象”。开玩笑。刚看到32年罗斯福当选，美国历史上经历的，很多比今天的挑战大得多。罗斯福也是改变美国的一人，从自由主义转向政府主义，从孤立主义转而全球主义。也是美国250年历史上，最接近独裁风险的时刻。遇到危机就是这样的，自由民主来之不易，要珍惜。如今，新闻上，互联网上，大伙总是担忧美国分裂严重，逆全球化和右派抬头。只能说是太年轻，以史为鉴。美国值得信赖。

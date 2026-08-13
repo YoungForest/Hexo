@@ -5,8 +5,10 @@ tags:
 - Competitive Programming
 categories:
 - KickStart
+translations:
+  zh-CN: https://youngforest.github.io/2019/03/24/kick-start-2019-round-A/
+  en: https://youngforest.github.io/en/2019/03/24/kick-start-2019-round-A/
 ---
-
 [题目链接]
 
 这是我首次参加Kick start比赛。之前本科的时候，和舍友tls 参加过它的前身Code Jam。今年才正式准备Kick start的一系列比赛。原因是这是Google选拔软件工程师的途径，而Google是我的Dream Company。

@@ -1,0 +1,26 @@
+{% if page.layout == 'post' %}
+<script>
+  (() => {
+    const reported = new Set();
+    const thresholds = [25, 50, 75, 100];
+    const reportDepth = () => {
+      const scrollable = document.documentElement.scrollHeight - window.innerHeight;
+      if (scrollable <= 0) return;
+      const depth = Math.min(100, Math.round((window.scrollY / scrollable) * 100));
+      thresholds.forEach(percent => {
+        if (depth >= percent && !reported.has(percent)) {
+          reported.add(percent);
+          if (typeof window.gtag === 'function') {
+            window.gtag('event', 'scroll_depth', {
+              percent_scrolled: percent,
+              page_path: window.location.pathname
+            });
+          }
+        }
+      });
+    };
+    window.addEventListener('scroll', reportDepth, { passive: true });
+    reportDepth();
+  })();
+</script>
+{% endif %}
