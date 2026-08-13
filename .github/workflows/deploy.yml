@@ -77,6 +77,11 @@ jobs:
       - name: Build hexo
         run: npm run build
 
+      - name: Lighthouse mobile thresholds
+        if: github.event_name == 'pull_request'
+        continue-on-error: true
+        run: npx --yes @lhci/cli@0.15.x autorun
+
       - name: Deploy hexo
         if: github.event_name == 'push' && github.ref == 'refs/heads/master'
         run: npm run deploy

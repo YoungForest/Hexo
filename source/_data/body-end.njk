@@ -24,3 +24,11 @@
   })();
 </script>
 {% endif %}
+<script>
+  (() => {
+    const sidebarToggle = document.querySelector('.sidebar-toggle[role="button"]');
+    if (sidebarToggle && !sidebarToggle.hasAttribute('aria-label')) {
+      sidebarToggle.setAttribute('aria-label', '切换侧栏');
+    }
+  })();
+</script>
