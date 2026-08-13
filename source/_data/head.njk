@@ -7,3 +7,6 @@
     <link rel="alternate" hreflang="en" href="{{ page.translations.en }}">
   {% endif %}
 {% endif %}
+{% if page.mathjax %}
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/katex.min.css" crossorigin="anonymous">
+{% endif %}
