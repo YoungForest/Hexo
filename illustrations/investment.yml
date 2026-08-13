@@ -1,0 +1,22 @@
+version: editorial-comic-v1
+post: source/_posts/investment.md
+context: 回顾从童年储蓄、基金推荐与追涨杀跌中逐步形成长期投资认知的个人故事。
+assets:
+  - id: hero
+    file: review/editorial-comic-v1-pilot-candidates/zh-investment-hero.webp
+    placement: hero
+    alt: Forest 带着一小罐代币和空白笔记本走上充满捷径、低谷与长期树林的投资道路
+    composition: 蜿蜒道路串联童年储蓄、诱人捷径、雨中挫折与长期生长的树林。
+    review_status: candidate
+  - id: first-steps
+    file: review/editorial-comic-v1-pilot-candidates/zh-investment-first-steps.webp
+    placement: before-first-steps
+    alt: 童年储蓄抽屉多年后被藤蔓包围，长大的 Forest 发现它难以打开
+    composition: 用左右两阶段场景表现一次良好开端如何因遗忘和取用困难变成教训。
+    review_status: candidate
+  - id: trying-again
+    file: review/editorial-comic-v1-pilot-candidates/zh-investment-trying-again.webp
+    placement: before-trying-again
+    alt: Forest 从追逐一株耀眼植物的失败转向耐心照料多样化的小花园
+    composition: 四格漫画从诱人推荐、风雨回撤过渡到分散配置和长期照料。
+    review_status: candidate
