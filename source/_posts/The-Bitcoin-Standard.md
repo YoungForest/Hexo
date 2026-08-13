@@ -11,7 +11,9 @@ translations:
   zh-CN: https://youngforest.github.io/2026/01/01/The-Bitcoin-Standard/
   en: https://youngforest.github.io/en/2026/01/01/The-Bitcoin-Standard/
 ---
-![比特币标准中的货币与稀缺性](/images/ai/The-Bitcoin-Standard/zh-hero.webp)
+<figure class="post-hero">
+  <img src="/images/ai/The-Bitcoin-Standard/zh-hero.webp" alt="比特币标准中的货币与稀缺性" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
 
 [台译本豆瓣链接](https://book.douban.com/subject/35332013/)
 

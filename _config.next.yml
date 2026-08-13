@@ -91,15 +91,24 @@ github_banner:
 disqus:
   enable: true
   shortname: YoungForest
-  count: true
+  count: false
   #post_meta_order: 0
+
+comments:
+  style: buttons
+  active: disqus
+  storage: true
+  lazyload: true
+
+motion:
+  enable: false
 
 # Google Analytics
 google_analytics:
   tracking_id: G-G6NR9DW560 # GA4 Measurement ID
   # By default, NexT will load an external gtag.js script on your site.
   # If you only need the pageview feature, set the following option to true to get a better performance.
-  only_pageview: false
+  only_pageview: true
 
 local_search:
   enable: true
