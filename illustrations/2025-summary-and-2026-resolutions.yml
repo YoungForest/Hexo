@@ -3,8 +3,8 @@ post: source/_posts/2025-summary-and-2026-resolutions.md
 context: 回顾 2025 年的软件工作、AI、投资、阅读和旅行，并展望 2026 年。
 assets:
   - id: hero
-    file: review/editorial-comic-v1-samples/zh-2025-review.webp
+    file: source/images/ai/2025-summary-and-2026-resolutions/zh-hero.webp
     placement: hero
     alt: Forest 在书桌前整理编程、AI、投资、阅读和旅行的年度记忆，窗外道路通向晨光
     composition: 固定 Forest 角色在夜晚书桌前复盘多个主题，右侧路径引向明亮的新一年。
-    review_status: candidate
+    review_status: approved

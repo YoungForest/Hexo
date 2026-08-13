@@ -13,7 +13,9 @@ translations:
 ---
 转自[我的博客](https://youngforest.github.io/2025/12/27/2025-summary-and-2026-resolutions/)
 
-![2025 年终总结的夜晚书桌](/images/ai/2025-summary-and-2026-resolutions/zh-hero.webp)
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/2025-summary-and-2026-resolutions/zh-hero.webp" alt="Forest 在书桌前整理编程、AI、投资、阅读和旅行的年度记忆，窗外道路通向晨光" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
 
 <!-- more -->
 

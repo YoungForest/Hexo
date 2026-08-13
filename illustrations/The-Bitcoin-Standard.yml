@@ -3,8 +3,8 @@ post: source/_posts/The-Bitcoin-Standard.md
 context: 比较硬通货、稀缺性、金本位、纸币扩张与去中心化货币。
 assets:
   - id: hero
-    file: review/editorial-comic-v1-samples/zh-bitcoin.webp
+    file: source/images/ai/The-Bitcoin-Standard/zh-hero.webp
     placement: hero
     alt: 天平一端是稀缺硬币，另一端是被风吹起的纸张，背景连接着分布式节点
     composition: 以天平对比稀缺硬币和不断增加的纸张，并用沙漏与节点表现时间和去中心化。
-    review_status: candidate
+    review_status: approved
