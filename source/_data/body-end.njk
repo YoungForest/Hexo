@@ -1,3 +1,25 @@
+<script>
+  (() => {
+    if (window.location.hostname !== 'youngforest.github.io') return;
+    window.dataLayer = window.dataLayer || [];
+    window.gtag = window.gtag || function() { window.dataLayer.push(arguments); };
+    window.gtag('js', new Date());
+    window.gtag('config', 'G-G6NR9DW560');
+    const loadAnalytics = () => {
+      if (document.querySelector('script[data-ga4-loader]')) return;
+      const script = document.createElement('script');
+      script.async = true;
+      script.dataset.ga4Loader = '';
+      script.src = 'https://www.googletagmanager.com/gtag/js?id=G-G6NR9DW560';
+      document.head.appendChild(script);
+    };
+    if ('requestIdleCallback' in window) {
+      window.requestIdleCallback(loadAnalytics, { timeout: 2500 });
+    } else {
+      window.addEventListener('load', () => window.setTimeout(loadAnalytics, 1000), { once: true });
+    }
+  })();
+</script>
 {% if page.layout == 'post' %}
 <script>
   (() => {
