@@ -11,7 +11,9 @@ translations:
   zh-CN: https://youngforest.github.io/2024/08/24/Antifragile-Things-That-Gain-from-Disorder/
   en: https://youngforest.github.io/en/2024/08/24/Antifragile-Things-That-Gain-from-Disorder/
 ---
-![反脆弱中的压力与恢复力](/images/ai/Antifragile-Things-That-Gain-from-Disorder/zh-hero.webp)
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/Antifragile-Things-That-Gain-from-Disorder/zh-hero.webp" alt="陶制树在短暂冲击后从裂缝长出新枝，持续受压的玻璃塔却逐渐破裂" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
 
 保守主义，自由主义，乐观主义 的盛宴。
 

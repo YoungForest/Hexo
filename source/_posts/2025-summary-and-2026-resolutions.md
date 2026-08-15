@@ -38,7 +38,9 @@ translations:
 
 ## 2025年总结
 
-![欧元、资产与 AI 时代交织的历史进程](/images/ai/2025-summary-and-2026-resolutions/zh-historical-process.webp)
+<figure class="editorial-illustration">
+  <img src="/images/ai/2025-summary-and-2026-resolutions/zh-historical-process.webp" alt="纸张、金属代币、资产方块与发光节点随历史河流汇向不确定的远方" width="1536" height="864" loading="lazy" decoding="async">
+</figure>
 
 ## 历史进程
 
@@ -71,7 +73,9 @@ translations:
 关于AI的哲学讨论，也越来越变得现实了。从宇宙和智慧，意识的角度，现代智人之外的第二个智慧也就快要诞生了。从进化和技术进步的角度看，AI在智慧上超越人类也是必然的。
 我也不认为人类会要灭绝或是被取代。达尔文的进化论的观点是，适者生存，也不是智者生存。虽然在历史上，直立人的后代，只留下了智人一支，其他人种要么自我灭绝，要么在于智人的竞争中灭绝。但考虑到人的生态位和近亲确实是竞争关系。AI 和 人 的关系并非如此，更多的是合作。现代也并非自然状态下，而是文明状态，也史前也不能同日而语。
 
-![读书笔记与世界地图](/images/ai/2025-summary-and-2026-resolutions/zh-reading.webp)
+<figure class="editorial-illustration">
+  <img src="/images/ai/2025-summary-and-2026-resolutions/zh-reading.webp" alt="打开的书化为连接历史、经济、科学与人类旅程的广阔思想世界" width="1536" height="864" loading="lazy" decoding="async">
+</figure>
 
 ## 读万卷书
 

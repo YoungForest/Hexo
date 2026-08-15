@@ -13,7 +13,9 @@ translations:
 ---
 转自[我的博客](https://youngforest.github.io/2023/12/23/2023-summary-and-2024-resolutions/)
 
-![2023 年终总结的欧洲生活书桌](/images/ai/2023-summary-and-2024-resolutions/zh-hero.webp)
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/2023-summary-and-2024-resolutions/zh-hero.webp" alt="Forest 在冬夜书桌前回顾 2023 年的工作、旅行、阅读和生活变化，窗外道路通向晨光" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
 
 圣诞假期将至，爱尔兰微软的办公室早早就充满着节日气氛。各种张灯结彩，圣诞树和圣诞老人的装饰，不亏是爱尔兰最大的节日。爱尔兰圣诞节会放2天假，12月25号和26号，比美国还多一天。更多的人，尤其是基督教国家的同事，会在节日前后请年假，回家和家人一起过节。因此12月是一个工作比较轻松，大家十分放松的时间。
 距离新年还有半个月，我的生活和想法应该不会在这段时间内发生改变。不少朋友也在期待着我的年终总结，都成为一年一度的固定项目了。从17年到现在，已经第7年了。
@@ -33,7 +35,9 @@ translations:
 
 这些重要的博文都放在我博客的[dairy分类下](https://youngforest.github.io/categories/dairy/)。
 
-![2023 年工作、旅行与生活回顾](/images/ai/2023-summary-and-2024-resolutions/zh-personal-review.webp)
+<figure class="editorial-illustration">
+  <img src="/images/ai/2023-summary-and-2024-resolutions/zh-personal-review.webp" alt="Forest 从狭窄的办公室走向开阔的欧洲生活、旅行与独立思考空间" width="1536" height="864" loading="lazy" decoding="async">
+</figure>
 
 ## 2023年个人回顾
 
@@ -109,7 +113,9 @@ translations:
 
 今年以来，因为环境的改变，我有了更多思考的自由，结合一直以来爱学习的习惯，效果惊人，有的时候自己都害怕。
 
-![面向 2024 年的美好生活向往](/images/ai/2023-summary-and-2024-resolutions/zh-good-life-2024.webp)
+<figure class="editorial-illustration">
+  <img src="/images/ai/2023-summary-and-2024-resolutions/zh-good-life-2024.webp" alt="Forest 沿花园小径体验工作、运动、阅读与安定生活的不同切面" width="1536" height="864" loading="lazy" decoding="async">
+</figure>
 
 ## 2024年美好生活的向往
 

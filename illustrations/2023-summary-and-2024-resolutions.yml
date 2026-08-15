@@ -3,20 +3,20 @@ post: source/_posts/2023-summary-and-2024-resolutions.md
 context: 复盘 2023 年的工作、欧洲生活、旅行、阅读与思想转变，并展望更平衡的 2024 年。
 assets:
   - id: hero
-    file: review/editorial-comic-v1-pilot-candidates/zh-2023-summary-and-2024-resolutions-hero.webp
+    file: source/images/ai/2023-summary-and-2024-resolutions/zh-hero.webp
     placement: hero
     alt: Forest 在冬夜书桌前回顾 2023 年的工作、旅行、阅读和生活变化，窗外道路通向晨光
     composition: 冬日爱尔兰室内外相连，实体照片、书本、列车和钥匙汇成通往新年的记忆路径。
-    review_status: candidate
+    review_status: approved
   - id: personal-review
-    file: review/editorial-comic-v1-pilot-candidates/zh-2023-summary-and-2024-resolutions-personal-review.webp
+    file: source/images/ai/2023-summary-and-2024-resolutions/zh-personal-review.webp
     placement: before-2023-personal-review
     alt: Forest 从狭窄的办公室走向开阔的欧洲生活、旅行与独立思考空间
     composition: 以穿过门槛表现人生转折，左侧压抑紧凑，右侧开阔明亮。
-    review_status: candidate
+    review_status: approved
   - id: good-life-2024
-    file: review/editorial-comic-v1-pilot-candidates/zh-2023-summary-and-2024-resolutions-good-life-2024.webp
+    file: source/images/ai/2023-summary-and-2024-resolutions/zh-good-life-2024.webp
     placement: before-2024-outlook
     alt: Forest 沿花园小径体验工作、运动、阅读与安定生活的不同切面
     composition: 用同一角色的漫画蒙太奇串联工作、身心健康、学习与家庭生活。
-    review_status: candidate
+    review_status: approved

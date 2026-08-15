@@ -9,14 +9,14 @@ assets:
     composition: 固定 Forest 角色在夜晚书桌前复盘多个主题，右侧路径引向明亮的新一年。
     review_status: approved
   - id: historical-process
-    file: review/editorial-comic-v1-pilot-candidates/zh-2025-summary-and-2026-resolutions-historical-process.webp
+    file: source/images/ai/2025-summary-and-2026-resolutions/zh-historical-process.webp
     placement: before-historical-process
     alt: 纸张、金属代币、资产方块与发光节点随历史河流汇向不确定的远方
     composition: 以宏大的河流表现货币、资产、人工智能与地缘力量交织的历史进程。
-    review_status: candidate
+    review_status: approved
   - id: reading
-    file: review/editorial-comic-v1-pilot-candidates/zh-2025-summary-and-2026-resolutions-reading.webp
+    file: source/images/ai/2025-summary-and-2026-resolutions/zh-reading.webp
     placement: before-reading
     alt: 打开的书化为连接历史、经济、科学与人类旅程的广阔思想世界
     composition: 由一本无字书展开历史遗迹、平衡桥梁、星空和人类路径。
-    review_status: candidate
+    review_status: approved

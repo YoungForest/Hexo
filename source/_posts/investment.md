@@ -11,12 +11,16 @@ translations:
   zh-CN: https://youngforest.github.io/2021/03/22/investment/
   en: https://youngforest.github.io/en/2021/03/22/investment/
 ---
-![我的投资故事的起点](/images/ai/investment/zh-hero.webp)
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/investment/zh-hero.webp" alt="Forest 带着一小罐代币和空白笔记本走上充满捷径、低谷与长期树林的投资道路" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
 
 分享我的投资故事。
 首发于 [Forest的博客](https://youngforest.github.io/2021/03/22/investment/).
 
-![初入市场的投资学习](/images/ai/investment/zh-first-steps.webp)
+<figure class="editorial-illustration">
+  <img src="/images/ai/investment/zh-first-steps.webp" alt="童年储蓄抽屉多年后被藤蔓包围，长大的 Forest 发现它难以打开" width="1536" height="864" loading="lazy" decoding="async">
+</figure>
 
 ## 初出茅庐
 
@@ -29,7 +33,9 @@ translations:
 
 这次理财经历算是一次失败的教训，毕竟本金都取不出来了。
 
-![再次尝试资产配置](/images/ai/investment/zh-trying-again.webp)
+<figure class="editorial-illustration">
+  <img src="/images/ai/investment/zh-trying-again.webp" alt="Forest 从追逐一株耀眼植物的失败转向耐心照料多样化的小花园" width="1536" height="864" loading="lazy" decoding="async">
+</figure>
 
 ## 再试牛刀
 
@@ -64,4 +70,3 @@ translations:
 另外一个经验是，沪深300确实比大多数基金经理更牛逼。涨的时候可能比不上行业基金，但市场波动，抱团股下跌的背景下，谁优孰劣就知道了。
 
 未来我会继续关注和学习投资和基金，是不是韭菜，只能10年以后再见分晓。
-

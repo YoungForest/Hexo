@@ -3,20 +3,20 @@ post: source/_posts/2024-summary-and-2025-resolutions.md
 context: 回顾十年编程成长与平稳的 2024 年，在长期主义中展望 2025 年。
 assets:
   - id: hero
-    file: review/editorial-comic-v1-pilot-candidates/zh-2024-summary-and-2025-resolutions-hero.webp
+    file: source/images/ai/2024-summary-and-2025-resolutions/zh-hero.webp
     placement: hero
     alt: Forest 在程序员书桌前回望十年学习、生活与旅行，长路延伸到晨光
     composition: 旧键盘引出的实体路径连接编程、居所、健康、阅读、投资与旅行。
-    review_status: candidate
+    review_status: approved
   - id: ten-years-programming
-    file: review/editorial-comic-v1-pilot-candidates/zh-2024-summary-and-2025-resolutions-ten-years-programming.webp
+    file: source/images/ai/2024-summary-and-2025-resolutions/zh-ten-years-programming.webp
     placement: before-ten-years-programming
     alt: Forest 穿过从杂乱零件到简洁工具的编程工坊
     composition: 从复杂混乱、抽象模块到单一朴素工具，表现十年编程后返璞归真。
-    review_status: candidate
+    review_status: approved
   - id: personal-review
-    file: review/editorial-comic-v1-pilot-candidates/zh-2024-summary-and-2025-resolutions-personal-review.webp
+    file: source/images/ai/2024-summary-and-2025-resolutions/zh-personal-review.webp
     placement: before-2024-personal-review
     alt: Forest 耐心照料承载家庭、阅读、健康、投资与旅行的慢生长树
     composition: 以慢生长的树表现稳定积累，闲置的小火箭带来轻微幽默。
-    review_status: candidate
+    review_status: approved
