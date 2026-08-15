@@ -1,0 +1,10 @@
+version: editorial-comic-v1
+post: source/_posts/Business-cycles-history-theory-and-investment-reality.md
+context: 讨论经济周期、宏观不确定性、市场心理偏误和投资现实之间的距离。
+assets:
+  - id: hero
+    file: review/editorial-comic-v1-reading-batch/zh-Business-cycles-history-theory-and-investment-reality-hero.webp
+    placement: hero
+    alt: 港口城市环绕巨大的潮汐时钟，在繁荣晴空与衰退风雨之间循环
+    composition: 潮汐、时钟和铜制心跳管组成周期装置，人群追逐曲线，观察者测量真实水位。
+    review_status: candidate

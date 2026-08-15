@@ -1,0 +1,10 @@
+version: editorial-comic-v1
+post: source/_posts/Why-Nations-fail.md
+context: 以制度、关键时期、诱因与破坏性创新解释长期繁荣和贫困的分化。
+assets:
+  - id: hero
+    file: review/editorial-comic-v1-reading-batch/zh-Why-Nations-fail-hero.webp
+    placement: hero
+    alt: 同一条河两岸，一侧开放的桥梁与工坊共同生长，另一侧的收获被锁进脆弱高塔
+    composition: 共享同一自然条件的两座城镇，以开放协作和狭窄榨取系统形成制度对照。
+    review_status: candidate
