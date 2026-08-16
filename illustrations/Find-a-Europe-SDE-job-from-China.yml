@@ -1,0 +1,22 @@
+version: editorial-comic-v1
+post: source/_posts/Find-a-Europe-SDE-job-from-China.md
+context: 复盘从北京投递欧洲软件岗位、半年面试准备、跨国搬迁与爱尔兰生活取舍。
+assets:
+  - id: hero
+    file: review/editorial-comic-v1-career-tech-batch/zh-Find-a-Europe-SDE-job-from-China-hero.webp
+    placement: hero
+    alt: Forest 背着琥珀色背包，从冬日北京书桌与城市走上通往爱尔兰海岸晨光的长桥
+    composition: 北京学习与工作环境、跨云长桥、行李和两份空白录用信连接到爱尔兰海岸与城市生活。
+    review_status: candidate
+  - id: interview-path
+    file: review/editorial-comic-v1-career-tech-batch/zh-Find-a-Europe-SDE-job-from-China-interview-path.webp
+    placement: before-interview-preparation
+    alt: Forest 跨过申请信、算法石、设计齿轮和行为故事卡，绕过冰封大门走向两扇暖光门
+    composition: 用求职障碍赛表现投递、算法、设计、行为面试、冻结、时机和最终两份录用。
+    review_status: candidate
+  - id: ireland-reality
+    file: review/editorial-comic-v1-career-tech-batch/zh-Find-a-Europe-SDE-job-from-China-ireland-reality.webp
+    placement: before-ireland
+    alt: Forest 在家庭、工作与绿色海岸的一侧和风雨、公交、住房压力的一侧之间保持平衡
+    composition: 海岸跷跷板两侧对照工作机会与安定生活，以及天气、交通和住房成本。
+    review_status: candidate
