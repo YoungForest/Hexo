@@ -1,0 +1,10 @@
+version: editorial-comic-v1
+post: source/_posts/Europe-bank-accounts.md
+context: 介绍欧洲交换生活中的现金、信用卡、传统银行、网上银行与日常支付取舍。
+assets:
+  - id: hero
+    file: review/editorial-comic-v1-growth-life-batch/zh-Europe-bank-accounts-hero.webp
+    placement: hero
+    alt: Forest 在比利时街景中用现金、无品牌卡片与账户罐连接房租、购物、旅行和应急开支
+    composition: 用管道和透明罐表现支付生态与资金分配，避免品牌、币种符号和金融界面。
+    review_status: candidate

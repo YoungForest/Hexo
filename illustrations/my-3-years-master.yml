@@ -1,0 +1,16 @@
+version: editorial-comic-v1
+post: source/_posts/my-3-years-master.md
+context: 复盘三年硕士生活中的研究挫折、欧洲交换、实习、毕业与即将进入职场时的规划。
+assets:
+  - id: hero
+    file: review/editorial-comic-v1-growth-life-batch/zh-my-3-years-master-hero.webp
+    placement: hero
+    alt: Forest 从堆满反复修改稿的实验室出发，经过欧洲交换的桥与毕业门，走向职业晨光
+    composition: 用实验室、欧洲桥、远程工作桌、纸张台阶与毕业门串联硕士三年的得失。
+    review_status: candidate
+  - id: future-compass
+    file: review/editorial-comic-v1-growth-life-batch/zh-my-3-years-master-future-compass.webp
+    placement: before-future-aspirations
+    alt: Forest 面对指南针、可靠协作、储蓄树、工程积木、语言练习与锻炼组成的未来道路
+    composition: 将靠谱工作、储蓄投资、技术成长、英语和健康转化为同一张未来工作台。
+    review_status: candidate
