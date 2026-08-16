@@ -3,8 +3,8 @@ post: source/_posts/The-World-I-see.md
 context: 从科学家自传出发，连接移民经历、AI 的算法数据算力、科学积累与好奇心。
 assets:
   - id: hero
-    file: review/editorial-comic-v1-reading-batch/zh-The-World-I-see-hero.webp
+    file: source/images/ai/The-World-I-see/zh-hero.webp
     placement: hero
     alt: 一本无字书化作从移民家庭小店通往大学实验室的桥，图像卡片与星点网络在空中连接
     composition: 由家庭与小店出发，经由相机、空白图像、行李和积木走向实验室与科学网络，不使用真实科学家肖像。
-    review_status: candidate
+    review_status: approved

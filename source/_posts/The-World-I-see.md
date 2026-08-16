@@ -16,6 +16,10 @@ translations:
 
 书中反复提及的 国家航空太空博物馆 National Air and Space Museum 也是我憧憬的地方，可惜上次去DC每去。
 
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/The-World-I-see/zh-hero.webp" alt="一本无字书化作从移民家庭小店通往大学实验室的桥，图像卡片与星点网络在空中连接" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
 <!-- more -->
 
 算法 数据 算力。现代AI的三大基础，李飞飞 对数据的贡献，就足以留下名字和江湖地位了。算法 很多都已经提前准备好了，尤其是对于Compute Vision来说，上世纪90年代就准备好了。算力 直到最近十多年才准备好，英伟达 的 传记明年就去读 https://book.douban.com/subject/37210122/

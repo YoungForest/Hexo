@@ -15,6 +15,10 @@ translations:
 
 不愧是儿童读物，虽然我历史知识储备还不错，但英文一般。就这样也顺利地读下英文版了。原版应该是德文地，不知道是作者自己翻译的，还是别人给翻译的。很难想象，本书是1935年的作品。一开始看到出版年份，以为是新世纪的书，没想到是90年前的作品。但质量已经这样高了，看到说他祖父活在德国成立之前，自己见过奥地利皇帝，才意识到作者的古老。显然，最后一章是作者后来加的，补足了一战后，到苏东剧变，也就是他所说的自己经历的历史。西方，尤其是德国视角还是很明显的，花了一些篇幅着重讲德国相关的历史，也就不奇怪了。和主流的英美视角有所差异。文笔和立意都十分高，尤其是对启蒙运动Enlightenment 的推崇，理性，人权，自由 （Liberty Equality Fraternity）的价值观，值得今天的小朋友和大多数成年人阅读。反观，种花家的历史课，完全处于宣传和统治需要，也难怪被称为秽史。
 
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/Little-history-of-world/zh-hero.webp" alt="无字书展开为贯穿洞穴、古城、印刷工坊、工业桥梁与现代城市的历史河流" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
 <!-- more -->
 
 学习到了一个英文词汇：

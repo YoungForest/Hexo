@@ -3,8 +3,8 @@ post: source/_posts/Little-history-of-world.md
 context: 一本面向孩子和成年人的人文世界史，强调理性、自由、人权、记忆与视角边界。
 assets:
   - id: hero
-    file: review/editorial-comic-v1-reading-batch/zh-Little-history-of-world-hero.webp
+    file: source/images/ai/Little-history-of-world/zh-hero.webp
     placement: hero
     alt: 无字书展开为贯穿洞穴、古城、印刷工坊、工业桥梁与现代城市的历史河流
     composition: 孩子与长者沿无字书形成的河流回望不同历史阶段，欧洲线索之外仍有路径延伸。
-    review_status: candidate
+    review_status: approved

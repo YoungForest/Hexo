@@ -13,6 +13,10 @@ translations:
 ---
 一定要读英文版或台译本，懂得都懂。虽然中国是一个历史上失败国家和榨取型制度短暂成长国家的经典案例,但全书中着墨不算很多. 然而作为一个中国人,其他国家的案例也是值得学习的,我之前并不了解.尤其是很多非洲和拉美的案例. 但我心中处处在验证着中国的失败. 对比从一开始接受的社会主义教育 (可怕的洗脑 和 历史/政治重新书写), 和自己成年以后看的各种历史,经济,政治书, 还是十分认同书中的观点的. 我自己也在用脚投票. 时间不够可以关注这2小节.
 
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/Why-Nations-fail/zh-hero.webp" alt="同一条河两岸，一侧开放的桥梁与工坊共同生长，另一侧的收获被锁进脆弱高塔" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
 <!-- more -->
 
 13章 当前的国家为什么会失败 （5）新专制主义

@@ -18,6 +18,10 @@ translations:
 
 微观经济学是科学。宏观经济学就相对像是社会学。就像之前读过的“[**深奥的简洁 : 从混沌、复杂到地球生命的起源**](https://book.douban.com/subject/3370214/)”。系统微小的变化带来不可计算的影响。
 
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/Business-cycles-history-theory-and-investment-reality/zh-hero.webp" alt="港口城市环绕巨大的潮汐时钟，在繁荣晴空与衰退风雨之间循环" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
 <!-- more -->
 
 通过研究股票市场来预测经济活动，要比通过研究经济来预测股票市场容易得多。
