@@ -19,6 +19,12 @@ time: 2020-03-11 10:28:43
 
 昨晚8点半忽然接到广东深圳的电话，问是否方便，直接开始了面试（惊不惊喜，刺不刺激？）。面试官网还不太好，中间出了不少问题。比如手撕代码时，对方网站内容不能及时刷新。
 
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/Tencent-WeChat-backend-intern-interview/zh-hero.webp" alt="深夜电话突然响起，Forest 面前展开一条摆满算法积木、网络节点和空椅子的漫长面试走廊" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 ## 计算机基础
 
 ### 分布式、深度学习
@@ -319,6 +325,10 @@ struct HashMap {
 
 面试官小哥哥早年也在北航读过书，最后我还聊了一下我实验室的现状。
 
+<figure class="editorial-illustration">
+  <img src="/images/ai/Tencent-WeChat-backend-intern-interview/zh-interview-marathon.webp" alt="Forest 在反复的面试圆桌、错位纸卷、旋转门和两座城市之间穿行" width="1536" height="864" loading="lazy" decoding="async">
+</figure>
+
 ## 八面 又一次迷一般的面试 差评
 
 time: 2020-04-13 12:59:03
@@ -450,4 +460,3 @@ int main() {
     return 0;
 }
 ```
-

@@ -3,14 +3,14 @@ post: source/_posts/Tencent-WeChat-backend-intern-interview.md
 context: 记录后台实习面试中突然来电、多轮技术考察、流程摩擦、团队流转与地点错配。
 assets:
   - id: hero
-    file: review/editorial-comic-v1-career-tech-batch/zh-Tencent-WeChat-backend-intern-interview-hero.webp
+    file: source/images/ai/Tencent-WeChat-backend-intern-interview/zh-hero.webp
     placement: hero
     alt: 深夜电话突然响起，Forest 面前展开一条摆满算法积木、网络节点和空椅子的漫长面试走廊
     composition: 由意外来电展开连续面试房间，使用抽象工具表现算法、系统、语言和数据结构。
-    review_status: candidate
+    review_status: approved
   - id: interview-marathon
-    file: review/editorial-comic-v1-career-tech-batch/zh-Tencent-WeChat-backend-intern-interview-interview-marathon.webp
+    file: source/images/ai/Tencent-WeChat-backend-intern-interview/zh-interview-marathon.webp
     placement: before-eighth-round
     alt: Forest 在反复的面试圆桌、错位纸卷、旋转门和两座城市之间穿行
     composition: 多个圆桌和回环路径表现轮次反复，纸卷不同步、临时电话和城市岔路表现流程问题。
-    review_status: candidate
+    review_status: approved

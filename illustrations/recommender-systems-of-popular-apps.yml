@@ -3,8 +3,8 @@ post: source/_posts/recommender-systems-of-popular-apps.md
 context: 解释推荐系统的反馈循环、参与时长目标、信息茧房，以及主动接触多样内容的重要性。
 assets:
   - id: hero
-    file: review/editorial-comic-v1-career-tech-batch/zh-recommender-systems-of-popular-apps-hero.webp
+    file: source/images/ai/recommender-systems-of-popular-apps/zh-hero.webp
     placement: hero
     alt: 机械园丁不断浇灌读者选中的同类花朵，镜廊越变越窄，旁边仍有通向多样世界的开阔小径
     composition: 机械花园将同一种选择持续放大，镜面回廊与开放图书花园形成反馈循环和多样性的对照。
-    review_status: candidate
+    review_status: approved

@@ -15,6 +15,12 @@ translations:
 
 今年，我按照预期计划，从国内投欧洲程序员的岗位，虽然赶上宏观经济下行，各个公司纷纷hire freeze甚至layoff。幸运地，还是拿到了2个offer，并在11月成功入职完成肉翻。虽然历经了不少坎坷，回过头看也算是一切顺利。在“润”地道路上被很多有经验地群友帮助，因此我也撰写一篇博客，总结自己地经验和教训，以方便后来人。
 
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/Find-a-Europe-SDE-job-from-China/zh-hero.webp" alt="Forest 背着琥珀色背包，从冬日北京书桌与城市走上通往爱尔兰海岸晨光的长桥" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 ![润了](/images/润了.png)
 
 ## 背景
@@ -56,6 +62,10 @@ translations:
 首先是小厂和大厂面试模式和内容差别很大，练习效果一般。
 其次，因为我只有1年工作经验。投小厂我收到面试其实很少，毕竟从海外搬用入职时间比较长，成本也不低，他们更愿意招一些Senior的人。
 最后，因为赶上了今年恶劣的大环境，晚几个月投大厂太致命了。到6、7月的时候，陆续传来Hire Freeze或Layoff的消息。大厂虽然看实力，但运气也很重要。如果再晚些就更惨了。我最后拿微软offer的组，也不是一开始面的组。因为一开始的组Hire Freeze了，幸运地是，我入职的组因为十分基础和重要，在整个公司Hire Freeze的背景下，仍然争取到了少量的Head Count。
+
+<figure class="editorial-illustration">
+  <img src="/images/ai/Find-a-Europe-SDE-job-from-China/zh-interview-path.webp" alt="Forest 跨过申请信、算法石、设计齿轮和行为故事卡，绕过冰封大门走向两扇暖光门" width="1536" height="864" loading="lazy" decoding="async">
+</figure>
 
 ## 面试准备
 
@@ -122,6 +132,10 @@ Podcast
 
 YouTube
 - [DanCroitor](https://www.youtube.com/watch?v=IyPJFHFUpbQ&ab_channel=DanCroitor)
+
+<figure class="editorial-illustration">
+  <img src="/images/ai/Find-a-Europe-SDE-job-from-China/zh-ireland-reality.webp" alt="Forest 在家庭、工作与绿色海岸的一侧和风雨、公交、住房压力的一侧之间保持平衡" width="1536" height="864" loading="lazy" decoding="async">
+</figure>
 
 ## 爱尔兰 怎么样？
 

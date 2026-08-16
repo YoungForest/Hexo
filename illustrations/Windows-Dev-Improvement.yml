@@ -3,8 +3,8 @@ post: source/_posts/Windows-Dev-Improvement.md
 context: 用 Shell、历史记录、包管理、提示符和目录跳转工具改善 Windows 开发工作流。
 assets:
   - id: hero
-    file: review/editorial-comic-v1-career-tech-batch/zh-Windows-Dev-Improvement-hero.webp
+    file: source/images/ai/Windows-Dev-Improvement/zh-hero.webp
     placement: hero
     alt: 杂乱线缆与抽屉穿过窗形拱门，变成由卡片、包裹、灯光和指南针组成的整洁工具工坊
     composition: 不使用真实界面，以物理工坊对照低效旧环境和模块化终端工具链。
-    review_status: candidate
+    review_status: approved

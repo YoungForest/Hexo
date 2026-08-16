@@ -24,6 +24,10 @@ translations:
 
     要不我给你布置个任务吧：正好你最近在研究推荐系统，要不你查查资料，看看目前各大内容APP的推荐系统都是怎么做的，有哪些思路，整理成一篇文章怎么样￼￼
 
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/recommender-systems-of-popular-apps/zh-hero.webp" alt="机械园丁不断浇灌读者选中的同类花朵，镜廊越变越窄，旁边仍有通向多样世界的开阔小径" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
 <!-- more -->
 
 促使我整理2个月来的实习经验，以及查阅大量公开的资料。

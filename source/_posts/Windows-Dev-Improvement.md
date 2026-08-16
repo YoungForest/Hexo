@@ -14,6 +14,10 @@ translations:
 
 作为一名曾经的 Mac 用户，刚转到 Windows 11 时，我遇到了不少挑战。我很怀念 macOS 的易用与便利，也一度难以适应不同的开发环境。不过，经过一番探索，我找到了一些工具和技巧，让自己在 Windows 上的开发体验得到了改善。总有人需要把 Windows 当作开发机，比如微软员工。这篇文章会分享我的经验，并提供一些提示和资源，重点介绍如何改进 Shell 环境。
 
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/Windows-Dev-Improvement/zh-hero.webp" alt="杂乱线缆与抽屉穿过窗形拱门，变成由卡片、包裹、灯光和指南针组成的整洁工具工坊" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
 <!-- more -->
 
 ## Clink
