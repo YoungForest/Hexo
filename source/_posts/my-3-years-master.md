@@ -15,6 +15,12 @@ translations:
 
 虽然经历了半年延毕，但最后还是有惊无险的成功毕业了。上周完成了去武汉的毕业旅行，周末回到北京搬家和准备入职。带着对未来美好的期望，我踌躇满志。
 
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/my-3-years-master/zh-hero.webp" alt="Forest 从堆满反复修改稿的实验室出发，经过欧洲交换的桥与毕业门，走向职业晨光" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 ## 硕士3年
 
 3年前，因为本科成绩优异。我最后走上了保研这条看似光鲜亮丽的路。
@@ -33,6 +39,10 @@ translations:
 研二上去比利时交换，体验了一下留学生活，并且把欧洲几乎玩了一个遍。事后证明，这确实是很幸运的。因为第二年，就爆发了全球性的新冠疫情。旅游变成了一项不可能的活动，尤其是出国旅行。
 在交换的过程中，与npy相识、相知、最后相恋。也算是一段美妙的姻缘。
 研二暑假通过亚马逊的远程实习，之后顺利拿到了亚马逊的offer。也算是稍稍弥补了因为突如其来的疫情而不能去谷歌的遗憾。
+
+<figure class="editorial-illustration">
+  <img src="/images/ai/my-3-years-master/zh-future-compass.webp" alt="Forest 面对指南针、可靠协作、储蓄树、工程积木、语言练习与锻炼组成的未来道路" width="1536" height="864" loading="lazy" decoding="async">
+</figure>
 
 ## 未来憧憬
 

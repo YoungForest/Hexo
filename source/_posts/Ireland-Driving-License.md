@@ -15,6 +15,10 @@ translations:
 不像国内报个驾校，交一次钱 就有完整的服务。爱尔兰的驾照申请流程还算比较复杂，需要自己一步步去办理。
 这篇博文就是记录申请流程和攻略，方便在爱华人。
 
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/Ireland-Driving-License/zh-hero.webp" alt="Forest 沿爱尔兰海岸公路依次经过理论卡片、视力镜片、许可文件夹、驾驶课、路考与车钥匙" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
 <!-- more -->
 
 ## 中国驾照在爱尔兰的使用

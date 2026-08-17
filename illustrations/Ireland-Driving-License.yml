@@ -3,8 +3,8 @@ post: source/_posts/Ireland-Driving-License.md
 context: 记录爱尔兰驾照从理论考试、视力检查、学习许可、驾驶课到路考和正式驾照的流程。
 assets:
   - id: hero
-    file: review/editorial-comic-v1-growth-life-batch/zh-Ireland-Driving-License-hero.webp
+    file: source/images/ai/Ireland-Driving-License/zh-hero.webp
     placement: hero
     alt: Forest 沿爱尔兰海岸公路依次经过理论卡片、视力镜片、许可文件夹、驾驶课、路考与车钥匙
     composition: 将复杂申请流程画成沿海道路，不仿造证件、官方图表或真实界面。
-    review_status: candidate
+    review_status: approved

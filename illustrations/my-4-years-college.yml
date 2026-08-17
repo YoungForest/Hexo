@@ -3,14 +3,14 @@ post: source/_posts/my-4-years-college.md
 context: 回望大学四年的计算机基础、竞赛得失、自主折腾、实习经历与方向选择。
 assets:
   - id: hero
-    file: review/editorial-comic-v1-growth-life-batch/zh-my-4-years-college-hero.webp
+    file: source/images/ai/my-4-years-college/zh-hero.webp
     placement: hero
     alt: 年轻的 Forest 沿四层校园阶梯积累数学、计算机基础、自主工具与实习经验
     composition: 四个校园层级表现从未接触代码到形成工程师工具箱的过程，并保留方向不明的尾声。
-    review_status: candidate
+    review_status: approved
   - id: career-crossroads
-    file: review/editorial-comic-v1-growth-life-batch/zh-my-4-years-college-career-crossroads.webp
+    file: source/images/ai/my-4-years-college/zh-career-crossroads.webp
     placement: before-career-choice
     alt: Forest 带着通用基础积木站在研究、工程、算法与海外道路交汇的实体工坊中
     composition: 把文章中的游戏职业比喻转成真实岔路，让分散积累成为可以重新铺路的材料。
-    review_status: candidate
+    review_status: approved

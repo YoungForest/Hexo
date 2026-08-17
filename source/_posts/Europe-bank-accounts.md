@@ -14,6 +14,12 @@ translations:
 ---
 本学期有幸来比利时交换一学期，在“钱”上遇到很多困难，在同学的帮助下逐步克服。在此感谢帮助过我的一系列好友，并将自己的经验分享给大家，让更多的人收益。
 
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/Europe-bank-accounts/zh-hero.webp" alt="Forest 在比利时街景中用现金、无品牌卡片与账户罐连接房租、购物、旅行和应急开支" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 在全球化的今天，来到欧洲，如何方便的花钱，省钱，是每个留学生关心的事情。在欧洲花钱基本可以分为2类：现金、刷卡。2者是相辅相成的关系，并不像在国内，一部手机走天下。
 我的经历是：在国内换了700欧的现金带过来，还带了一张招商银行的Visa全币种信用卡。因为办签证需要经济证明，我还提前转了3000多欧给学校的账户，学校之后每个月给我的账户返还666欧，作为生活费。来了之后，我分别办了 ING的Green Account，网上银行 Revult, Curve, Bunq, Monese; 配置了Google Pay 和 PayPal。并经过到欧洲到处自由行，结合不同的花钱方式，达到最便利和最省钱。
 
