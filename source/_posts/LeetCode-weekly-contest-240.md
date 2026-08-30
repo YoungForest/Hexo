@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 240
 date: 2021-05-09 17:18:34
+description: 四道题枚举人口最多年份、求两数组最大距离、计算子数组最小乘积，并拓扑统计有向图路径颜色值。
 tags:
 - Competitive Programming
 categories:
@@ -17,6 +18,10 @@ translations:
 等过了答辩，让我干啥都行。
 
 前几周因为国服自己的rating太高，不敢打了，怕掉分。转战了美服，现在把美服也打到2350了。rating也过高了。之后打算再次转战国服，因为最近新一年的招聘迫近，国服赞助商礼物比较丰厚。虽然去年只有几次排名足够靠前，拿到奖品，但好歹有个奖励，有比较小的期望。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-240/zh-hero.webp" alt="年份槽位累计入住与离开令牌，双滑块拉开两列最大距离，柱状区间结合最低柱和总重量，有向彩色珠网按拓扑顺序汇总" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
 
 <!-- more -->
 

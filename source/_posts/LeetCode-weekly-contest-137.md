@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 137
 date: 2019-05-19 14:35:35
+description: 动态规划知识盲区下的周赛复盘：石头碰撞、相邻消除、最长单词链与经典背包分组。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2019/05/19/LeetCode-weekly-contest-137/
   en: https://youngforest.github.io/en/2019/05/19/LeetCode-weekly-contest-137/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-137/zh-hero.webp" alt="Forest 走入动态规划工坊，逐步处理碰撞石块、相邻消除珠、递增长链和双篮平衡" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 本周的题目要比以往的难，也可以说恰好考到我的知识盲区，DP问题。老实的说，我对DP问题没有过深入的研究。这次DP题目尤其多，尤其是第4题，更是可以可以用经典的**背包问题**求解。
 
 | Rank |	Name |	Score |	Finish Time | 	Q1 (4) |	Q2 (5) |	Q3 (6) |	Q4 (8)|

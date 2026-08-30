@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 239
 date: 2021-05-02 11:47:52
+description: 四道题分别单次扫描目标距离、回溯切分递减序列、用下一个排列与贪心相邻交换，并离线匹配覆盖查询的最短区间。
 tags:
 - Competitive Programming
 categories:
@@ -15,6 +16,10 @@ translations:
 
 连续3周免打卡了，昨晚双周赛也做的不错手速场。
 最近的周赛确实难度有所降低，看来我还是适合做简单题目。Hard+还是不大行。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-239/zh-hero.webp" alt="测距车沿轨道寻找最近目标，长条回溯切成递减石阶，珠序列换到目标排列，短区间优先覆盖查询钉" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
 
 <!-- more -->
 

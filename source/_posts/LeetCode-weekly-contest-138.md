@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly conteset 138
 date: 2019-05-26 11:27:38
+description: 一场强调速度的周赛复盘：排序、滑动窗口、一次交换、优先队列，以及先想边界再写代码。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2019/05/26/LeetCode-weekly-contest-138/
   en: https://youngforest.github.io/en/2019/05/26/LeetCode-weekly-contest-138/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-138/zh-hero.webp" alt="Forest 在速度工坊先摆好边界路标，再排序人偶、滑动安抚窗、交换珠子并轮换重复货箱" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 本周比赛虽然题目质量还不错，但难度不高，是一场比拼速度的题目。
 因为第二题题目比较长，所以我做题的顺序是 1->3->4->2。
 

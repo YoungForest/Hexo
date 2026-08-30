@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/Niz-plum-option-key-not-work.md
+context: >-
+  一块紧凑键盘的左侧功能键只在蓝牙模式失灵，有线连接正常，重连和换通道也无效；同时按住四角按键恢复出厂设置并重新配置后，故障消失。
+assets:
+  - id: hero
+    file: source/images/ai/Niz-plum-option-key-not-work/zh-hero.webp
+    placement: hero
+    alt: 一块无标志的紧凑键盘在无线迷雾中丢失左侧功能键，四角同时亮起后线路重新连通
+    composition: >-
+      技术排障隐喻，不使用 Forest。俯视一块无品牌、无字符的紧凑键盘：有线通路稳定发光，无线通路却在左侧修饰键处陷入青灰色迷雾并断开；四个角键同时被按下后形成琥珀色闭合回路，断开的左键重新亮起并连上无线波纹。不要复刻真实键盘外观，不要出现品牌、按键文字、操作系统标志、说明书、可读界面或文字。
+    review_status: rejected

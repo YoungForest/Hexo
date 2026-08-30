@@ -1,6 +1,7 @@
 ---
 title: 2018年终总结 与 2019新年展望
 date: 2018-12-12 21:29:47
+description: 回顾三段实习和职业探索，明确后端与计算机系统方向，并规划健康、交换和技术学习。
 tags:
 - life
 - 年终总结
@@ -13,6 +14,12 @@ translations:
 Merry Christmas!
 
 离2019年还有5天，2018年就要结束了。一年过的真快呀。不知道你的2018年怎么样呀？一年前制定的新年计划实现了多少呢？
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/2018-summary-and-2019-resolutions/zh-hero.webp" alt="Forest 把三只实习工具箱和杂乱的编译器零件整理成一枚指向计算机系统道路的职业罗盘" width="1536" height="864" decoding="async">
+</figure>
+
+<!-- more -->
 
 我曾在2017年的新年计划中写下这样一段话：
 > 最近刚读了蔡东藩的[五代史](https://book.douban.com/subject/3089584/), 了解五代混乱的历史, 感叹大多数主子昏庸误国, 英明的主子也多少有瑕疵的同时, 也将心比心, 自己是否是一个英明的帝王. 答案却是否定的. 我是一个懒惰的人, 没有意志力的人, 不喜欢批评, 只喜欢表扬. 如果把自己放在帝王的位置上, 一定是个亡国之君了. 想想还是很可怕的.
@@ -56,6 +63,10 @@ Merry Christmas!
 
 那什么时候读呢？我认为当然越早越好，但是宁缺毋滥。所以，我需要先工作若干年，然后才能找到好的机会，去读名校牛导的博士。争取40岁之前获得博士学位吧。
 
+<figure class="editorial-illustration">
+  <img src="/images/ai/2018-summary-and-2019-resolutions/zh-2019-plan.webp" alt="Forest 将健康、实习、海外交换和系统学习放成四块相互支撑的年度踏脚石" width="1536" height="864" loading="lazy" decoding="async">
+</figure>
+
 ## 2019 resolution
 
 之前总结和展望了一大堆大道理，最后却没有具体的计划和愿景？还是需要有的，虽然我认为上面那些对自己的认识才是更重要的。这些resolution很具体，是最理想的情况了，如果最后能实现80%，我就很满意了。因为具体的计划受影响的因素众多，也有自己不能加以控制的。
@@ -76,4 +87,3 @@ Merry Christmas!
         - 编程之美，面试和算法
         - 设计模式，OOP
     - 多参加些实际的面试
-

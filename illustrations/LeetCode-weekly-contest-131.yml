@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-131.md
+context: >-
+  一场以简单题拼速度的周赛，复盘最外层括号、根到叶的二进制累加、大小写模式匹配和贪心视频拼接；文末也记录了继续补竞赛知识的计划。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-131/zh-hero.webp
+    placement: hero
+    alt: Forest 在速度工坊剥开外层圆环、汇总树径珠、匹配高低柱并拼接连续胶片
+    composition: >-
+      使用虚构 Forest。他在一座无字速度工坊中沿一条连续工作台复盘四个模型：从嵌套圆环中只取出最外层并保留内部、让根到叶各条路径上的深浅珠逐层汇入总量杯、用高低柱模式筛选形状序列，以及贪心选择能够把空白胶片覆盖得最远的片段。远处是一条仍待学习的上坡工具架，表达成长计划但不出现真实书籍。无可读文字、字母、数字、公式、品牌、书封、假界面或水印。
+    review_status: approved

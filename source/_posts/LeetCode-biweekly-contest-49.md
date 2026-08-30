@@ -1,6 +1,7 @@
 ---
 title: LeetCode biweekly contest 49
 date: 2021-04-04 19:52:35
+description: 四道题用棋盘奇偶、句首句尾匹配、镜像差分计数与余数状态搜索；文末记录第四题被重测推翻及修正。
 tags:
 - Competitive Programming
 categories:
@@ -24,6 +25,10 @@ translations:
 因为水平的降低和自己国服rating太高（2400+），我现在已经基本转战美服了。美服账号rating不到2200，尚且有不小的上升空间。打起来压力也不会太大。
 之前打国服，连跌2次，险些跌出2400俱乐部。
 我打算先把美服也打上2400. 这样不把鸡蛋放在一个篮子里，自己的rating也更稳定些。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-biweekly-contest-49/zh-hero.webp" alt="黑白棋盘由奇偶机关判色，两列词块从首尾向中间吻合，数字镜像差分把同类筹码聚在一起，余数托盘与记忆抽屉安排新鲜点心" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
 
 <!-- more -->
 

@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/Migrate-from-Travis-CI-to-Github-Action.md
+context: >-
+  原有自动部署在免费构建失效后停止工作，作者把 Hexo 发布流程从旧 CI 平台迁移到 GitHub Actions，调整工作流中的主题配置，并关闭旧平台自动构建。
+assets:
+  - id: hero
+    file: source/images/ai/Migrate-from-Travis-CI-to-Github-Action/zh-hero.webp
+    placement: hero
+    alt: 静态页面货箱离开熄灯的旧传送带，迁入分支式新工作流并继续送往双语站点
+    composition: >-
+      不使用 Forest，采用纯技术迁移隐喻。一条老式传送带因能源表归零而熄灯，静态页面货箱经短桥迁入一座由多条分支轨道组成的新工作流机器；主题零件在途中重新校准，另一侧的旧触发开关被物理合上，新机器继续把成品送往两座无字站点。不得出现 Travis、GitHub 或 Actions 标志，也不显示配置文本、终端或真实界面。无可读文字、字母、数字、品牌、假界面或水印。
+    review_status: approved

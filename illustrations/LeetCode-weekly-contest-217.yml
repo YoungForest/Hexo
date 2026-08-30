@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-217.md
+context: >-
+  周赛四题包括按行汇总财富、用单调栈保留最有竞争力子序列、借区间与差分思想计算数组互补的最少操作，以及反复减半最大偶数来缩小数组偏差。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-217/zh-hero.webp
+    placement: hero
+    alt: 珠算盘汇总每行财富，单调架弹出过大的石块，互补配对形成区间波纹，最大齿轮反复减半缩小整体差距
+    composition: >-
+      不使用 Forest。横向四站机械桌：多行钱币被珠算盘分别汇总，最高的一行自然抬起；一排数值石经过单调弹簧架，较大的前石在还有删除余量时弹出，只留下字典序更小的稳定子序列；成对石块围绕共同目标槽形成一层层区间波纹，差分脊线叠加后最低谷被琥珀灯照亮；末端深浅齿轮先把奇数轮放大为偶数轮，再反复将当前最大偶数轮折半，最大与最小夹板逐渐靠近。禁止人物、字符、字母、数字、公式、代码、箭头、可读文字、假界面、商标或水印。
+    review_status: approved

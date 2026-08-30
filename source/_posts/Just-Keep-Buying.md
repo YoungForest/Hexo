@@ -1,6 +1,7 @@
 ---
 title: Just Keep Buying 持续买进
 date: 2024-03-16 23:13:47
+description: 用数据重新审视择时、个股、房产、运气与时间，理解持续买进和长期积累的投资逻辑。
 tags:
 - Reading
 - 持续买进
@@ -13,6 +14,12 @@ translations:
 [豆瓣链接](https://book.douban.com/subject/35871073/)
 
 很不错的投资书籍，和“金钱心理学”有些像。用很多数据和回测说服读者。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/Just-Keep-Buying/zh-hero.webp" alt="一列定期落下的无标记筹码汇入宽阔资产篮，四季轮转中一棵小树稳步长大" width="1536" height="864" decoding="async">
+</figure>
+
+<!-- more -->
 
 我收益最多的几个点是：
 

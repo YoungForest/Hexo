@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-120.md
+context: >-
+  作者与朋友一起参加较简单的周赛，四题一次通过并看到训练进步，复盘有序数组平方、湍流子数组、二叉树硬币分配和遍历所有方格的路径。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-120/zh-hero.webp
+    placement: hero
+    alt: Forest 与匿名同伴并肩训练，合并平方珠、穿越湍流带、平衡树上硬币并走遍方格
+    composition: >-
+      使用虚构 Forest 与一名无身份特征的简化同伴，在轻松但有竞争感的双人训练台上并肩完成一条连续赛道。四段实体装置依次表现：从有序负正珠列两端取出并把不同大小的方块合并成升序、沿高低交替的琥珀青绿波带寻找最长连续段、在二叉树枝间移动硬币直到每个节点各有一枚、让一枚脚印棋子从起点走到终点且恰好覆盖所有可走方格一次。两人友好相视，表达互相促进而非胜负。无可读文字、字母、数字、公式、品牌、真实人物、假界面或水印。
+    review_status: approved

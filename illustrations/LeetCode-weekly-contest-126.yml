@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-126.md
+context: >-
+  作者尝试无麦克风录制解题但效果不佳，决定仍以博客沉淀思路，并复盘公共字符、重复替换、滑动窗口和区间动态规划合并石堆。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-126/zh-hero.webp
+    placement: hero
+    alt: Forest 从无声录制台转回博客工作桌，汇集共同色珠、消除重复片段、滑动窗口并分层合并石堆
+    composition: >-
+      使用虚构 Forest。画面左侧是一台没有屏幕内容、标志和文字的无声录制装置，Forest 略显尴尬地发现空麦克风支架无法传达思路，于是转身走向右侧温暖的纸页工作桌。桌面四个实体隐喻自然串联：多组彩珠只留下共同颜色、三枚重复形状的木块连续出现后消散、一只青绿色窗框沿珠串滑动，以及多堆石块按区间从小到大分层合并。石堆旁的小旗没有任何文字。无可读文字、字母、数字、公式、品牌、视频平台线索、假界面或水印。
+    review_status: approved

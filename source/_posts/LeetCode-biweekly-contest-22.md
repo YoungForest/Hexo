@@ -1,6 +1,7 @@
 ---
 title: LeetCode biweekly contest 22
 date: 2020-03-23 22:47:33
+description: 双周赛复盘：数组距离二分、影院座位位图、整数 power value 记忆化，以及环形披萨的非邻接选择 DP。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2020/03/23/LeetCode-biweekly-contest-22/
   en: https://youngforest.github.io/en/2020/03/23/LeetCode-biweekly-contest-22/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-biweekly-contest-22/zh-hero.webp" alt="排序珠轨经光圈检查距离，家庭木偶坐进连续亮席，迭代珠汇入缓存路径，机械手从环形披萨中隔片选择" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 | Rank |	Name |	Score |	Finish Time | 	Q1 (4) |	Q2 (4) |	Q3 (5) |	Q4 (6)|
 |--|--|--|--|--|--|--|--|
 | 1357 / 5632 |	YoungForest | 	12 | 1:27:09 |  0:05:06 |  0:48:41  1 |  1:22:09 |  null |

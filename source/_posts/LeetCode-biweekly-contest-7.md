@@ -1,6 +1,7 @@
 ---
 title: LeetCode biweekly contest 7
 date: 2019-08-25 23:46:29
+description: 双周赛复盘：单行键盘、树形文件系统、最小代价合并木棍和村庄供水网络，记录夏令营期间的参赛体验。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2019/08/25/LeetCode-biweekly-contest-7/
   en: https://youngforest.github.io/en/2019/08/25/LeetCode-biweekly-contest-7/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-biweekly-contest-7/zh-hero.webp" alt="Forest 在无标识客房里操作空白单行键盘、文件树、合并木棍的绳机和村庄供水网络" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 | Rank |	Name |	Score |	Finish Time | 	Q1 (3) |	Q2 (4) |	Q3 (5) |	Q4 (6)|
 |--|--|--|--|--|--|--|--|
 | 106 / 1901 |	YoungForest | 18 | 1:01:13 | 0:05:46 | 0:27:13 | 0:35:34  | 1:01:13 |

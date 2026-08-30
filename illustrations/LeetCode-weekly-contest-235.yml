@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-235.md
+context: >-
+  文章截断句子、按用户统计去重活跃分钟、用贪心和二分搜索降低绝对差，并记录不同子序列最大公约数题上超时的暴力动态规划尝试。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-235/zh-hero.webp
+    placement: hero
+    alt: 长句纸带在指定词后截断，用户时钟印章去重，滑尺寻找最接近石块，公约数分支网因路径过多而拥堵
+    composition: >-
+      不使用 Forest。构造横向四联无字算法编辑台：左侧一条由抽象词块组成的长纸带在第若干块后被整齐裁断，不出现文字或数字；中左不同颜色用户托盘收集时钟形印章，相同时刻的重复印章合并成一个；中右排序石块上方有二分滑尺，机械夹逐个寻找最接近当前目标的替换石块以缩小两列差距；右侧大量数值改用不同齿数的无字齿轮，子序列分支不断合并出公约数齿轮，但暴力动态规划的分支网膨胀并卡在沙漏前，诚实呈现超时而不是胜利。禁止人物、字符、字母、数字、公式、代码、可读文字、失败叉号、品牌、商标或水印。
+    review_status: approved

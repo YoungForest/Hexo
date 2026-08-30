@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 189
 date: 2020-05-17 18:47:50
+description: 周赛复盘：区间计数、按词长稳定排序、集合包含判断与圆盘角度扫描，也反思一次好运带来的排名错觉。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2020/05/17/LeetCode-weekly-contest-189/
   en: https://youngforest.github.io/en/2020/05/17/LeetCode-weekly-contest-189/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-189/zh-hero.webp" alt="时刻光束穿过学生区间，长短卡片稳定重排，集合盒互查包含关系，圆盘旋转覆盖最多散点" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 | Rank |	Name |	Score |	Finish Time | 	Q1 (3) |	Q2 (4) |	Q3 (5) |	Q4 (7)|
 |--|--|--|--|--|--|--|--|
 | 484 / 13036|	YoungForest | 19 | 1:27:45 | 0:11:20 | 0:19:20  1 | 0:08:48 |  1:22:45 |

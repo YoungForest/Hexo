@@ -1,6 +1,7 @@
 ---
 title: LeetCode biweekly contest 23
 date: 2020-04-07 13:08:11
+description: 双周赛复盘：最大数位和分组、回文串构造、圆与矩形相交，以及排序后用后缀和贪心选择菜品。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2020/04/07/LeetCode-biweekly-contest-23/
   en: https://youngforest.github.io/en/2020/04/07/LeetCode-biweekly-contest-23/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-biweekly-contest-23/zh-hero.webp" alt="纹理珠分入并列最高容器，镜面对称珠串留下中心，圆规量出圆到矩形最近点，餐盘在收益下降前停止加入" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 | Rank |	Name |	Score |	Finish Time | 	Q1 (3) |	Q2 (5) |	Q3 (5) |	Q4 (6)|
 |--|--|--|--|--|--|--|--|
 | 199 / 7026 |	YoungForest | 19 | 	0:40:57 |  0:08:05 |  0:11:44 | 0:33:38 |   0:40:57 |

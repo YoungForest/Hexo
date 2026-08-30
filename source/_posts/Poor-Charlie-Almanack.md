@@ -1,6 +1,7 @@
 ---
 title: 穷查理宝典 查理芒格的人生智慧
 date: 2024-08-07 22:35:33
+description: 记录《穷查理宝典》关于跨学科思维、反向思考、阅读习惯和把握关键机会带来的人生启发。
 tags:
 - Reading
 - 穷查理宝典
@@ -13,6 +14,12 @@ translations:
 每周一本书 18:穷查理宝典:查理芒格的人生智慧
 
 查理芒格去年底去世，享年99岁。惭愧现在才读集他思想大成的“穷查理宝典”。算是凝结他80年思想智慧的产物，因为原书第三版成书于2008年。最近看了太多的成功学书籍，对未来和自己真是充满了期待和自信。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/Poor-Charlie-Almanack/zh-hero.webp" alt="一座由齿轮、天平、尺规和望远镜构成的知识格栅汇聚成一条通往关键机会的清晰道路" width="1536" height="864" decoding="async">
+</figure>
+
+<!-- more -->
 
 读传记，研究那些获得成功的人生和其他那些留下遗憾或者遭遇失败的人生。
 

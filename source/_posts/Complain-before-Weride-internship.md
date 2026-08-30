@@ -1,5 +1,6 @@
 ---
 title: 日常 | 去景驰实习前发些牢骚
+description: "在研究生课程、导师、实习和他人期待之间感到失控后，仍决定利用零碎时间找回主动权。"
 date: 2018-10-28 23:11:53
 tags:
 - Weride
@@ -14,6 +15,12 @@ translations:
 来源：https://www.douban.com/note/694767558/
 
 最近总有一种感受，自己无法掌控自己的生活和人生。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/Complain-before-Weride-internship/zh-hero.webp" alt="Forest 被课程、学位和他人期待的细线拉向不同方向，却把零散的时间碎片拼成通往暖光的自主道路" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
 
 首先，快快乐乐的活着 和 努力成为别人期望的样子 到底哪个更重要些？现在我更认可后者。我从小就是别人家的孩子，很乖、很听话。不玩电子游戏、不早恋、不打架，学习成绩好。但是这样的日子开心吗？不见得。现在即使大学都毕业了，早已泯然众人了，仍然免不了越来越活成别人期望的样子，甚至自己也认为这样的生活好像更有意义一些。说到底，我还是一个“社会”中的人。需要父母、同学、老师、朋友的肯定 才能继续走下去。
 

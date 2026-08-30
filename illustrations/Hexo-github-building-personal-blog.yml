@@ -1,0 +1,10 @@
+version: editorial-comic-v1
+post: source/_posts/Hexo-github-building-personal-blog.md
+context: 从不常写作、折腾之后很快遗忘，到决定用 Hexo 与 GitHub Pages 建立长期记录，文章既讲动机，也记录第一次搭建与部署博客的过程。
+assets:
+  - id: hero
+    file: source/images/ai/Hexo-github-building-personal-blog/zh-hero.webp
+    placement: hero
+    alt: Forest 把散落的技术便签装订成书页，书页沿小桥通向一座整洁的公开书架
+    composition: 让 Forest 坐在简洁工作台前，把散落、卷角的技术便签装订成连续书页；书页组成一座小桥，通向远处整洁开放的书架，暗示把易忘的折腾沉淀为可分享的博客；不画电脑界面、平台标志或可读文字。
+    review_status: approved

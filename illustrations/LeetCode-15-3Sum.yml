@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-15-3Sum.md
+context: >-
+  作者在面试中用哈希思路解出经典三数之和，整理后却遇到超时，随后通过排序和双指针降低常数并去重，体会到同一复杂度下实现细节的重要性。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-15-3Sum/zh-hero.webp
+    placement: hero
+    alt: Forest 将排序珠列两端向中间移动，寻找让三只托盘保持平衡且不重复的组合
+    composition: >-
+      使用虚构 Forest。他在一座面试后的平衡工坊里，把原先绕行且发热的哈希收集网放到一旁，转向一条从冷色轻珠到暖色重珠排好顺序的长轨。Forest 固定一枚珠子，同时从左右两端移动两只滑块，找到三枚能让中央三臂天平回到水平的组合；已经找到过的相同图案珠会从旁路滑过，避免重复。轻微幽默来自第一台机器明明路线相同却偶尔才亮起通过灯。无可读文字、字母、数字、公式、品牌、真实公司或面试官、假界面或水印。
+    review_status: approved

@@ -1,6 +1,7 @@
 ---
 title: Hexo 创建中英文博客
 date: 2021-09-07 17:50:49
+description: 记录从中文 Hexo 博客搭建独立英文站点、配置部署路径并实现双向链接的过程。
 categories:
 - 折腾
 tags:
@@ -11,14 +12,18 @@ translations:
 ---
 自从来到亚马逊工作，接触英文和外国同事比较多。锻炼使用英语的需求越来越大。而且为了和国际接轨，我决定创建自己的英文博客。
 
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/Setup-English-blog/zh-hero.webp" alt="两座由同一套积木搭成的中英文博客屋沿不同轨道部署，并由一座双向桥连接" width="1536" height="864" decoding="async">
+</figure>
+
+<!-- more -->
+
 ## 步骤
 
 以中文博客为模版，创建英文博客。
 ```bash
 cp -r Hexo HexoEn
 ```
-
-<!-- more -->
 
 删除HexoEn中没用的中文博文和资源。
 

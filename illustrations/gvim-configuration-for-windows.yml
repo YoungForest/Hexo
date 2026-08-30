@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/gvim-configuration-for-windows.md
+context: >-
+  作者在备考间隙配置 Windows 上的 gVim，区分通用配置与只在图形模式读取的配置，并加入编码、剪贴板、字体和 Markdown 预览等个人设置。
+assets:
+  - id: hero
+    file: source/images/ai/gvim-configuration-for-windows/zh-hero.webp
+    placement: hero
+    alt: 两个并排的无字编辑工坊共享一只基础工具箱，图形工坊另有色板与字体尺，配置分工清晰
+    composition: >-
+      技术配置隐喻，不使用 Forest。画面是一张 Windows 风格但无任何系统标志的工作台，左右两个无字编辑工坊：终端工坊与图形工坊共享中央基础工具箱，代表通用配置；图形工坊另外连接一只小色板、字体尺和剪贴板夹，代表只在 GUI 模式生效的个性设置；旁边一座简单桥把空白 Markdown 纸页送往浏览器形状的预览窗。不要出现真实软件图标、Windows 或浏览器标志、编辑器名称、代码、路径、快捷键、字符、文字、数字或界面。
+    review_status: approved

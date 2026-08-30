@@ -5,12 +5,19 @@ tags:
 - LeetCode
 categories:
 - Programming
+description: 系统梳理队列与栈的定义、实现和应用，包括循环队列、BFS、DFS以及两种结构的相互实现。
 translations:
   zh-CN: https://youngforest.github.io/2019/02/17/Queue-and-Stack/
   en: https://youngforest.github.io/en/2019/02/17/Queue-and-Stack/
 ---
 今天我们一起学习2种重要的数据结构：队列 和 栈。
 本文根据LeetCode上的Explore教程 [Introduction to Data Structure - Queue & Stack](https://leetcode.com/explore/featured/card/queue-stack/) 整理而成。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/Queue-and-Stack/zh-hero.webp" alt="一列琥珀色圆片从队尾进入并由队首离开，旁边一摞同样的圆片只从顶端放入和取出" width="1536" height="864" decoding="async">
+</figure>
+
+<!-- more -->
 
 ## Introduction
 

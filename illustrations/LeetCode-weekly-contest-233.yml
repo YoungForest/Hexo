@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-233.md
+context: >-
+  三道赛内题累计最长递增段、维护订单积压并二分受限数组峰值；第四题在赛后用二进制 Trie 统计异或值落在范围内的配对。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-233/zh-hero.webp
+    placement: hero
+    alt: 递增台阶汇总最大重量，买卖托盘匹配积压订单，预算沙漏限制数组峰顶，二叉灯树在赛后接通范围闸门
+    composition: >-
+      不使用 Forest。设计横向四联算法工坊：左侧不同高度的连续石阶只有严格上升时才把重量累加到托盘，下降处重新开始并保留最重托盘；中左青色买单与琥珀卖单按价格高度排在两列架子上，最接近的托盘互相消耗，剩余数量留在积压架；中右一列对称石块围绕指定位置形成峰顶，二分夹具不断调节无刻度峰高，沙漏中的固定材料预算决定能否建成；右侧二进制 Trie 改为只有两类形状的分叉灯树，配对令牌穿过上下范围闸门后被计数，树末端由傍晚灯光表现赛后完成。禁止人物、字符、字母、数字、公式、代码、可读文字、箭头、竞赛标志、商标或水印。
+    review_status: approved

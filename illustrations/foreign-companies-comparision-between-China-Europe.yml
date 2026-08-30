@@ -1,0 +1,10 @@
+version: editorial-comic-v1
+post: source/_posts/foreign-companies-comparision-between-China-Europe.md
+context: 第一人称比较中国与欧洲美资互联网公司的工作生活平衡、人才结构、福利、时区协作和办公室边缘性。
+assets:
+  - id: hero
+    file: source/images/ai/foreign-companies-comparision-between-China-Europe/zh-hero.webp
+    placement: hero
+    alt: Forest 坐在跨越北京与都柏林的长桌中央，清晨和夜晚的会议钟指向远处美国办公室，三地接力守护同一盏服务灯
+    composition: 用横跨三个时区的办公长桌比较中国和欧洲外企，并以接力值班与不同城市节奏表现共同点和差异。
+    review_status: approved

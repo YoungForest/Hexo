@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-141.md
+context: >-
+  作者在两门考试前仍抽时间参赛，复盘原地复制零、按标签限制贪心选值、二进制矩阵最短路和通过最长公共子序列补齐最短公共超序列。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-141/zh-hero.webp
+    placement: hero
+    alt: Forest 在两摞空白复习册旁逆向复制空珠、限额挑选标签物件、穿越方格路并织合两条序列
+    composition: >-
+      使用虚构 Forest。两摞没有标题的复习册与即将落尽的沙漏暗示考试周，Forest 仍坐在竞赛桌前。四个动作从左到右连贯展开：从末端向前移动并复制空心珠的定长轨道、按颜色标签限额挑选高价值砝码、在黑白方格障碍中寻找最短通路，以及先找出两条彩带共同骨架再把剩余片段织入最短合并彩带。无可读文字、字母、数字、公式、品牌、假界面或水印。
+    review_status: approved

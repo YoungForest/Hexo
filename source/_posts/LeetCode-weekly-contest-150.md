@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 150
 date: 2019-08-19 09:45:53
+description: 周赛复盘：字符计数拼词、二叉树层和、多源搜索最远水域和最大字典序后缀，也反思假期松懈后的手感下降。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2019/08/19/LeetCode-weekly-contest-150/
   en: https://youngforest.github.io/en/2019/08/19/LeetCode-weekly-contest-150/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-150/zh-hero.webp" alt="Forest 重新上紧训练发条，面对彩珠拼块、分层树篮、岛屿扩散波纹和多条后缀彩带赛道" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 | Rank |	Name |	Score |	Finish Time | 	Q1 (3) |	Q2 (4) |	Q3 (5) |	Q4 (7)|
 |--|--|--|--|--|--|--|--|
 | 476 / 5091 |	YoungForest | 	19	 | 	1:31:13 | 0:03:52  | 0:09:23 | 1:16:13  2 |  0:50:16  1 |

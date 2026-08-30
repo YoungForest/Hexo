@@ -6,6 +6,7 @@ categories:
 tags:
 - Hexo
 mathjax: false
+description: 回顾第一次使用 Hexo 和 GitHub Pages 建站的动机、安装过程与部署问题，也解释为什么决定长期写博客。
 translations:
   zh-CN: https://youngforest.github.io/2016/11/02/Hexo-github-building-personal-blog/
   en: https://youngforest.github.io/en/2016/11/02/Hexo-github-building-personal-blog/
@@ -13,7 +14,11 @@ translations:
 ## 动机(放在前面)
 之前在cnblog上有个博客, 但是也不经常维护, 到现在满打满算也才有3篇随笔, 1个粉. 主要是因为自己没有写东西的习惯. 高中的时候记过一段时间的日记, 零零总总写了有大半本, 都是一些励志(自欺欺人)的东西, 写给自己看的.
 
-<!--more-->
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/Hexo-github-building-personal-blog/zh-hero.webp" alt="Forest 把散落的技术便签装订成书页，书页沿小桥通向一座整洁的公开书架" width="1536" height="864" decoding="async">
+</figure>
+
+<!-- more -->
 
 首先, 之前感觉没有可写的, 但现在觉得可写的还是挺多的.自己这两年也折腾了不少东西.但折腾完后, 说实话忘得挺快的, 下次自己再弄或者给别人处理相同问题的时候, 基本上又要重新来过. 记下来下之后, 不管是自己日后需要, 还是给小伙伴们借鉴都是极有用的.
 

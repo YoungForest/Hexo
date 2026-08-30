@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 184
 date: 2020-04-12 20:04:46
+description: 周赛复盘：子串匹配、查询元素前移、Trie 自动机解析与三列网格涂色 DP，也反思速度赛中的工具选择。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2020/04/12/LeetCode-weekly-contest-184/
   en: https://youngforest.github.io/en/2020/04/12/LeetCode-weekly-contest-184/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-184/zh-hero.webp" alt="Forest 在图案卡、前移令牌、树状解析器和三列彩格之间穿行，比较轻便工具与笨重机关" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 | Rank |	Name |	Score |	Finish Time | 	Q1 (4) |	Q2 (4) |	Q3 (6) |	Q4 (7)|
 |--|--|--|--|--|--|--|--|
 | 589 / 9816 |	YoungForest | 19 | 0:55:30 | 0:07:04 |  0:15:05 | 0:37:18  1 | 0:50:30 |

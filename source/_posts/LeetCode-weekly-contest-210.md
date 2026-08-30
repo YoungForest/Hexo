@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 210
 date: 2020-10-11 19:23:21
+description: 四道题涉及嵌套深度、城市网络度、拼接回文，以及枚举连通子树并计算直径。
 tags:
 - Competitive Programming
 categories:
@@ -14,6 +15,12 @@ translations:
 | 94 / 11792 | YoungForest | 18 | 0:51:30 | 0:03:13 | 0:08:36 | 0:21:59 | 0:51:30 |
 
 本场比赛都是常规题目，我没有遇到困难，久违地进入了前100名。太难了，残酷群排名也因此上升到25名。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-210/zh-hero.webp" alt="同心拱门包围城市枢纽，两座道路塔相连，双向丝带拼成镜桥，树状街区用跨度尺测量" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
 
 ## 5535. Maximum Nesting Depth of the Parentheses
 

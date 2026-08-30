@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 179
 date: 2020-03-08 13:54:54
+description: 周赛复盘：奇数频次构造、灯泡连续前缀、组织树通知时间与青蛙精确时刻位置，也强调输入检查。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2020/03/08/LeetCode-weekly-contest-179/
   en: https://youngforest.github.io/en/2020/03/08/LeetCode-weekly-contest-179/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-179/zh-hero.webp" alt="Forest 观察入口拦下异常令牌、双色奇数珠环、连续变蓝灯列、消息树和精确时刻的青蛙跳跃" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 | Rank |	Name |	Score |	Finish Time | 	Q1 (3) |	Q2 (4) |	Q3 (5) |	Q4 (6)|
 |--|--|--|--|--|--|--|--|
 | 539 / 6242 |	YoungForest | 18 | 	1:09:53 | 0:05:43 | 0:13:09 | 0:24:01 | 1:04:53  1 |

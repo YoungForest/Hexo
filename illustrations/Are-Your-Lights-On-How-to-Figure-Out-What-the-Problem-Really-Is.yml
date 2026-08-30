@@ -1,0 +1,10 @@
+version: editorial-comic-v1
+post: source/_posts/Are-Your-Lights-On-How-to-Figure-Out-What-the-Problem-Really-Is.md
+context: 讨论如何区分口头提出的问题与真正需要解决的问题，以及何时帮助、何时远离问题来源。
+assets:
+  - id: hero
+    file: source/images/ai/Are-Your-Lights-On-How-to-Figure-Out-What-the-Problem-Really-Is/zh-hero.webp
+    placement: hero
+    alt: 一群人忙着检查一扇打不开的门，旁边一盏小灯照出真正卡住门轴的石子
+    composition: 大多数人围着门把和门框测量调整，角落的小灯照亮门轴下的微小障碍，用尺度反差表现重新定义问题比盲目解决更重要。
+    review_status: approved

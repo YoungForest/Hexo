@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/Actions-After-Address-Change-in-Ireland.md
+context: >-
+  作者总结在爱尔兰搬到新地址后需要更新的七类信息，包括银行、券商、养老金、保险、税务、车辆和雇主系统，以免重要信件寄往旧址。
+assets:
+  - id: hero
+    file: source/images/ai/Actions-After-Address-Change-in-Ireland/zh-hero.webp
+    placement: hero
+    alt: Forest 推着搬家箱从旧屋走向新屋，一枚新地址牌沿七条路线送往不同账户柜台
+    composition: >-
+      使用虚构 Forest。暖灰雨后街道上，他推着几个简洁搬家箱从旧屋走向新屋；一枚完全空白的琥珀地址牌从新屋旁的分发器分成七条青绿色路线，分别通向无字的储蓄柜、投资苗圃、养老金沙漏、医疗盾牌、税务账簿、汽车库和办公桌。场景轻松但清晰，不展示真实地址或机构。无可读文字、字母、数字、真实表单、商标、品牌、假界面、水印或签名。
+    review_status: approved

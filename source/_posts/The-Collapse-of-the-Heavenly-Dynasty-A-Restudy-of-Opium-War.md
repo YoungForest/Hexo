@@ -6,11 +6,16 @@ tags:
 - 天朝的崩溃鸦片战争再研究
 categories:
 - 读后感
+description: "从鸦片战争中的人物、政策与制度转变出发，借历史研究重新审视教科书叙事与中国现代化的沉重包袱。"
 translations:
   zh-CN: https://youngforest.github.io/2026/01/01/The-Collapse-of-the-Heavenly-Dynasty-A-Restudy-of-Opium-War/
   en: https://youngforest.github.io/en/2026/01/01/The-Collapse-of-the-Heavenly-Dynasty-A-Restudy-of-Opium-War/
 ---
 [豆瓣链接](https://book.douban.com/subject/25935941/)
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/The-Collapse-of-the-Heavenly-Dynasty-A-Restudy-of-Opium-War/zh-hero.webp" alt="一座封闭宫墙里的旧天文台与墙外蒸汽航路隔水相望，裂开的历史镜片把制度、政策和人物重新折射成多层影子" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
 
 <!-- more -->
 

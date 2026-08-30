@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-29-Divide-Two-Integer.md
+context: >-
+  作者停刷四周后为面试重新规划练习，以不用乘除模的整数除法为例，从反复减法超时改进到按倍数扩张的笔算式分块，并处理符号与边界。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-29-Divide-Two-Integer/zh-hero.webp
+    placement: hero
+    alt: Forest 重启训练，把缓慢逐块搬运改成倍增装箱，并用符号闸门守住整数边界
+    composition: >-
+      使用虚构 Forest。他重新点亮停用四周的练习工坊，把一辆每次只搬一块、已经排出长队的慢车换成倍增装箱装置：小箱成对合并为越来越大的整齐批次，再从目标货堆中按最大可容纳批次逐层取走，像无字的长除法。入口的双色翻转闸门处理正负方向，最末端有一只坚固缓冲器挡住溢出边界。不要出现乘除号、数字、公式或具体公司线索。无可读文字、字母、商标、真实面试人物、假界面或水印。
+    review_status: approved

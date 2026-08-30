@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-258-Add-Digits.md
+context: >-
+  文章从递归或迭代地反复相加各位数字，转向利用数根规律在常数复杂度内直接得到一位结果，并链接到同余证明与扩展阅读。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-258-Add-Digits/zh-hero.webp
+    placement: hero
+    alt: 成组珠子在九格循环轨道中层层消去，最终只留下一颗琥珀色结果珠
+    composition: >-
+      不使用 Forest，采用纯技术主题隐喻。许多无标记珠子先走过需要反复收拢的多层漏斗，旁边则是一条极简环形轨道：珠子按九个空槽的节奏循环，每绕满一圈就回到起点抵消，最终在中央空白托座上留下一颗琥珀珠。用重复的九格物理结构暗示数根和同余，但画面不得出现任何数字、算式、加号、百分号或标签。无可读文字、字母、品牌、真实界面或水印。
+    review_status: approved

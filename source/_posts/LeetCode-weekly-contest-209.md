@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 209
 date: 2020-10-07 11:35:47
+description: 周赛复盘：特殊数组、奇偶树、环形视野窗口与递归位操作；第四题比赛未完成，赛后学习补解。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2020/10/07/LeetCode-weekly-contest-209/
   en: https://youngforest.github.io/en/2020/10/07/LeetCode-weekly-contest-209/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-209/zh-hero.webp" alt="阈值台阶与石子数量恰好相等，树层交替排列深浅果实，圆形视窗覆盖最多散点，折叠位机关在赛后被逐层拆开" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 | Rank |	Name |	Score |	Finish Time | 	Q1 (3) |	Q2 (4) |	Q3 (5) |	Q4 (6)|
 |--|--|--|--|--|--|--|--|
 | 522 / 12138 | YoungForest | 12 | 0:49:07 | 0:05:12 | 0:11:28 | 0:39:07 2 | null |

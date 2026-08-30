@@ -6,6 +6,7 @@ tags:
 - interview
 categories:
 - dairy
+description: "记录 2019 年工程夏令营的一周：选拔、密集课程、两人项目冲刺，以及疲惫但开心的技术交流体验。"
 translations:
   zh-CN: https://youngforest.github.io/2019/09/06/ByteDance-Camp/
   en: https://youngforest.github.io/en/2019/09/06/ByteDance-Camp/
@@ -13,6 +14,12 @@ translations:
 总的体验是很开心，收获很大。
 
 很幸运可以参加今年的Byte Camp，我认为这一周的活动是我今年参加过的最有意义的活动了。今年的夏令营共分为3个赛道：工程、算法、和 产品。我参加的是工程赛道。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/ByteDance-Camp/zh-hero.webp" alt="年轻 Forest 穿过算法拼图门、密集讲堂和深夜双人项目桌，把紧凑一周串成一条明亮工程轨道" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
 
 工程和算法赛道进入夏令营的选拔都是通过笔试和面试完成的。笔试的题目也都一样，就是通过牛客网的平台在线完成。笔试有2次机会，都参加的话取分高的。笔试题目分为基础题（操作系统、计算机组成原理、计算机网络）和编程题。编程题有4题，难度依次递增。我参加的是第一场，AC了前3道，难度大约等于是LeetCode medium，最后一题的难度直接飙升到 ICPC world final的难度，要用费用流的知识。我也没打过ACM，第一次听说费用流，就没做出来。由于笔试答的还行，面试我没参加，直接拿到入营资格了。不过听参加面试的同学反映，面试也挺水的，难度很低。
 

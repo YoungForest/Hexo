@@ -1,6 +1,7 @@
 ---
 title: LeetCode biweekly contest 50
 date: 2021-04-18 11:57:36
+description: 三道赛内题贪心抬高递增数组、统计圆内点并反向维护异或；第四题仅保留题目链接，没有完成解法。
 tags:
 - Competitive Programming
 categories:
@@ -17,6 +18,10 @@ translations:
 本次的双周赛是变相的手速场，141人作出4题。剩下的比拼前3题的手速。
 我花10min很顺利地做完了前三题，Q4却思考了一个小时也并未有重大突破。
 虽然有些许眉目，觉得是个DP，但事后发现问题早已超纲，没做出来也实属正常。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-biweekly-contest-50/zh-hero.webp" alt="机械手把石阶最低限度抬成递增，圆环逐个罩住散点计数，反向珠链经过互补位棱镜，最后的字符串排序柜仍然关闭" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
 
 <!-- more -->
 

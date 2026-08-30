@@ -1,0 +1,19 @@
+version: editorial-comic-v1
+post: source/_posts/find-all-unique-pairs-of-maximum-and-second-maximum-elements-over-all-sub-arrays-in-onlogn.md
+context: >-
+  文章从枚举所有子数组的暴力思路出发，解释每个次大值只需与左右最近的更大值配对的观察，并给出单调栈与基于 XOR 最高位向两侧扩展的两种线性解法。
+assets:
+  - id: hero
+    file: source/images/ai/find-all-unique-pairs-of-maximum-and-second-maximum-elements-over-all-sub-arrays-in-onlogn/zh-hero.webp
+    placement: hero
+    alt: 高低石柱组成的数组上方重叠着许多滑动窗口，旁边一座单调下降阶梯只保留最近的更高邻居
+    composition: >-
+      用纯实体算法隐喻，不画代码或界面：一排高低不同的石柱代表数组，左半边许多半透明框逐段覆盖石柱，表现暴力枚举的重复；右半边石柱自动进入一座单调下降的阶梯装置，较矮石柱被弹出时与新来的高柱用一条琥珀色细线配对，只保留左右最近的更高邻居。画面不出现数字、复杂公式、品牌或可读文字。
+    review_status: approved
+  - id: highest-bit
+    file: source/images/ai/find-all-unique-pairs-of-maximum-and-second-maximum-elements-over-all-sub-arrays-in-onlogn/zh-highest-bit.webp
+    placement: before-independent-solution
+    alt: 一排明暗灯块中最高层亮起的琥珀色信标同时向左右扫描，遇到下一座同层信标便停止
+    composition: >-
+      表现作者独立想到的 XOR 解法：把数组画成一排多层灯块，每个元素由若干明暗层组成；最高仍有差异的一层出现少数琥珀色信标，从每座亮信标各有两束青绿色扫描光向左右扩展，沿途收集较低灯块，遇到下一座同层信标停止。通过脚印最多往返两次表现线性访问，不使用 0、1、位数标签、代码或文字。
+    review_status: approved

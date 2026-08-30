@@ -1,6 +1,7 @@
 ---
 title: 2021年终总结 与 2022新年展望
 date: 2021-12-28 23:35:06
+description: 回顾毕业、居家办公、职业成长、英语和系统设计学习，并展望前往欧洲、继续阅读与增加输出的2022年。
 tags:
   - life
   - 年终总结
@@ -11,6 +12,12 @@ translations:
   en: https://youngforest.github.io/en/2021/12/28/2021-summary-and-2022-resolutions/
 ---
 新年快乐，离2021年结束还有3天。我终于提笔开始了我一年一度的年终总结和新年展望。最近发现写年终总结的同学越来越多，但我其实不是跟风。我很早就开始每年写年终总结。一开始是在日记本里，后来在博客里。除了每年辞旧迎新的时候，我还会在人生阶段性里程碑写下总结和展望，比如本科毕业和硕士毕业。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/2021-summary-and-2022-resolutions/zh-hero.webp" alt="Forest 把毕业帽、居家办公、英语练习和代码积木收进一本逐渐变厚的年度手账，前方通向新的晨光" width="1536" height="864" decoding="async">
+</figure>
+
+<!-- more -->
 
 之前的年终总结：
 - [2020年终总结](https://youngforest.github.io/2020/11/25/2020-summary-and-2021-resolutions/)
@@ -69,6 +76,10 @@ translations:
 新的一年，我会继续保持这一爱好和习惯。但并不是每天刷题，而是随心所欲不逾矩。想刷就刷。之后如果去了欧洲，因为时差原因无法参加LeetCode周赛，我会换一个平台继续刷题，比如 CodeForces。
 
 总的来说，在这关键的一年，因为之前长期准备，我过的还算顺利和平安上岸。人无远虑，必有近忧。我向来是喜欢提前谋划，长期努力的人。新的一年，加油！
+
+<figure class="editorial-illustration">
+  <img src="/images/ai/2021-summary-and-2022-resolutions/zh-2022-outlook.webp" alt="Forest 走上通往欧洲城市轮廓的桥，同时照料技能齿轮、英语对话、书本幼苗和表达麦克风" width="1536" height="864" loading="lazy" decoding="async">
+</figure>
 
 ## 2022年美好生活的向往
 

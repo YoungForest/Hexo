@@ -1,0 +1,10 @@
+version: editorial-comic-v1
+post: source/_posts/Chaos-Complexity-and-the-Emergence-of-Life.md
+context: 从混沌、三体问题和蝴蝶效应思考预测的数学边界，以及宇宙、生命与社会中复杂性的共同结构。
+assets:
+  - id: hero
+    file: source/images/ai/Chaos-Complexity-and-the-Emergence-of-Life/zh-hero.webp
+    placement: hero
+    alt: 三颗天体沿看似规则却逐渐分岔的轨迹运行，一只琥珀色蝴蝶让精密钟表般的宇宙模型泛起不可预测的涟漪
+    composition: 以桌面上的机械宇宙模型为中心，规则齿轮和三条轨道逐渐分岔成复杂涟漪，蝴蝶只作为微小扰动，不使用公式或文字。
+    review_status: approved

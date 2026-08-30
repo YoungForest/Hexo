@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 116
 date: 2018-12-26 11:26:03
+description: 一次注意力分散后的复盘：随机重复元素、最大宽度坡、最小矩形和最少运算表达目标。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2018/12/26/LeetCode-weekly-contest-116/
   en: https://youngforest.github.io/en/2018/12/26/LeetCode-weekly-contest-116/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-116/zh-hero.webp" alt="Forest 收拢分叉注意力，配对重复珠、架起最宽坡、旋转最小矩形并精简运算齿轮" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 又到周末LeetCode weekly contest的时候了，这次战果不佳。原因主要是，二三题都想做出来，结果都没有做出来。如果把时间都集中于第二题，应该也还是能AC的。
 
 ## 961. N-Repeated Element in Size 2N Array

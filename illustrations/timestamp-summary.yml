@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/timestamp-summary.md
+context: >-
+  作者在实验室项目中遇到陌生时间戳，简要记录 Unix 时间、Windows NT 时间以及常见时间表示之间的关系和换算。
+assets:
+  - id: hero
+    file: source/images/ai/timestamp-summary/zh-hero.webp
+    placement: hero
+    alt: 两座起点和刻度机制不同的时间钟经过换算齿轮，对齐到同一条时间轴
+    composition: >-
+      不使用 Forest。画面左右各是一座结构不同的机械时间钟：一座从较近的简洁起点蓄水计时，另一座从更古老的长管道输入细密脉冲；两股节奏进入中央青绿色换算齿轮箱，最后在前景一条琥珀色时间轴上对齐。用不同机械节拍表达纪元和单位差异，不出现日期或数值。无可读文字、字母、数字、公式、Windows 标志、品牌、界面、水印或签名。
+    review_status: approved

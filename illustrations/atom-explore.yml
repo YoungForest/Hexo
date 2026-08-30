@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/atom-explore.md
+context: >-
+  作者为了在 Markdown 中预览公式而安装社区插件，下载路线受阻后为包管理器配置代理，最终成功取得所需组件。
+assets:
+  - id: hero
+    file: source/images/ai/atom-explore/zh-hero.webp
+    placement: hero
+    alt: 运送公式插件的小列车在封闭隧道前改走青绿色中继轨道，最终把组件送到 Markdown 工作台
+    composition: >-
+      不使用 Forest。画面是一辆运送抽象公式拼块的小型包裹列车，在一条堵住的直线隧道前停下；扳道器把它引向一条青绿色的代理中继轨道，绕过障碍后抵达右侧的 Markdown 工作台，最后一块拼图落入预览装置并亮起琥珀色小灯。公式只用不可读的几何符号暗示，不出现真实 Atom 标志、产品界面、网站、URL、命令行、代码、文字、数字、商标或水印。
+    review_status: approved

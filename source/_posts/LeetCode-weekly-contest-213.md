@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 213
 date: 2020-11-01 11:16:44
+description: 周赛复盘：拼接互异片段、统计有序元音串、为最高落差保留梯子，并用组合数选择第 k 小路径。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2020/11/01/LeetCode-weekly-contest-213/
   en: https://youngforest.github.io/en/2020/11/01/LeetCode-weekly-contest-213/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-213/zh-hero.webp" alt="互异拼片接成长路，五层彩珠阶梯累积组合，梯子跨过最高楼差，组合三角仪在网格岔路中挑出目标路径" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 | Rank |	Name |	Score |	Finish Time | 	Q1 (3) |	Q2 (4) |	Q3 (5) |	Q4 (6)|
 |--|--|--|--|--|--|--|--|
 | 139 / 10630 | YoungForest | 18 | 0:39:13 | 0:06:26 | 0:14:56 |   0:22:59 |  0:39:13 |

@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 140
 date: 2019-06-09 13:11:58
+description: 周赛复盘：评测事故、相邻词状态机、字母牌枚举、树节点剪枝与最小不重复子序列。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2019/06/09/LeetCode-weekly-contest-140/
   en: https://youngforest.github.io/en/2019/06/09/LeetCode-weekly-contest-140/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-140/zh-hero.webp" alt="无字算法工坊校准失灵的裁判机械，并处理状态珠链、组合方块、修枝树和单调轨道" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 | Rank |	Name |	Score |	Finish Time | 	Q1 (4) |	Q2 (5) |	Q3 (6) |	Q4 (8)|
 |--|--|--|--|--|--|--|--|
 | 313 / 4046 |	YoungForest | 16 | 1:03:21 | 0:21:32 (1) | 0:36:08 | 0:53:21 (1) | null |

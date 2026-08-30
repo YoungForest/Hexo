@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-147.md
+context: >-
+  连续三场竞赛让周末很充实；本场复盘三步递推数列、带特殊末格的字母板路径、最大单边框正方形，以及石子博弈的记忆化动态规划。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-147/zh-hero.webp
+    placement: hero
+    alt: Forest 跑过三段竞赛接力，整理三支递推火炬、特殊末格路径、方框砖阵和石子博弈盘
+    composition: >-
+      使用虚构 Forest。把充实周末画成三段无字竞赛接力，Forest 到达中间工作台后处理四个抽象任务：由前三支火炬共同点亮下一支的递推队列、一块多行空白方格板加独立末格的安全路径、只检查边框的最大方砖，以及双方从前端拿取石堆并以记忆抽屉记录局面的博弈盘。避免任何字母板可读字符。无可读文字、字母、数字、公式、品牌、假界面或水印。
+    review_status: approved

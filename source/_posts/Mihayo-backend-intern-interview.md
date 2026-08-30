@@ -6,11 +6,12 @@ tags:
 - intern
 categories:
 - interview
+description: 记录米哈游服务器开发暑期实习的三轮面试，涉及系统设计、计算机基础、算法、智能指针与排行榜设计。
 translations:
   zh-CN: https://youngforest.github.io/2020/03/20/Mihayo-backend-intern-interview/
   en: https://youngforest.github.io/en/2020/03/20/Mihayo-backend-intern-interview/
 ---
-# 一面
+## 一面
 
 time: 2020-03-20 16:29:48
 
@@ -18,6 +19,12 @@ time: 2020-03-20 16:29:48
 计算机基础靠着本科的认真学习，没啥问题。算法也属于LeetCode medium难度，很快AC了。
 系统设计倒是难倒我了，并不擅长，也没有准备。需要设计一个 MOBA游戏的匹配机制，包括单人和组队。之前完全没想过，瞎写了一通。
 昨天收到电话，说我通过了笔试，约了今天下午2:30的电话面试。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/Mihayo-backend-intern-interview/zh-hero.webp" width="1536" height="864" alt="Forest 轻松越过算法和基础知识石块，却在陌生的多人匹配机械前停下重新组织自己的工具" decoding="async">
+</figure>
+
+<!-- more -->
 
 本科有个可爱的大佬舍友最后去米哈游了。我虽然对游戏不感冒，但本着多面试，多总结的态度，也报名了其春招内推。
 
@@ -44,7 +51,7 @@ time: 2020-03-20 16:29:48
 
 没有手撕代码环节，稍微有些失落。
 
-# 二面
+## 二面
 
 time: 2020-04-03 12:54:20
 
@@ -54,31 +61,35 @@ time: 2020-04-03 12:54:20
 
 整场面试持续50min。难度并不大，但由于是游戏公司，所以很多问题和项目是之前没有遇到或想过。
 
-## 算法
+### 算法
 
 合并2个有序链表。
 
-## 项目
+### 项目
 
 - Linux下的项目。我告诉他我大多数全是Linux。
 - 之前大四做的一个游戏（软件工程作业）[github](https://github.com/xxr5566833/Game)。
 - 内存泄漏诊断
 - protobuf
 
-## 计算机基础
+### 计算机基础
 
 - 如何诊断网络问题？
 - 一致性哈希，增桶、减桶。
 - 单例模式，带模版的单例，多线程下的。这是共享屏幕在本地IDE实现的。
 
-# 三面
+<figure class="editorial-illustration">
+  <img src="/images/ai/Mihayo-backend-intern-interview/zh-third-round.webp" width="1536" height="864" alt="Forest 在第三座工作台前同时拆解共享指针绳结、硬币组合迷宫和一棵可按名次查找的平衡树" loading="lazy" decoding="async">
+</figure>
+
+## 三面
 
 time: 2020-04-08 12:58:36
 
 [一面](https://www.nowcoder.com/discuss/387235)
 [二面](https://www.nowcoder.com/discuss/399642)
 
-## 语言基础
+### 语言基础
 
 实现智能指针shared_ptr的构造、析构函数。
 问：为什么count要用指针？
@@ -133,7 +144,7 @@ shared_ptr<T> make_shared() {
 }
 ```
 
-## 算法
+### 算法
 
 >1，7，10 三种面值硬币。
 给定一个n，最少硬币凑出这个值。
@@ -153,7 +164,7 @@ dp(n) = min(
 O (7 + 1) = O(1)
 ```
 
-## 数据结构设计
+### 数据结构设计
 
 设计一个百万量级排行榜 ，支持插入，按uid查找分数，按uid查找名次，按名次查找uid.
 follow up: 分数相同时，按照上榜时间排序。
@@ -172,12 +183,12 @@ hashmap<uid, pair<分数,时间>>: 按uid查分数 O(1)
 insert: O(1 + log N)
 ```
 
-## 计算机基础
+### 计算机基础
 
 Linux熟不
 排查线上某进程CPU为100%。
 
-## 其他
+### 其他
 
 游戏公司的特别之处。
 玩过我们公司的游戏吗？（否）那平时玩什么游戏。

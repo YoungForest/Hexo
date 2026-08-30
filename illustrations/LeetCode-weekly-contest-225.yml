@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-225.md
+context: >-
+  四道题贪心补全最晚合法时间、枚举字符分界或众数减少变更、用二维前缀异或选第 k 大坐标值，并二分寻找堆叠箱子的最小占地数。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-225/zh-hero.webp
+    placement: hero
+    alt: 五枚空白转盘在约束门中补成最晚序列，两串彩珠按分界或主色减少替换，网格前缀棱镜汇总异或光，墙角箱塔寻找最小底座
+    composition: >-
+      不使用 Forest。横向四站无字算法工坊：五枚空白位置转盘依次通过合法性门框，机械挡块把未知位置推到仍合法的最晚档位，不出现钟面或数字；两条彩珠串分别尝试分界线两侧严格有序以及全部统一成主色，计数盘选择替换最少方案；二维网格的每格由上方、左侧与左上角前缀光经过异或棱镜合成，所有坐标光量进入排序架选出目标层级；箱子沿墙角堆成逐层缩小的阶梯塔，二分夹具尝试不同底座宽度并递归估算能承载的总箱数，找出最少接地箱。禁止人物、字符、字母、数字、公式、代码、箭头、可读文字、时钟刻度、假界面、商标或水印。
+    review_status: approved

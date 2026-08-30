@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 131
 date: 2019-04-07 12:19:41
+description: 速度型周赛复盘：剥离最外层括号、根到叶累加、大小模式匹配和贪心视频拼接。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2019/04/07/LeetCode-weekly-contest-131/
   en: https://youngforest.github.io/en/2019/04/07/LeetCode-weekly-contest-131/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-131/zh-hero.webp" alt="Forest 在速度工坊剥开外层圆环、汇总树径珠、匹配高低柱并拼接连续胶片" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 本次比赛的题号吓了我一跳. LeetCode也是任性，直接从5000+开始出题了。看来题量上涨的空间已经超乎我的想象了。
 
 言归正传，本次contest也是以简单题拼速度为主。

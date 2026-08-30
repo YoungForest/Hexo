@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-biweekly-contest-15.md
+context: >-
+  双周赛复盘涵盖有序数组中超过四分之一的元素、移除被覆盖区间、组合迭代器和相邻层不能同列的最小下降路径；作者记录了提前完成的一次手速场。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-biweekly-contest-15/zh-hero.webp
+    placement: hero
+    alt: Forest 在沙漏旁观察占优珠列、覆盖布条、组合轮架和避开同列的下降方块路径
+    composition: >-
+      使用虚构 Forest。连续竞速工坊以占比明显更高的一色珠列表示高频元素，以外层布条完全遮盖并移去内层条表示覆盖区间，以旋转轮架逐组送出彩色木片表示组合迭代，以分层方块路径避开连续同列表示最小下降和；仍有余量的空白沙漏表现提前完成。无排行榜、地区标识、可读文字、数字、比例符号、品牌、假界面或水印。
+    review_status: approved

@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/Wuhan-trip.md
+context: >-
+  作者硕士毕业后与伴侣用一周从临汾到武汉、随州探望家人，在火车、飞机、地方小吃、湿热天气、深夜过桥和返京搬家之间告别校园生活。
+assets:
+  - id: hero
+    file: source/images/ai/Wuhan-trip/zh-hero.webp
+    placement: hero
+    alt: 毕业后的 Forest 与同行者拖着一只行李箱，沿蜿蜒旅程依次经过家宴、热辣雨云、长江桥，终点是一把待组装的新椅子
+    composition: >-
+      使用虚构 Forest，不是真人肖像；另一位同行者也保持极简、不可识别。两人从空下来的校园宿舍出发，共拖一只行李箱，沿一条蜿蜒的无字旅程带经过家宴餐桌、湿热雨云与辣味蒸汽、夜色中的大桥，最后抵达一把待组装的新椅子，概括毕业、探亲、旅行与搬家。不要描绘真实亲友、名人、地标招牌、地图文字、车次、品牌、照片或可读文字。
+    review_status: approved

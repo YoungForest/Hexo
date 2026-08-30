@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-125.md
+context: >-
+  作者在任务堆积、会议和截止时间夹击下仍迟到参加周赛，把坚持训练视为重建生活掌控感，并复盘信任图、四向搜索、最大二叉树和方格照明。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-125/zh-hero.webp
+    placement: hero
+    alt: 迟到的 Forest 在任务堆间守住训练习惯，梳理信任网、四向塔、最大树和灯光方格
+    composition: >-
+      使用虚构 Forest。他从一个没有身份线索的空白会议桌匆匆来到练习台，身后是堆叠的无字纸张与无刻度时钟，但仍把一枚训练种子稳稳种下。台面四个模型表现：许多箭头指向一个不向外连线的中心人物、一个简化塔形棋子沿上下左右走廊寻找目标、把新来的最高木块接到一棵最大树的右侧，以及几盏灯照亮方格的行列和斜线并在查询附近熄灭。轻微幽默来自 Forest 的外套一角被纸堆夹住。无可读文字、字母、数字、公式、商标、机构标识、真实人物、假界面或水印。
+    review_status: approved

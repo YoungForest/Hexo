@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 183
 date: 2020-04-07 12:33:13
+description: 周赛复盘：贪心取大数、二进制归一、三色快乐字符串和取石子动态规划，也记录排名回升。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2020/04/07/LeetCode-weekly-contest-183/
   en: https://youngforest.github.io/en/2020/04/07/LeetCode-weekly-contest-183/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-183/zh-hero.webp" alt="Forest 在无字工坊里观察贪心天平、进位珠链、三色编绳和轮流取石子的两名木偶" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 | Rank |	Name |	Score |	Finish Time | 	Q1 (4) |	Q2 (4) |	Q3 (6) |	Q4 (7)|
 |--|--|--|--|--|--|--|--|
 | 91 / 12542 |	YoungForest | 	21 | 0:39:07 | 0:09:24 |  0:15:33 |  0:29:53 | 0:39:07 |

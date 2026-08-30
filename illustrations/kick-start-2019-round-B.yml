@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/kick-start-2019-round-B.md
+context: >-
+  赛后题解依次讨论可重排回文的频数条件、按能量损失排序的背包动态规划，以及把礼物类型转换成增减事件后用线段树维护最大前缀和。
+assets:
+  - id: hero
+    file: source/images/ai/kick-start-2019-round-B/zh-hero.webp
+    placement: hero
+    alt: 三座无字机械台分别配对回文积木、按损耗排列能量石，并把礼物事件汇入分叉的前缀树
+    composition: >-
+      不使用 Forest。做成一张连续宽幅机械工作台：左侧把无字几何积木成对镜像排列，只留一枚中心积木，透明量尺像前缀和一样快速框住任意区间；中央把发光能量石按沙漏中流失速度排队，机械臂依次放进有限容量的软布背包；右侧把不同形状的礼物令牌先变成上下起伏的事件轨道，再汇入一棵可伸缩的分叉装置，最高的琥珀节点被小旗标出。禁止任何字母、数字、代码、公式、分数、排行榜、公司标识、可读文字、商标或水印。
+    review_status: approved

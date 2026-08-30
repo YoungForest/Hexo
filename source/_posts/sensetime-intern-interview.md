@@ -6,6 +6,7 @@ tags:
 - intern
 categories:
 - interview
+description: 记录商汤计算机视觉实习的三轮技术面试，以及从追逐岗位光环到确认自己真正喜欢工程与写代码的选择。
 translations:
   zh-CN: https://youngforest.github.io/2018/12/09/sensetime-intern-interview/
   en: https://youngforest.github.io/en/2018/12/09/sensetime-intern-interview/
@@ -15,6 +16,12 @@ translations:
 而我面试的时候，推我的是我的一个一直在那里实习的同学，一面的面试官是我大三编译实验课的助教，二三面的面试官也都是我的本科同学。可以说，如果你是北航的学生，那么进入商汤会比其他学校容易很多。
 
 我面的组是"商汤研究院基础技术与工具组“，算是在研究院里偏工程的组了。总体的面试过程还是很硬核，很高能的。好几次我都以为自己不行了，好在面试官及时给出一些hint，帮助我走下去。下面，我记录一下3个面试的流程。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/sensetime-intern-interview/zh-hero.webp" alt="Forest 依次走过三座越来越深的技术工作台，从算法拼块进入操作系统齿轮、编译管道与语言机关" width="1536" height="864" decoding="async">
+</figure>
+
+<!-- more -->
 
 ## 一面
 
@@ -69,6 +76,10 @@ def func1(i):
 
 我给出解法后，面试官又问，构造表的时候s为负数时怎么办？
 
+
+<figure class="editorial-illustration">
+  <img src="/images/ai/sensetime-intern-interview/zh-engineering-path.webp" alt="Forest 离开浮在高处的职业奖杯阶梯，走向一张能亲手搭建可靠程序的工程工作台" width="1536" height="864" loading="lazy" decoding="async">
+</figure>
 
 ## 后记 | 感悟
 

@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/Google-AdSense-for-hexo-next.md
+context: >-
+  文章记录作者为长期维护的低流量 Hexo 博客尝试接入广告联盟的动机，并比较直接修改 NeXT 主题与通过站点覆盖文件配置脚本、验证和 ads.txt 的两种做法。
+assets:
+  - id: hero
+    file: source/images/ai/Google-AdSense-for-hexo-next/zh-hero.webp
+    placement: hero
+    alt: Forest 在博客小屋外安装空白广告画框，并比较直接改屋梁与使用可拆接线盒的两条接入路径
+    composition: >-
+      使用虚构 Forest。把个人博客画成一座经营多年的温暖小屋，访客脚印不多；Forest 试着出租几块完全空白的画框来获得少量硬币流。左侧方案直接把线路钉进屋梁，右侧方案通过可拆卸的配置接线盒与根目录信箱接入，旁边有一张无字验证印章和一个空白文本卷轴暗示验证与 ads.txt。画面表达历史教程而非当前推荐，不出现真实广告、广告商标或浏览器界面。无可读文字、字母、数字、公式、品牌、假界面或水印。
+    review_status: approved

@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-259.md
+context: >-
+  作者因中秋家庭安排错过周赛，赛后补做并总结前三题：由中间符号决定增减、前缀最大与后缀最小判断美丽值、按等宽寻找正方形；第四题只留下标题。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-259/zh-hero.webp
+    placement: hero
+    alt: Forest 在月光下回到赛后工坊，调试双向拨杆、单调花圃与正方形点阵，最后一箱仍未开启
+    composition: >-
+      使用虚构 Forest。在不出现真实家人或伴侣的月夜赛后工坊里，一盏圆月形暖灯暗示中秋缺席。Forest 回来补做三座装置：由中央形状控制上下动作的双向拨杆、同时受左侧最高挡板与右侧最低挡板约束的单调花圃、只能以等长边闭合的点阵框。第四个位置保留一只安静封闭的空箱，忠实表现文章没有展开第四题。无可读文字、题号、数字、公式、品牌、真实人物、假界面或水印。
+    review_status: approved

@@ -1,0 +1,10 @@
+version: editorial-comic-v1
+post: source/_posts/Reality-Is-Not-What-It-Seems-The-Journey-to-Quantum-Gravity.md
+context: 从希腊哲学、经典物理、相对论与量子力学走向圈量子引力，并回望少年时代对物理的兴趣。
+assets:
+  - id: hero
+    file: source/images/ai/Reality-Is-Not-What-It-Seems-The-Journey-to-Quantum-Gravity/zh-hero.webp
+    placement: hero
+    alt: 看似连续的时空织物在放大镜下显出由细小环结编成的量子网络，两条物理轨道在未知边界汇合
+    composition: 用连续弯曲织物和离散环结网络的尺度转换表现相对论与量子理论的张力，在远处保留尚未证实的开放交界。
+    review_status: approved

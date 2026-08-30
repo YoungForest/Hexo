@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-250.md
+context: >-
+  四道题涉及坏键过滤、批量补梯级、优化网格动态规划，以及离线树查询与二进制 Trie。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-250/zh-hero.webp
+    placement: hero
+    alt: 坏键筛掉部分无字词块，梯子一次补齐缺级，双向光束扫过积分网格，树路径令牌进入二叉分拣器
+    composition: >-
+      不使用 Forest。设计一座宽幅算法维修站：左侧无字符键盘有几枚断裂键，成组的空白词块只有完全避开坏键对应颜色才能通过筛门；中左梯子在跨度过大处由机械装置一次批量补入所有缺失横档；中右积分网格每行由从左和从右扫来的两束光维护最佳前缀与后缀，从而避免逐格两两比较；右侧家族树遍历时把当前根到节点的令牌加入二叉分拣树，查询晶石选择相反分支获得最大差异，离开节点时令牌退出。禁止字符、字母、数字、键帽文字、公式、代码、可读文字、商标或水印。
+    review_status: approved

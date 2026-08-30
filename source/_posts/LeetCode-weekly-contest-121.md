@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 121
 date: 2019-01-27 16:05:48
+description: 赶火车参赛与电话面试后的复盘：交替字符串、时序键值、车票成本、位运算与限时表达。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2019/01/27/LeetCode-weekly-contest-121/
   en: https://youngforest.github.io/en/2019/01/27/LeetCode-weekly-contest-121/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-121/zh-hero.webp" alt="Forest 带行李在列车练习桌找回专注，交替木珠、存放时间盒、规划车票并组合三枚位片" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 今天放假回家，下午3点半的火车。不过我还是百忙之中抽出时间参加了每周例行的weekly contest。 结果因为回家不够专注，效果很差，只做出一道签到题。第二题TLE(结果把一个变量改成引用就可以了，也算是吸取了教训，能用引用就用引用)，第3题没有足够的时间完成了(直到下午坐上火车，心无旁骛地终于独立完成了第三题。其实思路从一开始就是对的，只不过没有时间调试细节)。第四题干脆连题干都没有时间看完。
 
 ## 984. String Without AAA or BBB

@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 129
 date: 2019-03-31 10:24:51
+description: 错过直播后的夜间补题：数组三等分、重复单位整除数、最佳观光点对与二进制子串覆盖。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2019/03/31/LeetCode-weekly-contest-129/
   en: https://youngforest.github.io/en/2019/03/31/LeetCode-weekly-contest-129/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-129/zh-hero.webp" alt="夜间补题的 Forest 将珠链分成等重三段、旋转单位珠、连接最佳双塔并检查所有组合窗格" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 上周末由于准备 Google的kick start round A，放弃了一次LeetCode weekly contest。但当天晚上还是把LeetCode的题补完了。4题不简单，但经过思考还是独立做出来了。算是给被kick start难到自闭的我一个安慰吧。
 
 ## 1020. Partition Array Into Three Parts With Equal Sum

@@ -5,13 +5,20 @@ tags:
 - travel
 categories:
 - dairy
+description: 记录在爱尔兰申请荷兰短期申根签证的时间线、预约、材料、费用与现场注意事项，原始经历截至 2022 年。
 translations:
   zh-CN: https://youngforest.github.io/2022/12/15/Netherlands-Visa-from-Ireland/
   en: https://youngforest.github.io/en/2022/12/15/Netherlands-Visa-from-Ireland/
 ---
-![荷兰签证效果图](/images/NetherlandsVisa.jpg)
-
 终于在都柏林拿到心心念念的荷兰申根签证了，短期访问亲友签。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/Netherlands-Visa-from-Ireland/zh-hero.webp" alt="Forest 抱着一叠空白材料沿冬日踏脚石完成预约、材料提交和护照领取，最终走向跨海探友的航班" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
+![荷兰签证效果图](/images/NetherlandsVisa.jpg)
 
 因为朋友在阿姆读书，我在爱尔兰打工。因为爱尔兰不属于申根区。因此互相探望的话，我需要办申根签证，她需要办爱尔兰签证。
 10月底到达爱尔兰后，需要先办居留卡。有了居留卡才能办签证，因此拖到了10月底。

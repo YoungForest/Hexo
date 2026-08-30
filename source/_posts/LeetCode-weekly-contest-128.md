@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 128
 date: 2019-03-17 15:50:49
+description: 前三题顺利、难题未解后的复盘：整数位反转、歌曲配对、运输能力二分与重复数字计数。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2019/03/17/LeetCode-weekly-contest-128/
   en: https://youngforest.github.io/en/2019/03/17/LeetCode-weekly-contest-128/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-128/zh-hero.webp" alt="Forest 在长期训练场翻转明暗珠、配对音乐圆片、二分试装货船并拆解重复图案的计数盒" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 前3道题比较顺利，30min内解决。最后一道hard题目，思路比较混乱，1个小时愣是没做出来。
 Contest给我的感觉是，还是拼的熟练度。
 因为第2、3题之前做过类似的，所以很快就做出来了。第2题甚至只用了2分钟!!!

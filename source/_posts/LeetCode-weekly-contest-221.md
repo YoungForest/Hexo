@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 221
 date: 2020-12-27 11:59:37
+description: 周赛复盘：比较字符串两半、优先处理快过期苹果、模拟小球迷宫，并用二叉 Trie 回答最大异或查询。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2020/12/27/LeetCode-weekly-contest-221/
   en: https://youngforest.github.io/en/2020/12/27/LeetCode-weekly-contest-221/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-221/zh-hero.webp" alt="天平比较两盘元音珠，果篮按腐坏先后取用，小球穿过斜板迷宫，二叉树机关甩掉沉重套环后终于顺畅" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 | Rank |	Name |	Score |	Finish Time | 	Q1 (3) |	Q2 (4) |	Q3 (5) |	Q4 (6)|
 |--|--|--|--|--|--|--|--|
 | 231 / 8838 | YoungForest | 18 | 1:24:39 | 0:03:55	 | 0:21:00 | 0:30:16 | 1:09:39  3 |

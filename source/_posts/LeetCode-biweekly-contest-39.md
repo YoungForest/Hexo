@@ -1,6 +1,7 @@
 ---
 title: LeetCode biweekly contest 39
 date: 2020-11-15 09:56:39
+description: 双周赛复盘：循环数组、分割点、受限 BFS 与子集 DP；后两题比赛时超时，赛后补出正确解法。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2020/11/15/LeetCode-biweekly-contest-39/
   en: https://youngforest.github.io/en/2020/11/15/LeetCode-biweekly-contest-39/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-biweekly-contest-39/zh-hero.webp" alt="环形保险盒汇总邻近珠子，分割刀平衡双色串，跳跃棋子绕开禁区回家，过度生长的回溯树旁出现精简的子集分配柜" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 | Rank |	Name |	Score |	Finish Time | 	Q1 (3) |	Q2 (4) |	Q3 (5) |	Q4 (6)|
 |--|--|--|--|--|--|--|--|
 | 688 / 6047 | YoungForest | 7 | 0:16:02 | 0:03:44 | 0:11:02  1 |  null |  0:41:26 |

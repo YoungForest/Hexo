@@ -4,10 +4,15 @@ date: 2018-10-25 23:54:23
 tags:
 - LeetCode
 categories:
+description: 经典三数之和复盘：从面试中的哈希方案和超时，到排序、双指针与去重细节。
 translations:
   zh-CN: https://youngforest.github.io/2018/10/25/LeetCode-15-3Sum/
   en: https://youngforest.github.io/en/2018/10/25/LeetCode-15-3Sum/
 ---
+<figure class="editorial-illustration editorial-illustration--hero"><img src="/images/ai/LeetCode-15-3Sum/zh-hero.webp" width="1536" height="864" alt="Forest 将排序珠列两端向中间移动，寻找让三只托盘保持平衡且不重复的组合" decoding="async" fetchpriority="high"></figure>
+
+<!-- more -->
+
 这道很经典的题目我恰好在面试“景驰”的时候遇到过，当时是二面的Eric问的。我没做过这道题，但与之关联的2Sum做过（毕竟是LeetCode的首题，大概很多人都做过）。而且算法第4版中讨论算法复杂度的时候，用的也是一样的问题（细节可能不同，比如要求了结果中没有重复的triplet...），当时还有些印象。顺利地写出了O(n^2)时间复杂度的Solution，虽然事后发现有些小bug，比如list的sort是inplace的。但无伤大雅。
 今天我把面试时的solution整理了一下，submit后竟然Time Limit Exceeded了。
 

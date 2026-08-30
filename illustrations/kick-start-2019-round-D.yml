@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/kick-start-2019-round-D.md
+context: >-
+  竞赛复盘聚焦一道异或区间题：作者一度执着用线段树而偏离方向，后来通过奇数元素的奇偶性直接判断完整区间或去掉头尾。
+assets:
+  - id: hero
+    file: source/images/ai/kick-start-2019-round-D/zh-hero.webp
+    placement: hero
+    alt: Forest 离开复杂树形机关，用成对灯笼数清奇偶并在彩珠长队的头尾之间选择更长区间
+    composition: >-
+      使用虚构 Forest。竞赛桌后方是一台越修越复杂却没有启动的树形区间机械；前景中 Forest 恍然大悟，只用两组会成对熄亮的琥珀与青绿灯笼统计奇偶，再面对一条彩珠长队，从左端或右端剪去第一枚特殊珠并比较留下的长度。以简单规律战胜工具执念，带轻微幽默。无可读文字、字母、数字、公式、品牌、假界面或水印。
+    review_status: approved

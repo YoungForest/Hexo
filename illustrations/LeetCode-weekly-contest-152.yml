@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-152.md
+context: >-
+  周赛复盘涵盖素数位置排列、固定窗口的饮食表现、子串重排为回文的查询，以及根据七个字母谜面统计有效单词；作者也记录两个粗心错误带来的罚时。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-152/zh-hero.webp
+    placement: hero
+    alt: Forest 在两枚错位机关旁整理素数珠阵、饮食滑窗、奇偶回文灯和七瓣谜题花盘
+    composition: >-
+      使用虚构 Forest。竞赛工作台以两枚被重新拨正的无字机关暗示粗心罚时；筛分后的发光珠与普通珠分别进入排列架，滑窗沿食物筹码轨道比较上下阈值，彩灯只保留少量奇数状态来判断回文可能，七瓣彩石花盘要求中心石必选并统计可容纳的词形束。无可读文字、字母、数字、公式、品牌、假界面或水印。
+    review_status: approved

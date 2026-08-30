@@ -1,0 +1,10 @@
+version: editorial-comic-v1
+post: source/_posts/Programming-Pearls.md
+context: 重读 1986 年的编程经典，从受限内存、磁盘与基础算法中重新发现简单而深刻的工程智慧。
+assets:
+  - id: hero
+    file: source/images/ai/Programming-Pearls/zh-hero.webp
+    placement: hero
+    alt: 老式计算机工作台上的算法珠子穿过内存窄门和磁盘迷宫，最终串成一条简洁可靠的程序链
+    composition: 把二分、排序、数据结构和复杂度化为一串穿越旧硬件限制的珍珠，连接早期 PC 与现代开发桌面。
+    review_status: approved

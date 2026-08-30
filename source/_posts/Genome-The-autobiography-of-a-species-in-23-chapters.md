@@ -6,11 +6,16 @@ tags:
 - 基因组 人种自传23章
 categories:
 - 读后感
+description: 从基因、行为与自由意志的循环因果出发，思考决定论、环境影响以及复杂系统中难以预测的结果。
 translations:
   zh-CN: https://youngforest.github.io/2026/01/01/Genome-The-autobiography-of-a-species-in-23-chapters/
   en: https://youngforest.github.io/en/2026/01/01/Genome-The-autobiography-of-a-species-in-23-chapters/
 ---
 穷查理宝典，芒格推荐。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/Genome-The-autobiography-of-a-species-in-23-chapters/zh-hero.webp" width="1536" height="864" alt="一条 DNA 双螺旋穿过脚印、环境齿轮和一扇敞开的岔路门，最终绕回自身形成基因与行为相互影响的循环" decoding="async">
+</figure>
 
 <!-- more -->
 

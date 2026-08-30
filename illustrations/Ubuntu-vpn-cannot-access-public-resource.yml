@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/Ubuntu-vpn-cannot-access-public-resource.md
+context: >-
+  作者连接研究院 VPN 后只能访问内网而无法使用公网，排除 DNS 问题后发现是本地路由配置；让连接仅服务对应网络后，公网和研究资源终于可以同时访问。正文截图保留具体操作证据。
+assets:
+  - id: hero
+    file: source/images/ai/Ubuntu-vpn-cannot-access-public-resource/zh-hero.webp
+    placement: hero
+    alt: 网络道岔只把研究任务列车送入私有隧道，其余流量继续驶向开放道路，两条路线终于同时畅通
+    composition: >-
+      不使用 Forest。把 VPN 路由问题画成简洁铁路道岔：错误状态下，一个巨大的私有隧道试图吞下所有列车，通往开放城市花园的公共轨道因此空置；中央小型路由扳手调整后，只有载着抽象计算芯片的研究任务列车进入青绿色私有隧道，普通浏览列车继续沿琥珀色公共轨道前行，两端信号灯同时亮起。不要出现真实操作系统、VPN 品牌、研究机构、网络图标签、IP、域名、DNS 字样、界面、代码、文字、数字、商标或水印。
+    review_status: approved

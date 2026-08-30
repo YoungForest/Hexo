@@ -1,0 +1,10 @@
+version: editorial-comic-v1
+post: source/_posts/Complain-before-Weride-internship.md
+context: 作者在研究生课程、导师要求、实习和他人期待之间感到生活失控，也反思自己的动力不足；吐槽之后仍决定利用零碎时间找回主动权。
+assets:
+  - id: hero
+    file: source/images/ai/Complain-before-Weride-internship/zh-hero.webp
+    placement: hero
+    alt: Forest 被课程、学位和他人期待的细线拉向不同方向，却把零散的时间碎片拼成通往暖光的自主道路
+    composition: 让 Forest 站在校园与通勤站交界处，几根来自空白课本、学位卷轴、办公齿轮和模糊人群剪影的细线把他拉向不同方向；他低头把散落的时钟碎片拼成一条通往暖光的小路，表现失控、抱怨与重新争取主动，不出现学校或公司标识。
+    review_status: approved

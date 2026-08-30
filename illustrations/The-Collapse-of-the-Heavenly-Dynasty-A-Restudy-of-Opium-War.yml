@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/The-Collapse-of-the-Heavenly-Dynasty-A-Restudy-of-Opium-War.md
+context: >-
+  文章把乾隆后期到鸦片战争的制度、政策与历史人物评价连起来，借两本相互印证的历史著作反思教科书式叙事，也观察历史包袱如何进入现代化进程。
+assets:
+  - id: hero
+    file: source/images/ai/The-Collapse-of-the-Heavenly-Dynasty-A-Restudy-of-Opium-War/zh-hero.webp
+    placement: hero
+    alt: 一座封闭宫墙里的旧天文台与墙外蒸汽航路隔水相望，裂开的历史镜片把制度、政策和人物重新折射成多层影子
+    composition: >-
+      不画真实历史人物、战争伤亡、国旗、政治口号或书封。以抽象历史镜片为主视觉：封闭宫墙中的旧天文台仍按自己的轨道运转，墙外的蒸汽航路、潮汐和全球罗盘不断靠近；一块裂开的透明镜片把制度、政策和人物剪影重新折射成多层影子，表达重新审视既有叙事与现代化落差。
+    review_status: approved

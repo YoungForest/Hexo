@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 126
 date: 2019-03-03 11:55:17
+description: 一次无声录题尝试后的复盘：公共字符、替换消除、滑动窗口与区间动态规划合并石堆。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2019/03/03/LeetCode-weekly-contest-126/
   en: https://youngforest.github.io/en/2019/03/03/LeetCode-weekly-contest-126/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-126/zh-hero.webp" alt="Forest 从无声录制台转回博客工作桌，汇集共同色珠、消除重复片段、滑动窗口并分层合并石堆" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 今天试着边做题边录视频，由于场地的限制，无法用麦克风进行讲解，效果差强人意。虽然可以用文字注释进行一些弥补，但丧失了视频传播的最大优势。以后还是以博客为主，传播自己的思想吧。
 尤其是本次只做出2道题目，后2道题目都有尝试，但均失败了。视频效果太差。本身大家如果在B站上看视频的话，都是为了看up主秀的。这次没秀起来，遭遇了滑铁卢，甚是尴尬。不过最后我还是打算把视频放上去。就是这么脸皮厚，不怕丢人，不怕以后被翻黑历史。
 

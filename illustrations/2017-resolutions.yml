@@ -1,0 +1,10 @@
+version: editorial-comic-v1
+post: source/_posts/2017-resolutions.md
+context: 深夜假期里的作者从懒散与缺少意志力反思起步，为新一年列出英语、早睡早起、早餐、运动和不再以懒惰为借口的具体目标，也面对升学和家人求职带来的现实压力。
+assets:
+  - id: hero
+    file: source/images/ai/2017-resolutions/zh-hero.webp
+    placement: hero
+    alt: 深夜书桌前的 Forest 把赖着不翻身的咸鱼垫推开，将早起、早餐、运动和学习积木排成新年路线
+    composition: 让 Forest 在深夜学生书桌前把一只赖着不翻身的咸鱼形软垫推到一旁，并把晨光、早餐碗、跑鞋和书本形状的无字积木排成向上路线；桌边留一张完全空白的计划表，整体幽默但带现实压力。
+    review_status: approved

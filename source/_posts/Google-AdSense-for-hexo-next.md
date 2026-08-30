@@ -1,6 +1,7 @@
 ---
 title: hexo next 配置 Google AdSense
 date: 2021-02-25 11:17:14
+description: 记录在 Hexo NeXT 中接入广告脚本、验证站点和配置 ads.txt 的两种做法；内容属于历史配置笔记。
 categories:
 - 折腾
 tags:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2021/02/25/Google-AdSense-for-hexo-next/
   en: https://youngforest.github.io/en/2021/02/25/Google-AdSense-for-hexo-next/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/Google-AdSense-for-hexo-next/zh-hero.webp" alt="Forest 在博客小屋外安装空白广告画框，并比较直接改屋梁与使用可拆接线盒的两条接入路径" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 ## 动机
 
 最近由于看了“半佛仙人”的一些视频，我对钱更感兴趣了。除了拿出积蓄的一部分投资A股外，还想着怎么提高被动收入。自己一直有写博客的习惯，写了有5年多，攒了一百余篇文章。虽然每日浏览量只有几十，但苍蝇再小也是肉。参照大佬的一些经验，尝试着通过投放广告来牟利。

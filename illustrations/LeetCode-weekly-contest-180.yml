@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-180.md
+context: >-
+  作者在家庭团聚时从老家参加周赛，文章涵盖矩阵幸运数、带区间增量的栈、平衡二叉搜索树和由速度与最低效率决定的团队最大表现。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-180/zh-hero.webp
+    placement: hero
+    alt: Forest 在素净庭院里操作发光珠阵、底部抬升托盘、平衡树形悬架和由齿轮驱动的跑者团队
+    composition: >-
+      使用虚构 Forest。无地点标识的家庭庭院桌面串起四件装置：珠阵只用光点显示行低与列高的交点，琥珀平台从下方抬起一段托盘，倾斜树形悬架被重构为平衡树冠，一队发条跑者把总速度输入与最小效率齿轮结合。建筑装饰均为空白几何形。无疫情意象、可读文字、数字、公式、品牌、假界面或水印。
+    review_status: approved

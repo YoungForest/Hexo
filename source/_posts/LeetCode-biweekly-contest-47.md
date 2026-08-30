@@ -1,6 +1,7 @@
 ---
 title: LeetCode biweekly contest 47
 date: 2021-03-07 16:06:47
+description: 四道题寻找同行同列最近点、组合互异三次幂、统计子串频次差，并按节点度数计数后修正重复边。
 tags:
 - Competitive Programming
 categories:
@@ -14,6 +15,10 @@ translations:
 | 64 / 9933 | YoungForest | 18 | 0:55:55 |  0:03:37 |  0:07:16 |  0:13:28 | 0:55:55 |
 
 疯狂上分场。13分钟做出3题。最后一题也思路相对比较顺畅。遇到2个阻塞。1. 一开始忘记考虑没有边相连的点对；2. 求了互补问题，但返回答案时粗心误以为总数是`n^2`，而事实上是`C_2 n = n * (n - 1) / 2`， 调试又浪费了不少时间。如果更加顺利的话，说不定成绩会突破天际。拿到前20名丰盛的礼物。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-biweekly-contest-47/zh-hero.webp" alt="十字坐标轨道选择最近对齐点，独立三倍砝码组成目标，彩珠窗口比较频次高低，节点度数配对后扣除重复连绳" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
 
 <!-- more -->
 

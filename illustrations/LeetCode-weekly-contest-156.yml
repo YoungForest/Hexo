@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-156.md
+context: >-
+  赛后补题涵盖判断出现次数是否互不相同、预算内使两段字符串相等、删除连续相同字符，以及允许旋转的双节蛇形物体到达目标位置。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-156/zh-hero.webp
+    placement: hero
+    alt: 无人计数工坊里，高低各异的珠塔、预算滑窗、自动消去的同色珠组和可旋转双节木蛇依次连接
+    composition: >-
+      不使用人物。连续机械工坊以高度互异的彩珠塔表示唯一出现次数，以沿两条色带移动的框架和逐步消耗的筹码碗表示预算窗口，以同色珠组达到固定规模后落入暗门表示相邻删除，以双节木蛇在方格障碍间平移和绕轴转动表示最短路。无可读文字、字符、数字、公式、品牌、假界面或水印。
+    review_status: approved

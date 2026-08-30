@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LCCUP-21-Spring-Team.md
+context: >-
+  复盘枚举蓄水与升级次数的权衡，以及在二叉树上分配有限连通染色节点的记忆化搜索。
+assets:
+  - id: hero
+    file: source/images/ai/LCCUP-21-Spring-Team/zh-hero.webp
+    placement: hero
+    alt: 可升级水桶反复向水缸蓄水，旁边二叉树把有限青色灯珠分配到相连枝条
+    composition: >-
+      不使用 Forest。设计一座春日无字水工坊，清晰分为两部分：左侧多组小桶和大水缸，桶可以先由升降装置扩大容量，再由同一节拍轮统一重复蓄水，天平在“升级次数”和“蓄水轮数”之间寻找最低总操作；右侧一棵抽象二叉树带有不同价值的果实，有限数量的青色灯珠必须从当前节点连续分配到左右子树，分叉托盘展示不同的左右配额组合。禁止人物、队名、排名、字符、字母、数字、公式、代码、可读文字、商标或水印。
+    review_status: approved

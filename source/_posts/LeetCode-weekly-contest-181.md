@@ -1,6 +1,7 @@
 ---
 title: LeetCode  weekly contest 181
 date: 2020-03-22 18:57:47
+description: 周赛复盘：按位置插入、四因数筛选、街道网格连通与最长相同前后缀，也记录评分起伏中的持续复盘。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2020/03/22/LeetCode-weekly-contest-181/
   en: https://youngforest.github.io/en/2020/03/22/LeetCode-weekly-contest-181/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-181/zh-hero.webp" alt="Forest 在插入圆片、四支点木块、连通街道拼片和前后花纹重合带之间抽象问题接口" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 自从LeetCode rating算法更新后，我的rating到达了顶峰，之后就一直向下掉。不过也是因为自己菜，每次都打的大好几百名，偶尔还上千。
 
 | Rank |	Name |	Score |	Finish Time | 	Q1 (3) |	Q2 (4) |	Q3 (5) |	Q4 (6)|

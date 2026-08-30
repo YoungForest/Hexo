@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-182.md
+context: >-
+  周赛复盘涵盖频次等于数值的幸运数、升降三人小队计数、地下交通进出站耗时设计和利用自动机与数位动态规划统计好字符串；作者还记录打卡群带来的压力。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-182/zh-hero.webp
+    placement: hero
+    alt: Forest 手持空白琥珀信封，面对同量筹码与高台、升降三人组、地下通路和彩珠自动机
+    composition: >-
+      使用虚构 Forest。练习工坊用筹码组与等高台对应频次和值，用严格升高或降低的三名木偶表示队伍，用成对入口、出口、隧道与空白钟盘表示交通耗时，再用机械织机引导彩珠串穿过状态门；Forest 在较难的末端装置前拿着无字琥珀信封。无可读文字、字母、数字、公式、交通品牌、假界面或水印。
+    review_status: approved

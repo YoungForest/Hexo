@@ -1,0 +1,10 @@
+version: editorial-comic-v1
+post: source/_posts/Details-of-Democracy.md
+context: 作者重读《民主的细节》，关注自由与民主的关系、公共意见缺少出口后积聚的压力，以及十五年环境变化中仍然保有的阅读价值。
+assets:
+  - id: hero
+    file: source/images/ai/Details-of-Democracy/zh-hero.webp
+    placement: hero
+    alt: 密闭的公共议事温室里，一只高压壶的蒸汽被细管引向逐渐开启的多扇窗，窗外汇聚着平静的灯光
+    composition: 不画作者、书封、旗帜、政治人物或文字；把公共讨论画成一座有许多空椅的玻璃温室，中央高压壶因出口封闭而积聚蒸汽，细管最终连接到逐渐开启的多扇窗和外面的暖光，表现民意出口、自由与制度细节。
+    review_status: approved

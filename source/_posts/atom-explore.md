@@ -5,12 +5,19 @@ tags:
 - atom
 categories:
 - 折腾
+description: 记录为 Markdown 公式预览安装社区插件时遇到下载受阻，并通过给包管理器配置代理完成安装的排查过程。
 translations:
   zh-CN: https://youngforest.github.io/2017/04/08/atom-explore/
   en: https://youngforest.github.io/en/2017/04/08/atom-explore/
 ---
 ## 配置代理
 笔者的需求是在markdown文档中插入LaTeX公式, atom默认的`markdown-preview`包无法满足要求. 经过搜索, 社区包`markdown-preview-plus`可是满足该需求.
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/atom-explore/zh-hero.webp" alt="运送公式插件的小列车在封闭隧道前改走青绿色中继轨道，最终把组件送到 Markdown 工作台" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
 
 ### [atom包管理](http://flight-manual.atom.io/using-atom/sections/atom-packages/#atom-packages)
 按照官方教程, 安装失败

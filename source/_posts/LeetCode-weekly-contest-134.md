@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 134
 date: 2019-04-28 20:32:34
+description: 被边界情况罚时后的周赛复盘：移动石头、边界染色、最长公共子序列与有限障碍迷宫。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2019/04/28/LeetCode-weekly-contest-134/
   en: https://youngforest.github.io/en/2019/04/28/LeetCode-weekly-contest-134/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-134/zh-hero.webp" alt="Forest 收集几枚错误尝试齿轮，重新移动石头、染方格边界、理顺连线并逃出有限障碍围成的迷宫" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 | Rank |	Name |	Score |	Finish Time | 	Q1 (4) |	Q2 (5) |	Q3 (5) |	Q4 (5)|
 |--|--|--|--|--|--|--|--|
 |220 / 4136	|	YoungForest |	17 | 		1:45:10 | 0:14:52 (1) | 0:33:50(1) |	null | 1:25:10 (2) |

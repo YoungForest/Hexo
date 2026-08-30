@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 241
 date: 2021-05-16 18:42:19
+description: 三道已完成题枚举子集异或、统计双色交替所需交换并维护可更新的配对计数；最后一题记录了可见木棍排列的动态规划尝试。
 tags:
 - Competitive Programming
 categories:
@@ -14,6 +15,10 @@ translations:
 | Rank |	Name |	Score |	Finish Time | 	Q1 (3) |	Q2 (5) |	Q3 (5) |	Q4 (6)|
 |--|--|--|--|--|--|--|--|
 | 717 / 11572 | YoungForest | 12 | 	0:23:51 | 0:05:35 | 0:17:33 | 0:23:51 | null |
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-241/zh-hero.webp" alt="分支开关把子集送入异或棱镜，双色珠链交换成交替序列，小托盘查询大仓库，木棍递推台探索可见排列" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
 
 <!-- more -->
 

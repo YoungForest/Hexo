@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/owncloud-setup-on-server.md
+context: >-
+  文章记录在 Ubuntu 云主机上搭建个人云服务的旧版实践：选择便捷的二进制安装路线，配置 Web 服务与数据库，并准备在多种设备上使用。
+assets:
+  - id: hero
+    file: source/images/ai/owncloud-setup-on-server/zh-hero.webp
+    placement: hero
+    alt: 一座自管的云形数据小屋把个人文件安全地送往电脑、手机和笔记本设备
+    composition: >-
+      不使用 Forest。暖灰纸面上，一座放在家用工作台上的小型云形数据小屋作为中心，内部有整齐文件盒、简单齿轮和数据库圆筒；左侧两条安装路线形成轻微幽默对比，一条是费力组装的零件箱，另一条是直接推来的完整预制包；右侧通过朴素管线连接台式电脑、手机和笔记本电脑。表达自托管、二进制安装、Web 服务、数据库和多端同步，但不要出现真实产品图标、云厂商标志、品牌、代码、密码、浏览器界面、文字、数字、水印。
+    review_status: approved

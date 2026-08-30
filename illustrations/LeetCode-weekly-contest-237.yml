@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-237.md
+context: >-
+  四道题依次检查全字母句、贪心购买最便宜冰淇淋、用优先队列调度单线程任务，并把成对按位与的异或拆成独立位统计；文章也记录了整数溢出的两处陷阱。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-237/zh-hero.webp
+    placement: hero
+    alt: 字母形状槽位被逐一填满，冰淇淋按价格从低到高取走，单轨处理器调度任务，双色位灯汇入异或棱镜
+    composition: >-
+      不使用 Forest。绘制横向四联无字算法工坊：左侧二十六种抽象几何印章对应的空槽被逐一填满，表现检查集合是否齐全，但不能像真实字母；中左一排无标签冰淇淋从小到大排列，钱币托盘优先取走最便宜者；中右单轨处理器旁有按到达时刻进入的任务盒，优先队列机械臂总取耗时最短且更早的盒子，时间轴延伸很长以暗示需要大整数；右侧两组青色与琥珀位灯先经过成对交叠筛网，再以奇偶明灭汇入异或棱镜。禁止人物、字符、字母、数字、公式、代码、可读文字、真实品牌、竞赛标志、商标或水印。
+    review_status: approved

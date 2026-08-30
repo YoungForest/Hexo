@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 243
 date: 2021-05-30 17:22:10
+description: 四道题把词转换为数值、贪心插入一位、用双优先队列调度服务器，并以动态规划计算准时到会的最少跳过休息次数。
 tags:
 - Competitive Programming
 categories:
@@ -19,6 +20,9 @@ translations:
 1882,Process Tasks Using Servers,process-tasks-using-servers,1979.1112273597
 1883,Minimum Skips to Arrive at Meeting On Time,minimum-skips-to-arrive-at-meeting-on-time,2587.8725248485
 
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-243/zh-hero.webp" alt="彩珠词串在算盘上合并，单珠插入序列取得最大轮廓，任务经双队列分给服务器，旅程跳过部分休息赶上沙漏" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
 
 <!-- more -->
 

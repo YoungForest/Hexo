@@ -1,0 +1,10 @@
+version: editorial-comic-v1
+post: source/_posts/The-Art-of-War-by-Sunzi.md
+context: 把先胜而后战、知己知彼和谋定后动理解为日常选择中的计算、认识自己、等待和把握关键时机。
+assets:
+  - id: hero
+    file: source/images/ai/The-Art-of-War-by-Sunzi/zh-hero.webp
+    placement: hero
+    alt: 一枚琥珀色棋子在越过战线前依次检查天平、镜面与沙漏，远处的道路因此变得清晰而稳妥
+    composition: 俯视无文字的抽象策略棋盘，让唯一准备行动的棋子先经过成本天平、自我镜面和等待沙漏，避免真实战场、人物或书封。
+    review_status: approved

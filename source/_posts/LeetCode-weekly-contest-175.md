@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 175
 date: 2020-02-09 15:46:26
+description: 周赛复盘：两倍数检查、字母频次、时间桶与考场座位优化，也记录眼镜损坏导致的失常。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2020/02/09/LeetCode-weekly-contest-175/
   en: https://youngforest.github.io/en/2020/02/09/LeetCode-weekly-contest-175/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-175/zh-hero.webp" alt="戴着修补圆眼镜的 Forest 面对两倍筹码、平衡珠串、时间桶和带斜向约束的考场座位图" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 本周由于眼镜坏掉了，不在状态。在家吃饭也晚，所以题目并没有做完。
 
 | Rank |	Name |	Score |	Finish Time | 	Q1 (3) |	Q2 (4) |	Q3 (5) |	Q4 (6)|

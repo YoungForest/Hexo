@@ -1,6 +1,7 @@
 ---
 title: 力扣2021春季赛 - 战队赛
 date: 2021-04-11 21:53:03
+description: 复盘枚举蓄水与升级次数的权衡，以及在二叉树上分配有限连通染色节点的记忆化搜索。
 tags:
 - Competitive Programming
 categories:
@@ -19,6 +20,11 @@ translations:
 周一清明节参加了个人赛，[总结博客于此](https://youngforest.github.io/2021/04/05/LCCUP-21-Spring-Solo/).
 周六和 **佛系刷题群** 的 老赖 还有 George 组队一起佛系出征，最后的结果果然很佛系，2题结束。我第一题，George第二题（还是我提供思路，帮忙 review + debug). 不得不说，跟2个人组队打比赛还不如我一个人效果好。怪不得ACM比赛的队伍都要磨合好久。
 
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LCCUP-21-Spring-Team/zh-hero.webp" alt="可升级水桶反复向水缸蓄水，旁边二叉树把有限青色灯珠分配到相连枝条" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
 
 ## LCP 33. 蓄水
 

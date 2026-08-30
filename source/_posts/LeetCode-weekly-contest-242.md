@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 242
 date: 2021-05-23 10:30:24
+description: 四道题比较连续双色段、二分最低速度、用单次区间更新优化跳跃可达性，并以线性动态规划求石子博弈的最大分差。
 tags:
 - Competitive Programming
 categories:
@@ -15,6 +16,12 @@ translations:
 
 提前40min AK。虽然因为粗心大意，前三题每题WA一次，导致15min罚时，但好的一点是这周应该不用每天残酷打卡了。正好全力以赴，准备周三的硕士论文答辩。
 三年的硕士生涯全靠周三一天了，毕其功于一役，加油，Forest！
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-242/zh-hero.webp" alt="尺规比较双色长段，速度闸门逐步收紧，跳板区间只点亮一次，前缀石堆在博弈天平上选择最大分差" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
 
 ## 1869. Longer Contiguous Segments of Ones than Zeros
 

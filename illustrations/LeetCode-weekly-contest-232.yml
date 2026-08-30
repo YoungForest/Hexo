@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-232.md
+context: >-
+  四道题判断两字符串能否交换相等、找星形图中心、用优先队列贪心提高平均通过率，并从固定下标向两侧扩展求好子数组最大分数。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-232/zh-hero.webp
+    placement: hero
+    alt: 两条珠链交换错位珠后对齐，星形辐条汇入中心轴，奖励珠优先投入收益最大杯，双滑块从锚点向两侧扩展
+    composition: >-
+      不使用 Forest。绘制横向四联无字算法训练台：左侧两条等长珠链只有两颗颜色错位，机械夹交叉交换后两链完全对齐；中左若干轮辐从不同外围节点汇入唯一中心轴，前两根相交轮辐已足以定位中心；中右多只装有通过珠和总量珠的透明杯排在收益优先队列上，每一颗奖励珠总被投入边际增益最大的杯；右侧固定锚点位于高度石柱数组中，两只滑块向左右扩展时总选择更高的一侧，同时保持当前最低高度，实体矩形框展示宽度与最低高度共同形成的面积。禁止人物、字符、字母、数字、公式、代码、可读文字、坐标轴、箭头、品牌、商标或水印。
+    review_status: approved

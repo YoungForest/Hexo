@@ -1,6 +1,7 @@
 ---
 title: 2020年终总结 与 2021新年展望
 date: 2020-11-25 20:28:16
+description: 回顾疫情冲击下的论文、远程实习、求职、刷题与延期毕业，并制定 2021 年的学习、工作和健康目标。
 tags:
   - life
   - 年终总结
@@ -15,6 +16,12 @@ translations:
 今年也年终总结有些早，还没有步入12月份。不过因为今天刚交了大论文查重，虽然很多事儿要做，但完全没有工作的心情。不如就利用这种烦躁的心情写个年终总结的初稿，不知道会不会受影响。
 
 2020年从一开始就是注定不平凡的一年，之前我只预见到因为我要毕业，只是对我而言，没想到一场席卷全球的疫情使得它成为了对所有人都很有挑战的年份。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/2020-summary-and-2021-resolutions/zh-hero.webp" alt="Forest 在黑天鹅掀起的风雨中同时护住论文、远程实习电脑和刷题阶梯，前方道路突然改道" width="1536" height="864" decoding="async">
+</figure>
+
+<!-- more -->
 
 ## 2020年工作回顾
 
@@ -38,6 +45,10 @@ translations:
 锻炼身体却像往年一样没有进展。穿衣一直显瘦，脱衣一直没肉。智齿也因为疫情和学业实习太忙的原因没能处理。
 
 总的来说，虽然今年充满了黑天鹅和坎坷，也没完美实现预期，但总体上还是十分满意，给自己点个赞。继续加油！
+
+<figure class="editorial-illustration">
+  <img src="/images/ai/2020-summary-and-2021-resolutions/zh-2021-outlook.webp" alt="Forest 把毕业、技能、工作、牙齿健康和刷题习惯种成五株需要长期照料的幼苗" width="1536" height="864" loading="lazy" decoding="async">
+</figure>
 
 ## 2021年美好生活的向往
 

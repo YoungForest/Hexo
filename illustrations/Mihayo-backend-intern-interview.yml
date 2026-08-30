@@ -1,0 +1,16 @@
+version: editorial-comic-v1
+post: source/_posts/Mihayo-backend-intern-interview.md
+context: 三轮服务器开发面试从熟悉的算法与计算机基础，推进到陌生的游戏匹配系统、智能指针、动态规划、排行榜和线上排障。
+assets:
+  - id: hero
+    file: source/images/ai/Mihayo-backend-intern-interview/zh-hero.webp
+    placement: hero
+    alt: Forest 轻松越过算法和基础知识石块，却在陌生的多人匹配机械前停下重新组织自己的工具
+    composition: 让 Forest 带着熟悉的算法积木和系统齿轮走到一台由单人、队伍与平衡秤构成的实体匹配机械前，突出系统设计带来的意外，不画游戏画面或公司标志。
+    review_status: approved
+  - id: third-round
+    file: source/images/ai/Mihayo-backend-intern-interview/zh-third-round.webp
+    placement: before-third-round
+    alt: Forest 在第三座工作台前同时拆解共享指针绳结、硬币组合迷宫和一棵可按名次查找的平衡树
+    composition: 用三个彼此清晰分隔的实体谜题概括三面：共享计数的绳结、需要绕开贪心陷阱的硬币路径、支撑排行榜查询的平衡树，不写代码或数字。
+    review_status: approved

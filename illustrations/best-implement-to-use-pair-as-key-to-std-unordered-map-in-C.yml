@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/best-implement-to-use-pair-as-key-to-std-unordered-map-in-C.md
+context: >-
+  作者指出简单异或并不是组合 C++ pair 哈希值的好方法，并分享来自 Boost 思路的 hash_combine 模板，以获得更好的分布并复用于不同类型。
+assets:
+  - id: hero
+    file: source/images/ai/best-implement-to-use-pair-as-key-to-std-unordered-map-in-C/zh-hero.webp
+    placement: hero
+    alt: 两条粗糙交叉槽让不同形状反复撞进同一格，精密混合轮则把成对零件均匀送入各自的收纳格
+    composition: >-
+      左侧用两条过度简单的交叉滑槽把不同的成对几何零件撞进同一收纳格，表现碰撞；右侧由琥珀色扰动齿轮和多级混合轮把每一对零件充分组合，均匀送入不同格子。只用实体机械和几何形状，不出现 XOR、hash、代码、数字、公式、界面、品牌或可读文字。
+    review_status: approved

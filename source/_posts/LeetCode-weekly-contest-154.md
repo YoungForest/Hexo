@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 154
 date: 2019-09-18 10:08:36
+description: 周赛补题：气球字符频数、嵌套区间反转、重复数组最大子段和与网络关键连接，也记录时差影响。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2019/09/18/LeetCode-weekly-contest-154/
   en: https://youngforest.github.io/en/2019/09/18/LeetCode-weekly-contest-154/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-154/zh-hero.webp" alt="清晨的 Forest 面对成组气球珠、嵌套反转彩带、重复传送带和只有一座脆弱桥的网络" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 上周末在比利时，比赛时间是凌晨的4点半到6点，时间不合适，所以就没有参加。发现只有双周赛的时间是周六的下午4点半到6点，稍微合适些。ranking 2000的目标今年怕是要鸽了。最好的情况下，参与比赛的数目也只有国内的1/3.
 
 ## 1189. Maximum Number of Balloons
@@ -145,5 +152,4 @@ public:
 ```
 
 ## 1192. Critical Connections in a Network
-
 

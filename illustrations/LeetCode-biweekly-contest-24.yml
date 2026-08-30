@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-biweekly-contest-24.md
+context: >-
+  双周赛复盘涵盖保持逐步和为正的最小起点、Fibonacci 数贪心分解、按字典序回溯快乐字符串，以及按上界切分并恢复数组的 DP。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-biweekly-contest-24/zh-hero.webp
+    placement: hero
+    alt: 入口升台托起累计轨道，螺旋木块贪心填箱，三色珠树展开路径，分段方片落入层叠方案托盘
+    composition: >-
+      不使用 Forest。四站以细轨相连：入口升台把曾跌入谷底的累计轨道整体托高；由小到大的螺旋木块逐次选取可装下的最大块；三色珠树保持相邻颜色不同并沿固定次序寻找分支；无标记方片链在量规下切分，透明托盘累计每个切点的方案。无可读文字、数字、公式、代码、竞赛标志、假界面或水印。
+    review_status: approved

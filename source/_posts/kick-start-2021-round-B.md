@@ -1,6 +1,7 @@
 ---
 title: kick start 2021 round B
 date: 2021-04-20 19:31:25
+description: 赛后补题记录了递增子串和最长等差段，并复盘类型转换错误与超时实现。
 tags:
 - Competitive Programming
 categories:
@@ -14,7 +15,11 @@ translations:
 
 [比赛题目链接](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000435a5b)
 
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/kick-start-2021-round-B/zh-hero.webp" alt="递增珠链逐段变长，等高差台阶围绕一枚可调石块延伸，多层齿轮让沙漏变慢" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
 
+<!-- more -->
 
 ## [Increasing Substring](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000435a5b/000000000077a882)
 

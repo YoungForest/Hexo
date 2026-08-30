@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 188
 date: 2020-05-10 18:25:30
+description: 周赛复盘：栈操作、异或三元组、苹果树回程与披萨切分 DP；持续训练突破千题，也反思如何建立题型连接。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2020/05/10/LeetCode-weekly-contest-188/
   en: https://youngforest.github.io/en/2020/05/10/LeetCode-weekly-contest-188/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-188/zh-hero.webp" alt="Forest 在题型工坊跨过训练里程碑，栈块、消去珠环、苹果树回程和披萨切分四站串起旧题连接" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 | Rank |	Name |	Score |	Finish Time | 	Q1 (3) |	Q2 (4) |	Q3 (5) |	Q4 (7)|
 |--|--|--|--|--|--|--|--|
 | 445 / 12715 |	YoungForest | 19 | 	1:14:29 |  0:07:04 | 0:17:33 | 0:56:49 | 1:14:29 |

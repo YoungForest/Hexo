@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 132
 date: 2019-04-14 11:55:04
+description: 四道题从奇偶除数规律延伸到树上祖先差值、等差子序列与先序遍历重建二叉树，并复盘边界条件。
 tags:
 - Competitive Programming
 categories:
@@ -17,6 +18,12 @@ translations:
 大概需要1个小时内做完，才能进入前200。
 
 第4题由于一些边界条件，我调试了不少时间。我分析花这么长时间的原因。还是写代码写的少，对变量更新的边界条件不敏感。比如string::find没有找到的时候，其他各个坐标该如何更新。我就是由于没找到的时候，返回了npos(-1), `current_find_index`此时应该等于`end`，而不是继续在-1上加分隔符的长度。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-132/zh-hero.webp" alt="奇偶石子驱动一座树木修复台，祖先枝条悬挂高低果实，等距珠轨最终展开为层次分明的二叉树" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
 
 ## 1025. Divisor Game
 

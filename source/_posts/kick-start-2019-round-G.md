@@ -1,6 +1,7 @@
 ---
 title: kick start 2019 round G
 date: 2019-10-20 18:53:36
+description: 复盘约数与记忆化读页、避免位运算溢出的高位贪心，以及折半枚举组合的三道算法题。
 tags:
 - Competitive Programming
 categories:
@@ -11,6 +12,12 @@ translations:
 ---
 本轮是今年的倒数第二轮，也是相对比较简单的一个轮次。
 我做出了第3题和1 2题的小数据集。第二题我本身的算法是对的，但是没有正确的评估最大的k的位数，并防止溢出操作，所以字大数据集上WA。第一题其实本身不难，只是我对约数不很敏感，导致错失没有想出更好的解法。总的来说，本轮是我最接近AC的轮次，运气相对不错，也提前1个小时完成了比赛。因为后来实在想不出解法 和 要注意的点了，就放弃了。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/kick-start-2019-round-G/zh-hero.webp" alt="书页沿调和阶梯被收集，位珠在防溢护栏下从高处落位，两支组合队伍在中央汇合" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
 
 ## Book Reading
 

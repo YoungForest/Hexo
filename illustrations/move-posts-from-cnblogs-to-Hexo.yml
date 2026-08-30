@@ -1,0 +1,19 @@
+version: editorial-comic-v1
+post: source/_posts/move-posts-from-cnblogs-to-Hexo.md
+context: >-
+  作者记录从旧博客迁移到 Hexo 时遇到的三个问题：插件装错目录、RSS 只带摘要、旧 HTML 与 Markdown 混合造成格式异常，并给出逐步排查思路。
+assets:
+  - id: hero
+    file: source/images/ai/move-posts-from-cnblogs-to-Hexo/zh-hero.webp
+    placement: hero
+    alt: 年轻 Forest 把旧博客纸箱送进迁移管道，摘要空信封从旁路掉落，完整备份箱则抵达新的静态博客工作台
+    composition: >-
+      使用年轻版虚构 Forest：短黑发、圆眼镜、炭灰外套、低饱和青绿上衣，不是真人肖像。旧博客画成无品牌的旧书亭，新博客是干净静态工作台；迁移管道先吐出只有封面的空信封，Forest 改用完整备份箱后文章纸页顺利抵达。不要画真实网站标志、可读文章、命令或界面。
+    review_status: approved
+  - id: format-repair
+    file: source/images/ai/move-posts-from-cnblogs-to-Hexo/zh-format-repair.webp
+    placement: inline-before-format-problems
+    alt: Forest 在修复台上把旧编辑器留下的纠缠丝带拆开，重新整理成引用块、代码块和正文组成的整齐模块
+    composition: >-
+      保留原有迁移截图，不替代事实证据。在格式问题段落前画 Forest 坐在修复台前，把旧富文本编辑器留下的纠缠丝带和破碎框架拆开，重新整理成三类无字模块：正文、引用与代码。不能出现真实编辑器商标、HTML 或 Markdown 字样、代码、可读文字或假界面。
+    review_status: approved

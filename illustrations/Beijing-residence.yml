@@ -1,0 +1,16 @@
+version: editorial-comic-v1
+post: source/_posts/Beijing-residence.md
+context: 作者结合亲身经历解释 2021 年北京落户“单列指标”的资格与公司名额，并记录从提交材料、等待名单和社保到 2023 年完成集体户口落户的流程。
+assets:
+  - id: hero
+    file: source/images/ai/Beijing-residence/zh-hero.webp
+    placement: hero
+    alt: Forest 拿着空白文件夹走向城市门廊，普通队伍旁新开的一条狭窄支路绕过名额转盘并通向安稳灯光
+    composition: 让 Forest 手持无字文件夹站在抽象北京城市门廊前，主队伍被一个有限槽位的转盘挡住，旁边新开一条狭窄但清晰的支路，经过企业与学历两道无字几何筛选后通向温暖居所灯光；体现“单列指标带来机会”，不画官方文件、印章、徽章、地标复刻或可读文字。
+    review_status: approved
+  - id: process
+    file: source/images/ai/Beijing-residence/zh-process.webp
+    placement: before-settlement-process
+    alt: 一只空白材料夹沿四季长路依次经过公司、学校和办事窗口，最后在冬日灯光下化作一把居所钥匙
+    composition: 用横向四季时间轴表现实际办理过程：同一只无字材料夹从秋日公司桌面出发，经过冬日审核窗口、春日学校档案箱和社保沙漏，最终在下一个冬季的社区灯光下化作一把简化钥匙；各站由手与物件表达，不画真实政府建筑、证件、印章、文字或承诺。
+    review_status: approved

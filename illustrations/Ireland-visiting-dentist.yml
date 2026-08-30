@@ -1,0 +1,16 @@
+version: editorial-comic-v1
+post: source/_posts/Ireland-visiting-dentist.md
+context: 作者记录离开北京前突发牙痛、抵达爱尔兰后的补牙与洗牙经历，以及公司医疗保险两层报销带来的实际帮助。
+assets:
+  - id: hero
+    file: source/images/ai/Ireland-visiting-dentist/zh-hero.webp
+    placement: hero
+    alt: Forest 拖着行李跨过两座城市之间的桥，手中的裂纹牙齿模型从疼痛阴影走向明亮诊疗灯
+    composition: 让 Forest 拖着行李走过连接北京旅馆轮廓与爱尔兰雨景诊所的拱桥，手里捧着一枚有裂纹但不过度写实的牙齿模型；桥的起点是暗红疼痛波纹，终点是克制明亮的诊疗灯，表现跨国就医和诊断转折，不画医疗界面、品牌或治疗细节。
+    review_status: approved
+  - id: insurance
+    file: source/images/ai/Ireland-visiting-dentist/zh-insurance.webp
+    placement: before-treatment-and-insurance
+    alt: 两层青绿色保险伞筛去大部分空白账单纸片，最终只留下几枚很小的琥珀色硬币
+    composition: 以抽象报销隐喻表现最后一段：牙科椅上方落下无字账单纸片，两层不同大小的青绿色保护伞依次接住并筛去大部分纸片，末端托盘只留下几枚很小的琥珀色硬币；不出现保险公司、货币符号、数字或医疗承诺。
+    review_status: approved

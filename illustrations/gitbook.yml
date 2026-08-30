@@ -1,0 +1,10 @@
+version: editorial-comic-v1
+post: source/_posts/gitbook.md
+context: 介绍如何把零散 Markdown 内容组织成结构完整的小书，并生成便于阅读、预览与发布的多种形式。
+assets:
+  - id: hero
+    file: source/images/ai/gitbook/zh-hero.webp
+    placement: hero
+    alt: 零散的空白笔记卡穿过模块化装订工作台，变成结构清晰的小书、连续网页卷轴和打印册页
+    composition: 用无文字卡片、章节分拣槽和装订机械表现从零散博客到体系化作品的转化，不画真实软件界面或品牌标志。
+    review_status: approved

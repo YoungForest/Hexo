@@ -1,0 +1,10 @@
+version: editorial-comic-v1
+post: source/_posts/A-Matter-of-Degrees.md
+context: 通过温度这一变量串联宇宙、太阳、地球、生命与人类文明，并重拾少年时代对物理和科学的好奇。
+assets:
+  - id: hero
+    file: source/images/ai/A-Matter-of-Degrees/zh-hero.webp
+    placement: hero
+    alt: 一支温度计化作贯穿宇宙、太阳、地球、生命与人类文明的金色线索
+    composition: 温度计的琥珀色液柱延伸成时间线，从星云和太阳穿过地球、生命与仰望星空的人类，表现跨学科知识被温度串联。
+    review_status: approved

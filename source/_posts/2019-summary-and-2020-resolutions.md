@@ -6,6 +6,7 @@ tags:
 categories:
   - dairy
 date: 2020-02-20 16:50:42
+description: 回顾刷题、技术学习、实习、科研和沟通困境，并围绕毕业、求职与健康规划 2020 年。
 translations:
   zh-CN: https://youngforest.github.io/2020/02/20/2019-summary-and-2020-resolutions/
   en: https://youngforest.github.io/en/2020/02/20/2019-summary-and-2020-resolutions/
@@ -13,6 +14,12 @@ translations:
 [转发自我的博客](https://youngforest.github.io/2020/02/20/2019-summary-and-2020-resolutions/)
 
 2020年注定对我是一个不平凡的一年，主要原因在于我面临着毕业和求职的关口。这一关口是我近2年面临的最重要的挑战和任务，我也为之筹备良久，期待可以厚积薄发。然而事实却并不如愿。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/2019-summary-and-2020-resolutions/zh-hero.webp" alt="Forest 背着算法积木、实习工具和研究论文，站在毕业与求职两座并行闸门前" width="1536" height="864" decoding="async">
+</figure>
+
+<!-- more -->
 
 ## 2019年工作回顾
 
@@ -33,6 +40,10 @@ CTCI 基本看完。
 去年的OKR完成度60%吧。
 
 在这一年里，我也发现了自己一些比较明显的缺点：
+
+<figure class="editorial-illustration">
+  <img src="/images/ai/2019-summary-and-2020-resolutions/zh-social-support.webp" alt="Forest 独自在偏斜的细桥上搬运沉重积木，邻近同伴用共享脚手架和绳索伸来支援" width="1536" height="864" loading="lazy" decoding="async">
+</figure>
 
 ### 学习脱离社交
 

@@ -1,5 +1,6 @@
 ---
 title: 走单列指标拿北京户口
+description: "记录我通过“单列指标”办理北京户口的资格判断、公司名额、材料流程与 2021—2023 年实际时间线。"
 date: 2022-01-12 12:46:52
 tags:
 - 北京
@@ -13,6 +14,12 @@ translations:
 户口作为中国特色的制度，一直以来是人们考虑工作、生活、定居的重要内容。从三十年前父辈们费尽心机从农村户口转到城市户口，到现在的我们，为了北京户口而煞费苦心。很多东西变了，但又有些东西没变。
 
 幸运的是，北京市今年也出台了[《户口新规》](http://rsj.beijing.gov.cn/xxgk/zcwj/202107/t20210712_2433865.html)。大多数内容都没变，只是其中的“单列指标”给了我们机会。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/Beijing-residence/zh-hero.webp" alt="Forest 拿着空白文件夹走向城市门廊，普通队伍旁新开的一条狭窄支路绕过名额转盘并通向安稳灯光" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
 
 ## 单列指标 解读：
 
@@ -31,6 +38,10 @@ translations:
 办理落户的2种名额需要满足交社保半年或三年，不过即使半年的名额，到落户完成基本也需要近一年，因此大家还是叫做 一年指标。
 不同于之前的名额指标，单列政府并不限制1年还是3年，交由公司和毕业生协商。比较良心的公司（比如 我司亚马逊），就会让同学们自己选。当然大家都选一年的了。
 但我也听说很多公司，甚至是大家熟悉的大厂（美团、字节等），会强制3年的，有甚者会签一个5年服务期的协议。3年落户后，如果干不到5年，需要赔偿公司钱。政府的用意是给公司节约用人成本，但这些厂真是吃相难看到不行。同情这些厂的同学们，人数还不少。在这5年服务期里任人宰割，薪资待遇还不涨，没法跳槽。
+
+<figure class="editorial-illustration">
+  <img src="/images/ai/Beijing-residence/zh-process.webp" alt="一只空白材料夹沿四季长路依次经过公司、学校和办事窗口，最后在冬日灯光下化作一把居所钥匙" width="1536" height="864" loading="lazy" decoding="async">
+</figure>
 
 ## 落户流程
 

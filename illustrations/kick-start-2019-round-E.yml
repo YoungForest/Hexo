@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/kick-start-2019-round-E.md
+context: >-
+  三道题分别使用带路径压缩的并查集构造最小生成树、按编码与进食收益比排序并二分分界点，以及分析奇偶约数来筛选区间中的特殊整数。
+assets:
+  - id: hero
+    file: source/images/ai/kick-start-2019-round-E/zh-hero.webp
+    placement: hero
+    alt: 樱桃节点被最短藤蔓连成网，编码与进食托盘在分界轨道上平衡，奇偶石子落入街道棋盘
+    composition: >-
+      不使用 Forest。画一张斜俯视的温暖灰纸桌面，三种装置由一条青绿色路径连接：左边是一簇樱桃形节点，只有必要的短藤蔓把所有节点连通，冗余长藤蔓卷在旁边；中央是一排没有刻度的槽位，每槽都有青绿齿轮令牌和琥珀食物令牌，按交换比排列后，一枚滑动分界挡板同时满足两只空白托盘；右边是一条石板街道，圆石按奇偶纹理成组落进棋盘式筛网，少数合格石子发出琥珀光。禁止数字、字母、公式、代码、品牌、真实界面、可读文字、商标或水印。
+    review_status: approved

@@ -5,6 +5,7 @@ tags:
 - Competitive Programming
 categories:
 - KickStart
+description: 久违地凭兴趣重返算法竞赛，从字符串对称、L 形计数、地形抬升到图上破环；排名退到一旁，推导过程重新成为主角。
 translations:
   zh-CN: https://youngforest.github.io/2021/03/22/kick-start-2021-round-A/
   en: https://youngforest.github.io/en/2021/03/22/kick-start-2021-round-A/
@@ -17,6 +18,10 @@ translations:
 久违的参加了KickStart比赛。之前2年还因为想去Google的原因一直坚持打，不过人算不如天算，因为疫情原因实习和秋招都直接凉了。2年多参加了10+场比赛也“白”打了。
 今年参加真的是全凭兴趣。结果排名果然1000+。之前基本都是几百。
 不得说，从去年开始，KickStart简单也友好了很多。之前经常只能做出来1道半题。后来为了增加参赛范围，3题变四题，整体难度也降下来了。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/kick-start-2021-round-A/zh-hero.webp" alt="四块无文字的谜题岛屿由一条从计时器旁绕开的路线连接，依次呈现镜像珠串、L 形田块、抬升地形和断环网络" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
 
 <!-- more -->
 

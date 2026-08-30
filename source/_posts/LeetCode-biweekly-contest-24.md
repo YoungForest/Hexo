@@ -1,6 +1,7 @@
 ---
 title: LeetCode biweekly contest 24
 date: 2020-04-19 05:37:57
+description: 双周赛复盘：前缀和起点、Fibonacci 贪心、快乐字符串回溯与恢复数组 DP，也记录不同竞赛平台的体验。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2020/04/19/LeetCode-biweekly-contest-24/
   en: https://youngforest.github.io/en/2020/04/19/LeetCode-biweekly-contest-24/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-biweekly-contest-24/zh-hero.webp" alt="入口升台托起累计轨道，螺旋木块贪心填箱，三色珠树展开路径，分段方片落入层叠方案托盘" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 | Rank |	Name |	Score |	Finish Time | 	Q1 (3) |	Q2 (4) |	Q3 (5) |	Q4 (6)|
 |--|--|--|--|--|--|--|--|
 | 700 / 7729 |	YoungForest | 18 | 	1:17:49 | 0:04:50 |  0:10:38 | 0:17:45 |   1:02:49 3 |

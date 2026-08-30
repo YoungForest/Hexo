@@ -1,0 +1,10 @@
+version: editorial-comic-v1
+post: source/_posts/Poor-Charlie-Almanack.md
+context: 阅读《穷查理宝典》，记录跨学科思维、反向思考、阅读习惯与等待关键机会带来的人生启发。
+assets:
+  - id: hero
+    file: source/images/ai/Poor-Charlie-Almanack/zh-hero.webp
+    placement: hero
+    alt: 一座由齿轮、天平、尺规和望远镜构成的知识格栅汇聚成一条通往关键机会的清晰道路
+    composition: 用多学科工具搭成稳定的格栅和观察台，让彼此连接的基础模型共同指向少数值得果断行动的机会，不描绘真实人物或书封。
+    review_status: approved

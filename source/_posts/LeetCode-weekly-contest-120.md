@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 120
 date: 2019-01-20 11:51:13
+description: 与好友同场周赛的一次进步：有序平方、湍流数组、树上硬币和覆盖所有方格的回溯路径。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2019/01/20/LeetCode-weekly-contest-120/
   en: https://youngforest.github.io/en/2019/01/20/LeetCode-weekly-contest-120/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-120/zh-hero.webp" alt="Forest 与匿名同伴并肩训练，合并平方珠、穿越湍流带、平衡树上硬币并走遍方格" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 本周和好友“女声男”同时参加weekly contest。有同学共同竞争还是挺有压力的。因为我练习算法题已经有半年时间了，他还是新手，如若最后还败北了，岂不丢人。不过结果还好，没有丢自己的人。我在离比赛结束还有10min时全部AC，而且所有题目都是一遍过，略胜一筹。不得不说，这次的题比往届简单不少，之前我的水平一直维持在只做出2道题目，ranking 800左右，而本次ranking 为 356 / 3870。从排名上看有所进步。
 
 下面我分享一下四道题目的思路。

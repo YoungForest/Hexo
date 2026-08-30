@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-213.md
+context: >-
+  周赛四题依次把互异片段拼成目标数组、用 DP 统计有序元音串、贪心地把梯子留给最大高度差，以及用组合数判断字典序第 k 小路径的每一步；四题全部完成，作者对连续四周的稳定表现感到满意。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-213/zh-hero.webp
+    placement: hero
+    alt: 互异拼片接成长路，五层彩珠阶梯累积组合，梯子跨过最高楼差，组合三角仪在网格岔路中挑出目标路径
+    composition: >-
+      不使用 Forest。横向四站无字算法桌，整体有稳定完成后的轻松感：互异形状的短拼片按首块索引接成完整长路；五种颜色的珠子沿有序阶梯逐层累积，底部小盘汇总不同长度的组合；砖块和梯子共同跨越高低不一的屋顶，梯子被留给最高落差而砖块填补较小台阶；帕斯卡三角形的滚珠计数仪连接网格岔路，每次比较两侧剩余路径堆高后选择包含目标次序的分支，四个终点灯全部点亮但不显示数字。禁止人物、字符、字母、数字、公式、代码、箭头、可读文字、假界面、商标或水印。
+    review_status: approved

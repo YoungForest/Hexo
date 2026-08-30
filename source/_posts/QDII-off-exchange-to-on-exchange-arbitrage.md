@@ -1,6 +1,7 @@
 ---
 title: 手把手教你 QDII 场外转场内 套利
 date: 2024-01-25 15:28:10
+description: "以一次实际操作为例，记录 QDII 基金从场外转场内的账户对应、席位号、转托管和卖出流程。"
 tags:
 - money
 - 投资
@@ -16,7 +17,17 @@ translations:
 ---
 最近QDII场内基金高溢价大家似乎都听说了。溢价是说，场外基金的市场价格，高于场外基金的净值。疯狂的如 [美国50ETF（SH513850）](https://xueqiu.com/S/SH513850)曾达到30+点，[日经ETF（SH513520）](https://xueqiu.com/S/SH513520)20+点。普通的也有2个点。基金公司和券商都发布声明说，溢价过高的风险提示。高溢价会导致套利资金过来，然后抹平溢价。套利是说，在场外申购基金，然后转到场内，再卖出。在基金不涨不跌的情况下，至少可以有溢价的收益。正常情况下，因为市场本身的调节作用，对于基金规模大，交易量大的正常基金，如 很多 [沪深300ETF(SH510300)](https://xueqiu.com/S/SH510300)，溢价几乎没有。但QDII因为外汇等各种限制，有限购，规模小，交易量小等特点，套利基金并不能自由地无限进行，因此十分容易形成溢价。
 
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/QDII-off-exchange-to-on-exchange-arbitrage/zh-hero.webp" alt="同一篮资产在安静仓库和热闹市场之间出现高度差，一座限流窄桥把两端价格秤连接起来" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 我前几年恰好购买了一些QDII场外基金（[标普500ETF SH513500](https://xueqiu.com/S/SH513500), [纳斯达克100 SH513100](https://xueqiu.com/S/SH513100), [中概互联网ETF](https://xueqiu.com/S/SH513050)），之前都是直接在场外买卖的。没想过转场内交易。因为虽然套利门槛没那么高，但对于新手来说也不低，操作比平时购买基金难不少。最近的高溢价引起了我的极大兴趣，也在网上查了不少资料和教程，并没有想象中的那么容易和资料多。因此总结于此，方便后人参考。我以我的 场外”易方达e钱包“，场内 ”华泰券商 涨乐财富通“ 为例。其他的场外基金和场内券商，大同小异。之前我那么多QDII直接场外卖出，好亏呀。
+
+<figure class="editorial-illustration">
+  <img src="/images/ai/QDII-off-exchange-to-on-exchange-arbitrage/zh-custody-route.webp" alt="一只无字基金箱依次通过账户钥匙、对应桥、席位令牌和托管船闸，最终抵达公开交易码头" width="1536" height="864" loading="lazy" decoding="async">
+</figure>
 
 1. 查询基金TA账户。首页“易方达e钱包” “我的” “账户设置” ，最下面倒数第三项“基金账户”。深圳是98开头的12位数，上海99开头的12位数。
 

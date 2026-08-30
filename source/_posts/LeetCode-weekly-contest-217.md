@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 217
 date: 2020-11-29 20:28:52
+description: 周赛复盘：汇总财富、用单调栈保留子序列、以区间差分计算互补操作，并反复减半缩小数组偏差。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2020/11/29/LeetCode-weekly-contest-217/
   en: https://youngforest.github.io/en/2020/11/29/LeetCode-weekly-contest-217/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-217/zh-hero.webp" alt="珠算盘汇总每行财富，单调架弹出过大的石块，互补配对形成区间波纹，最大齿轮反复减半缩小整体差距" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 | Rank |	Name |	Score |	Finish Time | 	Q1 (3) |	Q2 (4) |	Q3 (6) |	Q4 (7)|
 |--|--|--|--|--|--|--|--|
 | 356 / 9462 | YoungForest | 13 | 	1:24:07 |  0:03:55	 | 0:20:14 |  1:09:07  3 | null |

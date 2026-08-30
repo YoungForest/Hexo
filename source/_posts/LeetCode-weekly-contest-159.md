@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 159
 date: 2019-10-21 09:29:11
+description: 周赛复盘：点集共线、移除子文件夹、平衡字符串滑窗和加权任务调度，涵盖哈希、窗口与动态规划。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2019/10/21/LeetCode-weekly-contest-159/
   en: https://youngforest.github.io/en/2019/10/21/LeetCode-weekly-contest-159/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-159/zh-hero.webp" alt="无人工坊用直线穿柱、嵌套空白托盘、四色珠链滑窗和带收益篮的任务轨道表现四种算法" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 ## 1232. Check If It Is a Straight Line
 
 依次检查3个点是否共线。

@@ -1,6 +1,7 @@
 ---
 title: LCCUP 21 Fall Team
 date: 2021-09-25 20:28:48
+description: 题解涵盖树上颜色统计、自行车状态搜索、逆推志愿者人数，以及栈队选择的动态规划。
 tags:
 - Competitive Programming
 categories:
@@ -17,6 +18,12 @@ translations:
 一个小时做了4题后，后两题只有5人AC。看了半天后并没有任何符合时间复杂度的思路。果断放弃了，后2个小时就节约下来干别的去了。
 
 虽然我现在用[英文博客](https://youngforest.github.io/en/)写周赛总结了。但因为春季赛和秋季赛都是国区力扣的活动，只有中国人能参加和看到，因此考虑到受众，本次比赛总结还是用中文吧。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LCCUP-21-Fall-Team/zh-hero.webp" alt="彩色焰火树被逐枝统计，空自行车穿越起伏赛场，场馆令牌逆向流动，安检通道在栈与队列间分流" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
 
 ## [LCP 44. 开幕式焰火](https://leetcode-cn.com/problems/sZ59z6/)
 

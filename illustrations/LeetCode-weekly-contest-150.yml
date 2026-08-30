@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-150.md
+context: >-
+  作者反思假期放松练习导致手感下降，文章涵盖字符计数拼词、二叉树最大层和、多源广度优先搜索寻找离陆地最远位置，以及最大字典序后缀。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-150/zh-hero.webp
+    placement: hero
+    alt: Forest 重新上紧训练发条，面对彩珠拼块、分层树篮、岛屿扩散波纹和多条后缀彩带赛道
+    composition: >-
+      使用虚构 Forest。略显生疏的训练工坊中，Forest 重新上紧机械发条；有限彩珠被分配给无字拼块，二叉树每一层把果实汇入篮中比较总量，多座小岛同时向水面扩散等距波纹直至最远交会点，多条从不同位置起跑的花纹带比较后保留最领先的后缀。无格言文字、可读字符、数字、公式、品牌、假界面或水印。
+    review_status: approved

@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-biweekly-contest-52.md
+context: >-
+  三道题按末尾序号排序句子、模拟两个内存池的递增分配，并旋转箱子后让石块落到障碍物旁；第四题的分桶枚举超时，赛后参考前缀和优化。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-biweekly-contest-52/zh-hero.webp
+    placement: hero
+    alt: 带位置缺口的词块排成句子，递增砝码轮流消耗两个内存池，旋转箱中石块落向障碍，末端取整分桶机关仍因过慢而停住
+    composition: >-
+      不使用 Forest。构造横向无字机械桌：若干空白词块通过不同位置缺口重新排成一列，不出现字母数字；两座内存水槽每轮接收逐渐变大的砝码，优先由余量较大的水槽承担，直到下一枚都无法放入；装有石块和固定障碍的小箱被机械臂旋转四分之一圈，石块分段落在障碍或箱壁旁；末端的向下取整数对站以排序石块、倍数分桶和双层循环齿轮工作，但齿轮因过慢卡住，旁边只有赛后打开的前缀轨道方案草模，不表现为赛内完成。禁止人物、字符、字母、数字、公式、代码、可读文字、箭头、真实软件界面、商标或水印。
+    review_status: approved

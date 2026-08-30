@@ -2,6 +2,7 @@
 title: kaggle入门之-titanic
 categories:
   - kaggle
+description: 通过 Titanic 入门赛梳理数据理解、预处理、特征工程、建模评估与提交的完整数据挖掘流程。
 date: 2018-08-14 11:22:23
 tags:
 translations:
@@ -19,6 +20,10 @@ translations:
 
 [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)作为大多数人入门kaggle的第一步，确实是对数据挖掘技巧的集中体现。相反，最近在kaggle上比较火的比赛，都是和CV或NLP相关的。领域知识的要求更高，淡化了通用的数据挖掘技能。
 在kaggle上还有许多[其他的教程](https://www.kaggle.com/tags/tutorial)可供用户学习，我今后会选择其中的一些进行重点学习，争取在开学前入门kaggle。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/kaggle-titanic-tutorial/zh-hero.webp" alt="乘客线索从杂乱甲板模型进入数据工坊，依次经过缺失值修补、特征抽屉、多台模型机器与验证天平，最后装入提交信封" width="1536" height="864" decoding="async">
+</figure>
 
 <!-- more -->
 Titanic训练的技能为：

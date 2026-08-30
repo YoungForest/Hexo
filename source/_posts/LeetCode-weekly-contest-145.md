@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 145
 date: 2019-07-15 15:08:44
+description: 周赛复盘：相对排序、最深叶公共祖先、最长良好区间和用位掩码寻找最小充分团队。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2019/07/15/LeetCode-weekly-contest-145/
   en: https://youngforest.github.io/en/2019/07/15/LeetCode-weekly-contest-145/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-145/zh-hero.webp" alt="Forest 调整定制排序轨道、追溯最深叶根、平衡明暗工时珠并组建覆盖全部技能的最小团队" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 | Rank |	Name |	Score |	Finish Time | 	Q1 (5) |	Q2 (5) |	Q3 (8) |	Q4 (8)|
 |--|--|--|--|--|--|--|--|
 | 451 / 4931 |	YoungForest | 16 | 1:24:26 | 0:09:37 | 0:17:39 | 1:14:26 2 | null |

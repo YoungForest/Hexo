@@ -1,0 +1,16 @@
+version: editorial-comic-v1
+post: source/_posts/A-Global-History-From-Prehistory-to-the-21st-Century.md
+context: 从西方视角重读全球史，思考现代化、科技、思想自由与制度如何共同塑造国家长期发展。
+assets:
+  - id: hero
+    file: source/images/ai/A-Global-History-From-Prehistory-to-the-21st-Century/zh-hero.webp
+    placement: hero
+    alt: 一座旋转地球仪穿过多面棱镜，同一段世界历史在不同观察窗中显出彼此补充的轮廓
+    composition: 以没有文字和国旗的历史阅读桌为背景，让地球仪经过视角棱镜后展开多组互相补充的文明观察窗，表现跨文化史观。
+    review_status: approved
+  - id: accelerator-brake
+    file: source/images/ai/A-Global-History-From-Prehistory-to-the-21st-Century/zh-accelerator-brake.webp
+    placement: before-accelerator-brake
+    alt: 一辆巨型卡车的加速踏板和刹车踏板被同一套齿轮同时压下，车轮在原地磨出深沟
+    composition: 用无标志的旧式卡车和一套自相矛盾的机械脚踏表现生产力向前、制度阻力向后的拉扯，不描绘具体国家或人物。
+    review_status: approved

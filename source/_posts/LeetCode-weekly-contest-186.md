@@ -1,6 +1,7 @@
 ---
 title: LeetCode weeekly contest 186
 date: 2020-04-26 13:04:58
+description: 周赛复盘：切分得分、卡牌两端取值、对角线遍历与受限子序列 DP，也记录切换语言后的速度与工具取舍。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2020/04/26/LeetCode-weekly-contest-186/
   en: https://youngforest.github.io/en/2020/04/26/LeetCode-weekly-contest-186/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-186/zh-hero.webp" alt="Forest 带着轻便工具穿过双色切分、卡牌两端、对角线托盘和单调队列四座速度工位" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 | Rank |	Name |	Score |	Finish Time | 	Q1 (4) |	Q2 (4) |	Q3 (6) |	Q4 (7)|
 |--|--|--|--|--|--|--|--|
 | 113 / 11684 |	YoungForest | 18 | 0:34:17 | 0:04:32 |  0:10:54 | 0:18:49 | 0:34:17 |

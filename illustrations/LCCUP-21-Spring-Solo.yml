@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LCCUP-21-Spring-Solo.md
+context: >-
+  五道题从限额配对和环形乐团布局，延伸到贪心重排、时变迷宫与批量任务。
+assets:
+  - id: hero
+    file: source/images/ai/LCCUP-21-Spring-Solo/zh-hero.webp
+    placement: hero
+    alt: 市集托盘筛选成对物品，乐团座位绕成方形螺旋，危险方块被移到塔后，迷宫墙随时间变换
+    composition: >-
+      不使用 Forest。把四个已详细讨论的算法隐喻布置在一座春日广场：左侧市集用无刻度天平与滑动挡板筛出总重量不超过上限的物品对；中央空旷乐团座位沿方形螺旋由外向内排列，目标座位以琥珀点亮；右侧魔塔传送带把最危险的深色方块延后，保持一枚生命珠不跌落；背景的分层迷宫像翻页剧场般随时间切换，一扇墙可临时穿过，另一处可永久消除。禁止人物、字符、字母、数字、价格、货币符号、公式、代码、可读文字、商标或水印。
+    review_status: approved

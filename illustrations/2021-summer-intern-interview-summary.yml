@@ -1,0 +1,16 @@
+version: editorial-comic-v1
+post: source/_posts/2021-summer-intern-interview-summary.md
+context: 回顾两个月内参加八家公司后端实习招聘的失败、暂停、录取和仍在进行的流程，以及从发挥失常中得到的经验。
+assets:
+  - id: hero
+    file: source/images/ai/2021-summer-intern-interview-summary/zh-hero.webp
+    placement: hero
+    alt: Forest 抱着简历穿过八条分叉的面试跑道，失败、暂停、录取和等待的出口同时亮起
+    composition: 校园招聘大厅里八条无文字跑道从 Forest 脚下分叉，有的折返、有的中断、有的通向琥珀色出口，表现并行且结果不同的面试流程。
+    review_status: approved
+  - id: successful-landing
+    file: source/images/ai/2021-summer-intern-interview-summary/zh-successful-landing.webp
+    placement: before-successful-landing
+    alt: Forest 从不断弹回的面试弹珠台中接住一枚琥珀色通行牌，身后仍有几条轨道继续滚动
+    composition: 把求职过程化为轻微幽默的机械弹珠台，Forest 在多次碰壁后接住无文字通行牌，同时保留尚未结束的轨道。
+    review_status: approved

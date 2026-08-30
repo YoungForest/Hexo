@@ -1,0 +1,10 @@
+version: editorial-comic-v1
+post: source/_posts/Ireland-Onboarding.md
+context: 抵达爱尔兰两周后，作者把办电话卡时踩过的坑整理成新来者攻略，对比机场、门店与网购三条路径，并保留国旗和 SIM 卡实拍作为事实说明。
+assets:
+  - id: hero
+    file: source/images/ai/Ireland-Onboarding/zh-hero.webp
+    placement: hero
+    alt: 雨中的 Forest 抱着行李和信封站在三岔路口，三条路分别通向机场柜台、小店和住宅邮箱
+    composition: 在温和细雨的爱尔兰郊区，让刚到达的 Forest 抱着行李、雨衣和一个无字信封站在三岔路口；三条路分别以机场行李转盘、小型街边商店和住宅邮箱作视觉终点，手中有一枚无品牌的小型 SIM 卡；不画价格、运营商品牌、地图或界面。
+    review_status: approved

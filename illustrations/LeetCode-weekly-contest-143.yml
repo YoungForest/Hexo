@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-143.md
+context: >-
+  周赛复盘涵盖逐轮递增分糖、在反向编号的之字形二叉树中还原父路径、用回溯剪枝或动态规划摆放书架，以及解析布尔表达式。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-143/zh-hero.webp
+    placement: hero
+    alt: 自动工坊依次分配糖珠，翻转之字树路径，在限宽书架上剪枝摆书并解析嵌套机关
+    composition: >-
+      不使用人物，采用主题工坊隐喻。中心是一台温暖机械桌：递增数量的糖珠沿圆形队列分给多个空碗；旁边一棵层级方向交替的之字树用可翻转镜片还原向根部的路径；限宽书架通过移动隔板尝试不同分组，并把超宽分支剪掉；最右侧由嵌套木环与两类无字逻辑闸组成的解析机逐层打开。清晰分区但保持同一场景。无可读文字、字母、数字、公式、品牌、假界面或水印。
+    review_status: approved

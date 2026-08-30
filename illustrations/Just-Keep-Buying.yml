@@ -1,0 +1,10 @@
+version: editorial-comic-v1
+post: source/_posts/Just-Keep-Buying.md
+context: 用数据重新审视择时、个股、房产、运气与时间，理解持续买进、分散配置和长期积累的投资逻辑。
+assets:
+  - id: hero
+    file: source/images/ai/Just-Keep-Buying/zh-hero.webp
+    placement: hero
+    alt: 一列定期落下的无标记筹码汇入宽阔资产篮，四季轮转中一棵小树稳步长大
+    composition: 让规律投入的无标记筹码沿简单机械轨道进入分散篮筐，并在四季轮转中滋养成长树，表现时间和持续性胜过择时。
+    review_status: approved

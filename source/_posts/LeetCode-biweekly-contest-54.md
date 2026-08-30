@@ -1,6 +1,7 @@
 ---
 title: LeetCode biweekly contest 54
 date: 2021-06-16 01:36:43
+description: 四道题检查区间覆盖、用前缀和与二分定位粉笔耗尽处、寻找最大幻方，并递归计算翻转表达式结果的最小代价。
 tags:
 - Competitive Programming
 categories:
@@ -14,6 +15,12 @@ translations:
 | 120 / 12076 | YoungForest | 18 | 	1:19:33 |  0:03:17 | 0:09:23 🐞1 |  0:26:15 | 1:04:33 🐞2 |
 
 继续保持好成绩，尤其是最后一题，还是挺难的。刚开始没有思路甚至想放弃，但最后还是靠自己的思考解决了难题。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-biweekly-contest-54/zh-hero.webp" alt="彩色区间布片覆盖整条轨道，粉笔沿环形队列耗尽，方格盘寻找最大平衡方阵，逻辑树以最少齿轮翻转出口颜色" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
 
 ## 1893. Check if All the Integers in a Range Are Covered
 

@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/face-interview.md
+context: >-
+  作者回顾一次开发岗位面试：职业方向回答与岗位错位，交流并不愉快，正式环节只问了最小值队列和最小值栈，原定二面最终也没有进行。
+assets:
+  - id: hero
+    file: source/images/ai/face-interview/zh-hero.webp
+    placement: hero
+    alt: 年轻 Forest 带着算法罗盘走进开发岗位面试室，桌上队列和栈各托住一颗最低的球，远处二面椅子却空着
+    composition: >-
+      使用年轻版虚构 Forest，不是真人肖像。Forest 带着抽象算法罗盘进入普通面试室，发现自己的方向与桌面开发工具轨道错位；桌上分别用队列和栈托住一颗最低的球，后方原定二面的椅子空着。不要出现公司标志、面试官肖像、代码、可读文字或招聘界面。
+    review_status: approved

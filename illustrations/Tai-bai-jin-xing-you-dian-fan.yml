@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/Tai-bai-jin-xing-you-dian-fan.md
+context: >-
+  作者推荐马伯庸解构《西游记》的小说，欣赏它以天庭官场呈现甩锅、冤案、山头斗争和权力制衡，并在诙谐悬疑中保留悲悯。
+assets:
+  - id: hero
+    file: source/images/ai/Tai-bai-jin-xing-you-dian-fan/zh-hero.webp
+    placement: hero
+    alt: 云端办事厅里，一位疲惫的无名仙官追着层层转手的责任包裹，屏风后猴尾般的风暴掀开了陈年卷宗
+    composition: >-
+      原创的云端官僚办事厅，多个无名部门通过滑轨不断转交同一个沉重的责任包裹；一位疲惫但清醒的无名仙官沿着痕迹追查，屏风后只有抽象的猴尾形风暴掀开陈年空白卷宗，暗示大闹天宫旧案。不要直接描绘可辨认的西游角色，不出现作者肖像、真实书封、文字、印章、部门名称、标志或名人形象。
+    review_status: approved

@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-174.md
+context: >-
+  作者回国后时隔四个月重新参赛，文章涵盖矩阵中最弱的行、通过删除高频值把数组减半、切分二叉树的最大乘积和受限距离内的降高跳跃。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-174/zh-hero.webp
+    placement: hero
+    alt: Forest 提着空白行李箱走过盾片行列、减半彩珠碗、子树天平和逐级降低的石柱训练花园
+    composition: >-
+      使用虚构 Forest。无字自然训练花园依次以由稀到密的盾片行列表示最弱行排序，以吊篮移走占比最大的彩珠组直至余下半碗，以树枝切口与两侧子树吊篮表示最大乘积，以递降石柱和木偶跳跃表示有限距离内向低处移动；Forest 的空白行李箱只提示久别归来。无公司信息、可读文字、字符、数字、公式、品牌、假界面或水印。
+    review_status: approved

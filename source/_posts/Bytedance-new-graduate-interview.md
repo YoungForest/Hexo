@@ -1,6 +1,7 @@
 ---
 title: Bytedance 秋招面试 2020
 date: 2020-06-23 18:56:43
+description: 记录字节跳动后端开发提前批一面：算法优化、操作系统、网络、数据库与语言基础，以及仓促准备的教训。
 tags:
 - ByteDance
 - New Graduate
@@ -14,11 +15,17 @@ translations:
 计算机基础没复习到位，答得不好。
 许愿offer。
 
-# 一面
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/Bytedance-new-graduate-interview/zh-hero.webp" alt="Forest 匆忙走向面试椅，手里的算法工具已经整理好，身后的计算机基础工具箱却还有多个空槽" width="1536" height="864" decoding="async">
+</figure>
+
+<!-- more -->
+
+## 一面
 
 我自介绍。
 
-## 算法题
+### 算法题
 
 先给暴力解，再优化。
 
@@ -67,9 +74,9 @@ int main() {
 }
 ```
 
-## 计算机基础
+### 计算机基础
 
-### 操作系统
+#### 操作系统
 
 IPC 种类
 信号量
@@ -83,16 +90,16 @@ IPC 种类
 如 查看端口、内存、进程状态.
 [进程的current working directory](https://unix.stackexchange.com/questions/94357/find-out-current-working-directory-of-a-running-process): `lsof -p <PID> | grep cwd`
 
-### 计算机网络
+#### 计算机网络
 
 3次握手 4次挥手 的过程和必要性. 答的很糟糕。
 
-### 数据库
+#### 数据库
 
 几种范式
 深入了解吗？不了解
 
-### 语言
+#### 语言
 
 python
 - GIL
@@ -101,7 +108,11 @@ python
 贵组大概率是写python的。
 
 
-## 总结
+<figure class="editorial-illustration">
+  <img src="/images/ai/Bytedance-new-graduate-interview/zh-review-plan.webp" alt="Forest 把散落的系统、网络、数据库和语言基础卡片整理成一条通往下一次面试的三段复习桥" width="1536" height="864" loading="lazy" decoding="async">
+</figure>
+
+### 总结
 
 昨天约了今天的面试，失误呀。太过仓促。本来秋招提前批是很重要的，计算机基础知识就是题库里的那些题，花3天时间背背还是有必要的。要不靠着本科时学的知识，回答不会太好，会很伤。
 

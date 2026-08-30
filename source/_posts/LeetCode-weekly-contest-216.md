@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 216
 date: 2020-11-22 17:32:56
+description: 周赛复盘：拼接字符串数组、贪心构造最小字符串、用奇偶前后缀和判断公平数组，并排序任务求最小初始能量。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2020/11/22/LeetCode-weekly-contest-216/
   en: https://youngforest.github.io/en/2020/11/22/LeetCode-weekly-contest-216/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-216/zh-hero.webp" alt="碎片带拼成同一条长带，珠槽从末端补足价值，奇偶秤在抽走石块后恢复平衡，任务电池按能量差排序" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 | Rank |	Name |	Score |	Finish Time | 	Q1 (3) |	Q2 (4) |	Q3 (5) |	Q4 (6)|
 |--|--|--|--|--|--|--|--|
 | 862 / 9573 | YoungForest | 18 | 0:58:34 | 0:12:47	 | 0:23:33 | 0:33:14 | 0:58:34 |

@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 191
 date: 2020-05-31 17:40:09
+description: 周赛复盘：最大乘积、蛋糕最大切片、树上道路归心，以及未能赛中解决的两盒彩球概率与组合问题。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2020/05/31/LeetCode-weekly-contest-191/
   en: https://youngforest.github.io/en/2020/05/31/LeetCode-weekly-contest-191/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-191/zh-hero.webp" alt="两颗最大果实放上乘积秤，蛋糕取最大横纵切片，树路汇向中心城，两盒彩球等待概率配平" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 | Rank |	Name |	Score |	Finish Time | 	Q1 (3) |	Q2 (4) |	Q3 (5) |	Q4 (7)|
 |--|--|--|--|--|--|--|--|
 | 765 / 13283 |	YoungForest | 12 | 0:27:19 | 0:02:16 | 0:12:53 | 0:27:19 |  null |
@@ -153,4 +160,3 @@ class Solution:
         dfs(0)
         return self.good / self.all
 ```
-

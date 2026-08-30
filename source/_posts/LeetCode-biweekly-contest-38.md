@@ -1,6 +1,7 @@
 ---
 title: LeetCode biweekly contest 38
 date: 2020-11-01 08:56:43
+description: 双周赛复盘：频率排序、最宽空白竖带、恰差一字符的子串暴力，以及按列频数与记忆化 DP 组合目标串。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2020/11/01/LeetCode-biweekly-contest-38/
   en: https://youngforest.github.io/en/2020/11/01/LeetCode-biweekly-contest-38/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-biweekly-contest-38/zh-hero.webp" alt="彩石按堆高重新排队，散点柱之间留出最宽空巷，两条珠串窗口恰有一颗不同，列柜与记忆分支组合出目标串" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 | Rank |	Name |	Score |	Finish Time | 	Q1 (3) |	Q2 (4) |	Q3 (5) |	Q4 (6)|
 |--|--|--|--|--|--|--|--|
 | 318 / 7446 | YoungForest | 18 | 1:07:29 | 0:12:38 | 0:16:42 |  0:57:29  2 |  0:41:26 |

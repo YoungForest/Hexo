@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 143
 date: 2019-07-01 10:22:51
+description: 周赛复盘：递增分糖、之字形二叉树路径、书架分组与布尔表达式解析。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2019/07/01/LeetCode-weekly-contest-143/
   en: https://youngforest.github.io/en/2019/07/01/LeetCode-weekly-contest-143/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-143/zh-hero.webp" alt="自动工坊依次分配糖珠，翻转之字树路径，在限宽书架上剪枝摆书并解析嵌套机关" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 | Rank |	Name |	Score |	Finish Time | 	Q1 (5) |	Q2 (5) |	Q3 (8) |	Q4 (8)|
 |--|--|--|--|--|--|--|--|
 | 396 / 4272 |	YoungForest | 14 | 1:01:14 | 0:11:38 | 0:28:38 | 0:56:14 1 | null |

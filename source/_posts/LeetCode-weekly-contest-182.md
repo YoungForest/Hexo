@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 182
 date: 2020-03-29 12:42:45
+description: 周赛复盘：幸运数频次、升降三人组、地下交通计时和好字符串计数，记录打卡群带来的压力。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2020/03/29/LeetCode-weekly-contest-182/
   en: https://youngforest.github.io/en/2020/03/29/LeetCode-weekly-contest-182/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-182/zh-hero.webp" alt="Forest 手持空白琥珀信封，面对同量筹码与高台、升降三人组、地下通路和彩珠自动机" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 | Rank |	Name |	Score |	Finish Time | 	Q1 (3) |	Q2 (4) |	Q3 (5) |	Q4 (8)|
 |--|--|--|--|--|--|--|--|
 | 727 / 11694 |	YoungForest | 12 | 	0:22:50 | 0:03:13 | 0:14:04 |  0:22:50 | null |

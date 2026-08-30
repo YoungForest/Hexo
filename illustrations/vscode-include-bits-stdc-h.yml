@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/vscode-include-bits-stdc-h.md
+context: >-
+  作者在编辑器中引用 C++ 万能头文件时遇到错误提示，通过查询编译器实际搜索的头文件路径，并把这些路径加入编辑器设置，使代码索引与编译环境保持一致；截图保留具体路径和设置。
+assets:
+  - id: hero
+    file: source/images/ai/vscode-include-bits-stdc-h/zh-hero.webp
+    placement: hero
+    alt: 编辑器的小信使沿编译器书架的青绿色索引路线找到一册伞形总目录，恼人的红色波浪虫随即退场
+    composition: >-
+      不使用 Forest。把头文件搜索画成图书馆隐喻：左侧编译器拥有按顺序排列的多个无标签书架，其中一册伞形总目录藏在较深的架位；右侧编辑器的小型机械信使起初在错误书架前被一条红色波浪虫阻挡。接入一条连接所有真实书架顺序的青绿色索引带后，信使准确找到伞形目录，红色波浪虫灰溜溜离开。不要出现真实编辑器界面、应用图标、C++ 标志、文件名、代码、路径、文字、字母、数字、商标或水印。
+    review_status: approved

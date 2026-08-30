@@ -1,6 +1,7 @@
 ---
 title: LeetCode biweekly contest 19
 date: 2020-02-10 11:30:20
+description: 双周赛复盘：归零模拟、滑动窗口、钟表角度与同值跳跃最短路，也记录居家参赛和状态恢复。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2020/02/10/LeetCode-biweekly-contest-19/
   en: https://youngforest.github.io/en/2020/02/10/LeetCode-biweekly-contest-19/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-biweekly-contest-19/zh-hero.webp" alt="Forest 在居家工作台前观察归零筹码、滑动称重窗、空白钟面和颜色传送石路径" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 | Rank |	Name |	Score |	Finish Time | 	Q1 (3) |	Q2 (4) |	Q3 (5) |	Q4 (6)|
 |--|--|--|--|--|--|--|--|
 | 179 / 3745 |	YoungForest | 18 | 0:41:10 | 0:02:39 | 0:10:36 |  0:12:53  | 0:36:10 1 |

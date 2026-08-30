@@ -2,6 +2,7 @@
 title: 'SSD: Single Shot MultiBox Detector 配置使用总结'
 date: 2017-01-12 23:50:49
 tags:
+description: 记录在 Ubuntu CPU 环境配置 SSD 目标检测项目时对官方步骤所做的调整，以及 HDF5、OpenBLAS 和 Python 依赖问题。
 translations:
   zh-CN: https://youngforest.github.io/2017/01/12/SSD-Single-Shot-MultiBox-Detector-configuration/
   en: https://youngforest.github.io/en/2017/01/12/SSD-Single-Shot-MultiBox-Detector-configuration/
@@ -12,6 +13,11 @@ translations:
 
 ## 环境配置
 基本上是按照[官方文档](https://github.com/weiliu89/caffe/tree/ssd). 这里只展示与文档中不同的部分.
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/SSD-Single-Shot-MultiBox-Detector-configuration/zh-hero.webp" alt="一台朴素的 CPU 工坊为传送带上的物体套出多尺度方框，三枚走错轨道的依赖齿轮被重新接入正确插槽" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
 <!-- more -->
 ### Makefile.confile
 + line 8: CPU only

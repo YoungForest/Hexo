@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 152
 date: 2019-09-01 19:52:40
+description: 周赛复盘：素数排列、饮食滑窗、回文子串查询和七字母谜题统计，也记录粗心造成的两次罚时。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2019/09/01/LeetCode-weekly-contest-152/
   en: https://youngforest.github.io/en/2019/09/01/LeetCode-weekly-contest-152/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-152/zh-hero.webp" alt="Forest 在两枚错位机关旁整理素数珠阵、饮食滑窗、奇偶回文灯和七瓣谜题花盘" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 | Rank |	Name |	Score |	Finish Time | 	Q1 (3) |	Q2 (4) |	Q3 (5) |	Q4 (6)|
 |--|--|--|--|--|--|--|--|
 | 111 / 5333 |	YoungForest | 	18	 | 	1:11:49 | 0:11:56  1 | 0:21:44  1 | 0:37:27 | 1:01:49 |

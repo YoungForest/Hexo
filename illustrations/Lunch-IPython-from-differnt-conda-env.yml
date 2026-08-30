@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/Lunch-IPython-from-differnt-conda-env.md
+context: >-
+  文章记录为独立 Conda 环境安装并注册 IPython 内核，再按内核选择启动对应会话；同时建议通过镜像源改善依赖包安装速度。
+assets:
+  - id: hero
+    file: source/images/ai/Lunch-IPython-from-differnt-conda-env/zh-hero.webp
+    placement: hero
+    alt: 多个密封环境舱各自拥有不同插槽，安装匹配的内核转接头后，控制台准确连接到目标舱
+    composition: >-
+      技术环境隔离隐喻，不使用 Forest。画面有三个相互密封、颜色克制的环境舱，每个舱内装着不同形状的工具和依赖；中央无字控制台无法直接连接它们。给目标环境舱安装一枚独特的琥珀色内核转接头后，控制台的一根青绿色线路只连接到该舱并点亮，其他环境仍保持隔离；侧面一条较短的补给运河象征镜像源。不要出现真实软件标志、蛇形图案、Notebook 界面、代码、环境名称、命令、文字、数字、标签、商标或水印。
+    review_status: approved

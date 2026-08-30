@@ -1,0 +1,19 @@
+version: editorial-comic-v1
+post: source/_posts/Shi-Nan-Zhi-Tu.md
+context: >-
+  书评从南越背景、食物描写和迟到的正义，延伸到作者离乡十余年后的海外生活、乡愁，以及记忆中的故乡已经无法真正返回的感受。
+assets:
+  - id: hero
+    file: source/images/ai/Shi-Nan-Zhi-Tu/zh-hero.webp
+    placement: hero
+    alt: 一张南越古宴桌同时化作悬案现场，蒸汽、甘蔗、枣核和封存器物沿着暗色线索汇向一把空椅
+    composition: >-
+      以古代岭南宴桌作为历史悬疑隐喻：陶碗蒸汽、甘蔗段、枣核和封存器物组成清晰线索，沿桌面暗色路径汇向一把空椅，表达美食、旧案和迟到正义。不要画真实书封、作者肖像、地图文字、人物姓名或可读卷宗。
+    review_status: approved
+  - id: remembered-home
+    file: source/images/ai/Shi-Nan-Zhi-Tu/zh-remembered-home.webp
+    placement: inline-before-homesickness
+    alt: Forest 在海港抱着一株枣树苗，回望被暖雾美化的旧庭院，又面向清晰开阔的新道路
+    composition: >-
+      使用虚构 Forest：短黑发、圆眼镜、炭灰外套、低饱和青绿上衣，不是真人肖像。Forest 站在海外海港，怀抱小枣树苗；身后一座暖雾中的旧庭院逐渐失真，前方是清晰开阔的新道路，表现乡愁、不可返回的记忆与对未来的选择。不要出现国家标志、护照、文字或真实地标。
+    review_status: approved

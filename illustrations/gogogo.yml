@@ -1,0 +1,10 @@
+version: editorial-comic-v1
+post: source/_posts/gogogo.md
+context: 大三上在编译测试和课堂小测失利后，作者回望前两年的抱怨与拖延，面对保研、工作、留学和创业几条出路，重新认识到只能从当下建立自己的能力与可靠性。
+assets:
+  - id: hero
+    file: source/images/ai/gogogo/zh-hero.webp
+    placement: hero
+    alt: 夜里的 Forest 背着过去积累的课业石块站在四条未来道路前，把散落的编译零件重新装进自己的工具箱
+    composition: 让人类青年 Forest 站在夜色将退的校园岔路，背后是由课表、成绩砝码和熬夜灯堆成的过去，前方四条无文字道路分别以研究书架、工程工作台、远方桥梁和未完工摊位暗示不同选择；他先俯身把失败的编译零件收进自己的工具箱。
+    review_status: approved

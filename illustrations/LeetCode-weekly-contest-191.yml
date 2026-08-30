@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-191.md
+context: >-
+  周赛前三题用暴力寻找最大乘积、取蛋糕横纵最大间隔、从中心 DFS 调整树上道路方向；最后的两盒彩球需要回溯、概率和组合数学，正好落在作者知识盲区。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-191/zh-hero.webp
+    placement: hero
+    alt: 两颗最大果实放上乘积秤，蛋糕取最大横纵切片，树路汇向中心城，两盒彩球等待概率配平
+    composition: >-
+      不使用 Forest。横向四站静物谜题：一盘大小不同的果实中最大的两颗被放上双臂机械秤并驱动最大的齿轮；方形蛋糕有若干横切和竖切，最大横间距与最大纵间距以琥珀色边缘交出最大矩形；树状乡路的所有路面朝向一个无标记中心城堡，使用路面铺砖方向而非箭头；两只同样大小的盒子盛放多种彩球，球数相等但不同颜色种类是否相等仍由一台未完成的组合秤检验，表现知识盲区。禁止人物、文字、数字、公式、代码、箭头、商标、假界面或水印。
+    review_status: approved

@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 231
 date: 2021-03-07 16:06:05
+description: 三道赛内题检查单段亮灯、补足目标和并统计受限路径；第四题赛后用分组动态规划令片段异或归零。
 tags:
 - Competitive Programming
 categories:
@@ -14,6 +15,10 @@ translations:
 | 221 / 12900 | YoungForest | 13 | 	0:26:48 |  0:03:30 |  0:08:23  1 | 0:21:48 | null |
 
 3题选手, again。sad.
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-231/zh-hero.webp" alt="单段灯带通过状态闸门，最大步长砝码补足天平，距离地形上的路径持续下降，分组异或织机在赛后完成接线" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
 
 <!-- more -->
 

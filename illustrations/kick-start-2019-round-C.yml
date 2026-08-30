@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/kick-start-2019-round-C.md
+context: >-
+  一篇赛后补写的算法题解，围绕网格跳步、矩阵区间与状态压缩等思路，从能勉强通过的暴力解法走向更可靠的结构化算法，并记录三道题的推导和实现。
+assets:
+  - id: hero
+    file: source/images/ai/kick-start-2019-round-C/zh-hero.webp
+    placement: hero
+    alt: 三座无文字的算法工作台分别呈现跳过已走格子的路线、受限电路板和逐步收集线索的最短路径
+    composition: >-
+      不使用 Forest。把题解抽象成同一间编辑漫画式算法工坊里的三座大工作台：左侧是棋子在网格中自动跨过已踩暗格子的弯曲路径；中央是由高低方块构成的电路板，被一把透明直尺框出可接受区间；右侧是几条分叉路径把不同颜色的圆点逐步收进一个简洁背包。三张台面由一条从混乱草稿走向整洁结构的琥珀色线连接，表达从暴力到优化。禁止比赛或公司标识、代码界面、排行榜、可读文字、字母、数字、商标或水印。
+    review_status: approved

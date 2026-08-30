@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-190.md
+context: >-
+  作者因耳道小伤错过周赛并在检查无碍后补题，文章涵盖句中前缀、固定长度元音滑窗、二叉树伪回文路径和两个子序列的最大点积。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-190/zh-hero.webp
+    placement: hero
+    alt: Forest 戴着小耳贴在桌前串联空白词块、五色滑窗、近回文树路径和两排珠子的最优配对
+    composition: >-
+      使用虚构 Forest。平静的赛后补题桌景中，耳侧只有一枚无文字的小保护贴；放大镜比较空白词块的开端，琥珀窗沿五色珠链滑动，树上根到叶的彩珠路径形成近回文排列，两行加权珠子在网格上寻找最佳配对。无血腥、药品、医疗判断、可读文字、字母、数字、公式、品牌、假界面或水印。
+    review_status: approved

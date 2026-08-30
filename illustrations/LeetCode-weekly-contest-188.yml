@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-188.md
+context: >-
+  周赛复盘涵盖栈操作、异或三元组、苹果树回程和披萨切分 DP；作者也记录长期训练后更快识别题型连接，并跨过千题里程碑。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-188/zh-hero.webp
+    placement: hero
+    alt: Forest 在题型工坊跨过训练里程碑，栈块、消去珠环、苹果树回程和披萨切分四站串起旧题连接
+    composition: >-
+      使用虚构 Forest。横向题型工坊围绕无字里程碑展开：机械臂搬运栈块组成目标，双色珠环通过成对消去表达异或，苹果树脚下的环路明确返回树根，披萨按步骤逐层切分；轨道把四站连成识别旧模式与建立连接的训练路径。画面不含可读文字、数字、字母、公式、代码、品牌、假界面或水印。
+    review_status: approved

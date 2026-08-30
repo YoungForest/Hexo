@@ -1,6 +1,7 @@
 ---
 title: 非对称风险 风险共担，应对现实世界中的不确定性
 date: 2026-01-01 20:43:45
+description: 读《非对称风险》，思考决策权与后果分离、地方化、风险共担和生存优先。
 tags:
 - Reading
 - Skin in the Game
@@ -15,6 +16,10 @@ translations:
 [豆瓣链接](https://book.douban.com/subject/30417612/)
 
 之前读过“反脆弱”，惊为天人，名不虚传 。但这 不确定系列 的最后一本，“非对称风险”，却显的没那么有新知识和令人惊讶。很多时候看的有些糊涂，应该是江郎才尽了吧。毕竟出世退休这么久了，核心观点也输出的差不多了。翻译的也差强人意，尤其是这个题目。还是原先的 Skin in game，好得多。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/Skin-in-the-Game-Hidden-Asymmetries-in-Daily-Life/zh-hero.webp" alt="高台上的手拨动巨大杠杆，风险沿机械臂落向远处人群，而近处的小杠杆由操作者亲自承担重量" width="1536" height="864" decoding="async">
+</figure>
 
 <!-- more -->
 

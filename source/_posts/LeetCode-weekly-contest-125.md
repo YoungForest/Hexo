@@ -1,6 +1,7 @@
 ---
 title: LeetCode weeekly contest 125
 date: 2019-02-24 11:11:14
+description: 忙碌周末迟到参赛后的复盘：信任关系、四向搜索、最大二叉树与高效方格照明。
 tags:
 - Competitive Programming
 categories:
@@ -10,6 +11,10 @@ translations:
   en: https://youngforest.github.io/en/2019/02/24/LeetCode-weekly-contest-125/
 ---
 本周末真是忙炸，为自己的拖延和懒惰付出了代价。事情都堆在了一起，周日的deadline超级多。早上10点和老板开会，商量 怎么出本科计算机组成原理补考试题 的事儿。开完会回到实验室，contest已经开始了。在短暂犹豫是否按计划参加contest，还是先完成出补考题的任务后，我开始了本周的weekly contest。也算是自己这2个月来坚持的为数不多的事情，继续坚持下去对我来说不仅是提高算法能力的事情了，更是对掌控自己生活的信心的一种极大鼓舞。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-125/zh-hero.webp" alt="迟到的 Forest 在任务堆间守住训练习惯，梳理信任网、四向塔、最大树和灯光方格" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
 
 <!-- more -->
 

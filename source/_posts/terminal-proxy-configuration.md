@@ -1,6 +1,7 @@
 ---
 title: 实现terminal代理
-tags: 
+description: "记录把终端流量经本地代理与缓存中继转发的配置、测试和按需启用方法，并补充 Git 代理设置。"
+tags:
   - Linux
 categories:
 - 折腾
@@ -11,6 +12,10 @@ translations:
 ---
 ## 问题
 作为一名Linuxer，熟练使用终端是一项必备技能，但终端中有时下载安装功能速度很慢，令人崩溃.我自然而然想到了可否加个代理,提高速度。我之前一直用shadowsocks,浏览器使用switchyProxy,实现了初步的科学上网。那么,终端中是否有类似的工具呢？答案是肯定的。通过科学搜索，我成功解决了terminal中的科学上网问题，在此总结一下，希望可以帮到大家。
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/terminal-proxy-configuration/zh-hero.webp" alt="拥堵码头上的数据包经过青绿色中继泵和琥珀色代理隧道，汇入畅通的远端网络轨道" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
 <!-- more -->
 ## 准备工具
 shadowsocks, polipo

@@ -4,6 +4,7 @@ date: 2017-12-12 20:32:52
 tags:
 - git
 categories:
+description: 在同一台电脑上同时使用工作和个人代码托管账号：通过独立 SSH 密钥、主机别名和仓库级 Git 配置避免冲突。
 translations:
   zh-CN: https://youngforest.github.io/2017/12/12/work-with-two-github-accounts/
   en: https://youngforest.github.io/en/2017/12/12/work-with-two-github-accounts/
@@ -11,6 +12,10 @@ translations:
 笔者3个月前来到[偶数科技公司](http://www.oushu.io/)实习，学习工作都用公司配的Mac。一分价钱一分货，Mac确实比自己15年买的5000RMB的HP好用多了。所以除了工作之外，学习和实验室的任务也渐渐迁移到Mac上。现在遇到的一个比较棘手的问题是，如何使自己工作的GitHub账号与个人的账号不冲突，同时方便地使用。
 
 在查阅过相关资料后，我实现了如下的解决方案。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/work-with-two-github-accounts/zh-hero.webp" alt="Forest 在一座双轨钥匙转辙台前，为工作车间和个人工作台分别选择不同钥匙与轨道，两个身份不再相撞" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
 
 <!-- more -->
 全局默认使用公司的账号，对于需要公司账号的地方不做任何处理。

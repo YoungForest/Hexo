@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/Liu-Shen-Lei-Lei-Du-Jin-Yong.md
+context: >-
+  作者读六神磊磊的金庸评论合集，欣赏其横向和纵向比较、对配角与小人物的悲悯、把江湖映照到现代职场的幽默，以及借古讽今的锋芒。
+assets:
+  - id: hero
+    file: source/images/ai/Liu-Shen-Lei-Lei-Du-Jin-Yong/zh-hero.webp
+    placement: hero
+    alt: 一座无字江湖茶馆里，主角、配角和小人物的剪影围着纵横两条故事长桌彼此映照，窗外办公楼倒影带来幽默反差
+    composition: >-
+      无字江湖茶馆中，匿名侠客、配角和小人物剪影分坐纵横两条故事长桌，彼此映照；一位不起眼的小人物也被暖光照亮。窗外水面隐约映出普通办公楼轮廓，形成江湖与现实的幽默类比。人物必须原创且不可辨认为任何金庸角色，不出现作者肖像、书封、文字、标志或名人形象。
+    review_status: approved

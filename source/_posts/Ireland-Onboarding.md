@@ -6,11 +6,18 @@ tags:
 - Life
 categories:
 - 爱尔兰
+description: 抵达爱尔兰后的电话卡办理经验：比较机场、线下门店和网购三种方式，并记录选择运营商时踩过的坑。
 translations:
   zh-CN: https://youngforest.github.io/2022/11/11/Ireland-Onboarding/
   en: https://youngforest.github.io/en/2022/11/11/Ireland-Onboarding/
 ---
 成功润到爱尔兰2周时间了，因为刚一直在办各种东西。慢慢的生活开始步入了正规。从今天开始，我会陆续分享一些来爱尔兰工作留学初期的一些攻略。一方面自己经历了很多坑，另一方面现在终于成功了一些，也算是有些经验可以帮助到大家。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/Ireland-Onboarding/zh-hero.webp" alt="雨中的 Forest 抱着行李和信封站在三岔路口，三条路分别通向机场柜台、小店和住宅邮箱" width="1536" height="864" decoding="async">
+</figure>
+
+<!-- more -->
 
 ![爱尔兰国旗](/images/ireland-flag.png)
 

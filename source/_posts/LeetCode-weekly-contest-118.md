@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 118
 date: 2019-01-06 10:37:36
+description: 改用 C++ 参赛后的进步复盘：幂次和、煎饼排序、翻转二叉树、有理数相等与语言基础。
 tags:
 - Competitive Programming
 categories:
@@ -10,6 +11,10 @@ translations:
   en: https://youngforest.github.io/en/2019/01/06/LeetCode-weekly-contest-118/
 ---
 一周一度的LeetCode weekly contest 开始啦。本周着实比之前有所进步，首先是对C++更加熟悉了，之前都是用Python写的。答题过程也更流畅了，差点做出来3道题目。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-118/zh-hero.webp" alt="Forest 在工具工坊磨练新语言，组合幂珠、翻转圆片栈、调整先序树并校准循环水量" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
 
 <!-- more -->
 

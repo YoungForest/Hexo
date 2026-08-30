@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-biweekly-contest-22.md
+context: >-
+  双周赛复盘涵盖排序后二分检查数组距离、用位图贪心安排影院家庭座位、记忆化计算整数 power value，以及环形披萨中选择互不相邻切片的 DP。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-biweekly-contest-22/zh-hero.webp
+    placement: hero
+    alt: 排序珠轨经光圈检查距离，家庭木偶坐进连续亮席，迭代珠汇入缓存路径，机械手从环形披萨中隔片选择
+    composition: >-
+      不使用 Forest。四格实体场景用斜轨和圆规光圈表达排序与最近距离；无编号影院以座位亮灭安排两组家庭木偶；分叉木珠路线把已走路径缓存进透明记忆盒；环形披萨传送带由机械夹爪选择互不相邻切片，并以互斥首尾灯体现约束。无可读字符、代码、品牌、假界面或水印。
+    review_status: approved

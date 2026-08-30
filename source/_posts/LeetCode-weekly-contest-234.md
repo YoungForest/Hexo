@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 234
 date: 2021-03-28 11:42:25
+description: 四道题解析并去重整数、跟踪置换复位、用字典替换括号键，并把固定总量拆分成最大乘积。
 tags:
 - Competitive Programming
 categories:
@@ -14,6 +15,10 @@ translations:
 | 672 / 12421 | YoungForest | 19 | 1:19:08 | 0:12:04  2 | 0:23:51 | 0:29:26 | 0:54:08  3 |
 
 又要打卡了，已经连续5周残酷打卡了。而且确实自己本次做题没觉得多简单，WA5次，心态爆炸，但是排名却不理想。感觉还是LeetCode越来越卷了。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-234/zh-hero.webp" alt="混合纸带筛出并去重数字珠，置换轮回到起点，括号胶囊匹配字典抽屉，固定总量被拆成均衡积木组" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
 
 <!-- more -->
 

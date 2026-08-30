@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-biweekly-contest-38.md
+context: >-
+  双周赛四题依次按频率与数值排序、按横坐标寻找最宽空白竖带、暴力统计恰好相差一个字符的子串，以及用按列字符频数和记忆化 DP 计算组成目标串的方案；第三题曾把暴力想复杂并超时两次。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-biweekly-contest-38/zh-hero.webp
+    placement: hero
+    alt: 彩石按堆高重新排队，散点柱之间留出最宽空巷，两条珠串窗口恰有一颗不同，列柜与记忆分支组合出目标串
+    composition: >-
+      不使用 Forest。横向四站静态算法桌：不同颜色的石子先按每种堆高由低到高排列，同高时用石块大小反向排布；若干散点立柱按水平位置排好，其中最宽的无柱竖巷被琥珀边框照亮；两条滑动珠串窗口并排，每一组对齐窗口恰有一颗颜色不同，旁边保留两台因多余层级而冒烟停转的小装置，表现两次超时后回归直接暴力；末端是按列分隔的彩珠字典柜，记忆分支分别保留或跳过一列，汇入一条无字符目标珠链。禁止人物、字符、字母、数字、公式、代码、箭头、箭头形状、虚线方向路径、可读文字、假界面、商标或水印。
+    review_status: approved

@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/SSD-Single-Shot-MultiBox-Detector-configuration.md
+context: >-
+  作者在仅有 CPU 的 Ubuntu 环境中配置 SSD 目标检测项目，记录相对官方文档需要调整的 Python 支持与依赖路径，并解决 HDF5、OpenBLAS 和 Boost 库无法找到的问题。
+assets:
+  - id: hero
+    file: source/images/ai/SSD-Single-Shot-MultiBox-Detector-configuration/zh-hero.webp
+    placement: hero
+    alt: 一台朴素的 CPU 工坊为传送带上的物体套出多尺度方框，三枚走错轨道的依赖齿轮被重新接入正确插槽
+    composition: >-
+      技术隐喻，不使用 Forest。一台无品牌的小型 CPU 机械工坊缓慢但可靠地观察传送带上的球、杯和纸箱，并用不同大小的空心矩形框准确圈住它们，表现单次多框目标检测；工坊侧面有三枚形状不同的依赖齿轮原本走到错误轨道，经重新布线后分别进入匹配插槽，机器恢复运转。避免画成真实神经网络架构图或软件界面。不要出现真实硬件厂商、操作系统标志、代码、路径、库名称、文字、数字、标签、商标或水印。
+    review_status: approved

@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-118.md
+context: >-
+  作者改用 C++ 参赛后感到更熟练，复盘幂次和、煎饼排序、翻转二叉树匹配先序和有理数相等判断，并反思需要继续打磨语言基础。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-118/zh-hero.webp
+    placement: hero
+    alt: Forest 在工具工坊磨练新语言，组合幂珠、翻转圆片栈、调整先序树并校准循环水量
+    composition: >-
+      使用虚构 Forest。他在一座没有文字的工具工坊里，把一套刚开始熟悉的新工具逐件打磨，表现从旧习惯切换到 C++ 后的进步与敬畏。四个实体模型连成一条工作流：两列按倍数增长的珠塔组合出界限内的结果、用长铲逐段翻转一叠无图案圆片完成排序、依据依次落下的种子翻转二叉树枝以匹配先序路径、两只含循环水滴机关的透明量杯最终校准到同一水位。角落放一块巨大但完全无字的空白工具手册，不画真实书封。无可读文字、字母、数字、公式、品牌、书名、真实封面、假界面或水印。
+    review_status: approved

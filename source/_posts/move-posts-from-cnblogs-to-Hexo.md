@@ -5,11 +5,17 @@ tags:
 categories:
   - 折腾
 date: 2016-11-22 01:42:23
+description: "记录从博客园迁移到 Hexo 时遇到的插件目录、RSS 摘要缺失和旧 HTML 格式问题，以及对应排查方法。"
 translations:
   zh-CN: https://youngforest.github.io/2016/11/22/move-posts-from-cnblogs-to-Hexo/
   en: https://youngforest.github.io/en/2016/11/22/move-posts-from-cnblogs-to-Hexo/
 ---
 有关如何将其他博客上的文章迁移到`Hexo`上, [官方文档](https://hexo.io/docs/migration.html)给出了一些指引. 我也是根据官方文档进行了将自己之前在博客园中的随笔迁移到新博客上的尝试. 这个过程中遇到过一些问题, 再此给出解决方法.
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/move-posts-from-cnblogs-to-Hexo/zh-hero.webp" alt="年轻 Forest 把旧博客纸箱送进迁移管道，摘要空信封从旁路掉落，完整备份箱则抵达新的静态博客工作台" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
 <!-- more -->
 ## 未安装迁移插件
 
@@ -36,6 +42,10 @@ For more help, you can check the online docs: http://hexo.io/
 ![迁移完全](https://cloud.githubusercontent.com/assets/13612111/20493198/cc799b42-b052-11e6-9a0d-28f2e3f8e207.png)
 
 不过这样的迁移还是丢失了标签这样的信息, 不尽如人意.
+
+<figure class="editorial-illustration">
+  <img src="/images/ai/move-posts-from-cnblogs-to-Hexo/zh-format-repair.webp" alt="Forest 在修复台上把旧编辑器留下的纠缠丝带拆开，重新整理成引用块、代码块和正文组成的整齐模块" width="1536" height="864" loading="lazy" decoding="async">
+</figure>
 
 ## 奇怪的格式问题
 迁移成功后发现, 有两篇文章的格式变得很奇怪, 正文都很正常, 但引用, 插入代码的地方就会排版很乱. 但另一篇却很完美. 通过观察迁移的`xml`文件内容发现, 那两篇文章的内容是html格式的, 而另一篇是`Markdown`格式的. 这时我才想起, 最初的两篇随笔是用博客园推荐的`TinyMCE编辑器`编写的, 后来才转投`Markdown`的. 所以, Hexo当然不能完美的支持.

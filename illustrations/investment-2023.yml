@@ -1,0 +1,10 @@
+version: editorial-comic-v1
+post: source/_posts/investment-2023.md
+context: 延续个人投资故事，在量化宽松、通胀与快速加息的环境变化中调整认知，五年后终于从亏损走到盈利。
+assets:
+  - id: hero
+    file: source/images/ai/investment-2023/zh-hero.webp
+    placement: hero
+    alt: Forest 提着分散的小篮走过五圈年轮桥，穿越洪水、热浪和逆风后，看见曾被淹没的琥珀色幼苗终于露出水面
+    composition: 延续第一篇的长期道路隐喻，以五圈年轮桥和三种宏观天气表现时间与环境变化，终点幼苗刚刚高于水面，保持克制而非庆功。
+    review_status: approved

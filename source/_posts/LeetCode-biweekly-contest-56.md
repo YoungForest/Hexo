@@ -1,6 +1,7 @@
 ---
 title: LeetCode biweekly contest 56
 date: 2021-07-12 18:20:27
+description: 四道题依次枚举平方和三元组、用广度优先搜索找最近出口、进行两半和博弈，并在限时内寻找最低花费路径。
 tags:
 - Competitive Programming
 categories:
@@ -14,6 +15,12 @@ translations:
 | 998 / 10896 | YoungForest | 18 | 	1:27:14 | 0:02:33 | 0:13:25 |  1:17:14  🐞2 | null |
 
 现在双周赛的参赛人数都快赶上周赛了。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-biweekly-contest-56/zh-hero.webp" alt="方砖组成直角三角形，水波从迷宫入口层层扩散，天平两侧争夺空白筹码，路径在沙漏下比较花费" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
 
 ## 1925. Count Square Sum Triples
 

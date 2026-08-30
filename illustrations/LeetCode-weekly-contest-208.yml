@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-208.md
+context: >-
+  在论文、开题、实习和求职挤压下停更三个月后，作者带着稳定工作机会重新恢复周赛题解；本场依次用层级计数、逐轮模拟、树的前序遍历和子集枚举解决四题，并反思迟到与读题成本。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-208/zh-hero.webp
+    placement: hero
+    alt: Forest 从论文与实习工具堆旁重新启动竞赛工坊，文件阶梯、转轮、家族树和均衡楼群依次亮起
+    composition: >-
+      使用虚构 Forest。中国城市公寓式书房里，Forest 穿炭灰外套和青绿色 T 恤、戴圆眼镜，把积灰三个月的四站竞赛工坊重新拉开布罩；身后只用无字纸卷、毕业帽和工具箱暗示论文、开题与实习，不出现公司标识。四个清晰的大型实体隐喻从左到右为上下层文件阶梯、逐格转动的无品牌观览轮、分叉但有序的家族树雕塑、入口与出口数量平衡的微缩楼群。用一只偏晚的无数字钟暗示迟到二十五分钟。禁止可读文字、字母、数字、公式、代码、箭头、商标、品牌、假界面或水印。
+    review_status: approved

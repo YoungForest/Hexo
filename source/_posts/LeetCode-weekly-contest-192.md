@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 192
 date: 2020-06-07 22:36:35
+description: 周赛复盘：数组交错、围绕中位数排序、浏览历史模拟与粉刷房屋 DP；最后一题因实现效率两次超时。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2020/06/07/LeetCode-weekly-contest-192/
   en: https://youngforest.github.io/en/2020/06/07/LeetCode-weekly-contest-192/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-192/zh-hero.webp" alt="两列彩珠交错、强石围绕中位石排序、足迹走廊可前后回返，彩色房屋被分成指定街区" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 | Rank |	Name |	Score |	Finish Time | 	Q1 (3) |	Q2 (4) |	Q3 (5) |	Q4 (6)|
 |--|--|--|--|--|--|--|--|
 | 374 / 13805 |	YoungForest | 18 | 	0:53:48 | 0:07:19 | 0:07:35 | 0:15:00 | 0:43:48 2 |

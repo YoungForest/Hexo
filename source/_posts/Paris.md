@@ -6,6 +6,7 @@ tags:
 - 游记
 categories:
 - dairy
+description: 三天预算有限却行程密集的巴黎之旅：从博物馆、塞纳河到凡尔赛宫，在疲惫与惊喜之间感受法国的历史、艺术和文化自信。
 translations:
   zh-CN: https://youngforest.github.io/2019/09/30/Paris/
   en: https://youngforest.github.io/en/2019/09/30/Paris/
@@ -14,6 +15,10 @@ translations:
 
 总的感受是：我太喜欢巴黎了，我爱巴黎.
 在这里，我深刻地感受到法国的文化自信。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/Paris/zh-hero.webp" alt="Forest 和三位同伴沿一条由廉价大巴、博物馆拱廊、塞纳河弯道与夜间铁塔串起的三日巴黎路线前进" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
 
 <!-- more -->
 

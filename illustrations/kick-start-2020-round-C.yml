@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/kick-start-2020-round-C.md
+context: >-
+  一篇四题算法题解，依次寻找倒计时序列、根据上下依赖稳定搭墙、用前缀和识别平方和子数组，并通过两棵线段树处理交替权重的糖果更新与查询。
+assets:
+  - id: hero
+    file: source/images/ai/kick-start-2020-round-C/zh-hero.webp
+    placement: hero
+    alt: 四格实体谜题盒里，递减台阶、依赖墙、方形拼片和交替糖果秤沿同一条琥珀色传送带依次完成
+    composition: >-
+      不使用 Forest。把四道题画成一个分成四格的糖果工坊谜题盒：第一格是尺寸逐步缩小的空白积木沿轨道连续落下，失败块被直接跳过；第二格是不同颜色的墙砖按下层先行的依赖关系稳定叠起；第三格是一条前缀珠链把若干连续片段框成完整方形拼片；第四格是交替颜色与大小的糖果通过两棵枝状机械秤合并查询、单点替换。用琥珀色传送带贯穿四格，保持幽默但不画真实糖果品牌。禁止数字、字母、公式、代码、排行榜、比赛或公司标识、可读文字、商标或水印。
+    review_status: approved

@@ -1,6 +1,7 @@
 ---
 title: LeetCode biweekly contest 14
 date: 2019-12-14 16:12:29
+description: 双周赛复盘：四分之一高频元素、覆盖区间、组合迭代器和非同列下降路径，记录一次提前完成的手速场。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2019/12/14/LeetCode-biweekly-contest-15/
   en: https://youngforest.github.io/en/2019/12/14/LeetCode-biweekly-contest-15/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-biweekly-contest-15/zh-hero.webp" alt="Forest 在沙漏旁观察占优珠列、覆盖布条、组合轮架和避开同列的下降方块路径" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 这周没有出去玩，恰好遇到双周赛。久违地参加了一场，确实难得。
 本次双周赛都是常规题目，不难。我提前50min全部一次AC, 典型的手速场。
 

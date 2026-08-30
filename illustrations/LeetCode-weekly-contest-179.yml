@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-179.md
+context: >-
+  周赛复盘涵盖构造各字符出现奇数次的字符串、连续前缀全部亮起的灯泡状态、组织树通知总时间和青蛙在精确时刻的位置，并强调输入合法性检查。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-179/zh-hero.webp
+    placement: hero
+    alt: Forest 观察入口拦下异常令牌、双色奇数珠环、连续变蓝灯列、消息树和精确时刻的青蛙跳跃
+    composition: >-
+      使用虚构 Forest。入口形状门挡住异常令牌，后方双色珠形成各自奇数数量的闭环；散序亮起的灯只有在从起点到最远位置连续全亮时整体变蓝；消息树沿最长分支传递灯光；青蛙在树状睡莲间等步跳跃，沙漏光束约束恰好时刻。Forest 专注观察输入门和两棵 DFS 树。无气泡、可读字符、数字、公式、代码、公司标志、假界面或水印。
+    review_status: approved

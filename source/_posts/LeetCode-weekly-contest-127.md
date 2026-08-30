@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 127
 date: 2019-03-10 10:32:00
+description: 速度型周赛复盘：数组取反、笨阶乘、多米诺旋转和由先序遍历构造二叉搜索树。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2019/03/10/LeetCode-weekly-contest-127/
   en: https://youngforest.github.io/en/2019/03/10/LeetCode-weekly-contest-127/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-127/zh-hero.webp" alt="Forest 在速度工坊检查边界齿轮，翻转数珠、校准运算轮、旋转双色牌并展开先序树" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 本周4道题目分数分别为4 4 5 6, 应该不是很难的，加油， Forest！
 
 因为题目太简单，即使提前15min做完了，排名还是912 / 4712。这次比赛真的是简单，完全比拼的是写码的速度和熟练度。是否可以一次bug-free很重要。因为如果某个corner case错了，再去调试是很花时间的。我1，2题都是错了一次，耽误了很多时间。

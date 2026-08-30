@@ -1,0 +1,10 @@
+version: editorial-comic-v1
+post: source/_posts/Yuan-Chong-Huan.md
+context: 从袁崇焕评传出发，讨论一个有能力的边关守将如何被末世制度、皇帝决策与官场掣肘拖向悲剧，以及普通百姓承担的代价。
+assets:
+  - id: hero
+    file: source/images/ai/Yuan-Chong-Huan/zh-hero.webp
+    placement: hero
+    alt: 一位边关守将站在城墙缺口前修补防线，身后的朝堂绳索却从不同方向牵制他的工具，百姓在墙下避风
+    composition: 以不具名、不对应真人肖像的明末守将背影为中心，让他在风暴将至的边墙上修补缺口，几只来自后方的官场绳索拉扯工具和手臂，墙下百姓躲避风雨；不出现旗号、文字、名人脸或书封。
+    review_status: approved

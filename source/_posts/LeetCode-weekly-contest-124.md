@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 124
 date: 2019-02-17 15:11:48
+description: 复盘二叉树表兄弟、腐烂橘子多源 BFS、固定区间翻转和平方和排列四道题，并反思恢复学习状态。
 tags:
 - Competitive Programming
 categories:
@@ -10,6 +11,12 @@ translations:
   en: https://youngforest.github.io/en/2019/02/17/LeetCode-weekly-contest-124/
 ---
 今天是开工后第一次参加LeetCode weekly contest，共作出3道题目，排名为772 / 4174。看着每次排名从200+落到了700+，心情蛮失落的。我认为排名掉落的原因有：1. 排名为200是状态和运气都比较好的情况，之前大多数时候也是700左右。2. 第3题虽然为Hard，最后提交TLE了。但我认为如果再多给半个小时就可以AC了。之所以后面时间不够了，与第2、4题花了比较多时间调试直接相关。还是很多实现不够熟悉，比如bfs, backtracking，不能灵活地默写出来。甚至在做第4题的时候，还需要现场查C++的API，对语言的熟悉程度也不够。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-124/zh-hero.webp" alt="同层不同枝的两枚橘子俯瞰传播网格，一条双色翻转带穿过果园并在方形拱门间组成可行路径" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
 
 ## 993. Cousins in Binary Tree
 

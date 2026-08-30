@@ -5,6 +5,7 @@ tags:
 - C++
 categories:
 - Programming
+description: "从安装测试库时发现的 pc 文件出发，理解 pkg-config 如何为编译、链接和依赖管理提供可发现的元数据。"
 translations:
   zh-CN: https://youngforest.github.io/2019/03/17/pkg-config/
   en: https://youngforest.github.io/en/2019/03/17/pkg-config/
@@ -12,6 +13,12 @@ translations:
 最近在学习[google-test](https://github.com/google/googletest)的使用和源码，在`make install`的时候发现除了向`/usr/local/`中安装了头文件，`/usr/lib/`中安装了shared library外，还向`/usr/local/lib/pkgconfig/`中安装了2个`.pc`文件。所以说，这个pkg-config是个什么东西呢？
 
 从一份[Guide](https://people.freedesktop.org/~dbn/pkg-config-guide.html)中，我们可以发现`pkg-config`的所有有用的基本信息。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/pkg-config/zh-hero.webp" alt="一排无字资料卡像路标一样引导编译小车穿过头文件仓库和共享库仓库，避开层层组件之间的岔路" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
 
 ## Overview
 
@@ -44,6 +51,9 @@ variables不是必须的，但是可以被用来表示`pkg-config`没有涉及�
 
 一个pc文件最好对应一个library文件。文件名(除了后缀)也最好相同。
 
-最重要的metadata域是Requires, Requires.private, Cflags, Libs 和 Libs.private。它们可以被外部的工程用来编译和链接到这个library。优先使用private域，以避免暴露不必要的库给用户。如果用户不不直接使用requires library的symbols，就不应该直接链接到该库。
+<figure class="editorial-illustration">
+  <img src="/images/ai/pkg-config/zh-public-private.webp" alt="中央组件把直接需要的接口送上明亮公共管道，把只在内部运转的依赖藏进后方维护通道" width="1536" height="864" loading="lazy" decoding="async">
+</figure>
 
+最重要的metadata域是Requires, Requires.private, Cflags, Libs 和 Libs.private。它们可以被外部的工程用来编译和链接到这个library。优先使用private域，以避免暴露不必要的库给用户。如果用户不不直接使用requires library的symbols，就不应该直接链接到该库。
 

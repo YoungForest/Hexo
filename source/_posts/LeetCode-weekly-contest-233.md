@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 233
 date: 2021-03-25 09:43:36
+description: 三道赛内题求递增段、维护积压订单并二分数组峰值；第四题赛后用二进制 Trie 统计范围异或配对。
 tags:
 - Competitive Programming
 categories:
@@ -18,6 +19,10 @@ translations:
 以后打比赛还是要养精蓄锐，好好打才行。
 
 第四题我最后其实是有思路的，无奈时间不够了。之前做过类似用Trie处理异或问题的题目，印象还挺深刻的。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-233/zh-hero.webp" alt="递增台阶汇总最大重量，买卖托盘匹配积压订单，预算沙漏限制数组峰顶，二叉灯树在赛后接通范围闸门" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
 
 <!-- more -->
 

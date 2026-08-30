@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 27
 date: 2020-05-31 17:41:49
+description: 双周赛复盘：反转数组化为排序比较、固定窗口枚举双色组合、记忆化 DFS 先修关系与双机器人樱桃 DP。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2020/05/31/LeetCode-biweekly-contest-27/
   en: https://youngforest.github.io/en/2020/05/31/LeetCode-biweekly-contest-27/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-biweekly-contest-27/zh-hero.webp" alt="两列彩块翻转后归于同序，双色珠窗收集所有组合，课程树复用记忆路径，双机器人穿过樱桃网格" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 | Rank |	Name |	Score |	Finish Time | 	Q1 (3) |	Q2 (4) |	Q3 (5) |	Q4 (6)|
 |--|--|--|--|--|--|--|--|
 | 231 / 7926 |	YoungForest | 18 | 	0:42:16 | 0:04:51 |   0:10:55 | 0:22:31  1 |  0:37:16 |

@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 174
 date: 2020-02-03 20:18:32
+description: 周赛复盘：矩阵最弱行、删去高频值减半数组、二叉树切分最大乘积和受限降高跳跃，也记录久别参赛后的生疏。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2020/02/03/LeetCode-weekly-contest-174/
   en: https://youngforest.github.io/en/2020/02/03/LeetCode-weekly-contest-174/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-174/zh-hero.webp" alt="Forest 提着空白行李箱走过盾片行列、减半彩珠碗、子树天平和逐级降低的石柱训练花园" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 | Rank |	Name |	Score |	Finish Time | 	Q1 (3) |	Q2 (4) |	Q3 (5) |	Q4 (6)|
 |--|--|--|--|--|--|--|--|
 | 459 / 6997 |	YoungForest | 	18	 | 	1:04:52 | 0:15:31 | 0:21:58 |  0:41:22  2 | 0:54:52 |

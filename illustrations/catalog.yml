@@ -1,0 +1,2382 @@
+version: 1
+style_version: editorial-comic-v1
+site: zh-CN
+summary:
+  article_count: 280
+  approved_articles: 278
+  candidate_articles: 0
+  rejected_articles: 2
+  mixed_articles: 0
+  asset_count: 322
+  approved_assets: 320
+  candidate_assets: 0
+  rejected_assets: 2
+articles:
+  - slug: 2017-resolutions
+    post: source/_posts/2017-resolutions.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/2017-resolutions/zh-hero.webp
+        review_status: approved
+  - slug: 2018-summary-and-2019-resolutions
+    post: source/_posts/2018-summary-and-2019-resolutions.md
+    status: approved
+    asset_count: 2
+    assets:
+      - id: hero
+        file: source/images/ai/2018-summary-and-2019-resolutions/zh-hero.webp
+        review_status: approved
+      - id: 2019-plan
+        file: source/images/ai/2018-summary-and-2019-resolutions/zh-2019-plan.webp
+        review_status: approved
+  - slug: 2019-summary-and-2020-resolutions
+    post: source/_posts/2019-summary-and-2020-resolutions.md
+    status: approved
+    asset_count: 2
+    assets:
+      - id: hero
+        file: source/images/ai/2019-summary-and-2020-resolutions/zh-hero.webp
+        review_status: approved
+      - id: social-support
+        file: source/images/ai/2019-summary-and-2020-resolutions/zh-social-support.webp
+        review_status: approved
+  - slug: 2020-summary-and-2021-resolutions
+    post: source/_posts/2020-summary-and-2021-resolutions.md
+    status: approved
+    asset_count: 2
+    assets:
+      - id: hero
+        file: source/images/ai/2020-summary-and-2021-resolutions/zh-hero.webp
+        review_status: approved
+      - id: 2021-outlook
+        file: source/images/ai/2020-summary-and-2021-resolutions/zh-2021-outlook.webp
+        review_status: approved
+  - slug: 2021-summary-and-2022-resolutions
+    post: source/_posts/2021-summary-and-2022-resolutions.md
+    status: approved
+    asset_count: 2
+    assets:
+      - id: hero
+        file: source/images/ai/2021-summary-and-2022-resolutions/zh-hero.webp
+        review_status: approved
+      - id: 2022-outlook
+        file: source/images/ai/2021-summary-and-2022-resolutions/zh-2022-outlook.webp
+        review_status: approved
+  - slug: 2021-summer-intern-interview-summary
+    post: source/_posts/2021-summer-intern-interview-summary.md
+    status: approved
+    asset_count: 2
+    assets:
+      - id: hero
+        file: source/images/ai/2021-summer-intern-interview-summary/zh-hero.webp
+        review_status: approved
+      - id: successful-landing
+        file: source/images/ai/2021-summer-intern-interview-summary/zh-successful-landing.webp
+        review_status: approved
+  - slug: 2022-summary-and-2023-resolutions
+    post: source/_posts/2022-summary-and-2023-resolutions.md
+    status: approved
+    asset_count: 3
+    assets:
+      - id: hero
+        file: source/images/ai/2022-summary-and-2023-resolutions/zh-hero.webp
+        review_status: approved
+      - id: personal-review
+        file: source/images/ai/2022-summary-and-2023-resolutions/zh-personal-review.webp
+        review_status: approved
+      - id: good-life-2023
+        file: source/images/ai/2022-summary-and-2023-resolutions/zh-good-life-2023.webp
+        review_status: approved
+  - slug: 2023-summary-and-2024-resolutions
+    post: source/_posts/2023-summary-and-2024-resolutions.md
+    status: approved
+    asset_count: 3
+    assets:
+      - id: hero
+        file: source/images/ai/2023-summary-and-2024-resolutions/zh-hero.webp
+        review_status: approved
+      - id: personal-review
+        file: source/images/ai/2023-summary-and-2024-resolutions/zh-personal-review.webp
+        review_status: approved
+      - id: good-life-2024
+        file: source/images/ai/2023-summary-and-2024-resolutions/zh-good-life-2024.webp
+        review_status: approved
+  - slug: 2024-summary-and-2025-resolutions
+    post: source/_posts/2024-summary-and-2025-resolutions.md
+    status: approved
+    asset_count: 3
+    assets:
+      - id: hero
+        file: source/images/ai/2024-summary-and-2025-resolutions/zh-hero.webp
+        review_status: approved
+      - id: ten-years-programming
+        file: source/images/ai/2024-summary-and-2025-resolutions/zh-ten-years-programming.webp
+        review_status: approved
+      - id: personal-review
+        file: source/images/ai/2024-summary-and-2025-resolutions/zh-personal-review.webp
+        review_status: approved
+  - slug: 2025-summary-and-2026-resolutions
+    post: source/_posts/2025-summary-and-2026-resolutions.md
+    status: approved
+    asset_count: 3
+    assets:
+      - id: hero
+        file: source/images/ai/2025-summary-and-2026-resolutions/zh-hero.webp
+        review_status: approved
+      - id: historical-process
+        file: source/images/ai/2025-summary-and-2026-resolutions/zh-historical-process.webp
+        review_status: approved
+      - id: reading
+        file: source/images/ai/2025-summary-and-2026-resolutions/zh-reading.webp
+        review_status: approved
+  - slug: 3-body
+    post: source/_posts/3-body.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/3-body/zh-hero.webp
+        review_status: approved
+  - slug: A-Global-History-From-Prehistory-to-the-21st-Century
+    post: source/_posts/A-Global-History-From-Prehistory-to-the-21st-Century.md
+    status: approved
+    asset_count: 2
+    assets:
+      - id: hero
+        file: source/images/ai/A-Global-History-From-Prehistory-to-the-21st-Century/zh-hero.webp
+        review_status: approved
+      - id: accelerator-brake
+        file: source/images/ai/A-Global-History-From-Prehistory-to-the-21st-Century/zh-accelerator-brake.webp
+        review_status: approved
+  - slug: A-Matter-of-Degrees
+    post: source/_posts/A-Matter-of-Degrees.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/A-Matter-of-Degrees/zh-hero.webp
+        review_status: approved
+  - slug: Actions-After-Address-Change-in-Ireland
+    post: source/_posts/Actions-After-Address-Change-in-Ireland.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/Actions-After-Address-Change-in-Ireland/zh-hero.webp
+        review_status: approved
+  - slug: Advanced-SQL-practice
+    post: source/_posts/Advanced-SQL-practice.md
+    status: approved
+    asset_count: 2
+    assets:
+      - id: hero
+        file: source/images/ai/Advanced-SQL-practice/zh-hero.webp
+        review_status: approved
+      - id: joins-partitions
+        file: source/images/ai/Advanced-SQL-practice/zh-joins-partitions.webp
+        review_status: approved
+  - slug: Alibaba-Ant-backend-intern-interview
+    post: source/_posts/Alibaba-Ant-backend-intern-interview.md
+    status: approved
+    asset_count: 2
+    assets:
+      - id: hero
+        file: source/images/ai/Alibaba-Ant-backend-intern-interview/zh-hero.webp
+        review_status: approved
+      - id: fourth-round
+        file: source/images/ai/Alibaba-Ant-backend-intern-interview/zh-fourth-round.webp
+        review_status: approved
+  - slug: Alibaba-Dingding-backend-intern-interview
+    post: source/_posts/Alibaba-Dingding-backend-intern-interview.md
+    status: approved
+    asset_count: 2
+    assets:
+      - id: hero
+        file: source/images/ai/Alibaba-Dingding-backend-intern-interview/zh-hero.webp
+        review_status: approved
+      - id: knowledge-gauntlet
+        file: source/images/ai/Alibaba-Dingding-backend-intern-interview/zh-knowledge-gauntlet.webp
+        review_status: approved
+  - slug: Amsterdam
+    post: source/_posts/Amsterdam.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/Amsterdam/zh-hero.webp
+        review_status: approved
+  - slug: Antifragile-Things-That-Gain-from-Disorder
+    post: source/_posts/Antifragile-Things-That-Gain-from-Disorder.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/Antifragile-Things-That-Gain-from-Disorder/zh-hero.webp
+        review_status: approved
+  - slug: Are-Your-Lights-On-How-to-Figure-Out-What-the-Problem-Really-Is
+    post: source/_posts/Are-Your-Lights-On-How-to-Figure-Out-What-the-Problem-Really-Is.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/Are-Your-Lights-On-How-to-Figure-Out-What-the-Problem-Really-Is/zh-hero.webp
+        review_status: approved
+  - slug: atom-explore
+    post: source/_posts/atom-explore.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/atom-explore/zh-hero.webp
+        review_status: approved
+  - slug: bashang-grassland
+    post: source/_posts/bashang-grassland.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/bashang-grassland/zh-hero.webp
+        review_status: approved
+  - slug: Beijing-residence
+    post: source/_posts/Beijing-residence.md
+    status: approved
+    asset_count: 2
+    assets:
+      - id: hero
+        file: source/images/ai/Beijing-residence/zh-hero.webp
+        review_status: approved
+      - id: process
+        file: source/images/ai/Beijing-residence/zh-process.webp
+        review_status: approved
+  - slug: Beligum
+    post: source/_posts/Beligum.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/Beligum/zh-hero.webp
+        review_status: approved
+  - slug: best-implement-to-use-pair-as-key-to-std-unordered-map-in-C
+    post: source/_posts/best-implement-to-use-pair-as-key-to-std-unordered-map-in-C.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/best-implement-to-use-pair-as-key-to-std-unordered-map-in-C/zh-hero.webp
+        review_status: approved
+  - slug: build-qBittorrent
+    post: source/_posts/build-qBittorrent.md
+    status: approved
+    asset_count: 2
+    assets:
+      - id: hero
+        file: source/images/ai/build-qBittorrent/zh-hero.webp
+        review_status: approved
+      - id: dependency-chain
+        file: source/images/ai/build-qBittorrent/zh-dependency-chain.webp
+        review_status: approved
+  - slug: Business-cycles-history-theory-and-investment-reality
+    post: source/_posts/Business-cycles-history-theory-and-investment-reality.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/Business-cycles-history-theory-and-investment-reality/zh-hero.webp
+        review_status: approved
+  - slug: Bytedance-Ads-backend-intern-interview
+    post: source/_posts/Bytedance-Ads-backend-intern-interview.md
+    status: approved
+    asset_count: 2
+    assets:
+      - id: hero
+        file: source/images/ai/Bytedance-Ads-backend-intern-interview/zh-hero.webp
+        review_status: approved
+      - id: trie-distance
+        file: source/images/ai/Bytedance-Ads-backend-intern-interview/zh-trie-distance.webp
+        review_status: approved
+  - slug: ByteDance-Camp
+    post: source/_posts/ByteDance-Camp.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/ByteDance-Camp/zh-hero.webp
+        review_status: approved
+  - slug: Bytedance-new-graduate-interview
+    post: source/_posts/Bytedance-new-graduate-interview.md
+    status: approved
+    asset_count: 2
+    assets:
+      - id: hero
+        file: source/images/ai/Bytedance-new-graduate-interview/zh-hero.webp
+        review_status: approved
+      - id: review-plan
+        file: source/images/ai/Bytedance-new-graduate-interview/zh-review-plan.webp
+        review_status: approved
+  - slug: Chaos-Complexity-and-the-Emergence-of-Life
+    post: source/_posts/Chaos-Complexity-and-the-Emergence-of-Life.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/Chaos-Complexity-and-the-Emergence-of-Life/zh-hero.webp
+        review_status: approved
+  - slug: Codeforces-Educational-Codeforces-Round-151
+    post: source/_posts/Codeforces-Educational-Codeforces-Round-151.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/Codeforces-Educational-Codeforces-Round-151/zh-hero.webp
+        review_status: approved
+  - slug: codeforces-round-633-Div2
+    post: source/_posts/codeforces-round-633-Div2.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/codeforces-round-633-Div2/zh-hero.webp
+        review_status: approved
+  - slug: Complain-before-Weride-internship
+    post: source/_posts/Complain-before-Weride-internship.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/Complain-before-Weride-internship/zh-hero.webp
+        review_status: approved
+  - slug: Cpp-generator-implement
+    post: source/_posts/Cpp-generator-implement.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/Cpp-generator-implement/zh-hero.webp
+        review_status: approved
+  - slug: Details-of-Democracy
+    post: source/_posts/Details-of-Democracy.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/Details-of-Democracy/zh-hero.webp
+        review_status: approved
+  - slug: Django-note
+    post: source/_posts/Django-note.md
+    status: approved
+    asset_count: 2
+    assets:
+      - id: hero
+        file: source/images/ai/Django-note/zh-hero.webp
+        review_status: approved
+      - id: deadline-rescue
+        file: source/images/ai/Django-note/zh-deadline-rescue.webp
+        review_status: approved
+  - slug: Effective-Modern-C
+    post: source/_posts/Effective-Modern-C.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/Effective-Modern-C/zh-hero.webp
+        review_status: approved
+  - slug: Elon-Musk
+    post: source/_posts/Elon-Musk.md
+    status: approved
+    asset_count: 2
+    assets:
+      - id: hero
+        file: source/images/ai/Elon-Musk/zh-hero.webp
+        review_status: approved
+      - id: delete-loop
+        file: source/images/ai/Elon-Musk/zh-delete-loop.webp
+        review_status: approved
+  - slug: Europe-bank-accounts
+    post: source/_posts/Europe-bank-accounts.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/Europe-bank-accounts/zh-hero.webp
+        review_status: approved
+  - slug: face-interview
+    post: source/_posts/face-interview.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/face-interview/zh-hero.webp
+        review_status: approved
+  - slug: Find-a-Europe-SDE-job-from-China
+    post: source/_posts/Find-a-Europe-SDE-job-from-China.md
+    status: approved
+    asset_count: 3
+    assets:
+      - id: hero
+        file: source/images/ai/Find-a-Europe-SDE-job-from-China/zh-hero.webp
+        review_status: approved
+      - id: interview-path
+        file: source/images/ai/Find-a-Europe-SDE-job-from-China/zh-interview-path.webp
+        review_status: approved
+      - id: ireland-reality
+        file: source/images/ai/Find-a-Europe-SDE-job-from-China/zh-ireland-reality.webp
+        review_status: approved
+  - slug: find-all-unique-pairs-of-maximum-and-second-maximum-elements-over-all-sub-arrays-in-onlogn
+    post: source/_posts/find-all-unique-pairs-of-maximum-and-second-maximum-elements-over-all-sub-arrays-in-onlogn.md
+    status: approved
+    asset_count: 2
+    assets:
+      - id: hero
+        file: >-
+          source/images/ai/find-all-unique-pairs-of-maximum-and-second-maximum-elements-over-all-sub-arrays-in-onlogn/zh-hero.webp
+        review_status: approved
+      - id: highest-bit
+        file: >-
+          source/images/ai/find-all-unique-pairs-of-maximum-and-second-maximum-elements-over-all-sub-arrays-in-onlogn/zh-highest-bit.webp
+        review_status: approved
+  - slug: foreign-companies-comparision-between-China-Europe
+    post: source/_posts/foreign-companies-comparision-between-China-Europe.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/foreign-companies-comparision-between-China-Europe/zh-hero.webp
+        review_status: approved
+  - slug: Genome-The-autobiography-of-a-species-in-23-chapters
+    post: source/_posts/Genome-The-autobiography-of-a-species-in-23-chapters.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/Genome-The-autobiography-of-a-species-in-23-chapters/zh-hero.webp
+        review_status: approved
+  - slug: gitbook
+    post: source/_posts/gitbook.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/gitbook/zh-hero.webp
+        review_status: approved
+  - slug: github-page-binding-domain
+    post: source/_posts/github-page-binding-domain.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/github-page-binding-domain/zh-hero.webp
+        review_status: approved
+  - slug: gogogo
+    post: source/_posts/gogogo.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/gogogo/zh-hero.webp
+        review_status: approved
+  - slug: Google-AdSense-for-hexo-next
+    post: source/_posts/Google-AdSense-for-hexo-next.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/Google-AdSense-for-hexo-next/zh-hero.webp
+        review_status: approved
+  - slug: guangzhou-tour
+    post: source/_posts/guangzhou-tour.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/guangzhou-tour/zh-hero.webp
+        review_status: approved
+  - slug: Guns-Germs-and-Steel
+    post: source/_posts/Guns-Germs-and-Steel.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/Guns-Germs-and-Steel/zh-hero.webp
+        review_status: approved
+  - slug: gvim-configuration-for-windows
+    post: source/_posts/gvim-configuration-for-windows.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/gvim-configuration-for-windows/zh-hero.webp
+        review_status: approved
+  - slug: Happy-birthday-2019
+    post: source/_posts/Happy-birthday-2019.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/Happy-birthday-2019/zh-hero.webp
+        review_status: approved
+  - slug: Hexo-github-building-personal-blog
+    post: source/_posts/Hexo-github-building-personal-blog.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/Hexo-github-building-personal-blog/zh-hero.webp
+        review_status: approved
+  - slug: Hou-Hei-Xue
+    post: source/_posts/Hou-Hei-Xue.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/Hou-Hei-Xue/zh-hero.webp
+        review_status: approved
+  - slug: investment-2023
+    post: source/_posts/investment-2023.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/investment-2023/zh-hero.webp
+        review_status: approved
+  - slug: investment
+    post: source/_posts/investment.md
+    status: approved
+    asset_count: 3
+    assets:
+      - id: hero
+        file: source/images/ai/investment/zh-hero.webp
+        review_status: approved
+      - id: first-steps
+        file: source/images/ai/investment/zh-first-steps.webp
+        review_status: approved
+      - id: trying-again
+        file: source/images/ai/investment/zh-trying-again.webp
+        review_status: approved
+  - slug: Ireland-Driving-License
+    post: source/_posts/Ireland-Driving-License.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/Ireland-Driving-License/zh-hero.webp
+        review_status: approved
+  - slug: Ireland-France-visa-monitor
+    post: source/_posts/Ireland-France-visa-monitor.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/Ireland-France-visa-monitor/zh-hero.webp
+        review_status: approved
+  - slug: Ireland-Onboarding
+    post: source/_posts/Ireland-Onboarding.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/Ireland-Onboarding/zh-hero.webp
+        review_status: approved
+  - slug: Ireland-visiting-dentist
+    post: source/_posts/Ireland-visiting-dentist.md
+    status: approved
+    asset_count: 2
+    assets:
+      - id: hero
+        file: source/images/ai/Ireland-visiting-dentist/zh-hero.webp
+        review_status: approved
+      - id: insurance
+        file: source/images/ai/Ireland-visiting-dentist/zh-insurance.webp
+        review_status: approved
+  - slug: jingchi-interview
+    post: source/_posts/jingchi-interview.md
+    status: approved
+    asset_count: 2
+    assets:
+      - id: hero
+        file: source/images/ai/jingchi-interview/zh-hero.webp
+        review_status: approved
+      - id: second-round
+        file: source/images/ai/jingchi-interview/zh-second-round.webp
+        review_status: approved
+  - slug: Just-Keep-Buying
+    post: source/_posts/Just-Keep-Buying.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/Just-Keep-Buying/zh-hero.webp
+        review_status: approved
+  - slug: kaggle-titanic-tutorial
+    post: source/_posts/kaggle-titanic-tutorial.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/kaggle-titanic-tutorial/zh-hero.webp
+        review_status: approved
+  - slug: kick-start-2019-round-A
+    post: source/_posts/kick-start-2019-round-A.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/kick-start-2019-round-A/zh-hero.webp
+        review_status: approved
+  - slug: kick-start-2019-round-B
+    post: source/_posts/kick-start-2019-round-B.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/kick-start-2019-round-B/zh-hero.webp
+        review_status: approved
+  - slug: kick-start-2019-round-C
+    post: source/_posts/kick-start-2019-round-C.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/kick-start-2019-round-C/zh-hero.webp
+        review_status: approved
+  - slug: kick-start-2019-round-D
+    post: source/_posts/kick-start-2019-round-D.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/kick-start-2019-round-D/zh-hero.webp
+        review_status: approved
+  - slug: kick-start-2019-round-E
+    post: source/_posts/kick-start-2019-round-E.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/kick-start-2019-round-E/zh-hero.webp
+        review_status: approved
+  - slug: kick-start-2019-round-G
+    post: source/_posts/kick-start-2019-round-G.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/kick-start-2019-round-G/zh-hero.webp
+        review_status: approved
+  - slug: kick-start-2019-round-H
+    post: source/_posts/kick-start-2019-round-H.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/kick-start-2019-round-H/zh-hero.webp
+        review_status: approved
+  - slug: kick-start-2020-round-A
+    post: source/_posts/kick-start-2020-round-A.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/kick-start-2020-round-A/zh-hero.webp
+        review_status: approved
+  - slug: kick-start-2020-round-B
+    post: source/_posts/kick-start-2020-round-B.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/kick-start-2020-round-B/zh-hero.webp
+        review_status: approved
+  - slug: kick-start-2020-round-C
+    post: source/_posts/kick-start-2020-round-C.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/kick-start-2020-round-C/zh-hero.webp
+        review_status: approved
+  - slug: kick-start-2021-round-A
+    post: source/_posts/kick-start-2021-round-A.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/kick-start-2021-round-A/zh-hero.webp
+        review_status: approved
+  - slug: kick-start-2021-round-B
+    post: source/_posts/kick-start-2021-round-B.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/kick-start-2021-round-B/zh-hero.webp
+        review_status: approved
+  - slug: kuaishou-intern-interview
+    post: source/_posts/kuaishou-intern-interview.md
+    status: approved
+    asset_count: 2
+    assets:
+      - id: hero
+        file: source/images/ai/kuaishou-intern-interview/zh-hero.webp
+        review_status: approved
+      - id: preparation-path
+        file: source/images/ai/kuaishou-intern-interview/zh-preparation-path.webp
+        review_status: approved
+  - slug: latex-problems
+    post: source/_posts/latex-problems.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/latex-problems/zh-hero.webp
+        review_status: approved
+  - slug: LCCUP-21-Fall-Team
+    post: source/_posts/LCCUP-21-Fall-Team.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LCCUP-21-Fall-Team/zh-hero.webp
+        review_status: approved
+  - slug: LCCUP-21-Spring-Solo
+    post: source/_posts/LCCUP-21-Spring-Solo.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LCCUP-21-Spring-Solo/zh-hero.webp
+        review_status: approved
+  - slug: LCCUP-21-Spring-Team
+    post: source/_posts/LCCUP-21-Spring-Team.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LCCUP-21-Spring-Team/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-134-Gas-Station
+    post: source/_posts/LeetCode-134-Gas-Station.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-134-Gas-Station/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-136-Single-Number
+    post: source/_posts/LeetCode-136-Single-Number.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-136-Single-Number/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-15-3Sum
+    post: source/_posts/LeetCode-15-3Sum.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-15-3Sum/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-215-Kth-Largest-Element-in-an-Array
+    post: source/_posts/LeetCode-215-Kth-Largest-Element-in-an-Array.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-215-Kth-Largest-Element-in-an-Array/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-258-Add-Digits
+    post: source/_posts/LeetCode-258-Add-Digits.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-258-Add-Digits/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-29-Divide-Two-Integer
+    post: source/_posts/LeetCode-29-Divide-Two-Integer.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-29-Divide-Two-Integer/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-380-Insert-Delete-GetRandomO-1
+    post: source/_posts/LeetCode-380-Insert-Delete-GetRandomO-1.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-380-Insert-Delete-GetRandomO-1/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-538-Convert-BST-to-Greater-Tree
+    post: source/_posts/LeetCode-538-Convert-BST-to-Greater-Tree.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-538-Convert-BST-to-Greater-Tree/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-biweekly-contest-1
+    post: source/_posts/LeetCode-biweekly-contest-1.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-biweekly-contest-1/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-biweekly-contest-15
+    post: source/_posts/LeetCode-biweekly-contest-15.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-biweekly-contest-15/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-biweekly-contest-19
+    post: source/_posts/LeetCode-biweekly-contest-19.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-biweekly-contest-19/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-biweekly-contest-20
+    post: source/_posts/LeetCode-biweekly-contest-20.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-biweekly-contest-20/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-biweekly-contest-21
+    post: source/_posts/LeetCode-biweekly-contest-21.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-biweekly-contest-21/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-biweekly-contest-22
+    post: source/_posts/LeetCode-biweekly-contest-22.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-biweekly-contest-22/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-biweekly-contest-23
+    post: source/_posts/LeetCode-biweekly-contest-23.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-biweekly-contest-23/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-biweekly-contest-24
+    post: source/_posts/LeetCode-biweekly-contest-24.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-biweekly-contest-24/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-biweekly-contest-26
+    post: source/_posts/LeetCode-biweekly-contest-26.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-biweekly-contest-26/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-biweekly-contest-27
+    post: source/_posts/LeetCode-biweekly-contest-27.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-biweekly-contest-27/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-biweekly-contest-28
+    post: source/_posts/LeetCode-biweekly-contest-28.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-biweekly-contest-28/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-biweekly-contest-36
+    post: source/_posts/LeetCode-biweekly-contest-36.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-biweekly-contest-36/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-biweekly-contest-37
+    post: source/_posts/LeetCode-biweekly-contest-37.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-biweekly-contest-37/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-biweekly-contest-38
+    post: source/_posts/LeetCode-biweekly-contest-38.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-biweekly-contest-38/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-biweekly-contest-39
+    post: source/_posts/LeetCode-biweekly-contest-39.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-biweekly-contest-39/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-biweekly-contest-42
+    post: source/_posts/LeetCode-biweekly-contest-42.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-biweekly-contest-42/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-biweekly-contest-47
+    post: source/_posts/LeetCode-biweekly-contest-47.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-biweekly-contest-47/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-biweekly-contest-48
+    post: source/_posts/LeetCode-biweekly-contest-48.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-biweekly-contest-48/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-biweekly-contest-49
+    post: source/_posts/LeetCode-biweekly-contest-49.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-biweekly-contest-49/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-biweekly-contest-5
+    post: source/_posts/LeetCode-biweekly-contest-5.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-biweekly-contest-5/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-biweekly-contest-50
+    post: source/_posts/LeetCode-biweekly-contest-50.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-biweekly-contest-50/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-biweekly-contest-51
+    post: source/_posts/LeetCode-biweekly-contest-51.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-biweekly-contest-51/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-biweekly-contest-52
+    post: source/_posts/LeetCode-biweekly-contest-52.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-biweekly-contest-52/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-biweekly-contest-53
+    post: source/_posts/LeetCode-biweekly-contest-53.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-biweekly-contest-53/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-biweekly-contest-54
+    post: source/_posts/LeetCode-biweekly-contest-54.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-biweekly-contest-54/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-biweekly-contest-56
+    post: source/_posts/LeetCode-biweekly-contest-56.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-biweekly-contest-56/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-biweekly-contest-60
+    post: source/_posts/LeetCode-biweekly-contest-60.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-biweekly-contest-60/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-biweekly-contest-7
+    post: source/_posts/LeetCode-biweekly-contest-7.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-biweekly-contest-7/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-115
+    post: source/_posts/LeetCode-weekly-contest-115.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-115/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-116
+    post: source/_posts/LeetCode-weekly-contest-116.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-116/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-117
+    post: source/_posts/LeetCode-weekly-contest-117.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-117/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-118
+    post: source/_posts/LeetCode-weekly-contest-118.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-118/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-119
+    post: source/_posts/LeetCode-weekly-contest-119.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-119/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-120
+    post: source/_posts/LeetCode-weekly-contest-120.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-120/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-121
+    post: source/_posts/LeetCode-weekly-contest-121.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-121/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-122
+    post: source/_posts/LeetCode-weekly-contest-122.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-122/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-123
+    post: source/_posts/LeetCode-weekly-contest-123.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-123/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-124
+    post: source/_posts/LeetCode-weekly-contest-124.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-124/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-125
+    post: source/_posts/LeetCode-weekly-contest-125.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-125/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-126
+    post: source/_posts/LeetCode-weekly-contest-126.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-126/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-127
+    post: source/_posts/LeetCode-weekly-contest-127.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-127/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-128
+    post: source/_posts/LeetCode-weekly-contest-128.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-128/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-129
+    post: source/_posts/LeetCode-weekly-contest-129.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-129/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-130
+    post: source/_posts/LeetCode-weekly-contest-130.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-130/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-131
+    post: source/_posts/LeetCode-weekly-contest-131.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-131/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-132
+    post: source/_posts/LeetCode-weekly-contest-132.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-132/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-133
+    post: source/_posts/LeetCode-weekly-contest-133.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-133/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-134
+    post: source/_posts/LeetCode-weekly-contest-134.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-134/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-135
+    post: source/_posts/LeetCode-weekly-contest-135.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-135/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-136
+    post: source/_posts/LeetCode-weekly-contest-136.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-136/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-137
+    post: source/_posts/LeetCode-weekly-contest-137.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-137/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-138
+    post: source/_posts/LeetCode-weekly-contest-138.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-138/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-139
+    post: source/_posts/LeetCode-weekly-contest-139.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-139/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-140
+    post: source/_posts/LeetCode-weekly-contest-140.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-140/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-141
+    post: source/_posts/LeetCode-weekly-contest-141.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-141/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-142
+    post: source/_posts/LeetCode-weekly-contest-142.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-142/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-143
+    post: source/_posts/LeetCode-weekly-contest-143.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-143/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-144
+    post: source/_posts/LeetCode-weekly-contest-144.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-144/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-145
+    post: source/_posts/LeetCode-weekly-contest-145.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-145/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-146
+    post: source/_posts/LeetCode-weekly-contest-146.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-146/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-147
+    post: source/_posts/LeetCode-weekly-contest-147.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-147/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-148
+    post: source/_posts/LeetCode-weekly-contest-148.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-148/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-149
+    post: source/_posts/LeetCode-weekly-contest-149.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-149/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-150
+    post: source/_posts/LeetCode-weekly-contest-150.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-150/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-151
+    post: source/_posts/LeetCode-weekly-contest-151.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-151/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-152
+    post: source/_posts/LeetCode-weekly-contest-152.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-152/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-153
+    post: source/_posts/LeetCode-weekly-contest-153.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-153/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-154
+    post: source/_posts/LeetCode-weekly-contest-154.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-154/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-156
+    post: source/_posts/LeetCode-weekly-contest-156.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-156/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-158
+    post: source/_posts/LeetCode-weekly-contest-158.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-158/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-159
+    post: source/_posts/LeetCode-weekly-contest-159.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-159/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-174
+    post: source/_posts/LeetCode-weekly-contest-174.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-174/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-175
+    post: source/_posts/LeetCode-weekly-contest-175.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-175/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-176
+    post: source/_posts/LeetCode-weekly-contest-176.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-176/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-177
+    post: source/_posts/LeetCode-weekly-contest-177.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-177/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-179
+    post: source/_posts/LeetCode-weekly-contest-179.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-179/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-180
+    post: source/_posts/LeetCode-weekly-contest-180.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-180/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-181
+    post: source/_posts/LeetCode-weekly-contest-181.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-181/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-182
+    post: source/_posts/LeetCode-weekly-contest-182.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-182/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-183
+    post: source/_posts/LeetCode-weekly-contest-183.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-183/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-184
+    post: source/_posts/LeetCode-weekly-contest-184.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-184/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-185
+    post: source/_posts/LeetCode-weekly-contest-185.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-185/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-186
+    post: source/_posts/LeetCode-weekly-contest-186.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-186/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-187
+    post: source/_posts/LeetCode-weekly-contest-187.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-187/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-188
+    post: source/_posts/LeetCode-weekly-contest-188.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-188/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-189
+    post: source/_posts/LeetCode-weekly-contest-189.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-189/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-190
+    post: source/_posts/LeetCode-weekly-contest-190.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-190/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-191
+    post: source/_posts/LeetCode-weekly-contest-191.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-191/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-192
+    post: source/_posts/LeetCode-weekly-contest-192.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-192/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-193
+    post: source/_posts/LeetCode-weekly-contest-193.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-193/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-208
+    post: source/_posts/LeetCode-weekly-contest-208.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-208/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-209
+    post: source/_posts/LeetCode-weekly-contest-209.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-209/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-210
+    post: source/_posts/LeetCode-weekly-contest-210.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-210/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-211
+    post: source/_posts/LeetCode-weekly-contest-211.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-211/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-212
+    post: source/_posts/LeetCode-weekly-contest-212.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-212/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-213
+    post: source/_posts/LeetCode-weekly-contest-213.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-213/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-214
+    post: source/_posts/LeetCode-weekly-contest-214.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-214/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-215
+    post: source/_posts/LeetCode-weekly-contest-215.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-215/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-216
+    post: source/_posts/LeetCode-weekly-contest-216.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-216/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-217
+    post: source/_posts/LeetCode-weekly-contest-217.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-217/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-218
+    post: source/_posts/LeetCode-weekly-contest-218.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-218/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-221
+    post: source/_posts/LeetCode-weekly-contest-221.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-221/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-222
+    post: source/_posts/LeetCode-weekly-contest-222.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-222/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-225
+    post: source/_posts/LeetCode-weekly-contest-225.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-225/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-230
+    post: source/_posts/LeetCode-weekly-contest-230.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-230/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-231
+    post: source/_posts/LeetCode-weekly-contest-231.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-231/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-232
+    post: source/_posts/LeetCode-weekly-contest-232.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-232/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-233
+    post: source/_posts/LeetCode-weekly-contest-233.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-233/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-234
+    post: source/_posts/LeetCode-weekly-contest-234.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-234/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-235
+    post: source/_posts/LeetCode-weekly-contest-235.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-235/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-236
+    post: source/_posts/LeetCode-weekly-contest-236.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-236/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-237
+    post: source/_posts/LeetCode-weekly-contest-237.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-237/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-238
+    post: source/_posts/LeetCode-weekly-contest-238.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-238/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-239
+    post: source/_posts/LeetCode-weekly-contest-239.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-239/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-240
+    post: source/_posts/LeetCode-weekly-contest-240.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-240/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-241
+    post: source/_posts/LeetCode-weekly-contest-241.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-241/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-242
+    post: source/_posts/LeetCode-weekly-contest-242.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-242/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-243
+    post: source/_posts/LeetCode-weekly-contest-243.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-243/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-244
+    post: source/_posts/LeetCode-weekly-contest-244.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-244/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-245
+    post: source/_posts/LeetCode-weekly-contest-245.md
+    status: rejected
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-245/zh-hero.webp
+        review_status: rejected
+  - slug: LeetCode-weekly-contest-249
+    post: source/_posts/LeetCode-weekly-contest-249.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-249/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-250
+    post: source/_posts/LeetCode-weekly-contest-250.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-250/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-254
+    post: source/_posts/LeetCode-weekly-contest-254.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-254/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-255
+    post: source/_posts/LeetCode-weekly-contest-255.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-255/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-257
+    post: source/_posts/LeetCode-weekly-contest-257.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-257/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-258
+    post: source/_posts/LeetCode-weekly-contest-258.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-258/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-259
+    post: source/_posts/LeetCode-weekly-contest-259.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-259/zh-hero.webp
+        review_status: approved
+  - slug: LeetCode-weekly-contest-264
+    post: source/_posts/LeetCode-weekly-contest-264.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/LeetCode-weekly-contest-264/zh-hero.webp
+        review_status: approved
+  - slug: life-and-death-fatigue
+    post: source/_posts/life-and-death-fatigue.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/life-and-death-fatigue/zh-hero.webp
+        review_status: approved
+  - slug: Little-history-of-world
+    post: source/_posts/Little-history-of-world.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/Little-history-of-world/zh-hero.webp
+        review_status: approved
+  - slug: Liu-Shen-Lei-Lei-Du-Jin-Yong
+    post: source/_posts/Liu-Shen-Lei-Lei-Du-Jin-Yong.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/Liu-Shen-Lei-Lei-Du-Jin-Yong/zh-hero.webp
+        review_status: approved
+  - slug: Liu-Shen-Lei-Lei-Du-Tang-Shi
+    post: source/_posts/Liu-Shen-Lei-Lei-Du-Tang-Shi.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/Liu-Shen-Lei-Lei-Du-Tang-Shi/zh-hero.webp
+        review_status: approved
+  - slug: Lunch-IPython-from-differnt-conda-env
+    post: source/_posts/Lunch-IPython-from-differnt-conda-env.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/Lunch-IPython-from-differnt-conda-env/zh-hero.webp
+        review_status: approved
+  - slug: mac-write-ntfs-solution
+    post: source/_posts/mac-write-ntfs-solution.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/mac-write-ntfs-solution/zh-hero.webp
+        review_status: approved
+  - slug: Mendeley-GB-T-7714-2005
+    post: source/_posts/Mendeley-GB-T-7714-2005.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/Mendeley-GB-T-7714-2005/zh-hero.webp
+        review_status: approved
+  - slug: Migrate-from-Travis-CI-to-Github-Action
+    post: source/_posts/Migrate-from-Travis-CI-to-Github-Action.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/Migrate-from-Travis-CI-to-Github-Action/zh-hero.webp
+        review_status: approved
+  - slug: Mihayo-backend-intern-interview
+    post: source/_posts/Mihayo-backend-intern-interview.md
+    status: approved
+    asset_count: 2
+    assets:
+      - id: hero
+        file: source/images/ai/Mihayo-backend-intern-interview/zh-hero.webp
+        review_status: approved
+      - id: third-round
+        file: source/images/ai/Mihayo-backend-intern-interview/zh-third-round.webp
+        review_status: approved
+  - slug: move-posts-from-cnblogs-to-Hexo
+    post: source/_posts/move-posts-from-cnblogs-to-Hexo.md
+    status: approved
+    asset_count: 2
+    assets:
+      - id: hero
+        file: source/images/ai/move-posts-from-cnblogs-to-Hexo/zh-hero.webp
+        review_status: approved
+      - id: format-repair
+        file: source/images/ai/move-posts-from-cnblogs-to-Hexo/zh-format-repair.webp
+        review_status: approved
+  - slug: my-3-years-master
+    post: source/_posts/my-3-years-master.md
+    status: approved
+    asset_count: 2
+    assets:
+      - id: hero
+        file: source/images/ai/my-3-years-master/zh-hero.webp
+        review_status: approved
+      - id: future-compass
+        file: source/images/ai/my-3-years-master/zh-future-compass.webp
+        review_status: approved
+  - slug: my-4-years-college
+    post: source/_posts/my-4-years-college.md
+    status: approved
+    asset_count: 2
+    assets:
+      - id: hero
+        file: source/images/ai/my-4-years-college/zh-hero.webp
+        review_status: approved
+      - id: career-crossroads
+        file: source/images/ai/my-4-years-college/zh-career-crossroads.webp
+        review_status: approved
+  - slug: my-britain-trip
+    post: source/_posts/my-britain-trip.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/my-britain-trip/zh-hero.webp
+        review_status: approved
+  - slug: My-dream-when-3rd-years-in-high-school
+    post: source/_posts/My-dream-when-3rd-years-in-high-school.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/My-dream-when-3rd-years-in-high-school/zh-hero.webp
+        review_status: approved
+  - slug: my-shahe-story
+    post: source/_posts/my-shahe-story.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/my-shahe-story/zh-hero.webp
+        review_status: approved
+  - slug: Netherlands-Visa-from-Ireland
+    post: source/_posts/Netherlands-Visa-from-Ireland.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/Netherlands-Visa-from-Ireland/zh-hero.webp
+        review_status: approved
+  - slug: Niz-plum-option-key-not-work
+    post: source/_posts/Niz-plum-option-key-not-work.md
+    status: rejected
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/Niz-plum-option-key-not-work/zh-hero.webp
+        review_status: rejected
+  - slug: optimize-cortana-in-searching-local-files-and-folders
+    post: source/_posts/optimize-cortana-in-searching-local-files-and-folders.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/optimize-cortana-in-searching-local-files-and-folders/zh-hero.webp
+        review_status: approved
+  - slug: owncloud-setup-on-server
+    post: source/_posts/owncloud-setup-on-server.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/owncloud-setup-on-server/zh-hero.webp
+        review_status: approved
+  - slug: Paris
+    post: source/_posts/Paris.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/Paris/zh-hero.webp
+        review_status: approved
+  - slug: pkg-config
+    post: source/_posts/pkg-config.md
+    status: approved
+    asset_count: 2
+    assets:
+      - id: hero
+        file: source/images/ai/pkg-config/zh-hero.webp
+        review_status: approved
+      - id: public-private
+        file: source/images/ai/pkg-config/zh-public-private.webp
+        review_status: approved
+  - slug: Poor-Charlie-Almanack
+    post: source/_posts/Poor-Charlie-Almanack.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/Poor-Charlie-Almanack/zh-hero.webp
+        review_status: approved
+  - slug: pressure-test-to-CPU-memory-disk-network-IO
+    post: source/_posts/pressure-test-to-CPU-memory-disk-network-IO.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/pressure-test-to-CPU-memory-disk-network-IO/zh-hero.webp
+        review_status: approved
+  - slug: Programming-Pearls
+    post: source/_posts/Programming-Pearls.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/Programming-Pearls/zh-hero.webp
+        review_status: approved
+  - slug: QDII-off-exchange-to-on-exchange-arbitrage
+    post: source/_posts/QDII-off-exchange-to-on-exchange-arbitrage.md
+    status: approved
+    asset_count: 2
+    assets:
+      - id: hero
+        file: source/images/ai/QDII-off-exchange-to-on-exchange-arbitrage/zh-hero.webp
+        review_status: approved
+      - id: custody-route
+        file: source/images/ai/QDII-off-exchange-to-on-exchange-arbitrage/zh-custody-route.webp
+        review_status: approved
+  - slug: Queue-and-Stack
+    post: source/_posts/Queue-and-Stack.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/Queue-and-Stack/zh-hero.webp
+        review_status: approved
+  - slug: Reality-Is-Not-What-It-Seems-The-Journey-to-Quantum-Gravity
+    post: source/_posts/Reality-Is-Not-What-It-Seems-The-Journey-to-Quantum-Gravity.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/Reality-Is-Not-What-It-Seems-The-Journey-to-Quantum-Gravity/zh-hero.webp
+        review_status: approved
+  - slug: recommender-systems-of-popular-apps
+    post: source/_posts/recommender-systems-of-popular-apps.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/recommender-systems-of-popular-apps/zh-hero.webp
+        review_status: approved
+  - slug: recursion
+    post: source/_posts/recursion.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/recursion/zh-hero.webp
+        review_status: approved
+  - slug: rip-hao
+    post: source/_posts/rip-hao.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/rip-hao/zh-hero.webp
+        review_status: approved
+  - slug: sensetime-intern-interview
+    post: source/_posts/sensetime-intern-interview.md
+    status: approved
+    asset_count: 2
+    assets:
+      - id: hero
+        file: source/images/ai/sensetime-intern-interview/zh-hero.webp
+        review_status: approved
+      - id: engineering-path
+        file: source/images/ai/sensetime-intern-interview/zh-engineering-path.webp
+        review_status: approved
+  - slug: Setup-English-blog
+    post: source/_posts/Setup-English-blog.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/Setup-English-blog/zh-hero.webp
+        review_status: approved
+  - slug: shandong-trip
+    post: source/_posts/shandong-trip.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/shandong-trip/zh-hero.webp
+        review_status: approved
+  - slug: Shi-Nan-Zhi-Tu
+    post: source/_posts/Shi-Nan-Zhi-Tu.md
+    status: approved
+    asset_count: 2
+    assets:
+      - id: hero
+        file: source/images/ai/Shi-Nan-Zhi-Tu/zh-hero.webp
+        review_status: approved
+      - id: remembered-home
+        file: source/images/ai/Shi-Nan-Zhi-Tu/zh-remembered-home.webp
+        review_status: approved
+  - slug: Skin-in-the-Game-Hidden-Asymmetries-in-Daily-Life
+    post: source/_posts/Skin-in-the-Game-Hidden-Asymmetries-in-Daily-Life.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/Skin-in-the-Game-Hidden-Asymmetries-in-Daily-Life/zh-hero.webp
+        review_status: approved
+  - slug: slipt-string-by-C
+    post: source/_posts/slipt-string-by-C.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/slipt-string-by-C/zh-hero.webp
+        review_status: approved
+  - slug: SSD-Single-Shot-MultiBox-Detector-configuration
+    post: source/_posts/SSD-Single-Shot-MultiBox-Detector-configuration.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/SSD-Single-Shot-MultiBox-Detector-configuration/zh-hero.webp
+        review_status: approved
+  - slug: ssh-login-remote-server-without-password
+    post: source/_posts/ssh-login-remote-server-without-password.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/ssh-login-remote-server-without-password/zh-hero.webp
+        review_status: approved
+  - slug: SSH-proxy-by-jump-server
+    post: source/_posts/SSH-proxy-by-jump-server.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/SSH-proxy-by-jump-server/zh-hero.webp
+        review_status: approved
+  - slug: sublime-personlize
+    post: source/_posts/sublime-personlize.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/sublime-personlize/zh-hero.webp
+        review_status: approved
+  - slug: suzhou-microsoft-interview
+    post: source/_posts/suzhou-microsoft-interview.md
+    status: approved
+    asset_count: 2
+    assets:
+      - id: hero
+        file: source/images/ai/suzhou-microsoft-interview/zh-hero.webp
+        review_status: approved
+      - id: learning-loop
+        file: source/images/ai/suzhou-microsoft-interview/zh-learning-loop.webp
+        review_status: approved
+  - slug: Tai-bai-jin-xing-you-dian-fan
+    post: source/_posts/Tai-bai-jin-xing-you-dian-fan.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/Tai-bai-jin-xing-you-dian-fan/zh-hero.webp
+        review_status: approved
+  - slug: Tencent-WeChat-backend-intern-interview
+    post: source/_posts/Tencent-WeChat-backend-intern-interview.md
+    status: approved
+    asset_count: 2
+    assets:
+      - id: hero
+        file: source/images/ai/Tencent-WeChat-backend-intern-interview/zh-hero.webp
+        review_status: approved
+      - id: interview-marathon
+        file: source/images/ai/Tencent-WeChat-backend-intern-interview/zh-interview-marathon.webp
+        review_status: approved
+  - slug: terminal-proxy-configuration
+    post: source/_posts/terminal-proxy-configuration.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/terminal-proxy-configuration/zh-hero.webp
+        review_status: approved
+  - slug: The-Almanack-of-Naval-Ravikant
+    post: source/_posts/The-Almanack-of-Naval-Ravikant.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/The-Almanack-of-Naval-Ravikant/zh-hero.webp
+        review_status: approved
+  - slug: The-Art-of-War-by-Sunzi
+    post: source/_posts/The-Art-of-War-by-Sunzi.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/The-Art-of-War-by-Sunzi/zh-hero.webp
+        review_status: approved
+  - slug: The-Bitcoin-Standard
+    post: source/_posts/The-Bitcoin-Standard.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/The-Bitcoin-Standard/zh-hero.webp
+        review_status: approved
+  - slug: The-Collapse-of-the-Heavenly-Dynasty-A-Restudy-of-Opium-War
+    post: source/_posts/The-Collapse-of-the-Heavenly-Dynasty-A-Restudy-of-Opium-War.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/The-Collapse-of-the-Heavenly-Dynasty-A-Restudy-of-Opium-War/zh-hero.webp
+        review_status: approved
+  - slug: The-gains-and-losses-of-economic-changes-in-the-past-dynasties
+    post: source/_posts/The-gains-and-losses-of-economic-changes-in-the-past-dynasties.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/The-gains-and-losses-of-economic-changes-in-the-past-dynasties/zh-hero.webp
+        review_status: approved
+  - slug: The-Gains-and-Losses-of-Emperor-Qianlong-Reign
+    post: source/_posts/The-Gains-and-Losses-of-Emperor-Qianlong-Reign.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/The-Gains-and-Losses-of-Emperor-Qianlong-Reign/zh-hero.webp
+        review_status: approved
+  - slug: The-Glory-and-the-Dream
+    post: source/_posts/The-Glory-and-the-Dream.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/The-Glory-and-the-Dream/zh-hero.webp
+        review_status: approved
+  - slug: The-World-I-see
+    post: source/_posts/The-World-I-see.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/The-World-I-see/zh-hero.webp
+        review_status: approved
+  - slug: timestamp-summary
+    post: source/_posts/timestamp-summary.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/timestamp-summary/zh-hero.webp
+        review_status: approved
+  - slug: Travis-CI-Hexo-Automatically-Deploy
+    post: source/_posts/Travis-CI-Hexo-Automatically-Deploy.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/Travis-CI-Hexo-Automatically-Deploy/zh-hero.webp
+        review_status: approved
+  - slug: Ubuntu-vpn-cannot-access-public-resource
+    post: source/_posts/Ubuntu-vpn-cannot-access-public-resource.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/Ubuntu-vpn-cannot-access-public-resource/zh-hero.webp
+        review_status: approved
+  - slug: unordered-map-hash-pair-c
+    post: source/_posts/unordered-map-hash-pair-c.md
+    status: approved
+    asset_count: 2
+    assets:
+      - id: hero
+        file: source/images/ai/unordered-map-hash-pair-c/zh-hero.webp
+        review_status: approved
+      - id: hash-combine
+        file: source/images/ai/unordered-map-hash-pair-c/zh-hash-combine.webp
+        review_status: approved
+  - slug: vscode-include-bits-stdc-h
+    post: source/_posts/vscode-include-bits-stdc-h.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/vscode-include-bits-stdc-h/zh-hero.webp
+        review_status: approved
+  - slug: Why-Nations-fail
+    post: source/_posts/Why-Nations-fail.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/Why-Nations-fail/zh-hero.webp
+        review_status: approved
+  - slug: Windows-Dev-Improvement
+    post: source/_posts/Windows-Dev-Improvement.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/Windows-Dev-Improvement/zh-hero.webp
+        review_status: approved
+  - slug: work-with-two-github-accounts
+    post: source/_posts/work-with-two-github-accounts.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/work-with-two-github-accounts/zh-hero.webp
+        review_status: approved
+  - slug: Wuhan-trip
+    post: source/_posts/Wuhan-trip.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/Wuhan-trip/zh-hero.webp
+        review_status: approved
+  - slug: Xiao-Lin
+    post: source/_posts/Xiao-Lin.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/Xiao-Lin/zh-hero.webp
+        review_status: approved
+  - slug: Yuan-Chong-Huan
+    post: source/_posts/Yuan-Chong-Huan.md
+    status: approved
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/Yuan-Chong-Huan/zh-hero.webp
+        review_status: approved

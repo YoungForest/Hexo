@@ -5,6 +5,7 @@ tags:
 - Algorithm
 categories:
 - Programming
+description: "从暴力枚举到单调栈，再到利用 XOR 最高位向两侧扩展，整理子数组最大值与次大值对的两种 O(N) 解法。"
 translations:
   zh-CN: https://youngforest.github.io/2019/12/14/find-all-unique-pairs-of-maximum-and-second-maximum-elements-over-all-sub-arrays-in-onlogn/
   en: https://youngforest.github.io/en/2019/12/14/find-all-unique-pairs-of-maximum-and-second-maximum-elements-over-all-sub-arrays-in-onlogn/
@@ -18,6 +19,12 @@ translations:
 Brute force 的解法是枚举所有的子数组，时间复杂度为O(N ^ 2).
 有没有更优的方法呢？
 今天要讨论的就是这个问题。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/find-all-unique-pairs-of-maximum-and-second-maximum-elements-over-all-sub-arrays-in-onlogn/zh-hero.webp" alt="高低石柱组成的数组上方重叠着许多滑动窗口，旁边一座单调下降阶梯只保留最近的更高邻居" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
 
 ## 通用的解法，快速寻找 最大次大值对 算法
 
@@ -67,6 +74,10 @@ int main() {
     return 0;
 }
 ```
+
+<figure class="editorial-illustration">
+  <img src="/images/ai/find-all-unique-pairs-of-maximum-and-second-maximum-elements-over-all-sub-arrays-in-onlogn/zh-highest-bit.webp" alt="一排明暗灯块中最高层亮起的琥珀色信标同时向左右扫描，遇到下一座同层信标便停止" width="1536" height="864" loading="lazy" decoding="async">
+</figure>
 
 ## 我独立思考出的解法
 

@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 211
 date: 2020-10-19 20:12:22
+description: 复盘首尾字符距离、字符串旋转与增量搜索、无冲突组队，以及按公因数阈值建立图连通。
 tags:
 - Competitive Programming
 categories:
@@ -15,6 +16,12 @@ translations:
 
 本周题目质量还不错，而且自己排名也不错。提前10分钟AC，就是喜欢这种紧张刺激感。而像上周那样提前40minAC反而没今天这么开心。
 因为连续2次周赛排名都很靠前，我残酷群的排名也上升到15名了。久违的最高位置，继续保持。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-211/zh-hero.webp" alt="相同端点夹住一段丝带，旋转鼓调整珠环，棋子排成无冲突队伍，齿轮越过门槛互相连接" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
 
 ## 1624. Largest Substring Between Two Equal Characters
 

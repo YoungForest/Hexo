@@ -8,13 +8,22 @@ tags:
 - English
 categories:
 - Programming
+description: 比较 XOR 与 hash_combine 生成 C++ pair 哈希值，并提供可复用的 unordered_map 和 unordered_set 模板。
 translations:
   zh-CN: https://youngforest.github.io/2020/05/27/best-implement-to-use-pair-as-key-to-std-unordered-map-in-C/
   en: https://youngforest.github.io/en/2020/05/27/best-implement-to-use-pair-as-key-to-std-unordered-map-in-C/
 ---
 Reference: [C++ Standard Library: A tutorial and reference, Second version](https://www.mica.edu.vn/perso/Vu-Hai/EE3490/Ref/The%20C++Standard%20Library%20-%202nd%20Edition.pdf) Chapter 7.9.2: Creating and Controlling unordered Container
 
-All solutions I found in Google use `XOR` to generate hashcode of `pair`, which is totally bad. see [why-is-xor-the-default-way-to-combine-hashes](https://stackoverflow.com/questions/5889238/why-is-xor-the-default-way-to-combine-hashes). However, the book has given us the best solution, using `hash_combine`, which is taken from `Boost`. The solution is much better than XOR when I tested it in Online Judge([Atcoder](https://atcoder.jp/contests/abc168/tasks/abc168_e)). I organized the code as a template as follow. You can copy and paste it as much as you can. And it is convenient to change it to fit any custom struct/class.
+All solutions I found in Google use `XOR` to generate hashcode of `pair`, which is totally bad. see [why-is-xor-the-default-way-to-combine-hashes](https://stackoverflow.com/questions/5889238/why-is-xor-the-default-way-to-combine-hashes).
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/best-implement-to-use-pair-as-key-to-std-unordered-map-in-C/zh-hero.webp" alt="两条粗糙交叉槽让不同形状反复撞进同一格，精密混合轮则把成对零件均匀送入各自的收纳格" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
+However, the book has given us the best solution, using `hash_combine`, which is taken from `Boost`. The solution is much better than XOR when I tested it in Online Judge([Atcoder](https://atcoder.jp/contests/abc168/tasks/abc168_e)). I organized the code as a template as follow. You can copy and paste it as much as you can. And it is convenient to change it to fit any custom struct/class.
 
 ```cpp
 #include <functional>

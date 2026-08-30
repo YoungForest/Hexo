@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 119
 date: 2019-01-13 10:56:25
+description: 一次失利后的基础复盘：最近点、最大三角形、前缀余数配对和奇偶跳跃的有序查找。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2019/01/13/LeetCode-weekly-contest-119/
   en: https://youngforest.github.io/en/2019/01/13/LeetCode-weekly-contest-119/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-119/zh-hero.webp" alt="Forest 在诊断台修正超时赛道，筛选近点、拼最大三角形、配对余数珠并沿有序台阶奇偶跳跃" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 这次contest做的比较惨，排名大致是1486 / 3845。出现的问题有：
 - 第二题，比较简单。由于是easy的题目，直接brute force了，结果TLE一次。之前由于粗心，for循环条件中的变量还写错了一次。导致2次罚时。
 - 第三题，也不是很难，但最后并没有想到O(n)的解法。只想到了O(n ^ 2)的。想到了要算前缀和，也注意到了divisible这一关键词。但并没有联想到前缀和相等就可以这一关键点。

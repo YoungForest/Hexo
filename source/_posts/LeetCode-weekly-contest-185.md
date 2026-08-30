@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 185
 date: 2020-04-20 11:42:21
+description: 周赛复盘：两类符号交替、餐厅订单聚合、青蛙状态机与精确比较次数的数组 DP，并复盘新题中的状态设计。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2020/04/20/LeetCode-weekly-contest-185/
   en: https://youngforest.github.io/en/2020/04/20/LeetCode-weekly-contest-185/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-185/zh-hero.webp" alt="圆片与方片交替成列，订单珠在餐桌间聚合，青蛙依次换过睡莲，分层托盘搭出精确比较次数的数组" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 | Rank |	Name |	Score |	Finish Time | 	Q1 (4) |	Q2 (4) |	Q3 (6) |	Q4 (7)|
 |--|--|--|--|--|--|--|--|
 | 703 / 9206 |	YoungForest | 12 | 	0:36:35 |  0:10:24 | 0:22:03 | 0:31:35  1 | null |

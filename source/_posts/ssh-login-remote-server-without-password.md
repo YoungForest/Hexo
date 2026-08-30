@@ -5,6 +5,7 @@ tags:
 - tech
 categories:
 - 折腾
+description: 记录 Unix-like 系统的 SSH 免密登录流程：生成密钥对、上传公钥、调整目录权限，并验证远程连接。
 translations:
   zh-CN: https://youngforest.github.io/2018/05/08/ssh-login-remote-server-without-password/
   en: https://youngforest.github.io/en/2018/05/08/ssh-login-remote-server-without-password/
@@ -13,7 +14,11 @@ translations:
 Windows是不需要这样的解决方法的，Windows下很多类Putty工具都可以选择"记住密码"来实现免密登陆。
 我在Mac上没有找到类似记住密码的解决方案，但使用Key事实上是更安全的一种方式。
 
-<!--more-->
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/ssh-login-remote-server-without-password/zh-hero.webp" alt="私钥留在本地保险柜中，配对的公钥沿安全轨道抵达远端城门并打开同形锁芯" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
 
 ## step1: 生成rsa密钥对
 ``` bash

@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-187.md
+context: >-
+  周赛复盘涵盖唯一终点城市、相邻标记间距、双指针维护极差窗口，以及用优先队列与集合去重寻找矩阵行和的第 k 小值。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-187/zh-hero.webp
+    placement: hero
+    alt: 道路汇入唯一终点城，发光珠保持间距，滑动框夹住极差窗口，矩阵候选经堆篮与去重托盘筛选
+    composition: >-
+      不使用 Forest。连续算法地景从无出口终点城开始，经过间距清晰的发光标记珠和夹住高低木块的滑动窗口，最后由多排已排序珠轨向堆形篮子输送候选，并把重复组合分流到去重托盘。画面不含可读文字、数字、字母、公式、代码、品牌、假界面或水印。
+    review_status: approved

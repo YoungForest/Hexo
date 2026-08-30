@@ -1,5 +1,6 @@
 ---
 title: SQL实践进阶
+description: "记录实习中从复杂 Hive SQL 暴露知识短板，到学习分层验证、Join 与 Partition 后重新回答面试问题的过程。"
 date: 2018-05-07 23:30:25
 tags:
 - kuaishou
@@ -14,6 +15,10 @@ translations:
 负责带我的二mentor对SQL比较也精通，对我有很多指导和建议。
 没有对比就没有伤害，自己的菜和师兄的强让我知耻而后勇，有了进阶SQL的想法和行动。
 
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/Advanced-SQL-practice/zh-hero.webp" alt="Forest 面对纠缠成团的数据管道，旁边的导师用一组小型透明数据托盘示范从内到外逐层验证" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
 <!--more-->
 我被推荐的2份教程（感谢快手师兄和二mentor）：
 - sql必知必会
@@ -26,12 +31,16 @@ runoob的优点是可以在网站提供的线上数据库进行测试和练习�
 
 [leetcode上有42道Database的面试题目](https://leetcode.com/problemset/database/)，有时间一定要刷一刷。
 
-# 实践中遇到的问题
+## 实践中遇到的问题
 由于我的岗位是推荐组的算法工程师，有大量的数据挖掘的需要。
 而且写的不是纯sql，而是[Hive](https://cwiki.apache.org/confluence/display/Hive/Home)-sql。
 Hive上存在很多限制和挑战，比如不能在select中嵌套select子句，`select 2 * (select 3);`就是不可以的（最后摸索出得解决方案是：使用聚集函数或列之间的可计算进行需要的计算，这就很考验`union`或`join`的灵活使用了。）；数据量特别大，每次查询很耗时（学会了用小的查询验证想法，从内到外层层验证，还有在‘jupyter notebook'上进行查询和计算）。
 
-# 回答面试中的问题
+<figure class="editorial-illustration">
+  <img src="/images/ai/Advanced-SQL-practice/zh-joins-partitions.webp" alt="三组透明数据托盘以不同方式重叠，旁边的分区抽屉把海量记录分流到可快速查找的小格" width="1536" height="864" loading="lazy" decoding="async">
+</figure>
+
+## 回答面试中的问题
 一面的小哥哥当时问我：你会SQL吗？
 
 我：会，而且我之前还有在数据库公司的实习经历。

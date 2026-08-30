@@ -1,0 +1,16 @@
+version: editorial-comic-v1
+post: source/_posts/2020-summary-and-2021-resolutions.md
+context: 回顾疫情黑天鹅下的论文、远程实习、求职、刷题和延期毕业，并为毕业、技能、工作、健康与习惯制定 2021 目标。
+assets:
+  - id: hero
+    file: source/images/ai/2020-summary-and-2021-resolutions/zh-hero.webp
+    placement: hero
+    alt: Forest 在黑天鹅掀起的风雨中同时护住论文、远程实习电脑和刷题阶梯，前方道路突然改道
+    composition: Forest 在居家书桌与毕业道路之间应对一只象征意外的黑天鹅，三项长期投入保持稳定，但原定毕业出口临时转向。
+    review_status: approved
+  - id: 2021-outlook
+    file: source/images/ai/2020-summary-and-2021-resolutions/zh-2021-outlook.webp
+    placement: before-2021-outlook
+    alt: Forest 把毕业、技能、工作、牙齿健康和刷题习惯种成五株需要长期照料的幼苗
+    composition: 五个无文字花盆分别用毕业帽、技能齿轮、工作台、牙齿和算法积木表现新年目标，Forest 逐一浇水而不是追逐短期奖杯。
+    review_status: approved

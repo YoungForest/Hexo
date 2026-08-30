@@ -1,6 +1,7 @@
 ---
 title: LeetCode-biweekly-contest-48
 date: 2021-03-21 16:55:34
+description: 赛后补题记录：求字符串第二大数字、管理令牌过期时间并贪心扩展连续可达值；第四题仍未完成。
 tags:
 - Competitive Programming
 categories:
@@ -10,6 +11,12 @@ translations:
   en: https://youngforest.github.io/en/2021/03/21/LeetCode-biweekly-contest-48/
 ---
 耽误了比赛，赛后补题。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-biweekly-contest-48/zh-hero.webp" alt="分层石架挑出第二高值，令牌沿寿命轨道更新或落入过期槽，排序硬币不断延长连续桥，最后的配对得分柜仍然关闭" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
 
 ## 1796. Second Largest Digit in a String
 

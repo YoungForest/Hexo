@@ -1,0 +1,10 @@
+version: editorial-comic-v1
+post: source/_posts/kaggle-titanic-tutorial.md
+context: 以 Titanic 入门赛为例，梳理从理解问题和数据、处理缺失值、构造特征，到反复建模评估和正确提交结果的数据挖掘流程。
+assets:
+  - id: hero
+    file: source/images/ai/kaggle-titanic-tutorial/zh-hero.webp
+    placement: hero
+    alt: 乘客线索从杂乱甲板模型进入数据工坊，依次经过缺失值修补、特征抽屉、多台模型机器与验证天平，最后装入提交信封
+    composition: 将完整流程画成一条无文字的数据工坊流水线，原始线索以行李、船票、舱位块和救生圈等通用物件表示，依次经过缺失拼块、分类抽屉、模型机器和验证天平，末端输出一只封好的空白信封；不还原灾难现场或真实船只。
+    review_status: approved

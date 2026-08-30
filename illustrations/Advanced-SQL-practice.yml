@@ -1,0 +1,16 @@
+version: editorial-comic-v1
+post: source/_posts/Advanced-SQL-practice.md
+context: 作者在实习中被复杂 Hive SQL 暴露出知识短板，在导师指导下学习用小查询从内到外分层验证，并重新理解 Join 与 Partition 后回答曾经不会的面试问题。
+assets:
+  - id: hero
+    file: source/images/ai/Advanced-SQL-practice/zh-hero.webp
+    placement: hero
+    alt: Forest 面对纠缠成团的数据管道，旁边的导师用一组小型透明数据托盘示范从内到外逐层验证
+    composition: 在抽象数据工坊里，Forest 面对由许多空白数据块和管道缠成的巨大查询机器，导师在旁边用三层逐渐扩大的透明托盘演示先做小查询、再从内到外验证；角色保持短黑发、圆眼镜、炭灰外衫和青绿色 T 恤，不画代码或界面。
+    review_status: approved
+  - id: joins-partitions
+    file: source/images/ai/Advanced-SQL-practice/zh-joins-partitions.webp
+    placement: before-interview-answers
+    alt: 三组透明数据托盘以不同方式重叠，旁边的分区抽屉把海量记录分流到可快速查找的小格
+    composition: 用实体教具解释概念：三组装着无字数据片的透明托盘分别完全重叠、保留左侧边缘和保留右侧边缘，旁边一只大型分类柜把海量数据片分流进整齐抽屉；无箭头文字、代码、标签或界面。
+    review_status: approved

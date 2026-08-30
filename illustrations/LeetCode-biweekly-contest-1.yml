@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-biweekly-contest-1.md
+context: >-
+  首届双周赛安排在欧洲更友好的晚间时段；作者刚参加完另一场困难笔试，只完成两题，赛后复盘固定点、字符串索引对、工人与自行车分配以及区间数字计数。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-biweekly-contest-1/zh-hero.webp
+    placement: hero
+    alt: 疲惫的 Forest 从一张空白考桌转向夜间算法台，匹配位置、字符片、骑车人和计数转盘
+    composition: >-
+      使用虚构 Forest。暖灰夜色中，他刚离开一张堆着空白试卷的考桌，带着略低的电量走向第二张算法台。台面用四个实体隐喻复盘：斜坡上停在自身位置的圆片、在无字色块串中配对的短片、把小人和自行车以最短绳索匹配的模型，以及绕过前导空位的分层计数转盘。远处只用月亮和窗光表达欧洲友好的时段。无可读文字、字母、数字、公式、品牌、假界面或水印。
+    review_status: approved

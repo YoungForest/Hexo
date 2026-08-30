@@ -6,11 +6,18 @@ tags:
 - intern
 categories:
 - interview
+description: 复盘阿里钉钉服务器开发实习面试：从链表和 twoSum 代码题，到 C++、操作系统、网络与职业规划。
 translations:
   zh-CN: https://youngforest.github.io/2020/03/04/Alibaba-Dingding-backend-intern-interview/
   en: https://youngforest.github.io/en/2020/03/04/Alibaba-Dingding-backend-intern-interview/
 ---
 通过钉钉电话视频面试，手撕代码通过阿里在线平台完成。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/Alibaba-Dingding-backend-intern-interview/zh-hero.webp" alt="Forest 坐在无标识的远程面试桌前，面前摆着链表车厢、配对砝码和一长排技术工具" width="1536" height="864" decoding="async">
+</figure>
+
+<!-- more -->
 
 算法题2道：
 
@@ -138,6 +145,10 @@ vector<int> twoSum(vector<int>& v,int target) {
     return ans;
 }
 ```
+
+<figure class="editorial-illustration">
+  <img src="/images/ai/Alibaba-Dingding-backend-intern-interview/zh-knowledge-gauntlet.webp" alt="Forest 带着工具箱穿过由编译齿轮、容器积木、锁门、内存迷宫和断裂网络桥组成的知识长廊" width="1536" height="864" loading="lazy" decoding="async">
+</figure>
 
 我的主语言是C++，所以问了很多C++相关的题目。
 

@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 117
 date: 2018-12-30 10:47:49
+description: 边做周赛边写总结的实验：单值树、等差相邻位、拼写筛选、树上观察灯与限时训练。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2018/12/30/LeetCode-weekly-contest-117/
   en: https://youngforest.github.io/en/2018/12/30/LeetCode-weekly-contest-117/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-117/zh-hero.webp" alt="Forest 一边训练一边记录，检查同色树、等距珠链、音形筛选器并在树枝布置观察灯" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 今天参加LeetCode weekly contest 117, 采取了不同的策略：边做题边写博客总结。期望这样可以真实地记录所思所想，提高写博客的效率。因为之前2次，事后写博客总是耽误几天时间才写完。
 
 ## 965. Univalued Binary Tree

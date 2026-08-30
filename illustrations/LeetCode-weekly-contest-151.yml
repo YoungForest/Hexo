@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-151.md
+context: >-
+  作者在夏令营课程与竞赛之间取舍并在活动后补题，文章涵盖无效交易判定、比较最小字符频次、删除链表中和为零的连续段，以及多组容量固定的盘子栈。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-151/zh-hero.webp
+    placement: hero
+    alt: Forest 带着空白课程卡穿过冲突票据、最小珠频比较、自动抵消珠链和一排盘子栈
+    composition: >-
+      使用虚构 Forest。无品牌学习营地的长桌上，时间接近但颜色城市不同或代价过高的空白票据被筛出，两条珠串比较最小颜色的出现次数，链条中总量抵消的连续珠段收拢消失，多组定容盘栈从最左空位加入并从指定或最右非空处取出；Forest 手持完全空白的课程卡。无公司标识、酒店品牌、可读文字、字符、数字、货币符号、假界面或水印。
+    review_status: approved

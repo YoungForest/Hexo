@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/work-with-two-github-accounts.md
+context: >-
+  作者在实习电脑上同时处理工作、个人和实验室任务，通过独立 SSH 密钥、主机别名、仓库远程地址和本地提交身份避免两个代码托管账号冲突。
+assets:
+  - id: hero
+    file: source/images/ai/work-with-two-github-accounts/zh-hero.webp
+    placement: hero
+    alt: Forest 在一座双轨钥匙转辙台前，为工作车间和个人工作台分别选择不同钥匙与轨道，两个身份不再相撞
+    composition: >-
+      使用虚构 Forest，不是真人肖像。Forest 站在实体双轨钥匙转辙台前，把两把形状明显不同的无字钥匙分别导向工作车间和个人工作台；每条轨道都通向自己的小仓库，只有当前仓库使用对应身份，表现全局默认与仓库级覆盖。不要出现真实公司、代码托管平台标志、猫形商标、邮件地址、代码、终端、配置文字、界面或可读文字。
+    review_status: approved

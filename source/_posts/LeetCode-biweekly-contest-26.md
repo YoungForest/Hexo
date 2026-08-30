@@ -1,6 +1,7 @@
 ---
 title: LeetCode biweekly contest 26
 date: 2020-05-17 10:15:47
+description: 双周赛复盘：同字符窗口、最简分数、祖先最大值树 DFS 与目标成本背包 DP；持续训练让难题更顺手。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2020/05/17/LeetCode-biweekly-contest-26/
   en: https://youngforest.github.io/en/2020/05/17/LeetCode-biweekly-contest-26/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-biweekly-contest-26/zh-hero.webp" alt="Forest 带着训练积累走过同色珠窗、互质齿轮、祖先最大值树与按成本装配最长牌列的工坊" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 | Rank |	Name |	Score |	Finish Time | 	Q1 (3) |	Q2 (4) |	Q3 (5) |	Q4 (7)|
 |--|--|--|--|--|--|--|--|
 | 115 / 7795 |	YoungForest | 19 | 	0:33:49 |  0:03:55 |   0:08:25 | 0:11:57 |   0:28:49  1 |

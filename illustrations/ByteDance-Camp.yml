@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/ByteDance-Camp.md
+context: >-
+  作者记录 2019 年工程夏令营从笔试选拔、密集课程到两人三天项目冲刺的一周，虽然疲惫并有小遗憾，但结识同伴、理解技术氛围且写代码很开心。
+assets:
+  - id: hero
+    file: source/images/ai/ByteDance-Camp/zh-hero.webp
+    placement: hero
+    alt: 年轻 Forest 穿过算法拼图门、密集讲堂和深夜双人项目桌，把紧凑一周串成一条明亮工程轨道
+    composition: >-
+      让年轻 Forest 背着包沿一条压缩成一周的工程轨道前进：先穿过由基础知识齿轮和四块难度递增拼图组成的选拔门，再经过座位紧密的讲堂，最后与一名虚构队友在深夜双人工作台完成设计、实现、测试和展示的实体模型。保持疲惫但开心的气氛；不画公司标志、真实讲师、书封、照片替代品、代码或可读文字。
+    review_status: approved

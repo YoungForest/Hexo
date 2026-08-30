@@ -4,10 +4,15 @@ date: 2018-10-23 16:41:47
 tags:
 categories:
 - LeetCode
+description: 停刷四周后重启训练：从反复减法超时，到倍增分块、符号处理与整数边界。
 translations:
   zh-CN: https://youngforest.github.io/2018/10/23/LeetCode-29-Divide-Two-Integer/
   en: https://youngforest.github.io/en/2018/10/23/LeetCode-29-Divide-Two-Integer/
 ---
+<figure class="editorial-illustration editorial-illustration--hero"><img src="/images/ai/LeetCode-29-Divide-Two-Integer/zh-hero.webp" width="1536" height="864" alt="Forest 重启训练，把缓慢逐块搬运改成倍增装箱，并用符号闸门守住整数边界" decoding="async" fetchpriority="high"></figure>
+
+<!-- more -->
+
 有4周时间没有刷LeetCode了，理由一方面是紧迫感下降，另一方面是行动力不足。
 最近又有一场面试要准备，小红书 视频组 的算法实习生。
 一面看 机器学习的知识，防止重蹈 快手 面试的覆辙；另一面回顾自己的代码能力，果然4周不刷题，连代码都写不好了。作为未来的程序员，代码能力不好怎么行呢？还是要重新有规划的开始刷leetcode的。

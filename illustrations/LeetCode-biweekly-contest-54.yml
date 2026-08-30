@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-biweekly-contest-54.md
+context: >-
+  四道题检查区间覆盖、用前缀和与二分定位粉笔耗尽处、寻找最大幻方，并递归计算翻转表达式结果的最小代价。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-biweekly-contest-54/zh-hero.webp
+    placement: hero
+    alt: 彩色区间布片覆盖整条轨道，粉笔沿环形队列耗尽，方格盘寻找最大平衡方阵，逻辑树以最少齿轮翻转出口颜色
+    composition: >-
+      不使用 Forest。绘制一张横向四联数学工坊：左侧多条半透明彩色布片覆盖同一段轨道，每个目标刻槽都被至少一层覆盖；中左一圈学生座位只用空圆垫表示，粉笔长度沿前缀量杯消耗并取余回到最后一轮，再由二分滑块定位首先无法领取的座位；中右方格庭院从大到小套着候选正方形，行、列和两条对角线通过同量液柱展示相等，最大合格方框亮起青色边；右侧括号结构抽象为嵌套逻辑树，琥珀与青色齿轮代表两种连接方式，递归比较改变连接器或叶片所需的最少无字代价筹码。禁止人物、问号、字符、字母、数字、公式、代码、可读文字、商标或水印。
+    review_status: approved

@@ -1,0 +1,16 @@
+version: editorial-comic-v1
+post: source/_posts/Alibaba-Ant-backend-intern-interview.md
+context: 一段后端暑期实习招聘经历连续经过技术面、笔试、测评、数据与业务讨论和交叉面，既有满分后的顺风顺水，也有项目细节与行为问题带来的意外压力。
+assets:
+  - id: hero
+    file: source/images/ai/Alibaba-Ant-backend-intern-interview/zh-hero.webp
+    placement: hero
+    alt: Forest 带着算法积木和项目工具依次走过四座工作坊门框，沿途的哈希桶、矩阵拼板和数据管道逐渐变得更深更复杂
+    composition: 让人类青年 Forest 沿一条连续路径走过四座无编号工作坊门框，入口散布哈希桶和算法积木，后段转为矩阵拼板、数据管道与层层打开的项目模型，不出现公司标志或假界面。
+    review_status: approved
+  - id: fourth-round
+    file: source/images/ai/Alibaba-Ant-backend-intern-interview/zh-fourth-round.webp
+    placement: before-fourth-round
+    alt: Forest 用放大镜拆开项目模型的多层结构，头顶三枚形状各异的问题砝码让这场没有写代码的面试依然沉重
+    composition: 在第四座工作台前，让人类青年 Forest 用放大镜查看一个层层打开的项目模型，旁边悬着三枚无文字的问题砝码，表现深挖项目和突如其来的行为问题，保留轻微幽默但不画问卷或界面。
+    review_status: approved

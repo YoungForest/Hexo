@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/kick-start-2021-round-B.md
+context: >-
+  赛后补题记录了递增子串和最长等差段，并复盘类型转换错误与超时实现。
+assets:
+  - id: hero
+    file: source/images/ai/kick-start-2021-round-B/zh-hero.webp
+    placement: hero
+    alt: 递增珠链逐段变长，等高差台阶围绕一枚可调石块延伸，多层齿轮让沙漏变慢
+    composition: >-
+      不使用 Forest。设计一座无字算法钟表铺：左侧一串不同形状的抽象珠子沿轨道前进，只要后一颗更高，下面的琥珀长度条就继续增长，遇到下降便重新开始；中部一列石块被排成高差一致的长台阶，其中一枚石块可由机械臂调整来延长连续进程；右侧同一台装置先经过一层滑轨即可快速完成，另一条路径却叠加两层齿轮并拖慢沙漏，暗示多两个对数造成超时。禁止字符、字母、数字、公式、代码、可读文字、商标或水印。
+    review_status: approved

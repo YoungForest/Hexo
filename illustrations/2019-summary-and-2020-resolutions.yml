@@ -1,0 +1,16 @@
+version: editorial-comic-v1
+post: source/_posts/2019-summary-and-2020-resolutions.md
+context: 回顾刷题、技术学习、实习、科研和沟通困境，并围绕毕业、求职与健康规划 2020 年。
+assets:
+  - id: hero
+    file: source/images/ai/2019-summary-and-2020-resolutions/zh-hero.webp
+    placement: hero
+    alt: Forest 背着算法积木、实习工具和研究论文，站在毕业与求职两座并行闸门前
+    composition: Forest 把过去一年的技术与科研积累装进行囊，面对必须同时通过的毕业和求职双闸门，表现厚积薄发前的不确定性。
+    review_status: approved
+  - id: social-support
+    file: source/images/ai/2019-summary-and-2020-resolutions/zh-social-support.webp
+    placement: before-learning-detached-from-social-interaction
+    alt: Forest 独自在偏斜的细桥上搬运沉重积木，邻近同伴用共享脚手架和绳索伸来支援
+    composition: Forest 起初独自在错误方向延伸狭窄工程，旁边同伴通过共同脚手架和支援绳提供情感与技术支持，表现主动沟通的价值。
+    review_status: approved

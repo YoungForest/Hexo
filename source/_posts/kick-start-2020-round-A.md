@@ -1,6 +1,7 @@
 ---
 title: kick start 2020 round A
 date: 2020-03-22 14:43:50
+description: 一次四题竞赛复盘：预算买房、盘子动态规划、训练间隔二分，以及按共同前缀分组。
 tags:
 - Competitive Programming
 categories:
@@ -18,6 +19,12 @@ Rank 570. 因为大家都是100分，所以最后比拼的都是时间。因为�
 下个月约起来round B呀！4月19号早上7点。
 
 [round A 题目地址](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc7)
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/kick-start-2020-round-A/zh-hero.webp" alt="四格竞赛桌依次摆放便宜房屋、精选盘子、被二分的训练间隔和在深层枝条成束的无字标签" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
 
 ## Allocation
 

@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-183.md
+context: >-
+  周赛复盘涵盖超过剩余和的最小降序子序列、二进制字符串归一、最长不连续三次重复的多样字符串和双方最优取石子的动态规划；作者也记录排名回升。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-183/zh-hero.webp
+    placement: hero
+    alt: Forest 在无字工坊里观察贪心天平、进位珠链、三色编绳和轮流取石子的两名木偶
+    composition: >-
+      使用虚构 Forest。完全无字的连续工坊里，大石被加入天平直至压过余下石篮，黑青珠链经过进位机构逐步缩成一珠，三色编绳由机械间隔器阻止连续三段同色，两名木偶在弯曲石路上轮流取走小把石子；无刻度的琥珀液柱暗示状态回升。无海报、标签、可读文字、字母、数字、公式、品牌、假界面或水印。
+    review_status: approved

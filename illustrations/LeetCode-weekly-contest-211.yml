@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-211.md
+context: >-
+  复盘首尾字符距离、字符串旋转与增量搜索、无冲突组队，以及按公因数阈值建立图连通。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-211/zh-hero.webp
+    placement: hero
+    alt: 相同端点夹住一段丝带，旋转鼓调整珠环，棋子排成无冲突队伍，齿轮越过门槛互相连接
+    composition: >-
+      不使用 Forest。构造横向算法工坊：左侧一条无字纹样丝带由两个相同形状的端点夹住，中间用空白跨度规测量；中左无刻度旋转鼓让珠环循环移动，旁边机械拨杆逐级推高部分珠子；中右不同高度和重量的抽象棋子经排序后组成不互相遮挡的队伍；最右大小齿轮只有共享足够大的轮齿时才越过实体门槛互相咬合。禁止字符、字母、数字、公式、代码、可读文字、商标或水印。
+    review_status: approved

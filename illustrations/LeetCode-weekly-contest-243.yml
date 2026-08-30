@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-243.md
+context: >-
+  四道题把词转换为数值、贪心插入一位、用双优先队列调度服务器，并以动态规划计算准时到会的最少跳过休息次数。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-243/zh-hero.webp
+    placement: hero
+    alt: 彩珠词串在算盘上合并，单珠插入序列取得最大轮廓，任务经双队列分给服务器，旅程跳过部分休息赶上沙漏
+    composition: >-
+      不使用 Forest。设计一座横向四工位调度车间：左侧三条没有字符的彩珠词串进入算盘，前两串的珠值合流后恰好与第三串平衡；中左一颗琥珀珠沿正向或负向珠链寻找第一个能让整体轮廓最大的插槽；中右任务托盘按到达顺序进入等待轨道，空闲服务器由重量和编号隐喻的双层机械优先队列选择，时钟只跳到任务到达或机器释放等事件；右侧旅途跨越多段道路，每站可休息至整点或跳过休息，动态规划层层比较并在沙漏耗尽前找到最少跳过数。禁止人物、字符、字母、数字、钟面刻度、公式、代码、可读文字、竞赛标志、商标或水印。
+    review_status: approved

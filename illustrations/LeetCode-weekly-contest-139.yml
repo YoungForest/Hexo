@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-139.md
+context: >-
+  作者起晚四十分钟才参赛，完成前两题并在赛后解决第三题；内容包括字符串最大公约结构、互补矩阵行、负二进制加法和目标和子矩阵。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-139/zh-hero.webp
+    placement: hero
+    alt: 迟到的 Forest 奔向四座算法装置，拼合周期绳、翻转方格、平衡负进位并框选目标矩形
+    composition: >-
+      使用虚构 Forest。他从凌乱的床边匆忙跑入周日晨光中的无字竞赛工坊，墙上只有没有刻度的圆钟。四座装置分别用共同周期的双色绳段拼成两条长绳、把黑白方格整列翻转成最多相同行、在上下交替的天平上处理向正负方向移动的进位珠，以及用可滑动框在方格板中寻找达到目标重量的矩形。无可读文字、字母、数字、公式、品牌、假界面或水印。
+    review_status: approved

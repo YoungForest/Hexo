@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-biweekly-contest-26.md
+context: >-
+  假期缺席一场后，作者因每日练习和讲座对 DP 与难题更有信心；本场依次使用同字符滑动窗口、最大公约数筛最简分数、携带祖先最大值的树 DFS，以及背包 DP 与贪心构造最大目标整数。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-biweekly-contest-26/zh-hero.webp
+    placement: hero
+    alt: Forest 带着训练积累走过同色珠窗、互质齿轮、祖先最大值树与按成本装配最长牌列的工坊
+    composition: >-
+      使用虚构 Forest。Forest 短黑发、圆眼镜、炭灰外套和青绿色 T 恤，神态从容地沿一条无箭头石路穿过四个大型训练站：同色珠串在固定窗口内保持连续；两枚只有一个共同啮合点的不同齿数齿轮表现最简比例，不出现分数；树上每个更高价值的琥珀果实照亮其下仍不小于祖先最大值的好节点；末端背包工坊按相同成本优先选择更大的无字牌形，并用有限代币装配尽可能长的牌列。禁止可读文字、数字、字母、分数符号、公式、代码、箭头、商标、假界面或水印。
+    review_status: approved

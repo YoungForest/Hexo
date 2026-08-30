@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/Codeforces-Educational-Codeforces-Round-151.md
+context: >-
+  三道题分别通过分类讨论拼出目标、计算两条路径的最长公共段，并贪心寻找不构成子序列的密码。
+assets:
+  - id: hero
+    file: source/images/ai/Codeforces-Educational-Codeforces-Round-151/zh-hero.webp
+    placement: hero
+    alt: 允许积木绕过禁用槽拼成目标，两条路线从原点共享后分叉，机械手在珠链范围内不断选择最靠右的珠子
+    composition: >-
+      不使用 Forest。构造一座横向无字推理庭院：左侧目标容器由允许的几何积木拼满，其中一种形状被放入封闭槽，旁边展示不同可用积木组合对应的可行与不可行状态，但不用勾叉符号；中央两条从同一原点出发的石路先共享一段，再根据两个目标石位于同侧、异侧或相对象限而提前分叉；右侧一条主珠链穿过若干允许颜色范围的拱门，机械手每一步都抓取当前范围内最靠右的可用珠子，试图让另一串珠子无法成为其子序列。禁止人物、字符、字母、数字、密码文字、公式、代码、可读文字、竞赛标志、商标或水印。
+    review_status: approved

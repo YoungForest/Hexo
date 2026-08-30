@@ -1,6 +1,7 @@
 ---
 title: 2020 暑期实习 求职总结
 date: 2020-04-30 16:51:34
+description: 复盘两个月内八家后端实习招聘的失败、暂停、录取和进行中流程，以及从发挥失常中得到的经验。
 tags:
 - intern
 categories:
@@ -10,6 +11,12 @@ translations:
   en: https://youngforest.github.io/en/2020/04/30/2021-summer-intern-interview-summary/
 ---
 从在牛客网发暑期实习的第一篇面经开始，到现在已经过去近2个月了。中间陆陆续续参加了8个厂的招聘。岗位均为后端/服务器开发。base地点为北京。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/2021-summer-intern-interview-summary/zh-hero.webp" alt="Forest 抱着简历穿过八条分叉的面试跑道，失败、暂停、录取和等待的出口同时亮起" width="1536" height="864" decoding="async">
+</figure>
+
+<!-- more -->
 
 ## 失败
 
@@ -37,6 +44,10 @@ translations:
 
 [钉钉一面](https://www.nowcoder.com/discuss/375152)
 
+
+<figure class="editorial-illustration">
+  <img src="/images/ai/2021-summer-intern-interview-summary/zh-successful-landing.webp" alt="Forest 从不断弹回的面试弹珠台中接住一枚琥珀色通行牌，身后仍有几条轨道继续滚动" width="1536" height="864" loading="lazy" decoding="async">
+</figure>
 
 ## 成功上岸
 

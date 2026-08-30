@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-231.md
+context: >-
+  三道赛内题用有限状态检查单段亮灯、按最大步长补足目标和，并结合 Dijkstra 与记忆化搜索统计受限路径；第四题赛后以分组动态规划令所有长度相同片段异或归零。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-231/zh-hero.webp
+    placement: hero
+    alt: 单段灯带通过状态闸门，最大步长砝码补足天平，距离地形上的路径持续下降，分组异或织机在赛后完成接线
+    composition: >-
+      不使用 Forest。构造横向四站无字算法实验室：左侧一排灯泡只能有一段连续点亮，三腔状态闸门在灯段结束后不允许再次点亮；中左目标天平与现有重量有差距，机械手每次放入允许的最大正向或反向砝码，长重量槽暗示求和需防溢出；中右图网络先由终点扩散出距离高度，只有沿距离严格下降的边形成发光路径，旁边小型记忆抽屉保存已统计结果；右侧重复列阵被分成若干同余组，无字异或棱镜和动态规划织机挑选每组状态，晚间台灯表示赛后才完成。禁止人物、字符、字母、数字、正负号、公式、代码、可读文字、箭头、商标或水印。
+    review_status: approved

@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/Mendeley-GB-T-7714-2005.md
+context: >-
+  作者整理毕业论文参考文献中的姓名大小写、多人省略、会议分隔符等格式问题，并提供把知网文献转换为 Bib 记录的办法。
+assets:
+  - id: hero
+    file: source/images/ai/Mendeley-GB-T-7714-2005/zh-hero.webp
+    placement: hero
+    alt: 凌乱的文献卡经过格式校准台，过大的姓名块、多余分隔片和不兼容来源被整理成统一整洁的参考文献
+    composition: >-
+      一台实体参考文献校准台接收凌乱卡片：过大的抽象姓名块、重复分隔片和不同形状的来源卡经过滚轮、裁切槽与转换桥后，成为尺寸统一、排列整洁的空白参考文献卡。只能用无字几何块表现格式问题，不出现真实软件界面、字母、标点、文献内容、平台标志或可读文字。
+    review_status: approved

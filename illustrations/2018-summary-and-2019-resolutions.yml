@@ -1,0 +1,16 @@
+version: editorial-comic-v1
+post: source/_posts/2018-summary-and-2019-resolutions.md
+context: 回顾从缺乏自信到明确后端与计算机系统方向的成长，并为健康、实习、海外交换和专业学习制定 2019 计划。
+assets:
+  - id: hero
+    file: source/images/ai/2018-summary-and-2019-resolutions/zh-hero.webp
+    placement: hero
+    alt: Forest 把三只实习工具箱和杂乱的编译器零件整理成一枚指向计算机系统道路的职业罗盘
+    composition: Forest 在年度工作台上复盘三段实习与早期迷茫，把散乱技术经历重新组织为更清晰的后端和系统方向。
+    review_status: approved
+  - id: 2019-plan
+    file: source/images/ai/2018-summary-and-2019-resolutions/zh-2019-plan.webp
+    placement: before-2019-resolution
+    alt: Forest 将健康、实习、海外交换和系统学习放成四块相互支撑的年度踏脚石
+    composition: 四块无文字踏脚石分别用运动鞋、工具包、旅行箱和系统齿轮表达具体行动，通往开放但不夸张的下一段道路。
+    review_status: approved

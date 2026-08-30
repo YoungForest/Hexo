@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-242.md
+context: >-
+  四道题比较连续双色段、二分最低速度、用单次区间更新优化跳跃可达性，并以线性动态规划求石子博弈的最大分差。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-242/zh-hero.webp
+    placement: hero
+    alt: 尺规比较双色长段，速度闸门逐步收紧，跳板区间只点亮一次，前缀石堆在博弈天平上选择最大分差
+    composition: >-
+      不使用 Forest。设计一座横向四工位算法训练场：左侧一条青白双色长带被尺规分别量出最长连续段；中左道路穿过无刻度速度闸门，二分滑块从快慢两端收紧，寻找能在沙漏结束前到达的最低速度；中右一排跳板由固定最短和最长跨度形成向右移动的照明区间，每块跳板最多被点亮一次，重叠处立即停止重复更新；右侧石堆按前缀依次合并，琥珀与青色两方在天平上轮流选择，折叠的动态规划轨道只保留未来最佳分差。禁止人物、字符、字母、数字、公式、代码、可读文字、竞赛标志、商标或水印。
+    review_status: approved

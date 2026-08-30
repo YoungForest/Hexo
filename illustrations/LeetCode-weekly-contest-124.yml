@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-124.md
+context: >-
+  这次周赛围绕二叉树同层异父节点、从多个源头在网格中传播的腐烂橘子、固定长度区间的贪心翻转，以及相邻和为完全平方数的排列回溯展开。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-124/zh-hero.webp
+    placement: hero
+    alt: 同层不同枝的两枚橘子俯瞰传播网格，一条双色翻转带穿过果园并在方形拱门间组成可行路径
+    composition: >-
+      不使用 Forest。把四题融合成一座斜俯视的算法果园：中央是一棵清晰分层的二叉果树，两枚形状相同的橘子位于同一高度但挂在不同父枝；树下是小型方格果园，数枚深色橘子从不同起点逐层把相邻鲜果染成琥珀色波纹；一条只有深浅两面的布带以固定长度的木框逐段翻面，翻过的两层自动抵消；末端散落的果实沿方形石拱排列，只有相邻组合能点亮拱门。禁止字母、数字、位字符、代码、公式、排名表、可读文字、品牌、商标或水印。
+    review_status: approved

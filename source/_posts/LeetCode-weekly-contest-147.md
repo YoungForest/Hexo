@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 147
 date: 2019-07-28 20:31:35
+description: 连续三赛后的周赛复盘：三步递推、特殊末格路径、最大单边框正方形和石子博弈动态规划。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2019/07/28/LeetCode-weekly-contest-147/
   en: https://youngforest.github.io/en/2019/07/28/LeetCode-weekly-contest-147/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-147/zh-hero.webp" alt="Forest 跑过三段竞赛接力，整理三支递推火炬、特殊末格路径、方框砖阵和石子博弈盘" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 | Rank |	Name |	Score |	Finish Time | 	Q1 (2) |	Q2 (5) |	Q3 (7) |	Q4 (7)|
 |--|--|--|--|--|--|--|--|
 | 175 / 4906 |	YoungForest | 21 | 	1:14:32 | 0:08:18  1  | 0:27:17  1  | 0:41:32 | 1:04:32 |

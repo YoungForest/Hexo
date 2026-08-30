@@ -5,10 +5,13 @@ tags:
 - travel
 categories:
 - dairy
+description: 七天山东行：重游泰山、青岛与济南，在山海泉城之间整理心情，也重新想象未来生活。
 translations:
   zh-CN: https://youngforest.github.io/2018/09/14/shandong-trip/
   en: https://youngforest.github.io/en/2018/09/14/shandong-trip/
 ---
+<figure class="editorial-illustration editorial-illustration--hero"><img src="/images/ai/shandong-trip/zh-hero.webp" width="1536" height="864" alt="Forest 背包走过泰山石阶、青岛海风和济南泉水，展开一段从低落到开阔的七日旅程" decoding="async" fetchpriority="high"></figure>
+
 8月21号 至 8月28号，带着自我放逐的心情，我去山东玩了7天。小时候（2008年）曾跟着爸爸和旅行团来过山东旅游，经典的旅游城市，包括青岛、烟台、威海 和 隔海相望的大连，都逛了一圈。当时年纪尚小，天真烂漫，只觉得不用上学，来到陌生的地方旅游，十分有趣。如今十年过去了，同样的景点，却有不一样的心情和感受。
 
 此次旅行是临时决定的。之前同学叫着去重庆做毕业旅行，我由于种种原因没去成。8月中旬后，经历了情感上的波折和三毛流浪文学的洗脑，恰好有山东的同学(我们可以称之为“女声男”，因为其声音特别有雌性)邀请我去山东一起玩。我便答应了。希望通过此次旅行让心情好过一点，让匆忙的旅行占据自己的大脑，不去想不该想的苦恼。

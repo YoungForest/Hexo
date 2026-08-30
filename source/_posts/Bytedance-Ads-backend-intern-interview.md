@@ -1,5 +1,6 @@
 ---
 title: 字节跳动 暑期实习 广告系统后端开发 面试
+description: "复盘广告系统后端实习面试，并从暴力编辑距离搜索推导出利用 Trie 复用共享前缀动态规划计算的优化。"
 date: 2020-02-27 18:34:40
 tags:
 - ByteDance
@@ -20,6 +21,12 @@ translations:
     * 编辑距离
 
 
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/Bytedance-Ads-backend-intern-interview/zh-hero.webp" alt="Forest 在无标识面试桌前依次面对散列桶、索引书架、并发齿轮、网络桥和字符串拼块" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 算法题问了一道计算[编辑距离(Levenshtein Distance)](https://en.wikipedia.org/wiki/Levenshtein_distance)的问题。编辑距离的问题恰好我在之前度《图解算法》的时候有所涉及，用DP解决即可。但本题目稍微复杂度写，需要在很多字符串中，寻找距离最近的字符串。可以理解为"Fuzzy matching"。
 题面大概为：
 ```
@@ -33,6 +40,10 @@ translations:
 ```
 
 并没有想到很好的解法，暴力解法的话, 比较所有字符串和P的距离 时间复杂度为: O(P.size() * sum(S_i.size()).
+
+<figure class="editorial-illustration">
+  <img src="/images/ai/Bytedance-Ads-backend-intern-interview/zh-trie-distance.webp" alt="多串无字字符积木汇入共享前缀树，距离算珠沿共同分支复用计算并选出最短路径" width="1536" height="864" loading="lazy" decoding="async">
+</figure>
 
 后在网上搜索解法，并不难找到。利用Trie以避免不同字符串的DP重复的计算，时间复杂度为: O(P.size() * Trie的节点数). 虽然最坏时间复杂度没有变好，但是实实在在的优化。应该这就是面试官想要的解法了。
 

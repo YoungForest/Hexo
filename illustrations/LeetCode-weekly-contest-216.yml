@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-216.md
+context: >-
+  周赛四题分别拼接比较字符串数组、贪心构造给定数值的最小字符串、用奇偶前后缀和判断公平数组，以及按任务消耗与最低能量的差值排序来求最小初始能量；比赛时最后一题曾用不正确的贪心却意外通过。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-216/zh-hero.webp
+    placement: hero
+    alt: 碎片带拼成同一条长带，珠槽从末端补足价值，奇偶秤在抽走石块后恢复平衡，任务电池按能量差排序
+    composition: >-
+      不使用 Forest。横向四站无字算法桌：两组不同切分的彩色碎片带分别拼成长带并在终点完全重合；一排空珠槽从最右侧开始尽量装入琥珀珠，左侧保持最小；奇偶两色石块分列前后托盘，抽走一块后左右天平重新比较；多只任务电池各有消耗液面和启动门槛，按二者间隙排序后依次通过，旁边保留一把形状不对却偶然打开旧锁的错误钥匙，再由正确排序机关给出刚好足够的起始能量。禁止人物、字符、字母、数字、公式、代码、箭头、可读文字、假界面、商标或水印。
+    review_status: approved

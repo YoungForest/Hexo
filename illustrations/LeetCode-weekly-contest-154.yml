@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-154.md
+context: >-
+  作者因在比利时时差不合适而错过周赛，赛后复盘字母频数构造、反转嵌套区间、重复拼接数组的最大子段和，以及网络中的关键连接。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-154/zh-hero.webp
+    placement: hero
+    alt: 清晨的 Forest 面对成组气球珠、嵌套反转彩带、重复传送带和只有一座脆弱桥的网络
+    composition: >-
+      使用虚构 Forest。无地点标识的清晨窗边串起四个装置：需要两枚同色珠才能完成的一组无字气球，穿过嵌套圆环后方向翻转的彩带，重复拼接并挑出最亮连续段的传送带，以及多条道路中唯一断开两侧的窄桥；空白钟盘提示时差。无真实地标、可读文字、字母、数字、品牌、假界面或水印。
+    review_status: approved

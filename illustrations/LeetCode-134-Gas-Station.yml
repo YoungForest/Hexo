@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-134-Gas-Station.md
+context: >-
+  作者半年后重新独立解决曾在实习面试中失利的环形加油站问题，从枚举起点的平方复杂度推进到跳过必败区间的线性解法，也记录技术成长带来的复杂情绪。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-134-Gas-Station/zh-hero.webp
+    placement: hero
+    alt: Forest 在环形能量站轨道上越过失败区段，身后是纠缠旧路线，前方是一圈清晰的单向通路
+    composition: >-
+      使用虚构 Forest。抽象环形道路由无标识能量罐补充琥珀珠、各段消耗青色珠；某一段余额不足后，沿途多个候选起点同时收起，新的起点直接落在失败段之后。Forest 手持简洁路线绳，身后保留一小段纠缠旧线，前方成为单圈清晰路径，表达半年后的理解和成长。无公司标识、真实加油站、可读文字、数字、代码、品牌、假界面或水印。
+    review_status: approved

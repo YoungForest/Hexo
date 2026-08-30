@@ -1,0 +1,19 @@
+version: editorial-comic-v1
+post: source/_posts/Django-note.md
+context: >-
+  作者回顾与队友用 Django 完成数据库课程设计的经历：借助完整框架快速搭建前后端，在两天期限和最后几小时的压力中补齐功能与文档。
+assets:
+  - id: hero
+    file: source/images/ai/Django-note/zh-hero.webp
+    placement: hero
+    alt: 年轻 Forest 和队友打开一只大型框架工具箱，把数据库、后端和页面模块迅速装成一座小型充电站模型
+    composition: >-
+      使用年轻版虚构 Forest 和一位不具身份特征的队友。两人打开一只无品牌的大型框架工具箱，用预制模块迅速拼出数据库底座、后端管道和简洁页面，最终形成小型充电站模型，表现框架带来的事半功倍。不要出现 Django 标志、代码、可读文字或假界面。
+    review_status: approved
+  - id: deadline-rescue
+    file: source/images/ai/Django-note/zh-deadline-rescue.webp
+    placement: inline-before-time-allocation
+    alt: 倒计时时钟逼近终点，Forest 与队友在工作台两侧同时修补功能模块和散落文档，终于让课程项目亮起
+    composition: >-
+      画最后几小时的协作救场：大型无字倒计时钟逼近终点，Forest 在一侧修补功能模块，队友在另一侧整理散落文档并接上两个新部件，中央课程项目刚刚亮起。保持轻微幽默，不贬低任何人；不要画文字、成绩、真实界面或品牌。
+    review_status: approved

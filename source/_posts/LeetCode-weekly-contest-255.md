@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 255
 date: 2021-08-23 11:39:46
+description: 三道赛内题求最大公约数、寻找缺失二进制串并用动态规划逼近目标；第四题只记录放弃与赛后参考。
 tags:
 - Competitive Programming
 categories:
@@ -14,6 +15,13 @@ translations:
 | 406 / 11837 | YoungForest | 	12 | 	0:36:07 | 0:01:21 | 0:09:54 |  0:26:07  🐞2 | null |
 
 本周Q4极其难，思考了半个小时果断放弃，陪npy做可乐鸡翅去了。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-255/zh-hero.webp" alt="最大最小石块进入公约数齿轮，两色珠阵留下唯一空槽，每行取一块逼近目标天平，第四张工作台停在赛后参考阶段" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 有趣的是，LC国服赛后挂了。取不到成绩，残酷榜默认0分。心疼国服的同学们。
 虽然之后恢复了，我上面的成绩就是恢复之后，加上国服的同学后的排名。
 因为今天其实有Google Kickstart比赛，因此参赛人数有所减少。

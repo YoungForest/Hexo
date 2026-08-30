@@ -1,6 +1,7 @@
 ---
 title: 2022年终总结 与 2023新年展望
 date: 2022-12-25 10:59:13
+description: 回顾从北京封控、居家办公和欧洲求职，到离职搬迁都柏林的一年，并展望职业、健康、家庭与学习。
 tags:
   - life
   - 年终总结
@@ -11,6 +12,12 @@ translations:
   en: https://youngforest.github.io/en/2022/12/25/2022-summary-and-2023-resolutions/
 ---
 转身之间，2022年已经要过去了。不知道是因为疫情限制地原因，还是因为自己本身年级大了。感觉现在是时光飞逝，真的如白驹过隙。古人诚不欺我。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/2022-summary-and-2023-resolutions/zh-hero.webp" alt="Forest 拖着行李穿过由日历页组成的窄门，从封闭的北京房间走向雨后都柏林公寓的晨光" width="1536" height="864" decoding="async">
+</figure>
+
+<!-- more -->
 
 之前的年终总结：
 - [2021年终总结](https://youngforest.github.io/2021/12/28/2021-summary-and-2022-resolutions/)
@@ -26,6 +33,10 @@ translations:
 
 这些重要的博文都放在我博客的[dairy分类下](https://youngforest.github.io/categories/dairy/)。
 
+
+<figure class="editorial-illustration">
+  <img src="/images/ai/2022-summary-and-2023-resolutions/zh-personal-review.webp" alt="Forest 在居家办公桌、面试训练跑道、打包纸箱和国际化办公室之间接力前进" width="1536" height="864" loading="lazy" decoding="async">
+</figure>
 
 ## 2022年个人回顾
 
@@ -68,6 +79,10 @@ translations:
 首先，因为准备欧洲的面试，学习了大量面试相关的知识。包括 刷题、系统设计、和 行为问题。因为面试都是英文的，所以花了大量时间提升英语，尤其是口语表达和交流能力。DDIA也看了大半，Grokking the System Design Interview 看了一小部分。
 其次，工作上也学到大量的知识。我本人是十分喜欢学习新知识的，获得新知识的快感类似购物和游戏。在工作中需要的技能，我一般是倾向于花更多的时间系统学习下的。比如 对Java看了 Effective Java，Core Java，对C#看了 More Effective C#。
 最后，自己感兴趣的杂事。尤其是最后2个月来到欧洲这边，空余时间空前多和对知识的热爱也很旺盛。主要是 人体简史，极简欧洲史，和 量子科学史话。除此之外，还看了不少经典电影，豆瓣[TOP250](https://movie.douban.com/top250).
+
+<figure class="editorial-illustration">
+  <img src="/images/ai/2022-summary-and-2023-resolutions/zh-good-life-2023.webp" alt="Forest 同时照料代码树、运动鞋、家庭暖灯和书本幼苗，让四条路径汇入平稳的生活河流" width="1536" height="864" loading="lazy" decoding="async">
+</figure>
 
 ## 2023年美好生活的向往
 

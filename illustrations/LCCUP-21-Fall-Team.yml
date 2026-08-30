@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LCCUP-21-Fall-Team.md
+context: >-
+  题解涵盖树上颜色统计、自行车状态搜索、逆推志愿者人数，以及栈队选择的动态规划。
+assets:
+  - id: hero
+    file: source/images/ai/LCCUP-21-Fall-Team/zh-hero.webp
+    placement: hero
+    alt: 彩色焰火树被逐枝统计，空自行车穿越起伏赛场，场馆令牌逆向流动，安检通道在栈与队列间分流
+    composition: >-
+      不使用 Forest。设计一座无字秋季赛场：左侧一棵二叉焰火树的节点绽放有限种琥珀和青绿火花，收集盘按不同颜色去重；中央一辆无人自行车穿过高低地形与障碍格，速度珠随高度变化但只标记最终恰好回到基础速度的位置；右侧相连场馆中的志愿者令牌沿计划箭头逆向回流以恢复初始人数；前景安检装置允许每个容量盒选择堆叠或排队两种路径并在出口汇合。禁止人物、文字、数字、队名、排名、公式、代码、商标或水印。
+    review_status: approved

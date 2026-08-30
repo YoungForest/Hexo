@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-142.md
+context: >-
+  作者因排序比较器没有保持严格有序而反复崩溃，随后复盘大样本统计、拼车容量模拟、山脉数组中的三次二分搜索和用语法分析完成花括号展开。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-142/zh-hero.webp
+    placement: hero
+    alt: Forest 修正互相矛盾的排序天平，并操作统计量杯、拼车站台、山路探针和枝状组合解析器
+    composition: >-
+      使用虚构 Forest。前景一副原本让两边同时获胜、因此散架的排序天平被 Forest 调成严格单向。周围四个小型实体任务：从巨大珠样本箱读取范围、中位平衡与最常颜色的统计台；车辆模型沿站台拾取乘客筹码并检查容量；三枚二分探针先找山峰再搜索两侧；枝状解析器把并集盒彩带与组合齿轮逐层展开。无可读文字、字母、数字、公式、品牌、假界面或水印。
+    review_status: approved

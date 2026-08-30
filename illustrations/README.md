@@ -25,6 +25,9 @@ so their settings and cultural cues can differ.
 - Files live under `source/images/ai/<slug>/`.
 - A manifest named `illustrations/<slug>.yml` records context, placement, alt
   text, prompt notes, and review status.
+- `illustrations/catalog.yml` is the generated cross-post index used to count
+  completed work and prevent duplicate selection; per-post manifests remain
+  the source of truth.
 - Only assets with `review_status: approved` may be referenced by a post.
 
 Use this markup for a hero:
@@ -54,3 +57,10 @@ Use this markup for an inline transition illustration:
 5. Convert the accepted image to the file contract above and set its status to
    `approved` before inserting the figure into Markdown.
 6. Rejected images are regenerated with one targeted prompt change.
+
+## Backlog audit
+
+Before proposing another legacy-post batch, consult
+`../../../review/editorial-comic-backlog.yml`. It records intentionally skipped
+posts and paused redraws so they are not selected repeatedly. Per-post manifests
+and `catalog.yml` remain the source of truth for completed artwork.

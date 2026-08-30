@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 208
 date: 2020-09-30 08:32:45
+description: 停更三个月后重拾周赛复盘：文件层级、逐轮模拟、树的前序遍历与子集枚举，也记录实习和求职阶段的节奏变化。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2020/09/30/LeetCode-weekly-contest-208/
   en: https://youngforest.github.io/en/2020/09/30/LeetCode-weekly-contest-208/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-208/zh-hero.webp" alt="Forest 从论文与实习工具堆旁重新启动竞赛工坊，文件阶梯、转轮、家族树和均衡楼群依次亮起" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 距上次写周赛总结已经过去3个半月了。坚持了半年的写周赛题解中断确实挺可惜的，但却是当时的不得已之举。7月份一直在忙小论文的事儿，8月份接着就是开题和中期，9月份正式开学，并且从7月初就在Amazon开始了暑期实习。任务确实比之前要多，当时因为事务压身，感觉精力不足以把所有事都做好。因为每次周赛写题解都要花大半天的时间，再加上打周赛，基本1天时间。打比赛和写题解对精力的损耗也是不言而喻的。虽然这3个月题解断更了，但比赛还是在照常的打，毕竟加入了残酷刷题群，有更多的人一起打周赛，每周打比赛的反馈和热爱也更强了。
 这3个月，我残酷群的排名也是起起落落落落落...最好时有15名，最差已经90名了。总的感觉是，自己更擅长常规不难的题目。遇到之前没见过或做的不多的就很容易最后一题做不出来。
 

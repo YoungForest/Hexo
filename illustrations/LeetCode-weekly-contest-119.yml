@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-119.md
+context: >-
+  作者在周赛中因粗心、暴力超时和数据结构不熟而失利，复盘最近点、最大三角形、可整除子数组的前缀余数和奇偶跳跃的有序查找。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-119/zh-hero.webp
+    placement: hero
+    alt: Forest 在诊断台修正超时赛道，筛选近点、拼最大三角形、配对余数珠并沿有序台阶奇偶跳跃
+    composition: >-
+      使用虚构 Forest。他在一座算法诊断台前检查一条因暴力绕圈而发热的赛道，并把一枚写错位置但没有字符的齿轮重新装正。四个模型表现：从散布在原点环周围的圆珠中收集最近几枚、用不同长度木杆拼出周长最大的有效三角形、让具有相同颜色余数的前缀珠成对连接从而形成可整除区间、在一列高低不一的台阶上借助有序升降机关交替跳向最近不小于或不大于的下一步。神情是诚实复盘而非挫败。无可读文字、字母、数字、公式、商标、品牌、假技术界面或水印。
+    review_status: approved

@@ -5,6 +5,7 @@ tags:
 - Competitive Programming
 categories:
 - KickStart
+description: 清晨六点参加年度最后一轮算法竞赛，在旅行与赶作业之间复盘全年心态，并记录 H 指数、对角翻转和排列整除三道题的思路。
 translations:
   zh-CN: https://youngforest.github.io/2019/11/25/kick-start-2019-round-H/
   en: https://youngforest.github.io/en/2019/11/25/kick-start-2019-round-H/
@@ -24,6 +25,12 @@ translations:
 最近还意外地收获了Google北京 A day with Google的邀请。无奈我不再北京，只能拒绝了。另外，我还通过邮件向Google反映了Google所有招聘相关的Form中My University中都没有 Beihang University的选项（我猜测这可能是因为北航在美国商务部的黑名单上的原因）。Google很快解决了，我航以后再也不是野鸡大学了。
 
 本次做出签到题和第3题的小测试集1，算是正常发挥吧。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/kick-start-2019-round-H/zh-hero.webp" alt="黎明中的三座实体谜题台分别让空白论文阶梯上升、黑白斜格翻转，并让两列彩色圆片重新取得平衡" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
 
 ## A. H-index
 
@@ -348,4 +355,3 @@ int main() {
     }
 }
 ```
-

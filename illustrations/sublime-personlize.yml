@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/sublime-personlize.md
+context: >-
+  作者经过半年摸索，把代码编辑器按不同语言和配色偏好逐步调整成适合日常编码的个性化工作环境；正文原有配色截图继续保留。
+assets:
+  - id: hero
+    file: source/images/ai/sublime-personlize/zh-hero.webp
+    placement: hero
+    alt: 编辑器工作台用不同工具抽屉适配多种编程语言，并通过彩色滤镜调出舒适的代码配色
+    composition: >-
+      不使用 Forest。把代码编辑器表现为一张整洁的手工工作台：左侧几个无文字的抽屉以不同几何工具暗示不同编程语言，各自能调节缩进和工具组合；中央是一张只有抽象线条的空白代码纸；右侧一组炭灰、琥珀和青绿色透明滤镜被依次放到台灯前，照出更舒适的深色工作区。带一点反复试配后终于顺手的幽默感。不要复制真实编辑器界面、真实主题、应用图标、品牌、代码、文字、数字、商标或水印。
+    review_status: approved

@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-biweekly-contest-27.md
+context: >-
+  手速场四题依次把无限次反转归结为排序后比较、用滑动窗口收集所有固定长度二进制组合、用记忆化 DFS 回答大量先修关系查询，以及用双机器人三维 DP 拾取网格樱桃；重点是识别问题本质。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-biweekly-contest-27/zh-hero.webp
+    placement: hero
+    alt: 两列彩块翻转后归于同序，双色珠窗收集所有组合，课程树复用记忆路径，双机器人穿过樱桃网格
+    composition: >-
+      不使用 Forest。横向四站实体算法工坊：两列不同初始次序的彩块经过可翻转托盘后排成完全相同的次序；一条只有深浅两色的珠带穿过固定宽度窗口，窗口下方收集若干不同组合的小盘；无文字课程节点组成有向树网，已经走过的路径被青绿色记忆石标记以供重复查询；两个小型无脸机械采摘器从网格顶端分开向下，在不重叠时拾取更多樱桃。禁止可读文字、0/1 数字、字母、公式、代码、箭头、商标、假界面或水印。
+    review_status: approved

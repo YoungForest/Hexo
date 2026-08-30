@@ -1,0 +1,16 @@
+version: editorial-comic-v1
+post: source/_posts/Bytedance-new-graduate-interview.md
+context: 一次准备仓促的后端开发提前批面试，涵盖算法优化和多项计算机基础，也留下应提前系统复习的教训。
+assets:
+  - id: hero
+    file: source/images/ai/Bytedance-new-graduate-interview/zh-hero.webp
+    placement: hero
+    alt: Forest 匆忙走向面试椅，手里的算法工具已经整理好，身后的计算机基础工具箱却还有多个空槽
+    composition: Forest 带着一件准备充分的算法工具走向简洁面试场景，另一只装有进程、网络和数据结构抽象零件的基础工具箱明显未整理完，不出现公司标志或界面。
+    review_status: approved
+  - id: review-plan
+    file: source/images/ai/Bytedance-new-graduate-interview/zh-review-plan.webp
+    placement: before-summary
+    alt: Forest 把散落的系统、网络、数据库和语言基础卡片整理成一条通往下一次面试的三段复习桥
+    composition: 用四组无文字的实体复习卡片和一座三段式小桥表现把零散基础知识整理成短期复习计划，终点只放一把空面试椅。
+    review_status: approved

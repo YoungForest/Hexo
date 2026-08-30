@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-153.md
+context: >-
+  作者记录出国前最后一场周赛和之后受时差影响只能补题的变化，文章涵盖环线公交最短距离、日期对应星期、允许删除一次的最大子段和，以及通过替换让数组严格递增。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-153/zh-hero.webp
+    placement: hero
+    alt: Forest 提着空白行李箱站在环形车站、无字日期轮、可移去单珠的轨道和逐级换珠阶梯之间
+    composition: >-
+      使用虚构 Forest。旅途候车空间以双向环形站点表示公交最短路，以无字季节轮和七枚灯珠表示日期映射，以长珠轨上可移除的一枚暗珠表示一次删除的最大子段，以从备用珠架替换后严格上升的阶梯表示数组转换；空白行李箱交代迁移语境。无真实车站、地图文字、字母、数字、品牌、假界面或水印。
+    review_status: approved

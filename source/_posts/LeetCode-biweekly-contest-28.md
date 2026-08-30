@@ -1,6 +1,7 @@
 ---
 title: LeetCode biweekly contest 28
 date: 2020-06-15 12:53:36
+description: 双周赛复盘：单调栈、子矩形更新、两段不重叠目标子数组与邮箱区间 DP，也复盘缓存参数错误和超时。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2020/06/15/LeetCode-biweekly-contest-28/
   en: https://youngforest.github.io/en/2020/06/15/LeetCode-biweekly-contest-28/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-biweekly-contest-28/zh-hero.webp" alt="折扣石堆、可重铺方格、两段分离轨道与围绕中位房屋分配的邮箱组成一座算法街区" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 | Rank |	Name |	Score |	Finish Time | 	Q1 (3) |	Q2 (4) |	Q3 (5) |	Q4 (6)|
 |--|--|--|--|--|--|--|--|
 | 448 / 8571 | YoungForest | 14 | 1:22:34 | 0:07:28 | 0:11:43 | null | 1:17:34  1 |

@@ -1,0 +1,10 @@
+version: editorial-comic-v1
+post: source/_posts/Guns-Germs-and-Steel.md
+context: 从农业、可驯化动植物、大陆轴线、传播条件和人口规模理解不同社会长期发展的地理根源。
+assets:
+  - id: hero
+    file: source/images/ai/Guns-Germs-and-Steel/zh-hero.webp
+    placement: hero
+    alt: 一张浮雕世界地图上的种子、牲畜和技术齿轮沿不同大陆轴线传播，速度受山脉、沙漠与海洋影响
+    composition: 不画国界和人物，以东西向顺畅通道和南北向气候障碍的对比表现地理、生态与传播速度对历史积累的影响。
+    review_status: approved

@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-biweekly-contest-19.md
+context: >-
+  双周赛复盘涵盖将数归零、固定长度滑动窗口、钟表指针夹角和通过相同值跳转的最短路径；作者也记录居家参赛、状态恢复的经历。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-biweekly-contest-19/zh-hero.webp
+    placement: hero
+    alt: Forest 在居家工作台前观察归零筹码、滑动称重窗、空白钟面和颜色传送石路径
+    composition: >-
+      使用虚构 Forest。安静的居家工作台串起四个装置：筹码堆反复折半或减少直到落空，琥珀边框沿珠列滑动并称量窗口，空白钟面上的双针形成夹角，小小路径角色在相邻石块和同色传送门之间跳跃；门边购物袋轻描淡写地交代居家语境。无疾病恐吓、可读文字、数字、品牌、假界面或水印。
+    review_status: approved

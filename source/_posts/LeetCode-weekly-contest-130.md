@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 130
 date: 2019-03-31 12:43:43
+description: 常规题周赛复盘：二进制前缀余数、负二进制、下一个更大链表节点与边缘搜索飞地。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2019/03/31/LeetCode-weekly-contest-130/
   en: https://youngforest.github.io/en/2019/03/31/LeetCode-weekly-contest-130/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-130/zh-hero.webp" alt="Forest 在难度坡道前操作余数转盘、负基底天平、单调链珠和从边缘涌入的方格水流" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 | Rank |	Name |	Score |	Finish Time | 	Q1 (4) |	Q2 (5) |	Q3 (5) |	Q4 (5)|
 |--|--|--|--|--|--|--|--|
 |258 / 5236|	YoungForest |	19|	0:57:19 |	0:06:23 |	0:25:41 |	0:36:25	|0:52:19(1) |

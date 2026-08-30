@@ -1,0 +1,16 @@
+version: editorial-comic-v1
+post: source/_posts/suzhou-microsoft-interview.md
+context: 复盘一次暑期实习的三轮技术面试，从尾递归、内存复制、树和数组，到 SQL 与舍入规则，最终虽未录用，却获得了关于澄清问题、表达思路和从错误中学习的直接反馈。
+assets:
+  - id: hero
+    file: source/images/ai/suzhou-microsoft-interview/zh-hero.webp
+    placement: hero
+    alt: Forest 依次经过三座技术工作台，处理收束的递归线圈、重叠内存积木、树形路径，以及汇合的数据卡片和舍入天平
+    composition: 让人类青年 Forest 沿一条连续路线经过三座无编号工作台，第一座包含从分叉收束为循环的递归线圈和重叠内存块，第二座是树与可转弯路径，第三座把三叠数据卡汇合并在天平上舍入；不画公司标志或界面。
+    review_status: approved
+  - id: learning-loop
+    file: source/images/ai/suzhou-microsoft-interview/zh-learning-loop.webp
+    placement: before-result
+    alt: 一扇空白门暂时关闭后，Forest 把被退回的拼块送入放大镜和回环轨道，重新搭成更清楚、更稳固的解决方案
+    composition: 在一扇无标识的关闭门前，让 Forest 不再丢弃失败拼块，而是用放大镜检查，再经回环轨道送回工作台，补上提问桥梁、表达管道和复盘齿轮，最终形成更稳固的结构；把拒绝画成可利用的反馈。
+    review_status: approved

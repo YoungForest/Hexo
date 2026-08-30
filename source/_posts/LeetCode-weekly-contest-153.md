@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 153
 date: 2019-09-15 20:31:56
+description: 周赛复盘：环线公交最短路、日期星期、允许一次删除的最大子段和与严格递增替换，也记录出国前后的参赛变化。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2019/09/15/LeetCode-weekly-contest-153/
   en: https://youngforest.github.io/en/2019/09/15/LeetCode-weekly-contest-153/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-153/zh-hero.webp" alt="Forest 提着空白行李箱站在环形车站、无字日期轮、可移去单珠的轨道和逐级换珠阶梯之间" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 | Rank |	Name |	Score |	Finish Time | 	Q1 (3) |	Q2 (4) |	Q3 (5) |	Q4 (7)|
 |--|--|--|--|--|--|--|--|
 | 392 / 6212 |	YoungForest | 	12	 | 	0:41:42 | 0:06:46  1 | 0:16:11 | 0:36:42 | null |

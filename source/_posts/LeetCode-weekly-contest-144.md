@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 144
 date: 2019-07-07 19:18:15
+description: 因托福考试错过直播后的周赛补题：地址替换、航班差分、删点成林与嵌套括号分组。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2019/07/07/LeetCode-weekly-contest-144/
   en: https://youngforest.github.io/en/2019/07/07/LeetCode-weekly-contest-144/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-144/zh-hero.webp" alt="Forest 离开无字考场后，整理替换珠链、航班增减轨道、分裂树木和两组嵌套圆环" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 今早由于参加托福考试，无法像往常一样参加周赛。赛后补题。
 
 

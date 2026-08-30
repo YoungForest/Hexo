@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 235
 date: 2021-04-05 12:12:49
+description: 文章截断句子、去重活跃分钟、用贪心和二分搜索降低绝对差，并记录子序列最大公约数题的超时尝试。
 tags:
 - Competitive Programming
 categories:
@@ -12,6 +13,12 @@ translations:
 | Rank |	Name |	Score |	Finish Time | 	Q1 (3) |	Q2 (5) |	Q3 (5) |	Q4 (6)|
 |--|--|--|--|--|--|--|--|
 | 889 / 11443 | YoungForest | 12 | 0:27:18 | 0:01:52 | 0:07:49 | 0:27:18 | null |
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-235/zh-hero.webp" alt="长句纸带在指定词后截断，用户时钟印章去重，滑尺寻找最接近石块，公约数分支网因路径过多而拥堵" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
 
 ## 1816. Truncate Sentence
 

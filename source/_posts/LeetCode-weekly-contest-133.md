@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 133
 date: 2019-04-21 20:50:55
+description: 迟到后的周赛复盘：矩阵距离排序、两城调度、两个不重叠子数组与反向字符流查询。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2019/04/21/LeetCode-weekly-contest-133/
   en: https://youngforest.github.io/en/2019/04/21/LeetCode-weekly-contest-133/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-133/zh-hero.webp" alt="迟到的 Forest 调整方向，按距离铺方格、分派两座城市、框选两段轨道并反向查询字符树" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 | Rank |	Name |	Score |	Finish Time | 	Q1 (4) |	Q2 (5) |	Q3 (5) |	Q4 (5)|
 |--|--|--|--|--|--|--|--|
 |864 / 4860	|	YoungForest |	14 | 	1:10:35 | 0:42:32 | 0:54:38 |	1:10:35 | null |

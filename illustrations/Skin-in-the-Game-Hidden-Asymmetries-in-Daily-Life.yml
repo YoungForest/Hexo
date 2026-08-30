@@ -1,0 +1,10 @@
+version: editorial-comic-v1
+post: source/_posts/Skin-in-the-Game-Hidden-Asymmetries-in-Daily-Life.md
+context: 讨论决策者与后果分离造成的非对称风险，以及分散权力、承担损失和生存优先。
+assets:
+  - id: hero
+    file: source/images/ai/Skin-in-the-Game-Hidden-Asymmetries-in-Daily-Life/zh-hero.webp
+    placement: hero
+    alt: 高台上的手拨动巨大杠杆，风险沿机械臂落向远处人群，而近处的小杠杆由操作者亲自承担重量
+    composition: 用两套尺度相反的杠杆对比不承担后果的集中决策与风险共担的小范围决策。
+    review_status: approved

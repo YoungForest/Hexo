@@ -5,11 +5,19 @@ tags:
 - life
 categories:
 - dairy
+description: 23 岁生日写下的北漂生活、家庭温暖、学习进展与下半年目标复盘。
 translations:
   zh-CN: https://youngforest.github.io/2019/07/15/Happy-birthday-2019/
   en: https://youngforest.github.io/en/2019/07/15/Happy-birthday-2019/
 ---
 今年仍然是在学校度过了自己23岁的生日。下午和舍友出去看了电影《狮子王》，晚上去 城南旧事 吃了“北京菜。算是庆祝了自己的生日吧。祝我生日快乐。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/Happy-birthday-2019/zh-hero.webp" alt="Forest 在宿舍小桌前守着一块无字蛋糕，窗外炎热城市与远处温暖家灯被一条细线连接" width="1536" height="864" decoding="async">
+</figure>
+
+<!-- more -->
+
 自从18岁之后离开家，独自来到帝都读书。过生日就不再像在家里那么热闹和有人情味了。在外地漂泊，虽说还有同学或朋友祝你生日快乐，亲近的还会陪伴我一起过生日，但家人的温暖却再也没有了。大家来来往往，身边的人也基本只能陪伴一段时间。每每此时，都会怀念小时候。
 
 最近北京的天气特别热，不由的心情烦躁。持续性混吃等死，间断性踌躇满志。经常思考些所谓的人生意义，努力的价值，自己的目标。

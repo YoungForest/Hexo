@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/guangzhou-tour.md
+context: >-
+  作者与同伴从北京出发，乘高铁依次游览广州、澳门和香港；旅途既有早茶、城市交通与久违的放松，也有消费、迷路和疲惫，最终回到北京重新进入学习与工作的节奏。正文实拍继续承担地点记录。
+assets:
+  - id: hero
+    file: source/images/ai/guangzhou-tour/zh-hero.webp
+    placement: hero
+    alt: Forest 和同伴沿一条南方旅行路线经过早茶蒸笼、渡船与陡坡电车，最后乘北行列车回到书桌前
+    composition: >-
+      使用虚构 Forest，不是真人肖像：短深色头发、圆眼镜、炭灰色外套、低饱和青绿色上衣；同行者只用简化背影。一个打开的旅行箱化成连续弯曲路线，串起三个大而清晰的体验节点：悠闲的茶壶与点心蒸笼、隔水相望的渡船与克制摆放的无标记筹码、在密集城市间攀爬的陡坡电车和窄小房间。路线末端是一列北行列车，Forest 收起玩心，把空白笔记本放回书桌。保留轻微自嘲感，但不画真实地标、赌场、乐园角色、产品、品牌、金额、车站牌、地图文字、可读文字、数字、商标或水印。
+    review_status: approved

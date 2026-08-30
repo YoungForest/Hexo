@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 232
 date: 2021-03-14 15:36:47
+description: 四道题判断一次交换、寻找星图中心、用优先队列提高平均通过率，并从固定下标扩展好子数组。
 tags:
 - Competitive Programming
 categories:
@@ -15,6 +16,10 @@ translations:
 
 昨天出去修Mac，因为屏幕一直闪。果然卖Apple的产品Apple Care是必须的。上次修了键盘，这次修屏幕，4个面都换新的了。在外面跑了一天，特别累。今早起来晚，一起来就开始比赛了，一口水一口饭都没吃。
 继连续2周3题后，终于4题了。一开始我还挺得意，觉得这周应该不用打卡了。后来发现小丑竟然是我自己。其他选手竟然认为本场是手速场。我T3 T4想复杂了，速度慢了些，没进前500. 残酷名次也从10+退到了40+。下周rating要掉了。没想到3题涨分，4题掉分。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-232/zh-hero.webp" alt="两条珠链交换错位珠后对齐，星形辐条汇入中心轴，奖励珠优先投入收益最大杯，双滑块从锚点向两侧扩展" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
 
 <!-- more -->
 

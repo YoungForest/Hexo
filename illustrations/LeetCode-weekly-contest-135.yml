@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-135.md
+context: >-
+  作者首次进入周赛前二百，并在结束前完成最后一题；复盘包括三点共线、二叉搜索树累加、凸多边形最小三角剖分和移动石头连续排列。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-135/zh-hero.webp
+    placement: hero
+    alt: Forest 冲过无字终点后复盘三点几何、累加树、三角剖分和连续石子轨道
+    composition: >-
+      使用虚构 Forest。他刚在最后一刻推着小车越过没有名次文字的终点线，随后停下来观察四个实体模型：三枚点钉用面积框判断是否共线、二叉树上的琥珀重量从较大一侧向节点累加、凸多边形被不同对角线剖成代价不同的三角片，以及几块石头只移动端点后排成连续轨道。表达首次突破与赛后冷静复盘。无可读文字、字母、数字、公式、品牌、假界面或水印。
+    review_status: approved

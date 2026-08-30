@@ -6,6 +6,7 @@ tags:
 - 游记
 categories:
 - dairy
+description: 记录五个月比利时交换生活：在列日体验城市安全、慢节奏生活、英语课程与欧洲旅行，也重新理解学习和工作之外的日常。
 translations:
   zh-CN: https://youngforest.github.io/2019/09/17/Beligum/
   en: https://youngforest.github.io/en/2019/09/17/Beligum/
@@ -13,6 +14,12 @@ translations:
 今年的下半年，有幸有机会来比利时交换一学期，大概5个月时间。
 这是我首次出国这么长时间。之前也是参加学校的项目，去英国游学了半个月，详情可以看我3年前写的[英伦游学所见所思](https://youngforest.github.io/2016/08/25/my-britain-trip/)。
 接下来，我从城市、生活、学习和旅行四个方面总结我的交换项目。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/Beligum/zh-hero.webp" alt="Forest 沿着一条交换生活路线前行，依次经过礼让行人的小城、雨天住处、山坡课堂和通往远方的车站" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
 
 ## 城市
 

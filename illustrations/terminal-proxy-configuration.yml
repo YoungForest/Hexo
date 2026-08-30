@@ -1,0 +1,10 @@
+version: editorial-comic-v1
+post: source/_posts/terminal-proxy-configuration.md
+context: 文章记录把终端流量经本地代理和缓存中继转发出去的配置过程，并通过公网地址测试、环境变量、别名与 Git 配置让代理按需使用。
+assets:
+  - id: hero
+    file: source/images/ai/terminal-proxy-configuration/zh-hero.webp
+    placement: hero
+    alt: 拥堵码头上的数据包经过青绿色中继泵和琥珀色代理隧道，汇入畅通的远端网络轨道
+    composition: 用机械物流隐喻代替终端界面：左侧拥堵码头堆着无字数据包，中间青绿色中继泵通过一个可切换阀门把它们送入琥珀色隧道，右侧变成流畅的远端轨道；表现本地代理、缓存中继和按需开关，不画命令、地址或品牌。
+    review_status: approved

@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-239.md
+context: >-
+  四道题分别单次扫描目标距离、回溯切分递减序列、用下一个排列与贪心相邻交换，并离线匹配覆盖查询的最短区间。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-239/zh-hero.webp
+    placement: hero
+    alt: 测距车沿轨道寻找最近目标，长条回溯切成递减石阶，珠序列换到目标排列，短区间优先覆盖查询钉
+    composition: >-
+      不使用 Forest。设计一座横向四工位无字算法站：左侧测距小车沿单轨一次前进，在多个相同形状目标中记录离起点最近的距离；中左一条连续材料带在分叉刀具处尝试不同切点，只有能组成严格逐级下降石阶的切法继续；中右珠子排列先经棘轮连续推进若干个字典序状态，再从左到右把最近的匹配珠通过相邻交换搬到目标槽；右侧不同跨度的透明拱带按长度从短到长进入，覆盖范围内尚未解决的查询钉被多重有序托盘二分找到并移走，最短合格拱带留作答案。禁止人物、字符、字母、数字、公式、代码、可读文字、竞赛标志、商标或水印。
+    review_status: approved

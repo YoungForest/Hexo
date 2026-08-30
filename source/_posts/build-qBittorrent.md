@@ -1,5 +1,6 @@
 ---
 title: MAC 手动编译 build qBittorrent
+description: "一次 macOS 更新后 qBittorrent 无法启动，我保留安全检查并手动编译，记录 Qt、Boost 与 libtorrent 的踩坑过程。"
 date: 2021-02-27 17:10:01
 tags:
 - 折腾
@@ -19,6 +20,12 @@ translations:
 - 自己手动编译一遍应用
 
 由于某些原因，我无法对MAC做过多的系统更改。只好尝试第二个解决方案。事实证明，手动编译qBittorrent并不简单，一下午就此度过，电影也不用看了。为方便有相同问题的同学参考，我记录我的解决方案于此。因为在我编译构建过程中，网上并没有类似的教程或是参考，而且确实有不少坑。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/build-qBittorrent/zh-hero.webp" alt="Forest 在无标识电脑前组装层层依赖齿轮，窗外电影放映光束已经渐渐熄灭" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
 
 ## 步骤
 
@@ -61,6 +68,10 @@ Error: Directory not empty @ dir_s_rmdir - /usr/local/opt/openssl
 brew cleanup
 sudo rm -rf /usr/local/Cellar/openssl/1.0.2q
 ```
+
+<figure class="editorial-illustration">
+  <img src="/images/ai/build-qBittorrent/zh-dependency-chain.webp" alt="一组大小不合的依赖齿轮卡在编译传动链中，Forest 正在工作台上手工打磨替换其中一枚" width="1536" height="864" loading="lazy" decoding="async">
+</figure>
 
 在我`brew install libtorrent-rasterbar`后再`./configure`时，仍然会发生该库版本不对的问题：
 

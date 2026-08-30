@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 237
 date: 2021-04-18 16:55:22
+description: 四道题检查全字母句、贪心买冰淇淋、优先队列调度单线程任务，并把按位与异或拆成独立位统计。
 tags:
 - Competitive Programming
 categories:
@@ -16,6 +17,12 @@ translations:
 久违的四题并进入前500名。终于可以免打卡了。
 已经连续打卡7周了，快要遭不住了呀。最近LeetCode难度提升不小，大佬入场也很多。要同时达到4题和前500属实不易。
 今天手速也算正常发挥.
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-237/zh-hero.webp" alt="字母形状槽位被逐一填满，冰淇淋按价格从低到高取走，单轨处理器调度任务，双色位灯汇入异或棱镜" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
 
 ## 1832. Check if the Sentence Is Pangram
 

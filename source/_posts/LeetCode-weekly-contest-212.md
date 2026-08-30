@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 211
 date: 2020-10-26 16:47:43
+description: 四道题从按键持续时间和等差子数组，延伸到最小体力路径与矩阵秩变换。
 tags:
 - Competitive Programming
 categories:
@@ -14,6 +15,12 @@ translations:
 | 103 / 10984 | YoungForest | 19 | 1:19:51 | 0:06:36 | 0:12:02 | 0:39:44 2 | 1:09:51 |
 
 本周周赛继续高歌猛进，排名也很靠前。加上上周的名次，我在残酷群里的排名也上升到了新高，第11名。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-212/zh-hero.webp" alt="按键牵着长沙漏，石块排成等高差台阶，小球跨越最低坡度地形，同高方砖由行列桥连接并抬升" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
 
 ## 1629. Slowest Key
 

@@ -1,0 +1,22 @@
+version: editorial-comic-v1
+post: source/_posts/2022-summary-and-2023-resolutions.md
+context: 回顾 2022 年从北京封控、居家办公和欧洲求职准备，到离职搬迁都柏林，并展望职业、健康、家庭与学习。
+assets:
+  - id: hero
+    file: source/images/ai/2022-summary-and-2023-resolutions/zh-hero.webp
+    placement: hero
+    alt: Forest 拖着行李穿过由日历页组成的窄门，从封闭的北京房间走向雨后都柏林公寓的晨光
+    composition: 以翻动的 2022 日历形成迁徙通道，串联狭小居家空间、面试准备、打包离境与都柏林新生活。
+    review_status: approved
+  - id: personal-review
+    file: source/images/ai/2022-summary-and-2023-resolutions/zh-personal-review.webp
+    placement: before-2022-review
+    alt: Forest 在居家办公桌、面试训练跑道、打包纸箱和国际化办公室之间接力前进
+    composition: 四段连续场景概括居家办公、英文面试准备、跨国搬迁和新团队适应，避开事实性疫情图示。
+    review_status: approved
+  - id: good-life-2023
+    file: source/images/ai/2022-summary-and-2023-resolutions/zh-good-life-2023.webp
+    placement: before-2023-outlook
+    alt: Forest 同时照料代码树、运动鞋、家庭暖灯和书本幼苗，让四条路径汇入平稳的生活河流
+    composition: 用四项可持续照料的生活隐喻表现职业成长、健康、家庭幸福和终身学习。
+    review_status: approved

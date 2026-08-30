@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-218.md
+context: >-
+  周赛解法涵盖一次扫描解释简短 token、哈希配对得到目标和、用移位和取模拼接连续二进制数，以及用贪心上界和回溯剪枝寻找最小不兼容性。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-218/zh-hero.webp
+    placement: hero
+    alt: 形状令牌经过解释机，配重石成双扣合，黑白珠串连续拼接，分组工匠剪去多余分支寻找最均衡方案
+    composition: >-
+      不使用 Forest。横向算法工坊：几种无字符形状令牌进入一次扫描的解释机并变成对应物件；不同重量的石块在哈希抽屉前找到互补伙伴，成双扣合成相同总重；黑白珠串通过移位滚轮首尾连续拼接，溢出的部分落回循环托盘表现取模；最后是一棵分组搜索盆景，候选石被放入多个不重复的小盘，顶部先给出贪心上界，修枝剪不断裁掉超过当前最佳的枝路，只留下差距最小的组合。禁止人物、字符、字母、数字、公式、代码、箭头、可读文字、假界面、商标或水印。
+    review_status: approved

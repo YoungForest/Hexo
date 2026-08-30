@@ -1,0 +1,16 @@
+version: editorial-comic-v1
+post: source/_posts/kuaishou-intern-interview.md
+context: 作者经历两轮算法实习面试后顺利入职，也由答题中的薄弱环节总结出以数据结构和算法为基础、SQL 与机器学习为补充的准备路径，并记录了实习初期的成长。
+assets:
+  - id: hero
+    file: source/images/ai/kuaishou-intern-interview/zh-hero.webp
+    placement: hero
+    alt: Forest 穿过两座无标识面试门，沿算法树、数据卡片和模型积木铺成的路抵达明亮的实习工作台
+    composition: 让 Forest 先后穿过两座风格不同但无编号的面试门，第一座旁有连续数组轨道和反转拼块，第二座旁有内存小盒、旋转数组环和二叉树；道路终点是明亮但无品牌的实习工作台，角色保持短黑发、圆眼镜、炭灰外衫和青绿色 T 恤。
+    review_status: approved
+  - id: preparation-path
+    file: source/images/ai/kuaishou-intern-interview/zh-preparation-path.webp
+    placement: before-interview-preparation
+    alt: Forest 把散乱的答题拼块整理成一条主干稳固、支线补充的面试准备道路
+    composition: 在一张没有文字的工作台上，让 Forest 把散落的算法树枝、代码积木、数据卡片、并发齿轮和机器学习棱镜重新排成路线；算法与数据结构组成宽阔主干，其他技能成为较窄支路，表现从面试失误中形成清晰准备重点。
+    review_status: approved

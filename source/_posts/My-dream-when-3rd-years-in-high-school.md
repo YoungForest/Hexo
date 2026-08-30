@@ -1,6 +1,7 @@
 ---
 title: 我的理想 -- 写于2013年升高三前
 date: 2013-06-07 10:29:10
+description: 重读17岁写下的理想：从清华梦、求知欲和改变世界的雄心，回望十年后的成长与现实。
 tags:
 - life
 categories:
@@ -13,6 +14,12 @@ translations:
 从那天以后，就是我离高考最近了，虽然要到9月份才正式升入高三。
 当时我在 山西省襄汾中学 读书，不到17岁，写下这篇“我的理想”，以明志和激励自己。现在10年过去了（2023年6月，整理自己硬盘资料时，惊喜地发现了这篇“文献”），回头看，自己并没有实现当年的清华梦。遭受了社会毒打后，理想（包括文采）也远没有当年优秀。但是，当年的文字依旧让我感动，感谢曾经的自己。
 我曾是少年。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/My-dream-when-3rd-years-in-high-school/zh-hero.webp" alt="成年的 Forest 展开一张从旧硬盘中找回的空白信纸，纸中少年 Forest 正沿星光下的长阶走向远方的校园门廊" width="1536" height="864" decoding="async">
+</figure>
+
+<!-- more -->
 
 **正文开始**
 

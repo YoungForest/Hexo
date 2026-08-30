@@ -1,0 +1,16 @@
+version: editorial-comic-v1
+post: source/_posts/2021-summary-and-2022-resolutions.md
+context: 回顾毕业、居家办公、职业成长、英语和系统设计学习，并展望前往欧洲、继续学习和增加输出的 2022 年。
+assets:
+  - id: hero
+    file: source/images/ai/2021-summary-and-2022-resolutions/zh-hero.webp
+    placement: hero
+    alt: Forest 把毕业帽、居家办公、英语练习和代码积木收进一本逐渐变厚的年度手账，前方通向新的晨光
+    composition: Forest 装订一本无文字年度手账，翻起的四页分别呈现毕业、居家办公、英语练习和代码项目，厚实书脊表达记录让记忆变厚。
+    review_status: approved
+  - id: 2022-outlook
+    file: source/images/ai/2021-summary-and-2022-resolutions/zh-2022-outlook.webp
+    placement: before-2022-outlook
+    alt: Forest 走上通往欧洲城市轮廓的桥，同时照料技能齿轮、英语对话、书本幼苗和表达麦克风
+    composition: 一座通往雨后欧洲城市的桥由四段组成，Forest 依次维护工作技能、英语交流、持续阅读和公开表达，表现相互支撑的新年目标。
+    review_status: approved

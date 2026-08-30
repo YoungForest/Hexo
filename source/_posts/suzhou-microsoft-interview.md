@@ -6,6 +6,7 @@ tags:
 - intern
 categories:
 - interview
+description: 复盘微软苏州暑期实习的三轮面试、技术题与失败反馈，记录尾递归、内存复制、SQL 和沟通上的收获。
 mathjax: true
 translations:
   zh-CN: https://youngforest.github.io/2018/06/01/suzhou-microsoft-interview/
@@ -14,18 +15,22 @@ translations:
 在@lxc师兄的内推下，我有幸可以前往 苏州微软，面试O365部门的暑期实习生。虽然最后失败了，但从这次失败的经历中，我学习到很多。
 总结在此，为未来的找实习和工作做准备。
 
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/suzhou-microsoft-interview/zh-hero.webp" alt="Forest 依次经过三座技术工作台，处理收束的递归线圈、重叠内存积木、树形路径，以及汇合的数据卡片和舍入天平" width="1536" height="864" decoding="async">
+</figure>
+
 <!-- more -->
 
-# 面试环节
+## 面试环节
 
-## 一面
+### 一面
 
 - 尾递归，斐波那契（不会）
 - 合并2个列表
 - makefile 编译顺序确定
 - memcpy的实现方式和安全问题
 
-### 用尾递归优化递归斐波那契数列
+#### 用尾递归优化递归斐波那契数列
 
 斐波那契数列大家应该都很熟悉，高中数学课本上提到的经典递归数列。
 其数学定义为：
@@ -83,7 +88,7 @@ def fibonacci(n):
     return func(n, 0, 1)
 ```
 
-### memcpy的实现方式和安全性问题
+#### memcpy的实现方式和安全性问题
 
 也是一个字节一个字节的复制。不是我想当然的认为一整块一整块的复制，这样会更快。
 回忆计算机组成原理的知识：
@@ -98,7 +103,7 @@ CPU和Memory之间由总线连接，一次（一个时钟周期）只能读取�
 [有保护措施](https://blog.csdn.net/laoyang360/article/details/8020409)
 ）
 
-### 面试官指点
+#### 面试官指点
 
 面试时在Notepad里写代码，在纸上写代码，和在白板上写，
 容易程度或方便程度是：
@@ -107,26 +112,26 @@ CPU和Memory之间由总线连接，一次（一个时钟周期）只能读取�
 被告知面试题目后，首先要考虑清楚初始条件和具体要求，不清楚的一定要和面试官问清楚，不要上来就写。
 否则后来发现歧义，再问时就晚了。
 
-### 其他收获
+#### 其他收获
 
 有时间一定要好好看看SICP，函数式编程的尾递归在其中就有讲。
 面试官估计也读过。
 
-## 二面
+### 二面
 
 - 求树的最深度
 - 最大和的链
 - 可以拐弯的最大和的链
 - 数组权重最大的重新排序（不会）
 
-### 其他收获
+#### 其他收获
 
 在面试时，ACM选手有天然的优势。
 该面试官本科时，可能玩过ACM，因为他说“数组权重”那道题是他上学时自己出得。
 
 p.s. 面试官说他也毕业不久。
 
-## 三面
+### 三面
 
 周二去苏州参加完面试后，周五出结果，约了第二周周二的视频面试。
 说实话，视频面试前我还真有点紧张，而且由于学校出了点状况，上午才知道下午有视频面试。
@@ -140,13 +145,17 @@ p.s. 面试官说他也毕业不久。
 查询每个学生的数学成绩和语文成绩，结果为（姓名，数学成绩，语文成绩）。
 刚开始假设每个学生都选了数学和语文，后来取消了这个假设（考察outer join）。
 
-## 第二道题
+#### 第二道题
 
 第二道题目考察[IEEE的一种round实现](https://en.wikipedia.org/wiki/IEEE_754#Rounding_rules)。
 
 首先，列出一些数字，让我观察规律。
 在面试官的引导下，我猜测出来了：四舍六入五看下一位。
 之后使用C语言实现这一ieee_round。
+
+<figure class="editorial-illustration">
+  <img src="/images/ai/suzhou-microsoft-interview/zh-learning-loop.webp" alt="一扇空白门暂时关闭后，Forest 把被退回的拼块送入放大镜和回环轨道，重新搭成更清楚、更稳固的解决方案" width="1536" height="864" loading="lazy" decoding="async">
+</figure>
 
 ## 结果
 

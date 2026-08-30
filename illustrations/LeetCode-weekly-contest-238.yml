@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-238.md
+context: >-
+  四道题转换进制并求位和、用滑动窗口提高相同元素频率、寻找按顺序出现的五段元音，并在稀疏高度限制间求最高楼顶。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-238/zh-hero.webp
+    placement: hero
+    alt: 珠子经多槽进制轮重新分组，滑窗把石块抬到同高，五色长带保持顺序，受限楼柱之间升起最高屋脊
+    composition: >-
+      不使用 Forest。构造一座横向四联算法城市：左侧一堆珠子反复经过可调多槽轮，被重新分组并把每组余珠汇入总和托盘，表现进制转换但不出现数字；中左排序石块位于可移动窗框内，有限琥珀能量把窗口中的所有石块抬到右端同高，能量不足时左边界收缩；中右一条五种克制色调的无字丝带只能按固定颜色顺序增长，逆序处立即切断并重新开始；右侧城市只有少数楼位带有高度限制杆，限制向左右传播，相邻限制之间的最高屋脊由中央滑尺寻找。禁止人物、元音字母、字符、数字、公式、代码、可读文字、品牌、商标或水印。
+    review_status: approved

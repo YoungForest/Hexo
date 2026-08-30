@@ -1,6 +1,7 @@
 ---
 title: LeetCode biweekly contest 51
 date: 2021-05-02 11:52:18
+description: 四道题依次处理交替字符、最小堆座位、受限递增数组，并离线筛选满足尺寸且编号最接近的房间。
 tags:
 - Competitive Programming
 categories:
@@ -15,6 +16,10 @@ translations:
 
 手速场。最近手速已大不如从前，最后一题也因为不熟练花费了比较多的时间。
 其实，手速场中，所有题目的算法其实都不难，想到正确的解法很快，但迅速实现 + bug free就考验每位程序员的功力了。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-biweekly-contest-51/zh-hero.webp" alt="交替珠子经位移齿轮变换，最小堆座位机优先吐出最小令牌，石阶逐级升高，房间钥匙按尺寸进入有序架并靠近偏好位置" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
 
 <!-- more -->
 

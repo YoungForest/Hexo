@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/kick-start-2019-round-G.md
+context: >-
+  这轮题解从约数与记忆化读页数，延伸到避免位运算溢出的高位贪心与回溯，再用折半枚举合并两个较小组合空间。
+assets:
+  - id: hero
+    file: source/images/ai/kick-start-2019-round-G/zh-hero.webp
+    placement: hero
+    alt: 书页沿调和阶梯被收集，位珠在防溢护栏下从高处落位，两支组合队伍在中央汇合
+    composition: >-
+      不使用 Forest。将三个算法画成横向接力装置：左侧一本无字书把页片送上逐渐变短的调和阶梯，记忆抽屉保存已经取过的页片；中央是一座高低分层的无字位珠塔，机械手从最高可用层向下尝试琥珀或青绿珠，顶部和底部都有软质防溢护栏，错误路径可回弹；右侧一大堆组合积木被分成两支小队从两边枚举，最终在桥中央配对合并。用轻微幽默表现一枚忘入抽屉的页片又绕回起点。禁止字母、数字、二进制字符、代码、公式、排行榜、可读文字、商标或水印。
+    review_status: approved

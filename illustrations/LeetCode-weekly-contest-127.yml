@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-127.md
+context: >-
+  作者在一场偏简单的周赛中快速完成四题，复盘数组取反、运算优先级、多米诺旋转和由先序遍历构造二叉搜索树，并提醒自己重视边界条件和长期基础训练。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-127/zh-hero.webp
+    placement: hero
+    alt: Forest 在速度工坊检查边界齿轮，翻转数珠、校准运算轮、旋转双色牌并展开先序树
+    composition: >-
+      使用虚构 Forest。他在一座高速运转的算法工坊里没有盲目冲刺，而是拿放大镜检查轨道末端的边界齿轮；四个互相连通的实体装置分别表现把最小的深色珠翻成亮色、让乘除齿轮先于加减滑轨运转、旋转一列无点数的双色牌使同一色面排齐，以及让按顺序落下的种子在上下界门框之间长成二叉搜索树。轻微幽默来自一颗藏在轨道角落、差点被遗漏的小珠。无可读文字、字母、数字、公式、品牌、标志、假界面或水印。
+    review_status: approved

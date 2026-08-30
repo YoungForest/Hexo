@@ -1,6 +1,7 @@
 ---
 title: LeetCode 134 Gas Station
 date: 2019-09-06 16:56:01
+description: 半年后重做面试失利的环形加油站题，从逐个枚举起点推进到跳过必败区间的线性解法。
 tags:
 - Algorithm
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2019/09/06/LeetCode-134-Gas-Station/
   en: https://youngforest.github.io/en/2019/09/06/LeetCode-134-Gas-Station/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-134-Gas-Station/zh-hero.webp" alt="Forest 在环形能量站轨道上越过失败区段，身后是纠缠旧路线，前方是一圈清晰的单向通路" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 [题目描述](https://leetcode.com/problems/gas-station/description/)
 
 本题是我2月份Google实习生电话面试遇到的一道题目。我当时做的很混乱，一面直接挂了。今天看到[同学发的讲解](https://zhuanlan.zhihu.com/p/81412559)，决定重新尝试一下这道题目。毕竟自己这半年来刷了有500+道题目，算法实力有一定的增长。我只看到了讲解的题目，并没有看内容，算是自己半年后可以独立解决这个问题了吧。AC后，我竟然都哭了，为当时实力不济而伤心。不知道之后还有那么好的机会吗？

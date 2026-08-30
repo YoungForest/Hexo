@@ -1,0 +1,16 @@
+version: editorial-comic-v1
+post: source/_posts/Alibaba-Dingding-backend-intern-interview.md
+context: 一次服务器开发实习面试从双向链表与 twoSum 代码题展开，随后连续追问编译器、C++、数据结构、操作系统、网络和职业规划，像一场跨越多座知识工作台的耐力测试。
+assets:
+  - id: hero
+    file: source/images/ai/Alibaba-Dingding-backend-intern-interview/zh-hero.webp
+    placement: hero
+    alt: Forest 坐在无标识的远程面试桌前，面前摆着链表车厢、配对砝码和一长排技术工具
+    composition: 画 Forest 在一张无品牌的远程面试桌前，左侧是首尾相连的双向链表小车，中央是寻找配对的数字形砝码但不出现字符，右侧延伸出编译齿轮、内存积木、锁具和网络绳结；用一条路径表现面试范围不断展开，不画界面。
+    review_status: approved
+  - id: knowledge-gauntlet
+    file: source/images/ai/Alibaba-Dingding-backend-intern-interview/zh-knowledge-gauntlet.webp
+    placement: before-cpp-questions
+    alt: Forest 带着工具箱穿过由编译齿轮、容器积木、锁门、内存迷宫和断裂网络桥组成的知识长廊
+    composition: 把后半段追问画成一条横向知识长廊，Forest 提着简单工具箱依次经过编译齿轮、可扩展容器积木、三种钥匙与锁、内存迷宫和正在修补的网络桥；保持轻微幽默和清晰分区，不出现文字、代码或品牌。
+    review_status: approved

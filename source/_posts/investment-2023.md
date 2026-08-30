@@ -6,11 +6,18 @@ tags:
 - 投资
 categories:
 - Life
+description: 回顾2022至2023年的投资环境和个人变化：经历量化宽松、通胀与加息后，五年投资终于扭亏为盈。
 translations:
   zh-CN: https://youngforest.github.io/2023/06/21/investment-2023/
   en: https://youngforest.github.io/en/2023/06/21/investment-2023/
 ---
 距离上篇[我的投资故事（一）](https://youngforest.github.io/2021/03/22/investment/)已经过去2年时间了，这2年，无论是我的投资观念，还是投资成果，都有了很大的进步。在此，我总结分享我的2022-2023年的投资故事。[博客原文](https://youngforest.github.io/2023/06/21/investment-2023/)。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/investment-2023/zh-hero.webp" width="1536" height="864" alt="Forest 提着分散的小篮走过五圈年轮桥，穿越洪水、热浪和逆风后，看见曾被淹没的琥珀色幼苗终于露出水面" decoding="async">
+</figure>
+
+<!-- more -->
 
 最重要的变化是，经过5年的投资，终于扭亏为盈啦。
 

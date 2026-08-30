@@ -1,0 +1,10 @@
+version: editorial-comic-v1
+post: source/_posts/SSH-proxy-by-jump-server.md
+context: 记录通过 SSH 代理和隧道，让无法直连目标服务器的设备经由跳板机访问远端服务。
+assets:
+  - id: hero
+    file: source/images/ai/SSH-proxy-by-jump-server/zh-hero.webp
+    placement: hero
+    alt: 一束加密光线从笔记本穿过中继门楼，再抵达原本无法直连的远端服务器塔
+    composition: 用三座无文字节点和一座中继门楼表现本地设备、跳板机与远端服务的可达关系，不画真实命令、界面、地址或品牌。
+    review_status: approved

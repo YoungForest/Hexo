@@ -1,0 +1,16 @@
+version: editorial-comic-v1
+post: source/_posts/sensetime-intern-interview.md
+context: 记录一次由熟人推荐开始、连续经历三轮技术追问的计算机视觉实习面试，以及作者从追逐岗位光环转向确认自己真正喜欢工程与写代码的职业选择。
+assets:
+  - id: hero
+    file: source/images/ai/sensetime-intern-interview/zh-hero.webp
+    placement: hero
+    alt: Forest 依次走过三座越来越深的技术工作台，从算法拼块进入操作系统齿轮、编译管道与语言机关
+    composition: 让人类青年 Forest 沿一条连续路径经过三座无编号面试工作台，第一座有算法拼块和路灯机关，第二座深入操作系统齿轮、编译管道与语言内部，第三座回到闭包环和动态规划拼板；不出现公司标志、文字或假界面。
+    review_status: approved
+  - id: engineering-path
+    file: source/images/ai/sensetime-intern-interview/zh-engineering-path.webp
+    placement: before-afterword
+    alt: Forest 离开浮在高处的职业奖杯阶梯，走向一张能亲手搭建可靠程序的工程工作台
+    composition: 将职业选择画成岔路：一侧是悬在高处、彼此比较的空白奖杯阶梯，另一侧是扎实的工程工作台，Forest 正用积木、齿轮和工具搭建可靠系统并露出笃定神情；不出现职位文字、公司标志或代码。
+    review_status: approved

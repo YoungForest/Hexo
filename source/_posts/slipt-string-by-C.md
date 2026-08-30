@@ -2,8 +2,13 @@
 title: C语言分割字符串 - YoungForest
 tags: []
 date: 2016-10-11 22:11:00
+description: 记录在 C 语言中使用 strtok 分割字符串时的思路与连续调用注意点。
 translations:
   zh-CN: https://youngforest.github.io/2016/10/11/slipt-string-by-C/
   en: https://youngforest.github.io/en/2016/10/11/slipt-string-by-C/
 ---
+
+<figure class="editorial-illustration editorial-illustration--hero"><img src="/images/ai/slipt-string-by-C/zh-hero.webp" width="1536" height="864" alt="一条连续珠串首次送入分隔轮，后续空手摇动把剩余珠串依次切成整齐小段" decoding="async" fetchpriority="high"></figure>
+
+<!-- more -->
 【摘要】最近在做一道C语言题目的时候需要用到分割字符串，本来想自己手写的，也不会很麻烦，但想到其他语言都有分割字符串的库函数，C语言怎么会没有呢？所以，在网上搜了一搜，果然有这样的函数，还是很好用的，在此总结。 在C语言手册中可以很方便地查到strtok的用法，要注意的一点是，除了首次调用时，第一个参数要传 [阅读全文](http://www.cnblogs.com/YoungForest/p/5950994.html)

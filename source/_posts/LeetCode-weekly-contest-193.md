@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 193
 date: 2020-06-15 12:19:06
+description: 周赛复盘：前缀和、按频率贪心删除、二分答案，以及赛后补上的树上倍增祖先查询。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2020/06/15/LeetCode-weekly-contest-193/
   en: https://youngforest.github.io/en/2020/06/15/LeetCode-weekly-contest-193/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-193/zh-hero.webp" alt="累积水渠、按频率清空的篮筐、跨过临界花期的日历门与树上倍增梯构成四段学习路径" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 | Rank |	Name |	Score |	Finish Time | 	Q1 (3) |	Q2 (4) |	Q3 (5) |	Q4 (6)|
 |--|--|--|--|--|--|--|--|
 | 1854 / 13794 | YoungForest | 12 | 1:18:35 |  0:15:31 | 0:12:31 | 1:18:35	 | null |

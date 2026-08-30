@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 215
 date: 2020-11-15 16:59:45
+description: 周赛复盘：实现有序流、比较字符与频次集合、把两端减法转为保留最长中段；第四题未完成。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2020/11/15/LeetCode-weekly-contest-215/
   en: https://youngforest.github.io/en/2020/11/15/LeetCode-weekly-contest-215/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-215/zh-hero.webp" alt="有序包裹等待指针放行，两组彩珠交换位置后保持同样频次，从两端取石留下最长中段，最后的网格城仍锁在柜中" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 | Rank |	Name |	Score |	Finish Time | 	Q1 (3) |	Q2 (4) |	Q3 (5) |	Q4 (6)|
 |--|--|--|--|--|--|--|--|
 | 362 / 9683 | YoungForest | 12 | 0:35:02 | 0:04:21 | 0:13:42 | 0:30:02  1 | null |
@@ -137,4 +144,3 @@ public:
 ## 5604. Maximize Grid Happiness
 
 轮廓线DP。
-

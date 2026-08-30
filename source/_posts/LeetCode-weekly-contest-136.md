@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 136
 date: 2019-05-12 12:04:20
+description: 复盘机器人闭环、花园四色染色、数组分段动态规划，以及最长重复子串的后缀与二分解法。
 tags:
 - Competitive Programming
 categories:
@@ -16,6 +17,12 @@ translations:
 最近比赛的质量都还可以。即使是最简单的签到题，也是需要认真思考的。考察DP的题也是每次都有，DP算是那种你做很多，遇到新的题目还是可能写不出来的类型。
 本次恢复了原先的水平，跌到了200+。
 这次大概需要55分钟前3题，才能进入前200。我一是做题比较慢，二是 第3题DP有个下标问题搞错了，导致了一次罚时。所以遗憾地没有进入前200.
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-136/zh-hero.webp" alt="小机器人在四色花园中绕回原点，分段踏板沿路径抬高收益，两条相同纹理的长布带在远端重合" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
 
 ## 1041. Robot Bounded In Circle
 

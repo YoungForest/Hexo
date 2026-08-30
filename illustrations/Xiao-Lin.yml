@@ -1,0 +1,10 @@
+version: editorial-comic-v1
+post: source/_posts/Xiao-Lin.md
+context: 在轻松易懂的宏观经济叙事之外，警惕用后视镜解释周期，以及把复杂因果关系整理得过于顺滑。
+assets:
+  - id: hero
+    file: source/images/ai/Xiao-Lin/zh-hero.webp
+    placement: hero
+    alt: 一条宏观经济道路在后视镜里显得平滑有序，前方却分成相互牵动的齿轮、波浪与多条岔路
+    composition: 用没有驾驶者的抽象观察台和大幅后视镜表现回望时的清晰叙事，镜外前路由周期波浪、齿轮和岔路组成，不画真实人物或图表文字。
+    review_status: approved

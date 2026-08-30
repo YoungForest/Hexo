@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 214
 date: 2020-11-08 18:20:06
+description: 本轮围绕递推数组、唯一字符频次、分层售卖递减彩球，以及维护有序插入成本的数据结构展开。
 tags:
 - Competitive Programming
 categories:
@@ -14,6 +15,12 @@ translations:
 | 393 / 9769 | YoungForest | 18 | 1:36:40 | 0:05:13 | 0:11:24 | 0:44:59 |  1:26:40  2 |
 
 残酷群排名维持在14名了，看来这就是我的水平收敛的位置了。最近由于写毕业大论文比较忙，另一方面秋招也结束了，打卡题都没打了。11月才恢复开始打美服和国服每日一题，拿积分换衣服。残酷群由于基本可以免打卡，就一个月都没打了。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-214/zh-hero.webp" alt="递推弹珠从双轨汇合，频次罐被削成不同高度，彩球塔按层售出并穿过左右计数门插入队列" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
 
 ## 5561. Get Maximum in Generated Array
 

@@ -1,6 +1,7 @@
 ---
 title: kick start 2019 round D
 date: 2019-07-28 16:19:32
+description: Kick Start 复盘：从误入线段树思路，到利用奇偶规律直接求异或条件下的最长区间。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2019/07/28/kick-start-2019-round-D/
   en: https://youngforest.github.io/en/2019/07/28/kick-start-2019-round-D/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/kick-start-2019-round-D/zh-hero.webp" alt="Forest 离开复杂树形机关，用成对灯笼数清奇偶并在彩珠长队的头尾之间选择更长区间" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 排名: 765 / 1866.
 
 ## X or What
@@ -101,4 +108,4 @@ int main() {
 }
 ```
 
-## 
+##

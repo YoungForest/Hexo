@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-130.md
+context: >-
+  这场常规题周赛强调实现速度；内容包括二进制前缀的余数、负二进制转换、链表下一个更大节点和从边缘搜索飞地，文末反思进入更难题目的瓶颈。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-130/zh-hero.webp
+    placement: hero
+    alt: Forest 在难度坡道前操作余数转盘、负基底天平、单调链珠和从边缘涌入的方格水流
+    composition: >-
+      使用虚构 Forest。他来到从平地逐渐变陡的训练坡道，在继续前先操作四个相连装置：深浅珠前缀经过一个无刻度余数转盘循环归位、普通二进制珠在上下交替的负基底天平上转换、链条中的每颗珠指向右侧第一颗更高珠并由单调托架维护，以及暖灰水流从方格岛的外缘向内涌入后留下真正封闭的飞地。无可读文字、字母、数字、公式、品牌、假界面或水印。
+    review_status: approved

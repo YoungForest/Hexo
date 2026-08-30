@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-212.md
+context: >-
+  四道题从按键持续时间和等差子数组，延伸到最小体力路径与矩阵秩变换。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-212/zh-hero.webp
+    placement: hero
+    alt: 按键牵着长沙漏，石块排成等高差台阶，小球跨越最低坡度地形，同高方砖由行列桥连接并抬升
+    composition: >-
+      不使用 Forest。设计一座宽幅地形矩阵实验台：左侧一枚无字符按键压住较长的沙漏摆锤，表达持续时间；一组散乱石块被重新排成高差均匀的台阶；中央小球穿过起伏网格，路线绕开陡坡并选择最大落差最小的通道；右侧同高度的矩阵方砖用横向与纵向桥相连，再被升降台托到满足行列约束的最低层级。禁止键帽文字、字符、字母、数字、公式、代码、可读文字、商标或水印。
+    review_status: approved

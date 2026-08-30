@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 187
 date: 2020-05-04 10:44:42
+description: 周赛复盘：终点城市、间距扫描、双指针维护极差窗口，以及用优先队列与去重集合寻找矩阵第 k 小和。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2020/05/04/LeetCode-weekly-contest-187/
   en: https://youngforest.github.io/en/2020/05/04/LeetCode-weekly-contest-187/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-187/zh-hero.webp" alt="道路汇入唯一终点城，发光珠保持间距，滑动框夹住极差窗口，矩阵候选经堆篮与去重托盘筛选" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 | Rank |	Name |	Score |	Finish Time | 	Q1 (3) |	Q2 (4) |	Q3 (5) |	Q4 (7)|
 |--|--|--|--|--|--|--|--|
 | 301 / 12353 |	YoungForest | 19 | 1:03:24 |  0:06:34 |  0:03:07 |  0:17:30 | 1:03:24 |

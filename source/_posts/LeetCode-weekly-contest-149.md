@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 149
 date: 2019-08-11 12:34:32
+description: 周赛复盘：年内日期、骰子目标和、交换后最长重复段与区间多数查询，也记录执着线段树带来的教训。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2019/08/11/LeetCode-weekly-contest-149/
   en: https://youngforest.github.io/en/2019/08/11/LeetCode-weekly-contest-149/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-149/zh-hero.webp" alt="Forest 放下过度复杂的树形机械，转向日历轮、有限骰珠槽、断开彩带和多数珠抽样器" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 | Rank |	Name |	Score |	Finish Time | 	Q1 (4) |	Q2 (5) |	Q3 (6) |	Q4 (9)|
 |--|--|--|--|--|--|--|--|
 | 476 / 5091 |	YoungForest | 15	 | 	1:00:14 | 0:10:21  | 0:42:14 | 1:00:14 | null |

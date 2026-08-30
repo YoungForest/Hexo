@@ -1,6 +1,7 @@
 ---
 title: kick start 2019 round B
 date: 2019-07-24 11:04:30
+description: 赛后复盘三道算法题：可重排回文的频数判断、能量石的贪心背包，以及事件前缀和与线段树。
 tags:
 - Competitive Programming
 categories:
@@ -11,6 +12,12 @@ translations:
 ---
 赛后补的题解。
 [题目链接](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050eda)
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/kick-start-2019-round-B/zh-hero.webp" alt="三座无字机械台分别配对回文积木、按损耗排列能量石，并把礼物事件汇入分叉的前缀树" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
 
 ## Building Palindromes
 

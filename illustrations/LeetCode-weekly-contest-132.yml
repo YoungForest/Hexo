@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-132.md
+context: >-
+  题解从奇偶数除数游戏的规律，扩展到树上祖先差值、等差子序列动态规划，以及根据先序遍历中的深度信息重新构造二叉树。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-132/zh-hero.webp
+    placement: hero
+    alt: 奇偶石子驱动一座树木修复台，祖先枝条悬挂高低果实，等距珠轨最终展开为层次分明的二叉树
+    composition: >-
+      不使用 Forest。画一座无字树木修复工坊：左侧奇偶纹理的石子在简单轮流取子装置中显出稳定节奏；中央一棵机械树的每条祖先枝上挂着高低不同的圆果，伸缩卡尺同时触及最小和最大果实；前景多条珠轨保持固定间距并逐渐延长；右侧一卷按凹槽深浅折叠的无字纸带经过栈式支架，被逐层抬起并恢复成完整二叉树。通过实体深度而非短横线表达层级。禁止任何字母、数字、代码、公式、引号、真实书封、可读文字、商标或水印。
+    review_status: approved

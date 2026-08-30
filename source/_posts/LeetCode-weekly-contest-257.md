@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 257
 date: 2021-09-06 23:15:10
+description: 四道题枚举顺序四元组、排序统计弱角色、动态规划走遍房间，并按质因数连接并查集完成最大公约数排序。
 tags:
 - Competitive Programming
 categories:
@@ -14,6 +15,12 @@ translations:
 | 222 / 12542 | YoungForest | 18 | 1:32:31 | 0:06:21  🐞1 | 0:12:18 |  0:24:28 | 1:17:31  🐞2 |
 
 久违的不用打卡了。之前打了3周卡，实在是遭不住了呀。工作之后，花在刷题上的精力和时间都少了很多。很多卡都是让npy打的，或者干脆抄一份。一份付出一份回报。学如逆水行舟，不进则退。我周赛成绩下降确实是自己实力下降了。虽然我并不打算改变，并且慢慢接受了这个事实。但是我会坚持打周赛和呆在残酷群里，保持基本的做题手感即可，不需要对自己有太高要求。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-257/zh-hero.webp" alt="四道顺序闸门挑选珠子，攻防盾牌排序识别弱者，房间走廊折返后前进，质因数齿轮把排序石块连成集合" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
 
 最近除了工作，花了很多时间在投资理财上。
 

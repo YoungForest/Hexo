@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/Travis-CI-Hexo-Automatically-Deploy.md
+context: >-
+  文章记录用 Travis CI 自动构建和部署中英文 Hexo 博客的历史方案，包括仓库授权、秘密变量、依赖安装、主题拉取和发布目录配置。
+assets:
+  - id: hero
+    file: source/images/ai/Travis-CI-Hexo-Automatically-Deploy/zh-hero.webp
+    placement: hero
+    alt: 双语博客纸卷经过云端装配线、密钥保险盒和分支闸门，自动装载到两座站点灯塔
+    composition: >-
+      不使用 Forest，采用纯技术隐喻。两卷不同色但无字的博客稿纸进入一条历史感的云端装配线：依赖零件与主题模板依次装入，密钥只从封闭保险盒通过细管注入，分支闸门确认后把静态页面包裹送往中英文两座站点灯塔。画面体现写作与推送触发自动构建部署，但不展示任何真实服务标志、Token 内容或配置界面。无可读文字、字母、数字、品牌、假界面或水印。
+    review_status: approved

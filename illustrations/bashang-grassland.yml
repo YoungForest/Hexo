@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/bashang-grassland.md
+context: >-
+  作者在寒冷的国庆假期跟团去丰宁坝上草原，第一次骑马便被带上四小时长线，在壮阔秋景、刺骨寒风、身体酸痛和额外花费之间完成一段既好笑又难忘的两日旅行。正文骑马实拍继续承担事实记录。
+assets:
+  - id: hero
+    file: source/images/ai/bashang-grassland/zh-hero.webp
+    placement: hero
+    alt: 穿厚羽绒服的 Forest 骑着一匹格外高大的马穿过寒风、白桦林与远处风机，表情兴奋又吃力
+    composition: >-
+      使用虚构 Forest，不是真人肖像：短深色头发、圆眼镜，厚实的无品牌炭灰羽绒服里露出低饱和青绿色衣领。低视角表现一匹略显夸张但友善的大马沿弯曲草原小路前进，Forest 起初兴奋、随后被颠得身体僵硬；背景用白桦林、薄雪山顶、远处无标记风力发电机和一小簇晚间篝火串起两日行程。让寒风用几条有方向感的墨线表达，保留轻微幽默，不复刻正文照片，不画品牌服装、旅行社标识、可读文字、数字、商标或水印。
+    review_status: approved

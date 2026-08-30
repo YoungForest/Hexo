@@ -183,7 +183,7 @@ for (const file of listFiles(path.join(root, 'source', 'images', 'ai'), '.webp')
 }
 
 const approvedAssets = new Map();
-for (const file of listFiles(manifestsDir, '.yml')) {
+for (const file of listFiles(manifestsDir, '.yml').filter(file => path.basename(file) !== 'catalog.yml')) {
   let manifest;
   try {
     manifest = yaml.load(fs.readFileSync(file, 'utf8')) ?? {};

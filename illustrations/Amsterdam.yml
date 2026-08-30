@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/Amsterdam.md
+context: >-
+  欧洲安顿后的第一次旅行从阿姆斯特丹延伸到周边村庄；过满的行程、误车和提着行李赶路带来慌乱，深夜抵达乡村民宿后却意外遇见多年未见的银河与流星。
+assets:
+  - id: hero
+    file: source/images/ai/Amsterdam/zh-hero.webp
+    placement: hero
+    alt: Forest 和四位匿名旅伴拖着行李在错综站台上赶车，远处乡村民宿上空的银河把慌乱旅程变成惊喜
+    composition: >-
+      使用虚构 Forest，不是真人肖像；四位同行者仅画成不可识别的简化剪影。前景是错综但无文字标识的火车站岔路、刚刚离站的列车和散落的行李，Forest 与同伴慌忙赶路；轨道在远景舒展开来，通向安静的运河乡村、无标志风车和小民宿，夜空中的银河与一颗流星成为视觉焦点。不要描绘真实同行者身份、民宿主人或私人轶事，不要出现地名、车站标识、票据、文字、商标或可读界面。
+    review_status: approved

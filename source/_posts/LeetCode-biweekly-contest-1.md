@@ -1,6 +1,7 @@
 ---
 title: LeetCode biweekly contest 1
 date: 2019-06-03 20:03:05
+description: 首届双周赛复盘：固定点、字符串索引对、工人与自行车分配和区间数字计数。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2019/06/03/LeetCode-biweekly-contest-1/
   en: https://youngforest.github.io/en/2019/06/03/LeetCode-biweekly-contest-1/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-biweekly-contest-1/zh-hero.webp" alt="疲惫的 Forest 从一张空白考桌转向夜间算法台，匹配位置、字符片、骑车人和计数转盘" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 | Rank |	Name |	Score |	Finish Time | 	Q1 (4) |	Q2 (5) |	Q3 (6) |	Q4 (8)|
 |--|--|--|--|--|--|--|--|
 | 241 / 983 |	YoungForest | 7 | 	0:18:23 | 0:09:56 | 0:18:23 | null  | null |

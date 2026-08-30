@@ -1,0 +1,10 @@
+version: editorial-comic-v1
+post: source/_posts/Happy-birthday-2019.md
+context: 二十三岁生日仍在学校度过，作者在炎热北京的独居感、对家人和童年的怀念、留在大城市的朴素目标，以及半年学习、实习、健康计划的得失之间回望自己。
+assets:
+  - id: hero
+    file: source/images/ai/Happy-birthday-2019/zh-hero.webp
+    placement: hero
+    alt: Forest 在宿舍小桌前守着一块无字蛋糕，窗外炎热城市与远处温暖家灯被一条细线连接
+    composition: 让 Forest 坐在学校宿舍的小桌前，桌上只有一块无字小蛋糕和半翻的空白日历；窗外是热浪中的大城市轮廓，远处一扇温暖家灯通过细线与桌面相连，旁边放着跑鞋、书本和尚未完成的积木，表现生日、漂泊、目标和自我检视。
+    review_status: approved

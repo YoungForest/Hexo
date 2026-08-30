@@ -1,6 +1,7 @@
 ---
 title: LeetCode biweekly contest 21
 date: 2020-03-08 11:35:48
+description: 双周赛复盘：升降字符串、元音奇偶状态、二叉树最长之字路径与最大和 BST 子树，核心都是状态与递归。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2020/03/08/LeetCode-biweekly-contest-21/
   en: https://youngforest.github.io/en/2020/03/08/LeetCode-biweekly-contest-21/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-biweekly-contest-21/zh-hero.webp" alt="彩珠沿波浪升降，五盏灯重复状态，木鸟走过树上之字路径，透明边界框筛出最大和搜索子树" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 | Rank |	Name |	Score |	Finish Time | 	Q1 (4) |	Q2 (4) |	Q3 (5) |	Q4 (6)|
 |--|--|--|--|--|--|--|--|
 | 175 / 4729 |	YoungForest | 19 | 	1:05:07 | 0:21:38 |  0:39:43 |  0:50:40 |  1:05:07 |

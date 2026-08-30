@@ -1,6 +1,7 @@
 ---
 title: LeetCode biweekly contest 37
 date: 2020-10-18 09:54:27
+description: 双周赛复盘：截尾平均、网络质量枚举与线段 DP；第三题赛后两分钟通过，第四题只学习了两种思路。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2020/10/18/LeetCode-biweekly-contest-37/
   en: https://youngforest.github.io/en/2020/10/18/LeetCode-biweekly-contest-37/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-biweekly-contest-37/zh-hero.webp" alt="排序珠列去掉两端后称量中段，信号塔叠出最亮坐标，开合夹具组成不重叠线段，华丽序列柜仍未装配完成" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 | Rank |	Name |	Score |	Finish Time | 	Q1 (3) |	Q2 (4) |	Q3 (5) |	Q4 (7)|
 |--|--|--|--|--|--|--|--|
 | 893 / 8250 | YoungForest | 7 | 0:27:31 | 0:11:24 | 0:27:31 |  null | null |

@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-133.md
+context: >-
+  作者迟到后完成前三题，最后的字符流匹配因 Trie 构造方向相反而超时；复盘还包括按距离排列矩阵格、两城调度和两个不重叠子数组。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-133/zh-hero.webp
+    placement: hero
+    alt: 迟到的 Forest 调整方向，按距离铺方格、分派两座城市、框选两段轨道并反向查询字符树
+    composition: >-
+      使用虚构 Forest，但不表现身体不适。他稍晚进入算法站后把一棵方向装反的无字字符树转过来，从流的末端向根部查询。周围三个模型分别从中心向外按曼哈顿层次铺开方格、依据成本差把一队小人平均分到两座不同颜色的抽象城市，以及在一条珠轨上移动两个互不重叠的窗口以取得最大总重量。无可读文字、字母、数字、公式、城市名、品牌、书封、假界面或水印。
+    review_status: approved

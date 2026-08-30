@@ -1,0 +1,10 @@
+version: editorial-comic-v1
+post: source/_posts/my-britain-trip.md
+context: 第一次出国参加两周英国交流营，在大学课堂、城市旅行与文化观察中坚定留学想法，也因同伴和导师而感到前行不再孤单。
+assets:
+  - id: hero
+    file: source/images/ai/my-britain-trip/zh-hero.webp
+    placement: hero
+    alt: Forest 提着行李踏上第一次海外旅程，一条纸地图般的道路串起机场、课堂、学院庭院、灰色山丘和终点等待的新朋友
+    composition: 让人类青年 Forest 从机场边缘踏上一条展开的纸地图道路，沿途以无标志的课堂、学院庭院、阴云山丘和远处朋友剪影表现两周游学与成长，不替代正文里的真实旅行照片。
+    review_status: approved

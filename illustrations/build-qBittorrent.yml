@@ -1,0 +1,16 @@
+version: editorial-comic-v1
+post: source/_posts/build-qBittorrent.md
+context: 作者本想在毕业压力下看电影放松，却因系统更新后下载工具无法启动，最终保留安全检查并花一下午手动补齐 Qt、Boost、libtorrent 与 OpenSSL 依赖完成编译。
+assets:
+  - id: hero
+    file: source/images/ai/build-qBittorrent/zh-hero.webp
+    placement: hero
+    alt: Forest 在无标识电脑前组装层层依赖齿轮，窗外电影放映光束已经渐渐熄灭
+    composition: 让 Forest 坐在傍晚的宿舍工作台前，面对一台无品牌银色电脑和一座尚未接通的下载机器；他把多个不同形状的库零件与齿轮逐层装入机器，远处原本准备好的电影放映光束正在夕阳里熄灭，表现“想放松却花一下午编译”的反差；不画代码、界面、商标、应用图标或可读文字。
+    review_status: approved
+  - id: dependency-chain
+    file: source/images/ai/build-qBittorrent/zh-dependency-chain.webp
+    placement: before-version-mismatch
+    alt: 一组大小不合的依赖齿轮卡在编译传动链中，Forest 正在工作台上手工打磨替换其中一枚
+    composition: 把版本不匹配画成实体机械隐喻：Qt 风格的窗框形零件、Boost 弹簧、加密锁芯和网络传动轮组成一条无标签装配链，其中一枚过小的传动轮卡住整台机器；Forest 在旁边手工打磨一枚新轮替换它。保持简洁，不出现产品标志、代码、版本号、命令行或文字标签。
+    review_status: approved

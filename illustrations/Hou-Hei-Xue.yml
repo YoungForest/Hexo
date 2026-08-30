@@ -1,0 +1,10 @@
+version: editorial-comic-v1
+post: source/_posts/Hou-Hei-Xue.md
+context: 作者把《厚黑学》视为借夸张学说讽刺历史与社会现实的杂文集，并从官僚话术、人性和儒学批判中观察百年未变的机制。
+assets:
+  - id: hero
+    file: source/images/ai/Hou-Hei-Xue/zh-hero.webp
+    placement: hero
+    alt: 体面木制门面的背后藏着由细线牵动的官帽空椅和层层退路，侧旁一面夸张面具露出讽刺笑意
+    composition: 不画作者、书封或真实人物；用民国讽刺画般的木制舞台表现“表面道德、背后机制”：前景是体面却有裂缝的拱门，背后几把空椅和无标识官帽被细线牵动，地板下分出多条秘密退路，一面厚边薄心的夸张面具在侧旁露出幽默笑意；画面不出现可读文字、旗帜或政治标识。
+    review_status: approved

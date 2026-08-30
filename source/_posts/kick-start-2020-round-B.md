@@ -5,6 +5,7 @@ tags:
 - Competitive Programming
 categories:
 - KickStart
+description: 四道算法题解：识别局部山峰、倒推公交班次、用栈解析嵌套机器人路径，并计算随机行走避开矩形洞口的概率。
 translations:
   zh-CN: https://youngforest.github.io/2020/04/19/kick-start-2020-round-B/
   en: https://youngforest.github.io/en/2020/04/19/kick-start-2020-round-B/
@@ -14,6 +15,12 @@ translations:
 | YoungForest | 74 | 524 | 5 + 7 | 10 + 13 | 11 + 16 | 14 + 0 | 1:35:18 |
 
 去年一共参加了6轮kickstart，成功拿到Google今年的实习邀请。可惜的是，由于疫情的原因，谷歌中国的暑期实习项目全部取消了。今年为了秋招名额，仍需继续参加kickstart。今天的round B轮次虽然在早上7点，但仍然有很多同学参加。遗憾的是，最后一题的时间复杂度过高，大的Test set TLE了。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/kick-start-2020-round-B/zh-hero.webp" alt="一个无标识的小机器人沿实体旅行棋盘经过山峰、倒排车站与嵌套轨道，最后谨慎绕开网格中的深色洞口" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
 
 ## Bike Tour
 

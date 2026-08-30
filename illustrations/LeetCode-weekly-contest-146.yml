@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-146.md
+context: >-
+  作者白天与老同学聚会，只匆匆参赛并留下一个颜色切换时机的错误，晚上回家补完四题：多米诺归一化、双色交替最短路、叶值最小代价树和绝对值表达式枚举。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-146/zh-hero.webp
+    placement: hero
+    alt: Forest 告别白天聚会后在夜灯下旋转多米诺、铺双色路径、抬升大叶片并翻转八组符号机关
+    composition: >-
+      使用虚构 Forest。画面从左侧白天与两位旧友围桌聊天，过渡到右侧夜晚补题的温暖书桌。四个实体谜题清晰排列：旋转后归一的无点数多米诺块、红色改为琥珀且与青绿交替的最短小路、把较大叶片抬到高层以降低代价的树模型，以及三只可正反翻转、形成八种组合的无符号机械拨片。表现先生活后补题的充实感，不画游戏商标。无可读文字、字母、数字、公式、品牌、假界面或水印。
+    review_status: approved

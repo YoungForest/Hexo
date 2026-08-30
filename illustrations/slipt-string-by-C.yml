@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/slipt-string-by-C.md
+context: >-
+  作者做 C 语言题目时需要分割字符串，发现可使用 strtok；首次调用传入字符串，后续调用则让函数从保存的位置继续切分。
+assets:
+  - id: hero
+    file: source/images/ai/slipt-string-by-C/zh-hero.webp
+    placement: hero
+    alt: 一条连续珠串首次送入分隔轮，后续空手摇动把剩余珠串依次切成整齐小段
+    composition: >-
+      不使用 Forest。把字符串画成一条由无字几何珠组成的连续长带，首次由完整卷轴送入中央分隔轮；机器记住当前位置后，后续只需拉动一个空白把手，就把余下长带按分隔珠依次送出为整齐小段。突出“第一次传入原串、以后继续上次位置”的机制，不画代码。无可读文字、字母、数字、公式、品牌、真实或虚构界面、水印或签名。
+    review_status: approved

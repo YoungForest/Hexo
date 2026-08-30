@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-115.md
+context: >-
+  作者为准备电话面试重新捡起限时周赛，复盘完全二叉树、周期牢房状态、斜线分区和删除列保持字典序，并表达重建职业训练节奏的动力。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-115/zh-hero.webp
+    placement: hero
+    alt: Forest 重启限时训练，检查完全树、追踪循环格、划分斜线区域并保留有序色柱
+    composition: >-
+      使用虚构 Forest。他重新打开一座久未使用的限时训练工坊，用无刻度沙漏与无品牌电话听筒提示面试准备，但不描绘公司、招聘者或真实人物。一条重启的路径穿过四个模型：按层检查二叉树直到第一个空位后不能再出现节点、让一排明暗牢格在有限状态间循环并识别重复周期、用对角木条把方格划成连通区域、从多行彩色竖柱中移除少数破坏共同顺序的列并保留最长有序骨架。远处只有抽象的职业阶梯和灯光，不出现公司建筑。无可读文字、字母、数字、公式、商标、公司标识、真人肖像、假界面或水印。
+    review_status: approved

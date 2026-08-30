@@ -6,11 +6,18 @@ tags:
 - 六神磊磊读唐诗
 categories:
 - 读后感
+description: "一本把唐诗、金庸式悲悯与借古讽今连在一起的浪漫读物，也提醒人们不要把批评简单等同于敌意。"
 translations:
   zh-CN: https://youngforest.github.io/2024/07/25/Liu-Shen-Lei-Lei-Du-Tang-Shi/
   en: https://youngforest.github.io/en/2024/07/25/Liu-Shen-Lei-Lei-Du-Tang-Shi/
 ---
 有种“当年明月”的“明朝那些事儿”的感觉呀。不知道是刻意模仿，还是无意为之。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/Liu-Shen-Lei-Lei-Du-Tang-Shi/zh-hero.webp" alt="一卷无字长卷化成田园、边塞、古迹和送别渡口四条支流，最终汇入一轮温暖明月下的诗意河面" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
 
 经常和金庸小说互动，尤其是同样的“悲天悯人”。
 

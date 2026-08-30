@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-380-Insert-Delete-GetRandomO-1.md
+context: >-
+  作者借插入、删除和随机取值问题复盘摊还复杂度：用哈希映射定位数组位置，删除时让末尾元素补空再弹出，从而让各项操作平均保持常数时间。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-380-Insert-Delete-GetRandomO-1/zh-hero.webp
+    placement: hero
+    alt: Forest 用索引线定位储物格，让末尾箱补上空位，并由均匀转盘随机挑选一格
+    composition: >-
+      使用虚构 Forest，在匿名的数据结构仓库中操作一排等宽储物格。墙上的无字索引钉板用细线直接连接到每个格位；插入时新箱进入末端，删除中间箱时，Forest 让最末箱沿短滑轨补上空位，再收起最后的空格。上方一只无刻度的均匀机械转盘控制夹爪落向任意格位，表现随机访问。远处沉重但偶发的维护动作由小配重逐次摊平，暗示 amortized。无数字、字母、公式、复杂度标记、品牌、真实公司或面试官、假界面、水印或可读文字。
+    review_status: approved

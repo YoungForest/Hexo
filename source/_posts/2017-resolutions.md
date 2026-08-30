@@ -1,5 +1,6 @@
 ---
 title: 2017 新年展望
+description: "从深夜里的懒散反思出发，为英语、作息、早餐、运动与升学压力制定一份具体的 2017 改变计划。"
 date: 2017-2-22 12:36:31
 tags:
 - life
@@ -16,6 +17,12 @@ translations:
 最近刚读了蔡东藩的[五代史](https://book.douban.com/subject/3089584/), 了解五代混乱的历史, 感叹大多数主子昏庸误国, 英明的主子也多少有瑕疵的同时, 也将心比心, 自己是否是一个英明的帝王. 答案却是否定的. 我是一个懒惰的人, 没有意志力的人, 不喜欢批评, 只喜欢表扬. 如果把自己放在帝王的位置上, 一定是个亡国之君了. 想想还是很可怕的.
 
 综上两点原因, 我打算在新的一年里有所改变, 制定新年目标, 完成新年计划, 做更好地自己.
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/2017-resolutions/zh-hero.webp" alt="深夜书桌前的 Forest 把赖着不翻身的咸鱼垫推开，将早起、早餐、运动和学习积木排成新年路线" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
 
 ## 2017目标及计划
 

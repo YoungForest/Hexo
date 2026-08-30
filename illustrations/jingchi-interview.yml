@@ -1,0 +1,16 @@
+version: editorial-comic-v1
+post: source/_posts/jingchi-interview.md
+context: 作者记录 2018 年一次由实验室安排的景驰实习生在线面试：两轮项目与算法交流、随后的人力沟通，以及当时对廉价实习、学习收益和后续选择的判断。
+assets:
+  - id: hero
+    file: source/images/ai/jingchi-interview/zh-hero.webp
+    placement: hero
+    alt: Forest 在宿舍桌前依次穿过两道远程面试声波门，第一道断续模糊，第二道清晰连到协作白板
+    composition: 让年轻 Forest 在宿舍桌前戴着耳机，面前不是屏幕而是两道抽象声波门：第一道信号断裂、画面空白，第二道声波稳定并连到一块只有几何图形的协作白板；背景以两只小时钟暗示两轮面试，表现通信质量改善与流程推进。无品牌、真实界面、文字或公司标识。
+    review_status: approved
+  - id: second-round
+    file: source/images/ai/jingchi-interview/zh-second-round.webp
+    placement: before-second-interview
+    alt: Forest 把一箱褪色的旧项目零件换成一枚较新的实习齿轮，面试官随即把话题引向公司技术工坊
+    composition: 把第二轮交流画成桌面叙事：Forest 面前是一箱已经褪色、细节模糊的旧项目零件，他坦然放下它们，转而拿出一枚较新的实习齿轮；对面的虚构面试官因此打开通往小型自动驾驶技术工坊的侧门，但工坊不出现车辆品牌、公司名或界面。保持轻微自嘲，不画真实人物。
+    review_status: approved

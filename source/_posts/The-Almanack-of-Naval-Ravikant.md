@@ -6,6 +6,7 @@ tags:
 - 纳瓦尔宝典
 categories:
 - 读后感
+description: 重读《纳瓦尔宝典》中关于财富、幸福、经典阅读和长期后果的智慧，也结合自己的阅读经验作出取舍。
 translations:
   zh-CN: https://youngforest.github.io/2024/07/27/The-Almanack-of-Naval-Ravikant/
   en: https://youngforest.github.io/en/2024/07/27/The-Almanack-of-Naval-Ravikant/
@@ -13,6 +14,12 @@ translations:
 [豆瓣链接](https://book.douban.com/subject/35876121/)
 
 前半本财富，适合35岁前读，改变现状。很多智慧也是世界上比较公认和容易的。后半本幸福，适合35岁后读，接受现状。但就比较主观和因人而异了，属于更大的智慧，也更加难得了。最后Die with zero (也是一本书).
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/The-Almanack-of-Naval-Ravikant/zh-hero.webp" alt="一条长路从持续运转的杠杆果园通向安静池塘，路中央的望远镜同时观察现实与长期后果" width="1536" height="864" decoding="async">
+</figure>
+
+<!-- more -->
 
 和之前读过的很多书都串起来了，真就是一份宝典。很多智慧只是只言片语，就讲清楚了。比如，“原子习惯”中如何培养好习惯，摒弃坏习惯，习惯的重要性；“金钱心理学”中财富的定义，如何获得财富；再如 “进化心理学”，“欲望的演化”中关于人类心理学和两性心理的论述。当然，这些书都写的详细的多，可操作性更强，属于术的部分。“纳瓦尔宝典”是一个集锦，纳瓦尔作为一个聪明人，读过很多书的人，几十年来积累的智慧总结。用他所推崇的“费曼学习法”，讲给大家。不同的人，有不同的人生阅历和阅读，感受就完全不一样。真是相见恨晚。
 

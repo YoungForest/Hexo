@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 238
 date: 2021-04-25 17:58:13
+description: 四道题转换进制并求位和、用滑动窗口提高相同元素频率、寻找按顺序出现的五段元音，并在稀疏高度限制间求最高楼顶。
 tags:
 - Competitive Programming
 categories:
@@ -12,6 +13,10 @@ translations:
 | Rank |	Name |	Score |	Finish Time | 	Q1 (3) |	Q2 (5) |	Q3 (5) |	Q4 (6)|
 |--|--|--|--|--|--|--|--|
 | 383 / 11635 | YoungForest | 18 | 1:53:50 | 0:01:05 | 0:13:02 |  0:20:59 | 1:28:50 5 |
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-238/zh-hero.webp" alt="珠子经多槽进制轮重新分组，滑窗把石块抬到同高，五色长带保持顺序，受限楼柱之间升起最高屋脊" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
 
 <!-- more -->
 

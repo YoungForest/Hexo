@@ -1,6 +1,7 @@
 ---
 title: LeetCode biweekly contest 53
 date: 2021-05-30 11:44:44
+description: 四道题检查三字符互异、贪心配对数组两端、统计前三大菱形和，并用状态压缩动态规划求最小异或和。
 tags:
 - Competitive Programming
 categories:
@@ -21,6 +22,10 @@ translations:
 1877,Minimize Maximum Pair Sum in Array,minimize-maximum-pair-sum-in-array,1301.3817574010
 1878,Get Biggest Three Rhombus Sums in a Grid,get-biggest-three-rhombus-sums-in-a-grid,1897.5516652727
 1879,Minimum XOR Sum of Two Arrays,minimum-xor-sum-of-two-arrays,2145.1839952670
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-biweekly-contest-53/zh-hero.webp" alt="三格滑窗检查不同珠子，大小砝码两端配对，菱形轨道把前三大和值送上领奖台，位掩码配对台寻找最小异或" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
 
 <!-- more -->
 

@@ -1,6 +1,7 @@
 ---
 title: LeetCode biweekly contest 36
 date: 2020-10-06 09:29:23
+description: 双周赛复盘：停车位、门禁告警、行列和矩阵及服务器轮转；比赛只完成前两题，后两题赛后补齐。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2020/10/06/LeetCode-biweekly-contest-36/
   en: https://youngforest.github.io/en/2020/10/06/LeetCode-biweekly-contest-36/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-biweekly-contest-36/zh-hero.webp" alt="三种车位按车型扣减，三枚门禁牌落在同一沙漏窗，行列容器贪心填满矩阵，服务器轮盘在停转后重新分配请求" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 | Rank |	Name |	Score |	Finish Time | 	Q1 (3) |	Q2 (4) |	Q3 (6) |	Q4 (7)|
 |--|--|--|--|--|--|--|--|
 | 1667 / 8332 | YoungForest | 7 | 0:15:37 | 0:01:46 | 0:15:37 | null | null |

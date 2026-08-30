@@ -1,0 +1,10 @@
+version: editorial-comic-v1
+post: source/_posts/My-dream-when-3rd-years-in-high-school.md
+context: 十年后重读十七岁时写下的理想，在未实现的名校目标之外，重新看见当年的求知欲、雄心和持续成长。
+assets:
+  - id: hero
+    file: source/images/ai/My-dream-when-3rd-years-in-high-school/zh-hero.webp
+    placement: hero
+    alt: 成年的 Forest 展开一张从旧硬盘中找回的空白信纸，纸中少年 Forest 正沿星光下的长阶走向远方的校园门廊
+    composition: 以前景成年 Forest 发现旧信纸、纸中少年 Forest 攀登长阶的双层场景表现十年回望；校园只用虚构门廊轮廓，不出现校名、徽标或文字。
+    review_status: approved

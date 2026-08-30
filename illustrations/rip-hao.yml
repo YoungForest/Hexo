@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/rip-hao.md
+context: >-
+  作者悼念一位曾通过技术博客和刷题群帮助自己的程序员，回忆其长期影响，也反思计算机行业的过劳、猝死风险与珍惜生命。
+assets:
+  - id: hero
+    file: source/images/ai/rip-hao/zh-hero.webp
+    placement: hero
+    alt: 清晨的空程序员书桌旁，一盏熄灭的台灯与仍在延伸的代码积木轨迹，象征一位技术写作者留下的长期影响
+    composition: >-
+      克制、尊重的抽象纪念场景：清晨暖灰色房间里是一张无人空书桌、空椅、合上的无字笔记本和熄灭的台灯；桌边一串无字代码积木般的几何模块继续延伸到远处几张被晨光照亮的学习桌，象征知识仍在传递。不要出现人物、肖像、墓碑、宗教符号、悲情夸张、代码、屏幕内容、文字、品牌或标志。
+    review_status: approved

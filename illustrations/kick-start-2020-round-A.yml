@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/kick-start-2020-round-A.md
+context: >-
+  作者复盘一次四题竞赛：按价格贪心购买更多房屋、用动态规划挑选盘子、把训练难度转成二分判定问题，并以字典树和深搜对共同前缀分组。
+assets:
+  - id: hero
+    file: source/images/ai/kick-start-2020-round-A/zh-hero.webp
+    placement: hero
+    alt: 四格竞赛桌依次摆放便宜房屋、精选盘子、被二分的训练间隔和在深层枝条成束的无字标签
+    composition: >-
+      不使用 Forest。做成一张四格但无边框的宽幅竞赛桌：左侧预算袋优先装入更小更便宜的模型房屋；中左多摞彩盘由机械手从每摞顶部挑出若干并汇成最亮组合；中右一条训练跑道把最大间隔反复对半切分，直到各段接近；右侧无字彩带沿树枝式槽道共享前缀，越深处越早扎成小束。四处动作由一只没有数字的计时器圆环串联，表达四题同一时限。禁止任何文字、数字、价格符号、代码、公式、排行榜、公司标识、商标或水印。
+    review_status: approved

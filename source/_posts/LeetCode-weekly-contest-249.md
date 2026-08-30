@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 249
 date: 2021-07-11 17:54:25
+description: 复盘数组拼接、三字符回文子序列、三色网格动态规划，以及合并并验证二叉搜索树。
 tags:
 - Competitive Programming
 categories:
@@ -18,6 +19,12 @@ translations:
 本周后2题都是hard，确实容易拉开距离。
 
 因为我国服rating达到了2460，我担心掉分，因此最近基本都在美服玩耍。美服是个2330的“小号”，基本很难掉分。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-249/zh-hero.webp" alt="两段相同彩块首尾拼接，三珠镜环围住中心，三色列网格逐步铺开，多棵搜索树嫁接成一棵完整树" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
 
 ## 1929. Concatenation of Array
 
@@ -257,5 +264,4 @@ public:
 
 时间复杂度: O(trees.length),
 空间复杂度: O(trees.length).
-
 

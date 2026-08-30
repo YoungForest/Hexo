@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/codeforces-round-633-Div2.md
+context: >-
+  三道题分别化简菱形带状态、从中点向两侧重排差值，并用倍增能力补齐非递减数组。
+assets:
+  - id: hero
+    file: source/images/ai/codeforces-round-633-Div2/zh-hero.webp
+    placement: hero
+    alt: 菱形链只保留两种拼接状态，石柱从中点左右交替排列，倍增升降台逐级托平低柱
+    composition: >-
+      不使用 Forest。构造一间横向珠宝机械坊：左侧菱形木框在两种可拼接朝向之间交替，最终形成一条长度与可见菱形数量直接对应的腰带；中央一排高低石柱先排序，再从中点开始向右、向左交替抽取，形成相邻差值平滑的队列；右侧遇到低于历史最高点的柱子时，倍增式伸缩升降台逐级增加能力，直到能补齐最大的高度缺口。禁止人物、字符、字母、数字、公式、代码、可读文字、竞赛标志、商标或水印。
+    review_status: approved

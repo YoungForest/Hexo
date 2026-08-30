@@ -1,0 +1,19 @@
+version: editorial-comic-v1
+post: source/_posts/pkg-config.md
+context: >-
+  文章从安装测试库时发现 pc 文件出发，解释 pkg-config 如何保存头文件、库位置、编译选项与依赖关系，让调用方更容易编译和链接组件。
+assets:
+  - id: hero
+    file: source/images/ai/pkg-config/zh-hero.webp
+    placement: hero
+    alt: 一排无字资料卡像路标一样引导编译小车穿过头文件仓库和共享库仓库，避开层层组件之间的岔路
+    composition: >-
+      不画代码、命令、真实项目标志或假界面。把多层软件组件画成一座仓库迷宫，头文件箱和共享库箱分处不同货架；无字资料卡像可靠路标，引导一辆编译小车拿到正确箱子并通过链接闸门，表现元数据让组件整合变得可发现。
+    review_status: approved
+  - id: public-private
+    file: source/images/ai/pkg-config/zh-public-private.webp
+    placement: inline-before-important-metadata-fields
+    alt: 中央组件把直接需要的接口送上明亮公共管道，把只在内部运转的依赖藏进后方维护通道
+    composition: >-
+      在解释 Requires 与 private 字段前插入。画一个中央组件仓库：调用方直接使用的接口沿明亮公共管道送到前台，只供组件内部运转的齿轮和依赖留在后方维护通道，避免所有箱子都被拖到用户面前。不能出现字段名、字母、符号、代码或界面。
+    review_status: approved

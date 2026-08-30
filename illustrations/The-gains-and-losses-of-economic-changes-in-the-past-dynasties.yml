@@ -1,0 +1,10 @@
+version: editorial-comic-v1
+post: source/_posts/The-gains-and-losses-of-economic-changes-in-the-past-dynasties.md
+context: 从历代经济改革的反复循环出发，思考国家机器、民间市场、制度约束与长期繁荣之间的张力。
+assets:
+  - id: hero
+    file: source/images/ai/The-gains-and-losses-of-economic-changes-in-the-past-dynasties/zh-hero.webp
+    placement: hero
+    alt: 一只巨大的历史钟摆在官府齿轮与民间市集之间往复，地面留下不断加深的车辙
+    composition: 中国历史长卷上的钟摆在沉重的官府齿轮和活跃的民间市集之间来回摆动，重复车辙表现改革周期与制度惯性。
+    review_status: approved

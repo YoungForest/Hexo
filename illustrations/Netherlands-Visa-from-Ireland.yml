@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/Netherlands-Visa-from-Ireland.md
+context: >-
+  作者在爱尔兰完成居留后，为探望在荷兰读书的朋友申请短期申根签证，经历预约、材料、保险、银行流水、现场补充说明和护照领取，并总结时间与准备事项；原签证图片继续作为事实材料。
+assets:
+  - id: hero
+    file: source/images/ai/Netherlands-Visa-from-Ireland/zh-hero.webp
+    placement: hero
+    alt: Forest 抱着一叠空白材料沿冬日踏脚石完成预约、材料提交和护照领取，最终走向跨海探友的航班
+    composition: >-
+      使用虚构 Forest，不是真人肖像。冬日背景中，一条从左到右的踏脚石路线连接几个无文字节点：居留卡形状的空白卡片、偶尔亮起的预约铃、装有邀请信与保险纸张的材料篮、工作人员接收材料的普通窗口、最终归还的封闭护照形状小册子与远处跨海航班。另一岸有一位朋友在温暖灯光下等待。强调准备充分和逐步办理，不出现真实护照、签证、身份证件、国旗、国界地图、使馆或签证中心标志、疫苗品牌、金额、日期、文字、数字、商标或水印。
+    review_status: approved

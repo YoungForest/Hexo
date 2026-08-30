@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-116.md
+context: >-
+  作者因同时纠结两道题而两边都未完成，复盘随机寻找重复元素、最大宽度坡、最小面积矩形和以最少运算表达目标，反思何时才适合动态规划。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-116/zh-hero.webp
+    placement: hero
+    alt: Forest 收拢分叉注意力，配对重复珠、架起最宽坡、旋转最小矩形并精简运算齿轮
+    composition: >-
+      使用虚构 Forest。他站在一张分成两条半成品赛道的桌前，先把左右拉扯的注意力绳收回到中央，表达同时追两题导致都未完成的教训。四个无字物理模型表现：从混合珠袋随机取两枚直到抽到重复颜色、在高低柱列之间寻找跨度最宽且不下降的坡板、旋转四枚散点上的木框找到面积最小矩形、用最少数量的乘除加减动作齿轮把能量块组合到目标槽但不出现运算符。旁边一个错误套用的多层动态规划盒被合上。无可读文字、字母、数字、公式、符号、品牌、假技术界面或水印。
+    review_status: approved

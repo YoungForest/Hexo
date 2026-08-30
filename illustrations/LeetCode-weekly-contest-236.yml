@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-236.md
+context: >-
+  三道完成题统计乘积符号、用约瑟夫环求圆桌赢家，并以自底向上的动态规划计算最少侧跳；第四题只保留标题，插图需诚实表现尚未展开。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-236/zh-hero.webp
+    placement: hero
+    alt: 正负砝码决定天平方向，圆环座位逐轮退出，三车道小车侧跳避障，最后一座工作台仍留空
+    composition: >-
+      不使用 Forest。设计一张从左到右推进的四站算法练习场：第一站将深色负号意象改为向下三角砝码、浅色正向改为向上三角砝码，并用空心零石让乘积方向归零，全程不能出现真实符号；第二站圆桌上的无脸木偶按固定步长逐轮退出，只剩一个座位亮起；第三站三条平行跑道上有障碍柱，一辆小车以最少横向跳跃前进，底部的折叠轨道从终点向起点回填，表现 bottom-up DP；第四站是一张干净但尚未启动的机械台，零件仍在封闭托盘里，没有完成勾或胜利装饰。禁止人物、字符、字母、数字、正负号、公式、代码、可读文字、品牌、竞赛标志、商标或水印。
+    review_status: approved

@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-181.md
+context: >-
+  周赛复盘涵盖按位置插入构造目标数组、筛选恰有四个因数的数、在街道网格中寻找有效通路，以及最长相同前后缀；作者也记录评分起伏。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-181/zh-hero.webp
+    placement: hero
+    alt: Forest 在插入圆片、四支点木块、连通街道拼片和前后花纹重合带之间抽象问题接口
+    composition: >-
+      使用虚构 Forest。起伏训练轨道连接四座实体工位：机械爪把圆片放入目标队列空槽，只有同时落在四个圆形支点上的木块发光，街道拼片以相容接口连成发光通路，几何花纹带穿过镜面夹具让首尾最长部分重合；Forest 在中央拼接两块简化道路接口。无气泡、箭头、勾号、可读文字、数字、公式、代码、品牌、假界面或水印。
+    review_status: approved

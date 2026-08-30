@@ -5,6 +5,7 @@ tags:
 - Competitive Programming
 categories:
 - KickStart
+description: 四道算法题解：寻找倒计时序列、按依赖稳定搭墙、用前缀和识别平方子数组，并通过线段树维护交替权重查询。
 translations:
   zh-CN: https://youngforest.github.io/2020/05/18/kick-start-2020-round-C/
   en: https://youngforest.github.io/en/2020/05/18/kick-start-2020-round-C/
@@ -14,6 +15,12 @@ translations:
 | YoungForest | 74 | 524 | 5 + 7 | 10 + 13 | 11 + 16 | 14 + 0 | 1:35:18 |
 
 上个月因为Round B结果还不错，收到了Google CN HR的Congraduation邮件。本月再接再厉，为了进入Google的梦想而努力。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/kick-start-2020-round-C/zh-hero.webp" alt="四格实体谜题盒里，递减台阶、依赖墙、方形拼片和交替糖果秤沿同一条琥珀色传送带依次完成" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
 
 ## A. Countdown
 

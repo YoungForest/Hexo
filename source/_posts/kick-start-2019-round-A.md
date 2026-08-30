@@ -5,6 +5,7 @@ tags:
 - Competitive Programming
 categories:
 - KickStart
+description: 首次认真参加该系列竞赛，记录训练小组选择、城市网格中新建邮局，以及公平安排重叠座位预订的三道优化题。
 translations:
   zh-CN: https://youngforest.github.io/2019/03/24/kick-start-2019-round-A/
   en: https://youngforest.github.io/en/2019/03/24/kick-start-2019-round-A/
@@ -24,6 +25,12 @@ translations:
 
 也就是说，我过了签到题和第二题的small case。
 题目的难度总体比LeetCode要难的多，最后只有2个人拿到了满分。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/kick-start-2019-round-A/zh-hero.webp" alt="三座规划台依次用滑动框挑出高度接近的木偶、在城市网格补上一枚邮局灯塔，并把重叠座位带公平分开" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
 
 ## 1. Training
 

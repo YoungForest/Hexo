@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/kick-start-2021-round-A.md
+context: >-
+  作者久违地凭兴趣参加算法竞赛，回顾过去为了求职坚持参赛的经历，并依次解决字符串对称、L 形计数、地形抬升与图上破环四类问题；成绩不再是唯一目的，推导过程本身成为主角。
+assets:
+  - id: hero
+    file: source/images/ai/kick-start-2021-round-A/zh-hero.webp
+    placement: hero
+    alt: 四块无文字的谜题岛屿由一条从计时器旁绕开的路线连接，依次呈现镜像珠串、L 形田块、抬升地形和断环网络
+    composition: >-
+      不使用 Forest。用四块悬浮的算法谜题岛屿组成宽幅构图：镜像排列但有一颗错位的珠串；从网格农田中长出的多个 L 形；小兔屋把凹陷地形逐格抬平；一张环形网络通过移走代价最小的边变成树。远处放一个很小、无刻度的计时器，主路线却从它旁边绕开，表达这次参赛更多出于兴趣而非排名。每块只保留一个清楚动作，禁止真实比赛品牌、排行榜、代码界面、可读文字、字母、数字、商标或水印。
+    review_status: approved

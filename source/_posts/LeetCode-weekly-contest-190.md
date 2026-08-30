@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 190
 date: 2020-05-24 12:43:24
+description: 周赛补题：句中前缀、元音滑窗、伪回文树路径和子序列最大点积，也记录因小伤错过比赛的插曲。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2020/05/24/LeetCode-weekly-contest-190/
   en: https://youngforest.github.io/en/2020/05/24/LeetCode-weekly-contest-190/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-190/zh-hero.webp" alt="Forest 戴着小耳贴在桌前串联空白词块、五色滑窗、近回文树路径和两排珠子的最优配对" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 昨晚老爸帮我掏耳朵，一不小心掏出了血。今天一大早就去地区医院检查，还好并无大碍，只损伤了外耳道，休息一周，自然痊愈就好了。只要不感染，就没问题。开了些阿姆西林吃了。
 所以鸽了周赛，赛后补题。
 

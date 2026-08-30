@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-140.md
+context: >-
+  周赛复盘包括评测事故、用状态机寻找相邻词、枚举字母牌组合、递归剪去不充分的树节点，以及用单调结构得到最小的不重复子序列。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-140/zh-hero.webp
+    placement: hero
+    alt: 无字算法工坊校准失灵的裁判机械，并处理状态珠链、组合方块、修枝树和单调轨道
+    composition: >-
+      不使用人物角色，以一座横向算法工坊串联四个实体隐喻。中央是一台偏斜后重新校准的裁判机械；左侧彩色圆片经过三段状态轨道寻找相邻模式，旁边七块无标记几何牌展开成多种排列；右侧机械剪刀移除达不到门槛的树枝，末端轨道弹出重复且更大的珠子，留下严格精简的序列。无可读文字、字母、数字、公式、商标、平台界面或水印。
+    review_status: approved

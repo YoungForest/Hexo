@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-215-Kth-Largest-Element-in-an-Array.md
+context: >-
+  作者为下午的面试练习第 K 大元素，最初的二维记忆化方法超时，随后改用类似快速排序的选择算法，通过分区不断缩小目标所在范围。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-215-Kth-Largest-Element-in-an-Array/zh-hero.webp
+    placement: hero
+    alt: Forest 在面试前关闭庞大记忆格，用枢轴闸门分开石块并逐步锁定第 K 大位置
+    composition: >-
+      使用虚构 Forest。他在无身份线索的候场练习台前，关闭一块越铺越大并冒热气的二维记忆格，改用一座枢轴分区闸门。不同大小的石块绕枢轴分到左右两区，Forest 只保留目标可能所在的一侧，再移动边界重复分区，最终锁定一枚位于正确秩次的琥珀石。目标位置用空白凸起托座表现，不写 K 或任何数字。无可读文字、字母、数字、公式、公司标识、真实面试官、假界面或水印。
+    review_status: approved

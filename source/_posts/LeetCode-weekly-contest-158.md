@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly  contest 158
 date: 2019-10-14 10:09:33
+description: 周赛复盘：平衡字符串切分、八方向攻击、受限掷骰模拟和删除一个元素后的最大等频前缀。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2019/10/14/LeetCode-weekly-contest-158/
   en: https://youngforest.github.io/en/2019/10/14/LeetCode-weekly-contest-158/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-158/zh-hero.webp" alt="无人机械花园以双色平衡液槽、放射中心件、空白方块滚筒和移走单珠的机械爪表现四种状态约束" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 ## 1221. Split a String in Balanced Strings
 
 理解balanced的定义，发现只需要找到 L 和 R 出现个数相等的位置即可。

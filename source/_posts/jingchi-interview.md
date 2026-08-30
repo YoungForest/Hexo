@@ -1,5 +1,6 @@
 ---
 title: 景弛（文远之行）面试
+description: "记录一次 2018 年景驰实习生在线面试：两轮算法题、项目交流、HR 沟通，以及当时对实习回报的判断。"
 tags:
 - WeRide
 - intern
@@ -15,11 +16,19 @@ translations:
 
 技术面都很简单。因为是招数据标注平台的码农实习生嘛，自然要求超级低。感觉自己要被廉价卖掉了。
 
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/jingchi-interview/zh-hero.webp" alt="Forest 在宿舍桌前依次穿过两道远程面试声波门，第一道断续模糊，第二道清晰连到协作白板" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
 <!-- more -->
 
 ## 一面
 
 一面问了项目和一道[括号匹配](https://leetcode.com/problems/valid-parentheses/description/)的问题。
+
+<figure class="editorial-illustration">
+  <img src="/images/ai/jingchi-interview/zh-second-round.webp" alt="Forest 把一箱褪色的旧项目零件换成一枚较新的实习齿轮，面试官随即把话题引向公司技术工坊" width="1536" height="864" loading="lazy" decoding="async">
+</figure>
 
 ## 二面
 

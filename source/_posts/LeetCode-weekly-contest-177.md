@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 177
 date: 2020-02-23 12:12:46
+description: 周赛复盘：日期差、二叉树合法性、最近因数与最大的三的倍数，记录手速场中的贪心与验证思路。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2020/02/23/LeetCode-weekly-contest-177/
   en: https://youngforest.github.io/en/2020/02/23/LeetCode-weekly-contest-177/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-177/zh-hero.webp" alt="Forest 站在空白日历踏石、单根树、因数配对拱门和三组彩珠构成的算法花园中" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 | Rank |	Name |	Score |	Finish Time | 	Q1 (4) |	Q2 (5) |	Q3 (5) |	Q4 (6)|
 |--|--|--|--|--|--|--|--|
 | 333 / 6106 |	YoungForest | 	20 | 1:04:22 | 0:25:00 | 0:33:40 | 0:43:21 | 0:59:22  1 |

@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 225
 date: 2021-01-24 19:58:06
+description: 四道题补全最晚合法时间、减少字符变更、排序二维前缀异或值，并二分寻找堆箱子的最小占地。
 tags:
 - Competitive Programming
 categories:
@@ -12,6 +13,12 @@ translations:
 | Rank |	Name |	Score |	Finish Time | 	Q1 (3) |	Q2 (4) |	Q3 (5) |	Q4 (6)|
 |--|--|--|--|--|--|--|--|
 | 299 / 11282 | YoungForest | 18 | 1:16:19 | 0:05:09 | 0:18:06 | 0:29:04 |  1:11:19  1 |
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-225/zh-hero.webp" alt="五枚空白转盘在约束门中补成最晚序列，两串彩珠按分界或主色减少替换，网格前缀棱镜汇总异或光，墙角箱塔寻找最小底座" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
 
 ## 1736. Latest Time by Replacing Hidden Digits
 

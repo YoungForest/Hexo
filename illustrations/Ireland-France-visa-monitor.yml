@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/Ireland-France-visa-monitor.md
+context: >-
+  作者在爱尔兰开发了一个法国签证放号通知工具：程序持续监测新名额并在出现时提醒，由用户本人完成预约，最终避开黄牛成功约到时间。
+assets:
+  - id: hero
+    file: source/images/ai/Ireland-France-visa-monitor/zh-hero.webp
+    placement: hero
+    alt: Forest 的小型监测装置守着一排关闭的预约窗，当唯一一扇窗亮起时只鸣铃提醒，由 Forest 自己跑去预约
+    composition: >-
+      使用虚构 Forest，不是真人肖像。画面是一座无地名、无标志的预约大厅，远处一排窗口大多关闭；Forest 在近处的工作台旁等待，一台朴素的机械监测装置用望远镜持续观察窗口。当唯一一扇窗口亮起琥珀色灯光时，装置只敲响小铃，Forest 随即拿起空白材料亲自跑向窗口。清楚表达监测与通知，而不是自动预约或绕过网站。不要出现真实签证文件、国旗、领馆、地名、日期、护照、黄牛人物、浏览器、机器人抢号动作、文字、数字、商标或可读界面。
+    review_status: approved

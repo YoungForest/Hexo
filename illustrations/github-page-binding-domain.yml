@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/github-page-binding-domain.md
+context: >-
+  一则历史配置记录：作者为静态网站绑定自定义域名，同时完成域名侧和代码仓库侧的设置。
+assets:
+  - id: hero
+    file: source/images/ai/github-page-binding-domain/zh-hero.webp
+    placement: hero
+    alt: 自定义地址牌经过域名路由桥连接到静态站点灯塔，并由仓库锚点固定
+    composition: >-
+      不使用 Forest。用一座无标记的静态站点灯塔代表博客，一块没有文字的琥珀色地址牌从域名路由桥进入，经过青绿色分流节点后与灯塔门口严丝合缝连接；另一侧用普通文件箱形的仓库锚点固定连接，表现两边都需设置。画面像简洁的工程寓言，略带安装成功后的轻松感。无可读文字、字母、数字、域名、GitHub 或腾讯标志、Octocat、品牌、真实或虚构界面、水印或签名。
+    review_status: approved

@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/latex-problems.md
+context: >-
+  毕业论文可以成功编译，但嵌入的 PDF 图片因文件版本与默认输出版本不兼容而显示为空白；为输出环节换用匹配的驱动设置后，图片恢复显示。
+assets:
+  - id: hero
+    file: source/images/ai/latex-problems/zh-hero.webp
+    placement: hero
+    alt: 论文装订机顺利吐出书页却留下空白插图窗，换上匹配齿轮后同一窗口终于显现图像
+    composition: >-
+      技术排障隐喻，不使用 Forest。一台无品牌论文装订机看似顺利运转并吐出整齐书页，但页面中央的插图窗口完全空白；机器内部两只齿数不同的输出齿轮无法咬合。旁边的技师工具臂换上一个匹配的转接齿轮后，下一张相同书页的插图窗口显现简单山形图案。表现编译成功不等于嵌入内容兼容。不要出现真实论文、公式、LaTeX 标志、PDF 标志、版本号、命令、文件名、文字、数字、界面、商标或水印。
+    review_status: approved

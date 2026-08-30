@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-145.md
+context: >-
+  周赛复盘涵盖按自定义顺序排列数组、寻找最深叶子的最近公共祖先、用前缀和与单调结构寻找最长良好区间，以及用位掩码动态规划寻找最小充分团队。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-145/zh-hero.webp
+    placement: hero
+    alt: Forest 调整定制排序轨道、追溯最深叶根、平衡明暗工时珠并组建覆盖全部技能的最小团队
+    composition: >-
+      使用虚构 Forest。在一张连贯的竞赛规划桌上，Forest 操作四个无字模型：按样板颜色顺序重新排队的彩珠轨道、从最深叶片向上汇合到共同树枝的发光路径、用明暗工时珠和起伏平衡线寻找最长优势区间，以及从多个携带不同形状工具的小木偶中挑出覆盖全部插槽的最小队伍。避免用数字或位掩码字符。无可读文字、字母、数字、公式、品牌、假界面或水印。
+    review_status: approved

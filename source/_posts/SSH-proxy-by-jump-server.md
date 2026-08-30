@@ -1,6 +1,7 @@
 ---
 title: SSH 通过跳板机登陆服务器
 date: 2021-03-26 15:11:02
+description: 记录通过 SSH 代理和隧道，让无法直连目标服务器的设备经由跳板机访问远端服务。
 tags:
 - tech
 categories:
@@ -13,6 +14,12 @@ translations:
 
 接上篇[解决台式机Ubuntu VPN访问公网资源](https://youngforest.github.io/2021/03/18/Ubuntu-vpn-cannot-access-public-resource/)的问题后，我尝试了配置跳板机访问杭研院机器。
 
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/SSH-proxy-by-jump-server/zh-hero.webp" alt="一束加密光线从笔记本穿过中继门楼，再抵达原本无法直连的远端服务器塔" width="1536" height="864" decoding="async">
+</figure>
+
+<!-- more -->
+
 在科研工作中，MAC笔记本无法连接OpenVPN，从而访问杭研院机器。我的台式机Ubuntu已经配置好了VPN，可以访问服务器。我现在想通过台式机Ubuntu中转，从而实现MAC“直接”访问杭研院。抽象一下问题为：
 - A可以访问B
 - A不可以访问C
@@ -23,8 +30,6 @@ translations:
 我经过不屑的网上搜索和尝试，总结了2中技术和方法实现我的目的。
 - SSH 代理
 - SSH 隧道
-
-<!-- more -->
 
 
 ## SSH 代理

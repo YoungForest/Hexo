@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 254
 date: 2021-08-15 11:40:36
+description: 四道题依次检查子串、交错排列高低元素、构造最小非零乘积，并用并查集判断洪水网格最后可穿越日期。
 tags:
 - Competitive Programming
 categories:
@@ -15,6 +16,12 @@ translations:
 
 一不小心，周赛博客又鸽了3周。虽然我一直在参加周赛，但赛后经常忘记总结和复盘。平日里对刷题也放松了练习。平时打卡不是让npy刷，就是抄之前的提交。毕竟自己做了1300+的题，经常出的题都是我做过的。
 主要还是工作后生活丰富了许多，刷题和周赛的优先级降低不少。多场双周赛我都鸽了，快活的诱惑太大了。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-254/zh-hero.webp" alt="空白词片穿过长卷筛选，高低石块交错排列，成对齿轮把乘积推向极值，洪水网格由并查集连起两岸" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
 
 ## 1967. Number of Strings That Appear as Substrings in Word
 

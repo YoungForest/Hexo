@@ -1,0 +1,10 @@
+version: editorial-comic-v1
+post: source/_posts/my-shahe-story.md
+context: 离开沙河校区前回望大学前两年，从新生期待、学生工作和繁重课业，到逐渐宅起来、重视睡眠、留恋同伴并期待下一阶段。
+assets:
+  - id: hero
+    file: source/images/ai/my-shahe-story/zh-hero.webp
+    placement: hero
+    alt: Forest 走在校园中途，一边应付课业和调试积木、社团道具与一只过大的枕头，一边望向同伴和前方的新桥
+    composition: 让人类青年 Forest 站在一条不带校名标志的校园中途路径上，身边分别是课业与调试积木、社团道具和略显夸张的枕头，远处同伴回望，前方有通往下一阶段的桥；保留疲惫又自嘲的轻微幽默。
+    review_status: approved

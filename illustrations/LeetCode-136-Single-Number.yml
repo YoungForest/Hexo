@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-136-Single-Number.md
+context: >-
+  作者最初难以同时满足线性时间和常数空间，查看题解后理解了异或的抵消性质：成对数字全部消失，只需一个累计量即可留下唯一元素。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-136-Single-Number/zh-hero.webp
+    placement: hero
+    alt: Forest 让成对石块穿过抵消拱门消失，只用一只累计碗留下唯一的琥珀石
+    composition: >-
+      使用虚构 Forest。在解题工坊里，一座庞大的备用储物柜被合上不用；一串无标记石块沿单轨进入一座对称抵消拱门，外形相同的石块两两相遇后化为轻微烟圈，单个累计碗沿轨道接收并继续传递结果，最终只剩一枚独特的琥珀石。不得画异或符号、数字、位图、公式或解释标签。无可读文字、字母、品牌、真实界面或水印。
+    review_status: approved

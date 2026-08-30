@@ -5,25 +5,32 @@ tags:
 - vim
 categories:
 - 折腾
+description: 记录 Windows 上的 gVim 配置：区分通用与 GUI 专属设置，并加入编码、剪贴板、字体和 Markdown 预览支持。
 translations:
   zh-CN: https://youngforest.github.io/2017/03/26/gvim-configuration-for-windows/
   en: https://youngforest.github.io/en/2017/03/26/gvim-configuration-for-windows/
 ---
 最近由于准备GRE, 整天背单词, 练听力和写作, 很是心烦, 很久没折腾了, 所以抽出时间, 给自己的笔记本下载并配置gvim, 也算是休憩.
 
-# [下载](http://www.vim.org/download.php#pc)
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/gvim-configuration-for-windows/zh-hero.webp" alt="两个并排的无字编辑工坊共享一只基础工具箱，图形工坊另有色板与字体尺，配置分工清晰" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
 
-# 配置文件
+<!-- more -->
+
+## [下载](http://www.vim.org/download.php#pc)
+
+## 配置文件
 与Linux不同, Windows中gvim的配置文件为`$HOME/_vimrc`(个人配置文件), `$VIMROOT/_vimrc`(系统配置文件), 默认情况下为`C:\Program Files (x86)\Vim`. 除此之外, 还可以有`_gvimrc`文件, 只有在gui情况下打开才会读取, 在terminal下不会. 这对于两者应用不同的配置很有帮助, 尤其是使用不同的主题, 同一主题下, 两者的效果很不同. 这样就避免了使用`if(has'gui_running')`这样复杂的配置内容.
 
 
-# .vimrc配置
-## 打开配置文件
+## .vimrc配置
+### 打开配置文件
 + `:e $MYVIMRC`: 打开用户配置文件, 如果没有的话可以参考`help vimrc`
 + `:e $MYGVIMRC`: 打开GUI用户配置
 `help vimrc`中推荐的配置文件位置是`$HOME/vimfiles/vimrc`(Windows)或`~/.vim/vimrc(Windows)`, 这样比起`$HOME/_vimrc`和`~/.vim`更portable.
 
-## 个性化内容
+### 个性化内容
 $MYGVIMRC
 ``` vim
 set clipboard=unnamed   " 与Windows公用clipboard, 默认情况下, y, p只使用vim的clipboard, 不是很方便
@@ -42,7 +49,7 @@ set fileformat=dos  "换行符以\r\n为准
 set fileencoding=utf-8  "与系统兼容
 syntax enable
 ```
-## markdown支持
+### markdown支持
 vim的插件可以说可以满足你的任何需求, 然而在这里我不是用vim插件, 而是使用chrome extension满足自己的需求. 理由是配置更简单, 未来其他编辑器也可以利用.
 
 [插件安装和使用说明](https://github.com/volca/markdown-preview)
@@ -55,5 +62,5 @@ autocmd BufEnter *.md exe 'noremap <F5> :!start C:\Program Files (x86)\Google\Ch
 
 使用时按`F5`就可以了.
 
-# 后记
+## 后记
 这篇post就是用`gvim for MS-WINDOWS`完成的.

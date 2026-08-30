@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-144.md
+context: >-
+  作者因上午参加托福考试错过周赛，赛后补做四题：字符串替换、用差分思路汇总航班预订、递归删除节点得到森林，以及把嵌套括号贪心分给两个较浅序列。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-144/zh-hero.webp
+    placement: hero
+    alt: Forest 离开无字考场后，整理替换珠链、航班增减轨道、分裂树木和两组嵌套圆环
+    composition: >-
+      使用虚构 Forest。左侧是刚结束的无字考试教室，Forest 带着空白答题纸走向右侧赛后补题桌。桌上四个实体隐喻：把危险分隔点套上保护罩的地址珠链、在航线各站只记录上车与下车变化的差分轨道、剪去指定枝节点后自然分成多棵小树的模型，以及把深浅不一的嵌套圆环分配到琥珀与青绿两条较浅轨道。无可读文字、字母、数字、公式、品牌、假界面或水印。
+    review_status: approved

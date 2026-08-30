@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-biweekly-contest-42.md
+context: >-
+  双周赛复盘：模拟学生与三明治队列、计算厨房等待时间、贪心改造二进制串，并用中心位置和双指针计算连续一的最小相邻交换；最后一题因两个 bug 调试半小时，晚一分钟未能提交。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-biweekly-contest-42/zh-hero.webp
+    placement: hero
+    alt: 三明治队列与厨房计时装置并行运转，二进制石块被整理，中央滑轨上的亮石因迟到一步停在终点前
+    composition: >-
+      不使用 Forest。横向算法工坊分成四个连贯小岛：学生棋子在圆形队列中等待顶部三明治，队列在无人匹配时停止；小厨房按到达顺序加工餐盘，等待沙漏随着前一份餐点延长；黑白圆石经简洁夹具贪心整理成更规则的序列；一组亮石围绕中央滑轨向中间聚拢，双侧卡尺同步收紧，但最后一枚琥珀色提交筹码只差一步停在终点门外，表现晚一分钟和调试挫折。禁止人物、字符、字母、数字、公式、代码、箭头、可读文字、时钟刻度、假界面、商标或水印。
+    review_status: approved

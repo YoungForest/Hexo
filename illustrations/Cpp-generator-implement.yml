@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/Cpp-generator-implement.md
+context: >-
+  作者从一道组合迭代器题出发，对比了提前计算并存储全部结果的笨重方案，与按需逐个产出结果的生成器思路。
+assets:
+  - id: hero
+    file: source/images/ai/Cpp-generator-implement/zh-hero.webp
+    placement: hero
+    alt: 一边的仓库先堆满全部组合零件再开门，另一边的小型生成器每转动一次只送出下一枚零件
+    composition: >-
+      画面左右对比：左侧巨型仓库在交付前先堆满所有抽象组合零件，门口被库存堵住；右侧紧凑的手摇生成器沿细小传送带每次只送出下一枚零件，轻巧而有秩序。使用纯视觉机械隐喻，不出现代码、字母、数字、题目界面、品牌或可读文字。
+    review_status: approved

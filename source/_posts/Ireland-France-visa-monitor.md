@@ -10,11 +10,18 @@ tags:
 - Life
 categories:
 - 爱尔兰
+description: 记录在爱尔兰开发法国签证放号通知工具的经历：程序只负责监测新名额并提醒，最终帮助作者避开黄牛成功预约。
 translations:
   zh-CN: https://youngforest.github.io/2023/09/20/Ireland-France-visa-monitor/
   en: https://youngforest.github.io/en/2023/09/20/Ireland-France-visa-monitor/
 ---
 申根签太难了。终于还是用科技打败了黄牛，成功抢到了法签。不枉学了9年计算机，程序员从不向黄牛低头。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/Ireland-France-visa-monitor/zh-hero.webp" alt="Forest 的小型监测装置守着一排关闭的预约窗，当唯一一扇窗亮起时只鸣铃提醒，由 Forest 自己跑去预约" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
 
 爱尔兰有抢法签需求的同学可以试试我开发的这个法签通知工具，使用说明见文档。有问题可随时找我反馈：
 [Google Docs](https://docs.google.com/document/d/1uHJCxINt9Sb0f1HHybCFhxkmpzxRURilsxqD6OQLpQ4/edit?usp=sharing)

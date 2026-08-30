@@ -6,19 +6,26 @@ tags:
 - intern
 categories:
 - interview
+description: 记录蚂蚁金服后端暑期实习的多轮面试、笔试与测评，涵盖数据结构、算法、项目深挖和行为问题。
 translations:
   zh-CN: https://youngforest.github.io/2020/03/09/Alibaba-Ant-backend-intern-interview/
   en: https://youngforest.github.io/en/2020/03/09/Alibaba-Ant-backend-intern-interview/
 ---
-# 一面
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/Alibaba-Ant-backend-intern-interview/zh-hero.webp" alt="Forest 带着算法积木和项目工具依次走过四座工作坊门框，沿途的哈希桶、矩阵拼板和数据管道逐渐变得更深更复杂" width="1536" height="864" decoding="async">
+</figure>
+
+<!-- more -->
+
+## 一面
 
 time: 2020-03-09 16:45:44
 
-## 简历经历
+### 简历经历
 
 对各段项目的介绍。根据项目随时提问，如RESTful API, SOAP之类的知识。
 
-## 计算机基础
+### 计算机基础
 
 HashMap 的实现
 - Hash值如何映射到桶中？？？？
@@ -27,19 +34,19 @@ HashMap 的实现
 
 Java 开箱 和 装箱 机制。（一开始没反应过来，说不会。在面试官的提醒下，基础类型 和 对象类型 的关系，我才会了。因为之前看的都是英文材料，box和unbox，对中文不是很敏感。）
 
-## 算法题
+### 算法题
 
 编辑距离的递推公式
 
 K-means算法。没答好，很久之前学过机器学习。但是因为放下的时间太久了，几乎都忘记了。
 
-## 对面试官的反问
+### 对面试官的反问
 
 问面试官的问题：我投递的岗位是 后端开发，是否需要复习机器学习的算法？
 
 答：这和公司的产品线有关，蚂蚁金服的产品和机器学习密切相关。开发不需要对机器学习有很深的了解，但需要有基础的了解。如果会的话，有加分。
 
-# 二面
+## 二面
 
 time: 2020-03-24 16:20:56
 
@@ -64,7 +71,7 @@ ArrayList（自增数组）实现，底层链表和数组的区别。
 
 大概回答的不是很好，面试官催促我完成笔试，要不然只能问我简历上的内容。笔试完会有人再联系我。今天下午状态不大好，没发挥好。没有手撕代码环节，差评～
 
-# 笔试
+## 笔试
 
 阿里笔试有多场。我做的是3.25这天的。
 
@@ -208,7 +215,7 @@ int main() {
 }
 ```
 
-# 测评
+## 测评
 
 笔试没难倒我，测试却花了我不少时间。
 主要是测试
@@ -222,7 +229,7 @@ int main() {
 
 应该也不会用测评去筛人，又不是考公务员，手撕代码才是王道。
 
-# 三面
+## 三面
 
 time: 2020-04-03 11:36:14
 
@@ -240,7 +247,11 @@ time: 2020-04-03 11:36:14
 我最后问了面试官所在的组和业务。
 面向海外的个人信贷业务，类似花呗和借呗。
 
-# 四面
+<figure class="editorial-illustration">
+  <img src="/images/ai/Alibaba-Ant-backend-intern-interview/zh-fourth-round.webp" alt="Forest 用放大镜拆开项目模型的多层结构，头顶三枚形状各异的问题砝码让这场没有写代码的面试依然沉重" width="1536" height="864" loading="lazy" decoding="async">
+</figure>
+
+## 四面
 
 time: 2020-04-03 15:22:02
 

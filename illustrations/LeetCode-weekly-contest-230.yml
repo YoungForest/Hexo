@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-230.md
+context: >-
+  三道赛内题按规则筛选物品、回溯枚举甜点配料并贪心平衡两数组的和；第四题赛后用单调栈从后向前求车辆碰撞时间。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-230/zh-hero.webp
+    placement: hero
+    alt: 物品按形状规则通过筛门，甜点配料在三路托盘中回溯，最大差值砝码优先平衡两列，车队在赛后单调坡道上合并
+    composition: >-
+      不使用 Forest。画一座横向四联算法厨房与车库：左侧不同颜色、形状和材质的物品通过可调三槽筛门，只有匹配指定槽的进入篮子；中左甜点底座旁每种配料有不取、取一份、取两份三条实体支路，回溯机械臂不断寻找最接近目标重量的组合；中右两列不同总重的珠罐放在天平两侧，每次优先搬动能造成最大差值变化的珠子，逐步拉平；右侧多辆无标识小车在单调坡道上从后向前进入栈形车库，被追上的车合并成车队，暮色车灯表示赛后用单调栈收束。禁止人物、字符、字母、数字、公式、代码、可读文字、道路标识、箭头、汽车品牌、商标或水印。
+    review_status: approved

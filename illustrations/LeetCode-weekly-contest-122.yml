@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-122.md
+context: >-
+  作者除夕在家错过周赛后赶在年夜饭前补题，复盘偶数和查询、叶到根字符串、区间交集和二叉树垂序遍历，并在面试失利后重新审视基础训练。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-122/zh-hero.webp
+    placement: hero
+    alt: Forest 在节日晚餐前补完训练，维护偶数珠、汇合区间带、攀读叶根树并整理垂直树列
+    composition: >-
+      使用虚构 Forest。温暖的除夕家庭场景中，远处只有无字纸灯笼和正在摆放的晚餐餐具，Forest 在饭前抓紧完成一张无字训练桌。桌上四个实体隐喻连成一体：查询机械每次只更新相关彩珠并维护发亮的偶数珠总量、两条透明色带只保留重叠区段、从树叶向根攀爬的彩色种子按路径选择最小序列，以及同一棵二叉树的果实按垂直吊线与深度顺序落入托盘。桌后有一条从低落阴影继续向基础工坊延伸的路，表达失利后的重新训练。无可读文字、字母、数字、公式、品牌、公司线索、真实书封、假界面或水印。
+    review_status: approved

@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-244.md
+context: >-
+  四道题旋转比较矩阵、按排序层级统计归一操作、计算环形交替序列的最少翻转，并用前缀和与二分减少包装浪费。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-244/zh-hero.webp
+    placement: hero
+    alt: 方格盘旋转对齐模板，阶梯石块逐层归一，双色环带以最少翻片交替，盒子按尺寸包裹物件并收集空隙
+    composition: >-
+      不使用 Forest。做一张宽幅四联机械图：左侧方格拼花盘在旋转台上依次转过四个方向，与旁边无字目标模板比较；中左排序后的不同高度石块沿阶梯逐层降到最低平台，每跨过一个独特高度只增加一层操作令牌；中右一条可循环移动的双色环带穿过翻片机，前后两组计数器共同选择让颜色交替所需的最少翻片；右侧不同大小的无标记盒子依尺寸顺序包裹一排物件，二分卡尺寻找刚好容纳的盒子，琥珀碎片收集总空隙，前缀刻度仅用几何段表示。禁止人物、字符、字母、数字、公式、代码、可读文字、包装品牌、商标或水印。
+    review_status: approved

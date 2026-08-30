@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-biweekly-contest-20.md
+context: >-
+  双周赛复盘涵盖按二进制一位数排序、每隔固定订单应用折扣、滑动窗口统计包含三种字符的子串，以及递归计算合法取件与送达顺序；作者也记录读题和取余失误。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-biweekly-contest-20/zh-hero.webp
+    placement: hero
+    alt: Forest 在亮点筹码分拣、周期压片、三色珠滑窗和先取后送的嵌套包裹轨道间修正接反软管
+    composition: >-
+      使用虚构 Forest。连续传送线以槽位高度排列不同亮点数的无字筹码，周期凸轮把一枚圆片压薄，Forest 正把代表减去与保留的两根无标记软管接回正确接口；透明滑窗覆盖红青琥珀三色珠，嵌套轨道保证每个取件形包裹先于对应送达形包裹，末端齿轮把多余计数珠循环收纳。无标点、可读文字、数字、钱币、代码、品牌、假界面或水印。
+    review_status: approved

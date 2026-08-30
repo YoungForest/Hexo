@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/optimize-cortana-in-searching-local-files-and-folders.md
+context: >-
+  一则 Windows 10 历史记录：本地文件搜索时好时坏，通过把遗漏的文件位置加入系统索引来改善查找效果。
+assets:
+  - id: hero
+    file: source/images/ai/optimize-cortana-in-searching-local-files-and-folders/zh-hero.webp
+    placement: hero
+    alt: 索引灯把原本遗漏的本地文件架接入统一目录，让搜索光束稳定找到各处文件
+    composition: >-
+      不使用 Forest。把历史本地搜索画成一间略显凌乱的暖灰文件图书馆：中央搜索灯只能照到部分文件架，边缘几组文件夹仍在阴影中；一条新的青绿色索引轨道把遗漏书架接入中央旋转目录，灯光随即稳定覆盖各处。保留轻微幽默，例如一只迷路的空白文件夹终于找到队伍。无可读文字、字母、数字、公式、Windows 标志、Cortana 标志、品牌、真实或虚构界面、水印或签名。
+    review_status: approved

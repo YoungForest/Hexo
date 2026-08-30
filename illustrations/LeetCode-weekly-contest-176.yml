@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-176.md
+context: >-
+  周赛复盘涵盖有序矩阵负数计数、最近 K 个数的乘积、可参加的最多活动和从多次求和反推目标数组；作者记录最后关头通过的紧张感。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-176/zh-hero.webp
+    placement: hero
+    alt: Forest 跑过有序深浅方格、零点重置珠链、贪心旗标传送带和被起重机拆解的目标方块塔
+    composition: >-
+      使用虚构 Forest。连贯机械工坊依次展示深浅有序方格的边界计数、被空心断点重置的累计珠链、把活动旗标放进最早可用位置的传送带，以及用堆形漏斗和起重机从最大方块反推种子块；Forest 在沙漏将尽前跑向末端控制杆。无可读文字、数字、公式、品牌、假界面或水印。
+    review_status: approved

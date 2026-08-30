@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-186.md
+context: >-
+  周赛复盘涵盖二进制串切分、从卡牌两端取值、按对角线遍历矩阵和受限子序列 DP；作者也记录切换语言后速度与工具熟悉度的取舍。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-186/zh-hero.webp
+    placement: hero
+    alt: Forest 带着轻便工具穿过双色切分、卡牌两端、对角线托盘和单调队列四座速度工位
+    composition: >-
+      使用虚构 Forest。Forest 带着轻便但留有空槽的工具箱快速经过四座工位：双色珠链在中点分流比较，抽象卡牌只能从两端取走并保留中间窗口，倾斜格盘按对角线落下方块，不同高度木块沿单调下降轨道把最大块送往前方；松动扳手提供轻微幽默。无编程语言标志、可读文字、数字、字母、公式、代码、品牌、假界面或水印。
+    review_status: approved

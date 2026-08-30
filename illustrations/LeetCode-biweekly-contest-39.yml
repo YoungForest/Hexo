@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-biweekly-contest-39.md
+context: >-
+  双周赛先用循环辅助数组拆解炸弹、枚举分割点使字符串平衡，再用受限状态空间的 BFS 求回家最少跳跃，并以子集和与记忆化 DP 分配重复整数；后两题比赛时的暴力方案都超时，赛后才补出正确解法。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-biweekly-contest-39/zh-hero.webp
+    placement: hero
+    alt: 环形保险盒汇总邻近珠子，分割刀平衡双色串，跳跃棋子绕开禁区回家，过度生长的回溯树旁出现精简的子集分配柜
+    composition: >-
+      不使用 Forest。横向四站无字算法桌：环形保险盒周围的珠子通过滑动窗口汇总邻近值，中心装置安全解除；双色珠串在不同分割点试切，移除两侧不合适的珠子后达到最少损失；一枚跳跃棋子在有限轨道上越过禁区石并记住是否刚向后跳，最终抵达小屋；最后先展示一棵因组合爆炸而冒烟停转的暴力回溯树，再展示按需求子集装箱、容量柜与记忆锁组成的精简分配机关，表现比赛超时与赛后补题。禁止人物、字符、字母、数字、公式、代码、箭头、可读文字、假界面、爆炸场面、商标或水印。
+    review_status: approved

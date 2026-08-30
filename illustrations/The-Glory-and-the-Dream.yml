@@ -1,0 +1,10 @@
+version: editorial-comic-v1
+post: source/_posts/The-Glory-and-the-Dream.md
+context: 阅读1932至1972年的美国社会史后，用漫长历史尺度看待危机、分裂、媒介与技术更迭，因而对当下少些过度悲喜，并重新思考自由与容忍。
+assets:
+  - id: hero
+    file: source/images/ai/The-Glory-and-the-Dream/zh-hero.webp
+    placement: hero
+    alt: 一卷横跨四十年的历史长卷从空碗、工厂齿轮延伸到广播电视和火箭，前景茶杯里的当代风暴因此显得很小
+    composition: 展开一条没有文字的四十年历史长卷，以空碗、工厂齿轮、广播电视和火箭表现危机与社会巨变，前景放一只盛着微小风暴的茶杯，避免旗帜、名人、真实书封和具体党派符号。
+    review_status: approved

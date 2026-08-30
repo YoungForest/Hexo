@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-biweekly-contest-28.md
+context: >-
+  双周赛用单调栈寻找后继折扣、暴力更新子矩形、前缀和寻找两段不重叠目标子数组，以及区间 DP 按中位位置分配邮箱；最后一题因 memo 参数变化而调试，第三题比赛中持续超时。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-biweekly-contest-28/zh-hero.webp
+    placement: hero
+    alt: 折扣石堆、可重铺方格、两段分离轨道与围绕中位房屋分配的邮箱组成一座算法街区
+    composition: >-
+      不使用 Forest。中国街区造型的横向四站算法模型：货架上每颗价格石被右侧第一颗更小的石头压低；施工板上一个矩形区域被整块换成另一颜色；一条长轨道上有两段互不相接的琥珀珠段且各自汇成同样大小的无标记目标碗；一排住宅把少量青绿色邮箱放在每组房屋的中间位置。角落仅用一枚松动的记忆齿轮和一只冒热气的小计时器暗示 cache 错误与超时。禁止人物、可读文字、价格数字、字母、公式、代码、箭头、商标、真实界面或水印。
+    review_status: approved

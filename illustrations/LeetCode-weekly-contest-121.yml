@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-121.md
+context: >-
+  作者赶火车回家时分心参加周赛，只完成一题，后来在车上补出解法，并在电话面试后总结速度、模板和表达训练的重要性。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-121/zh-hero.webp
+    placement: hero
+    alt: Forest 带行李在列车练习桌找回专注，交替木珠、存放时间盒、规划车票并组合三枚位片
+    composition: >-
+      使用虚构 Forest。他带着简化行李从嘈杂候车区进入安静列车练习桌，终于把分散的思路重新接起；不要出现真实车站、车次或公司。桌面四个触觉隐喻表现：两种木珠以不超过连续两枚的节奏交替排列、不同时间层的抽屉保存并取出最近一枚彩片、沿一条日期般但无刻度的旅行路径选择覆盖区段的最低成本票片、三枚带抽象孔洞的位片叠合后让所有孔位闭合。旁边一只无品牌电话听筒连接计时沙漏与表达草图工具，暗示后记中的面试反思而不描绘具体面试。无可读文字、字母、数字、公式、商标、公司标识、假界面或水印。
+    review_status: approved

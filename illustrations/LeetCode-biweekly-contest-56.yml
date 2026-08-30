@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-biweekly-contest-56.md
+context: >-
+  四道题依次枚举平方和三元组、用广度优先搜索找最近出口、进行两半和博弈，并在限时内寻找最低花费路径。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-biweekly-contest-56/zh-hero.webp
+    placement: hero
+    alt: 方砖组成直角三角形，水波从迷宫入口层层扩散，天平两侧争夺空白筹码，路径在沙漏下比较花费
+    composition: >-
+      不使用 Forest。把四道算法题布置成一张横向实验桌：左侧三组方砖拼成直角三角形，短边平方块恰好填满斜边平方框；中左迷宫入口投下一颗青色水滴，等距波纹逐层扩散并首先抵达最近边界出口；中右一架双盘天平分成左右两半，两只机械手轮流把空白筹码放到更能扩大或缩小差值的一侧；最右多条道路穿过同一个沙漏门槛，在不超过沙量的前提下比较累积的无符号花费令牌。禁止人物、问号、字符、字母、数字、货币符号、公式、代码、可读文字、商标或水印。
+    review_status: approved

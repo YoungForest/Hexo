@@ -4,10 +4,15 @@ date: 2018-09-15 11:20:06
 tags:
 categories:
 - LeetCode
+description: 面试前练习第 K 大元素：二维记忆化超时后，改用分区选择逐步缩小目标范围。
 translations:
   zh-CN: https://youngforest.github.io/2018/09/15/LeetCode-215-Kth-Largest-Element-in-an-Array/
   en: https://youngforest.github.io/en/2018/09/15/LeetCode-215-Kth-Largest-Element-in-an-Array/
 ---
+<figure class="editorial-illustration editorial-illustration--hero"><img src="/images/ai/LeetCode-215-Kth-Largest-Element-in-an-Array/zh-hero.webp" width="1536" height="864" alt="Forest 在面试前关闭庞大记忆格，用枢轴闸门分开石块并逐步锁定第 K 大位置" decoding="async" fetchpriority="high"></figure>
+
+<!-- more -->
+
 Description: https://leetcode.com/problems/kth-largest-element-in-an-array/description/
 Solution: https://leetcode.com/problems/kth-largest-element-in-an-array/discuss/
 Difficulty: Medium

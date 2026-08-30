@@ -1,6 +1,7 @@
 ---
 title: LeetCode biweekly contest 52
 date: 2021-05-16 19:13:00
+description: 三道题排序句子、模拟递增内存分配并旋转箱子；第四题的取整除数对枚举超时，赛后参考前缀和优化。
 tags:
 - Competitive Programming
 categories:
@@ -12,6 +13,10 @@ translations:
 | Rank |	Name |	Score |	Finish Time | 	Q1 (3) |	Q2 (5) |	Q3 (5) |	Q4 (6)|
 |--|--|--|--|--|--|--|--|
 | 2217 / 10364 | YoungForest | 12 | 0:51:47 | 0:05:11 | 0:51:47 | 0:29:51 | null |
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-biweekly-contest-52/zh-hero.webp" alt="带位置缺口的词块排成句子，递增砝码轮流消耗两个内存池，旋转箱中石块落向障碍，末端取整分桶机关仍因过慢而停住" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
 
 <!-- more -->
 

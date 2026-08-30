@@ -1,6 +1,7 @@
 ---
 title: codeforces round 633 Div2
 date: 2020-04-12 22:06:55
+description: 三道题分别化简菱形带状态、从中点向两侧重排差值，并用倍增能力补齐非递减数组。
 tags:
 - codeforces
 - contest
@@ -15,6 +16,12 @@ translations:
 codeforces上题目一般高于平时的面试题。如果是为了面试的话，只刷LeetCode就可以了。不过如果是对算法和竞赛感兴趣，强烈鼓励试一试。题目的数量和质量都远超LeetCode。而且为不同水平的同学有不同的赛道，题目难度也不同。对于高水平玩家来说，竞赛体验会好的多。
 
 我目前共参加过2场Div.2，rating 1480。没错，初始值是1500，我反而掉下来了。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/codeforces-round-633-Div2/zh-hero.webp" alt="菱形链只保留两种拼接状态，石柱从中点左右交替排列，倍增升降台逐级托平低柱" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
 
 ## A. Filling Diamonds
 

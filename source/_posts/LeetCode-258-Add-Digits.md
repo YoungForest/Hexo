@@ -5,10 +5,15 @@ tags:
 - LeetCode
 categories:
 - Programming
+description: 数根问题复盘：从递归或迭代反复相加，到利用同余规律在常数时间得到结果。
 translations:
   zh-CN: https://youngforest.github.io/2019/04/06/LeetCode-258-Add-Digits/
   en: https://youngforest.github.io/en/2019/04/06/LeetCode-258-Add-Digits/
 ---
+<figure class="editorial-illustration editorial-illustration--hero"><img src="/images/ai/LeetCode-258-Add-Digits/zh-hero.webp" width="1536" height="864" alt="成组珠子在九格循环轨道中层层消去，最终只留下一颗琥珀色结果珠" decoding="async" fetchpriority="high"></figure>
+
+<!-- more -->
+
 今天刷题的时候遇到一个有趣的题目，求一个数字各个位相加的和，知道和小于10。[链接](https://leetcode.com/problems/add-digits/description/).
 题目本身并不难，递归或者迭代都可以解决。但如何在O(1)的复杂度内求解，才是真正的考点。
 

@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 156
 date: 2019-10-04 12:41:57
+description: 赛后补题：出现次数唯一性、预算内等值子串、相邻重复删除和可旋转双节蛇最短路。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2019/10/04/LeetCode-weekly-contest-156/
   en: https://youngforest.github.io/en/2019/10/04/LeetCode-weekly-contest-156/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-156/zh-hero.webp" alt="无人计数工坊里，高低各异的珠塔、预算滑窗、自动消去的同色珠组和可旋转双节木蛇依次连接" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 赛后补题。
 
 ## 1207. Unique Number of Occurrences

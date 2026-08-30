@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-249.md
+context: >-
+  复盘数组拼接、三字符回文子序列、三色网格动态规划，以及合并并验证二叉搜索树。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-249/zh-hero.webp
+    placement: hero
+    alt: 两段相同彩块首尾拼接，三珠镜环围住中心，三色列网格逐步铺开，多棵搜索树嫁接成一棵完整树
+    composition: >-
+      不使用 Forest。设计横向温室装配台：左侧一排无字几何彩块被复制后首尾拼成双倍长的轨道；中左多组由相同两侧珠子围住不同中心珠子的三珠镜环，去重后放入浅盘；中右只有三种克制颜色的网格列像织机一样逐列铺开，相邻格不碰到同色；最右几棵小型二叉树把根部枝条谨慎嫁接到另一棵树的叶端，最终成为一棵结构有效的树。禁止字母、数字、公式、代码、可读文字、商标、排行榜或水印。
+    review_status: approved

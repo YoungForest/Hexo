@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 222
 date: 2021-01-03 16:07:11
+description: 四道题贪心装载高单位箱、计数二次幂美食对、用双边界切分数组，并将目标映射后求最长递增子序列。
 tags:
 - Competitive Programming
 categories:
@@ -12,6 +13,12 @@ translations:
 | Rank |	Name |	Score |	Finish Time | 	Q1 (3) |	Q2 (4) |	Q3 (5) |	Q4 (6)|
 |--|--|--|--|--|--|--|--|
 | 331 / 9692 | YoungForest | 18 | 2:02:29 | 0:05:32	 | 0:13:55  2 | 0:54:53  2 | 1:17:29  5 |
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-222/zh-hero.webp" alt="高单位箱优先装车，食物筹码成对落入倍增托盘，双闸门划分前缀重量，目标槽位映射后由上升轨道保留最长次序" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
 
 ## 5641. Maximum Units on a Truck
 

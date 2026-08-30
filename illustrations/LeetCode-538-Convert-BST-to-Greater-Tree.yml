@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-538-Convert-BST-to-Greater-Tree.md
+context: >-
+  文章先用递归传递右子树累加值来转换二叉搜索树，随后发现反向中序遍历配合单一累计量更简洁，并给出栈式迭代版本。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-538-Convert-BST-to-Greater-Tree/zh-hero.webp
+    placement: hero
+    alt: 琥珀光从二叉搜索树最右枝反向流过每个节点，将沿途累积的能量依次传向左侧
+    composition: >-
+      不使用 Forest，采用纯技术主题隐喻。一棵简洁的机械二叉搜索树立在暖灰底上，琥珀光从最右节点开始，沿反向中序路径经过根再流向左枝；每到一个节点，透明储能环都会包含此前经过的所有光珠，直观表现累计和。树旁一叠青绿色空白托盘作为显式栈，在向右下探与回退时依次收纳节点；远处一团复杂管路被简化成单一持续发光的累计水箱，表达从复杂参数传递到统一累计量。无可读文字、字母、数字、公式、品牌、真实界面或水印。
+    review_status: approved

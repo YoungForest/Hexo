@@ -6,6 +6,7 @@ tags:
 - 饥饿的盛世乾隆时代的得与失
 categories:
 - 读后感
+description: 读《饥饿的盛世》，讨论乾隆时代的权力扩张、财产权、马嘎尔尼访华与盛世背后的长期衰败。
 translations:
   zh-CN: https://youngforest.github.io/2026/01/01/The-Gains-and-Losses-of-Emperor-Qianlong-Reign/
   en: https://youngforest.github.io/en/2026/01/01/The-Gains-and-Losses-of-Emperor-Qianlong-Reign/
@@ -13,6 +14,10 @@ translations:
 [豆瓣链接](https://book.douban.com/subject/35888701/)
 
 ## 盛世的前奏是衰世，结局也是衰世
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/The-Gains-and-Losses-of-Emperor-Qianlong-Reign/zh-hero.webp" alt="金色宫殿外壳像沉重华盖压住下方黯淡的民间工坊，关闭的城门外停着带望远镜的远方使团小船" width="1536" height="864" decoding="async">
+</figure>
 
 <!-- more -->
 

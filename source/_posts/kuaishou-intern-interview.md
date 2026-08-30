@@ -6,6 +6,7 @@ tags:
 - intern
 categories:
 - interview
+description: 复盘两轮算法实习面试、准备不足之处与入职体验，并总结以数据结构和算法为主线的高效准备路径。
 translations:
   zh-CN: https://youngforest.github.io/2018/04/30/kuaishou-intern-interview/
   en: https://youngforest.github.io/en/2018/04/30/kuaishou-intern-interview/
@@ -16,14 +17,18 @@ translations:
 现在实习终于稳定下来，毕设论文也还有一段时间才deadline，恰好抽出时间总结一下自己的面试和实习。
 希望可以指导到自己之后找其他实习或者是正式工作:)
 
-<!--more-->
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/kuaishou-intern-interview/zh-hero.webp" alt="Forest 穿过两座无标识面试门，沿算法树、数据卡片和模型积木铺成的路抵达明亮的实习工作台" width="1536" height="864" decoding="async">
+</figure>
 
-# 面试
+<!-- more -->
+
+## 面试
 
 我总共经历2轮面试，耗时近2个小时。
 总体感觉是准备的不很充分，很多地方有待提高。
 
-## 一面
+### 一面
 
 面试官是一个胖胖的小哥哥，很友善，面试也很认真。
 我参加实习后，经常在开会和吃饭的时候遇到他，感觉很亲切；我们不在一个小组，但在同一大组。
@@ -35,7 +40,7 @@ translations:
 - SQL相关：left join, right join, inner join区别；partition了解不。
 - 机器学习相关：准确率和召回率的定义
 
-## 二面
+### 二面
 
 面试官是一个严肃的工程师，给我的印象是反应很快，可能是leader类的人物。
 但可惜的是，我入职之后在大组没有见过他。
@@ -50,7 +55,11 @@ translations:
 - java、C++ 网络通信 socket库使用。（这2个我没答好）
 - 机器学习的了解程度，损失函数是否研究过。
 
-## 面试准备
+<figure class="editorial-illustration">
+  <img src="/images/ai/kuaishou-intern-interview/zh-preparation-path.webp" alt="Forest 把散乱的答题拼块整理成一条主干稳固、支线补充的面试准备道路" width="1536" height="864" loading="lazy" decoding="async">
+</figure>
+
+### 面试准备
 
 经过这次面试，我对面试的准备内容更加明确了：
 
@@ -67,7 +76,7 @@ translations:
 - 多线程：Java并发编程实践
 - 机器学习：周志华的“西瓜书"
 
-# 入职
+## 入职
 
 之前因为毕设的原因，还犹豫过到底要不要接受实习offer。<!--和陪奶奶-->
 经过咨询师兄和权衡利弊，我最终还是接受了offer，于4月19日入职。<!--被奶奶劝导-->

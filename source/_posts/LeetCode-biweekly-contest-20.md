@@ -1,6 +1,7 @@
 ---
 title: LeetCode biweekly contest 20
 date: 2020-02-23 11:34:19
+description: 双周赛复盘：按位计数排序、周期折扣、包含三种字符的滑窗，以及合法取件与送达顺序的递归计数。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2020/02/23/LeetCode-biweekly-contest-20/
   en: https://youngforest.github.io/en/2020/02/23/LeetCode-biweekly-contest-20/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-biweekly-contest-20/zh-hero.webp" alt="Forest 在亮点筹码分拣、周期压片、三色珠滑窗和先取后送的嵌套包裹轨道间修正接反软管" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 | Rank |	Name |	Score |	Finish Time | 	Q1 (3) |	Q2 (4) |	Q3 (5) |	Q4 (6)|
 |--|--|--|--|--|--|--|--|
 | 233 / 4347 |	YoungForest | 18 | 	0:41:39 | 0:03:32 |  0:13:58  1 |  0:24:13 |  0:31:39  1 |

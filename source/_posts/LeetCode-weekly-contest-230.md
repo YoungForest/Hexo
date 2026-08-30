@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 230
 date: 2021-03-01 09:51:47
+description: 三道赛内题筛选物品、回溯枚举甜点配料并贪心平衡数组和；第四题赛后用单调栈求车队碰撞。
 tags:
 - Competitive Programming
 categories:
@@ -16,6 +17,12 @@ translations:
 自从秋招结束后，刷题和比赛的热情与日俱减。
 之前每日三题（国服、美服、残酷），现在每日0题。当然偶尔因为周赛成绩不足以免打卡，也需每日一题。
 相反，比赛的反馈还是挺强的。长期有rating和排名的增长激励，短期有残酷排名和每次排名的激励，还有额外积分的奖励。另外每周比赛完还可以在残酷群里领红包，给自己加个鸡腿。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-230/zh-hero.webp" alt="物品按形状规则通过筛门，甜点配料在三路托盘中回溯，最大差值砝码优先平衡两列，车队在赛后单调坡道上合并" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
 
 ## 1773. Count Items Matching a Rule
 

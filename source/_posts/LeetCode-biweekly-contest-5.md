@@ -1,6 +1,7 @@
 ---
 title: LeetCode biweekly contest 5
 date: 2019-07-27 23:06:57
+description: 双周赛复盘：最大唯一数、阿姆斯特朗数、最小生成树与课程拓扑排序，四道经典题提前完成。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2019/07/27/LeetCode-biweekly-contest-5/
   en: https://youngforest.github.io/en/2019/07/27/LeetCode-biweekly-contest-5/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-biweekly-contest-5/zh-hero.webp" alt="Forest 从重复珠中挑出唯一大珠，并连接城市桥网、拆分位值转轮和课程依赖木架" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 | Rank |	Name |	Score |	Finish Time | 	Q1 (3) |	Q2 (3) |	Q3 (5) |	Q4 (7)|
 |--|--|--|--|--|--|--|--|
 | 98 / 1634 |	YoungForest | 18 | 0:35:23 | 0:11:01 | 0:10:53 | 0:22:40 | 0:35:23 |

@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/Beligum.md
+context: >-
+  作者回顾五个月的比利时交换生活，从列日的城市安全、慢节奏日常、英文课程与长时间课堂，到借助交通枢纽探索欧洲；正文中的旅行实拍继续承担事实记录。
+assets:
+  - id: hero
+    file: source/images/ai/Beligum/zh-hero.webp
+    placement: hero
+    alt: Forest 沿着一条交换生活路线前行，依次经过礼让行人的小城、雨天住处、山坡课堂和通往远方的车站
+    composition: >-
+      使用虚构 Forest，不是真人肖像：短深色头发、圆眼镜、炭灰色外套、低饱和青绿色上衣。用一条从左向右延伸的连续弯曲道路串联四个简洁场景，而不是四格漫画：安全而有活力的小城街口，一辆无标志公交礼让行人；阴雨天空下早早关门的小店与温暖住处；山坡上的大学课堂和象征长课时的无数字沙漏；最后是背着包走向列车与远方地平线的 Forest。不要出现真实地标、国旗、地图文字、货币数字、学校或交通品牌、可读文字、商标、水印。
+    review_status: approved

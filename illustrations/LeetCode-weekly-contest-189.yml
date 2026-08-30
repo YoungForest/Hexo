@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-189.md
+context: >-
+  周赛先做时间区间计数、按词长稳定排序和集合包含判断，最后用角度扫描解决圆盘局部覆盖；作者也反思此前高排名更多来自一次好运而非稳定变强。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-189/zh-hero.webp
+    placement: hero
+    alt: 时刻光束穿过学生区间，长短卡片稳定重排，集合盒互查包含关系，圆盘旋转覆盖最多散点
+    composition: >-
+      不使用 Forest。横向四站几何桌：一束琥珀时刻光穿过若干长短不同的无字时间带，只照亮当前覆盖它的学生木偶；不同长度的空白卡片按从短到长稳定排队；若干装有不同无标记物件的透明盒互相套合，只有不被其他盒完全包含的盒子被抬高；一个透明圆盘围绕边缘支点旋转，在某一角度覆盖最多散点，旁边一枚短暂升高又落下的无数字排名浮标表现好运回归常态。禁止可读文字、数字、字母、公式、代码、箭头、公司标识、假界面或水印。
+    review_status: approved

@@ -1,0 +1,10 @@
+version: editorial-comic-v1
+post: source/_posts/Genome-The-autobiography-of-a-species-in-23-chapters.md
+context: 从基因与行为相互影响的循环因果出发，思考决定论、环境作用、自由意志和复杂结果之间的关系。
+assets:
+  - id: hero
+    file: source/images/ai/Genome-The-autobiography-of-a-species-in-23-chapters/zh-hero.webp
+    placement: hero
+    alt: 一条 DNA 双螺旋穿过脚印、环境齿轮和一扇敞开的岔路门，最终绕回自身形成基因与行为相互影响的循环
+    composition: 用连续的实体双螺旋串起行为脚印、可被转动的环境齿轮和开放岔路，再回到双螺旋，强调反馈与选择而非单向宿命。
+    review_status: approved

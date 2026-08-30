@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 123
 date: 2019-02-10 10:29:44
+description: 春节后首场周赛复盘：逐位加法、并查集、反向计算器和恰含不同整数的双窗口计数。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2019/02/10/LeetCode-weekly-contest-123/
   en: https://youngforest.github.io/en/2019/02/10/LeetCode-weekly-contest-123/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-123/zh-hero.webp" alt="春节后回到训练桌的 Forest，逐位进位、合并关系环、反向修理计算器并移动双窗口" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 本次比赛是春节后的第一次。
 
 989. Add to Array-Form of Integer

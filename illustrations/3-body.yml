@@ -1,0 +1,10 @@
+version: editorial-comic-v1
+post: source/_posts/3-body.md
+context: 回望十年前初读《三体》时对理性、强硬与善意的判断，作者发现自己从崇拜冷峻生存逻辑，逐渐走向理解人类无法割舍的情感。
+assets:
+  - id: hero
+    file: source/images/ai/3-body/zh-hero.webp
+    placement: hero
+    alt: 年轻与年长的 Forest 分立在宇宙棋盘两端，一端握着冷峻的几何棋子，另一端护着温暖微光
+    composition: 把十年前与如今的 Forest 画在同一片抽象宇宙棋盘两端；年轻一侧研究冷硬的几何棋子和笔直轨道，年长一侧俯身保护一团琥珀微光，远处星轨把两侧连成同一条人生路径；角色保持短黑发、圆眼镜、炭灰外衫和青绿色 T 恤。
+    review_status: approved

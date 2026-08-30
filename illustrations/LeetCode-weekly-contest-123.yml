@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-123.md
+context: >-
+  作者在春节后首次参加周赛，复盘逐位加法、并查集等式、反向计算器推理和恰含不同整数的双滑动窗口，并期待回到同伴学习环境。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-123/zh-hero.webp
+    placement: hero
+    alt: 春节后回到训练桌的 Forest，逐位进位、合并关系环、反向修理计算器并移动双窗口
+    composition: >-
+      使用虚构 Forest。暖灰色训练桌旁有几只纯色纸灯笼和收起的节日彩带作为节后线索，不出现文字或具体地点。桌面形成一条从家中暖光走向同伴学习区的连续路径：算盘珠逐列相加并把一颗进位珠推向前列，绳索把相等关系的小木偶合并成集合并暴露矛盾，损坏的机械计数器通过逆向拆齿轮恢复，以及两只相邻的青绿色窗框在多色珠串上分别移动来计算恰好不同的区间。无可读文字、字母、数字、公式、品牌、真实地点、假界面或水印。
+    review_status: approved

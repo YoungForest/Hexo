@@ -1,6 +1,7 @@
 ---
 title: kick start 2019 round E
 date: 2019-08-29 19:12:03
+description: 三道题分别以最小生成树连接樱桃、平衡编码与进食收益，并通过奇偶约数筛选区间中的特殊整数。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2019/08/29/kick-start-2019-round-E/
   en: https://youngforest.github.io/en/2019/08/29/kick-start-2019-round-E/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/kick-start-2019-round-E/zh-hero.webp" alt="樱桃节点被最短藤蔓连成网，编码与进食托盘在分界轨道上平衡，奇偶石子落入街道棋盘" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 ## Cherries Mesh
 
 Minimum spanning tree.

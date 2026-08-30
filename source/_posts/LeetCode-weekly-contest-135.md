@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 135
 date: 2019-05-05 12:47:02
+description: 首次进入前二百的周赛复盘：三点共线、累加树、多边形三角剖分与移动石头连续排列。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2019/05/05/LeetCode-weekly-contest-135/
   en: https://youngforest.github.io/en/2019/05/05/LeetCode-weekly-contest-135/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-135/zh-hero.webp" alt="Forest 冲过无字终点后复盘三点几何、累加树、三角剖分和连续石子轨道" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 | Rank |	Name |	Score |	Finish Time | 	Q1 (4) |	Q2 (5) |	Q3 (5) |	Q4 (5)|
 |--|--|--|--|--|--|--|--|
 |70 / 3635	|	YoungForest |	15 | 1:34:07 | 0:07:28 | 0:16:45 |	null | 1:29:07  (1) |

@@ -1,0 +1,10 @@
+version: editorial-comic-v1
+post: source/_posts/pressure-test-to-CPU-memory-disk-network-IO.md
+context: 为满足实验室需求，作者边学边写四类可调压力测试程序，分别用忙等与休眠控制 CPU、周期读写磁盘、调用工具测试内存，并用客户端与服务器形成网络流量。
+assets:
+  - id: hero
+    file: source/images/ai/pressure-test-to-CPU-memory-disk-network-IO/zh-hero.webp
+    placement: hero
+    alt: 一只无刻度总控杆同时调节旋转处理器、内存积木水箱、磁盘转轮和双端网络管道的负载
+    composition: 画一座四工位实验台，由中央无刻度杠杆统一连接处理器转轮、装满可移动积木的内存水箱、往复读写的磁盘轮和两端收发脉冲的网络管道；每个工位用琥珀流量表现压力大小，不画仪表文字或代码。
+    review_status: approved

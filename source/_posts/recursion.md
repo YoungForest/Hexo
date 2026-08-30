@@ -6,6 +6,7 @@ tags:
 - Algorithm
 categories:
 - Programming
+description: 系统梳理递归的基本原理、递推关系、备忘录、复杂度分析、调用栈与尾递归优化。
 translations:
   zh-CN: https://youngforest.github.io/2019/02/11/recursion/
   en: https://youngforest.github.io/en/2019/02/11/recursion/
@@ -13,6 +14,12 @@ translations:
 本文根据LeetCode上的教程 [Introduction to Algorithms - Recursion I](https://leetcode.com/explore/learn/card/recursion-i/) 整理而成。目的在于帮助笔者自己更熟悉“递归”这一重要的编程概念，如果能够同时对他人产生帮助，那更好不过了。
 
 本文的结构和LeetCode上的完全相同，分为 简介、递归原则、复现关系、备忘录、复杂度分析、总结 6个部分。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/recursion/zh-hero.webp" alt="一座层层缩小的机关工作台递归展开，最小一层的琥珀色终止块开始把结果向上合并，旁边抽屉收纳重复结果" width="1536" height="864" decoding="async">
+</figure>
+
+<!-- more -->
 
 ## 简介
 

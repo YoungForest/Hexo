@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-149.md
+context: >-
+  周赛复盘记录作者因执着线段树而错过最后一题的教训，并涵盖年内日期、有限面骰子目标和、交换后最长重复字符段，以及区间多数元素的随机抽样与二分查找。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-149/zh-hero.webp
+    placement: hero
+    alt: Forest 放下过度复杂的树形机械，转向日历轮、有限骰珠槽、断开彩带和多数珠抽样器
+    composition: >-
+      使用虚构 Forest。暖灰色竞赛工坊中，一台枝杈过多的树形区间机械被暂时推到一旁，Forest 转向四个更直接的无字装置：按月份分区的季节日历轮、限制每槽容量的骰珠累加台、一条只差一个断点即可接长的同色彩带，以及从区间珠箱随机抽取并沿刻度架定位多数颜色的装置。画面强调从复杂工具执念转向合适方法的轻微幽默。无可读文字、字母、数字、公式、品牌、假界面或水印。
+    review_status: approved

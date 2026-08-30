@@ -1,0 +1,10 @@
+version: editorial-comic-v1
+post: source/_posts/The-Almanack-of-Naval-Ravikant.md
+context: 文章把财富视为改变现状的能力，把幸福视为接受真实世界的智慧，并进一步讨论经典阅读、可证伪性、运气、时代环境和个人行为的长期后果。
+assets:
+  - id: hero
+    file: source/images/ai/The-Almanack-of-Naval-Ravikant/zh-hero.webp
+    placement: hero
+    alt: 一条长路从持续运转的杠杆果园通向安静池塘，路中央的望远镜同时观察现实与长期后果
+    composition: 用一条连续人生路径连接左侧的杠杆、齿轮和逐渐结果的树，右侧的安静池塘与放下的空背包；中央摆一架无刻度望远镜，镜筒一端观察脚下真实石块，另一端指向远方路径，隐喻财富、幸福、事实和长期后果，不出现人物肖像。
+    review_status: approved

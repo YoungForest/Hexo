@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/mac-write-ntfs-solution.md
+context: >-
+  文章比较 Mac 写入 NTFS 移动硬盘的两条路线：记忆成本较高的命令行手动挂载，以及用轻量第三方工具简化日常操作；作者最终选择后者。
+assets:
+  - id: hero
+    file: source/images/ai/mac-write-ntfs-solution/zh-hero.webp
+    placement: hero
+    alt: 一座只读闸门拦住移动硬盘，两条无字路线分别用繁复扳手和轻巧小车把写入货物送过河
+    composition: >-
+      技术选择隐喻，不使用 Forest。一个通用无标志移动硬盘停在只允许单向通过的河岸闸门前，代表默认只读；两条路线跨河：一条由许多扳手、挂钩和容易遗漏的机械步骤组成，另一条由轻巧的无品牌小车平稳通过，最终把代表写入的数据包送入硬盘。表现手动方案与简化工具的取舍，不要出现苹果标志、软件标志、真实硬盘品牌、命令、磁盘名称、文字、数字或界面。
+    review_status: approved

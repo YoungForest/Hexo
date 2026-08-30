@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-214.md
+context: >-
+  本轮题解依次构造递推数组、通过贪心删除重复字符频次、分层售卖数量递减的彩球，并用可统计区间数量的数据结构维护插入成本。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-214/zh-hero.webp
+    placement: hero
+    alt: 递推弹珠从双轨汇合，频次罐被削成不同高度，彩球塔按层售出并穿过左右计数门插入队列
+    composition: >-
+      不使用 Forest。设计一座宽幅无字弹珠市场：左侧两条短滑道按固定分叉规则把旧弹珠汇合成新弹珠；中左一排装有抽象形状令牌的透明罐原本等高，机械勺逐粒取走直到每只罐高度唯一；中右多座不同颜色的球塔按最高层整层售出，层数下降时琥珀托盘收集成批球而不是逐颗搬运；右侧每颗新球经过左右两扇计数门，较少的一侧决定代价，然后插入有序木槽。禁止字符、字母、数字、价格、货币符号、代码、公式、可读文字、商标或水印。
+    review_status: approved

@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-192.md
+context: >-
+  周赛前三题快速完成数组交错、按中位数衡量强度排序和浏览历史双指针模拟，最后用三维 DP 划分粉刷房屋的颜色街区，但因实现效率两次超时；作者在手速场后继续冲击世界前五百。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-192/zh-hero.webp
+    placement: hero
+    alt: 两列彩珠交错、强石围绕中位石排序、足迹走廊可前后回返，彩色房屋被分成指定街区
+    composition: >-
+      不使用 Forest。横向四站竞速工坊：两列珠子像拉链一样交错成一列；大小各异的石块围绕中央中位石，按距离与大小排出强弱；实体足迹走廊用当前位置与最远到达处两枚滑块支持前后回返，不画浏览器界面；末端一排房屋被克制的青绿、琥珀和灰红涂成连续颜色街区，三层透明托盘表示位置、剩余街区和前色状态，旁边两只过热沙漏暗示两次超时。禁止人物、文字、数字、字母、公式、代码、箭头、商标、假界面或水印。
+    review_status: approved

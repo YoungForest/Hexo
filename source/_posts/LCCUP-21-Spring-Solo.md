@@ -1,6 +1,7 @@
 ---
 title: 力扣2021春季赛 - 个人赛
 date: 2021-04-05 19:27:19
+description: 五道题从限额配对和环形乐团布局，延伸到贪心重排、时变迷宫与批量任务。
 tags:
 - Competitive Programming
 categories:
@@ -14,6 +15,12 @@ translations:
 | 171 / 2750 | YoungForest | 12 | 0:56:51 | 0:06:21 | 0:49:14 | 0:56:55 | null | null |
 
 [比赛链接](https://leetcode-cn.com/contest/season/2021-spring/ranking/solo/)
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LCCUP-21-Spring-Solo/zh-hero.webp" alt="市集托盘筛选成对物品，乐团座位绕成方形螺旋，危险方块被移到塔后，迷宫墙随时间变换" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
 
 ## LCP 28. 采购方案
 

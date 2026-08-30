@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 146
 date: 2019-07-21 22:49:39
+description: 白天聚会、夜晚补题的周赛复盘：多米诺归一化、双色最短路、叶值树和绝对值枚举。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2019/07/21/LeetCode-weekly-contest-146/
   en: https://youngforest.github.io/en/2019/07/21/LeetCode-weekly-contest-146/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-146/zh-hero.webp" alt="Forest 告别白天聚会后在夜灯下旋转多米诺、铺双色路径、抬升大叶片并翻转八组符号机关" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 今天由于高中同学xl来北京找我聊，和hcq一起吃了午饭和晚饭，并聊了一下午。上午的contest只匆匆做了签到题。第二题因为粗心，写错了`red`变化的时机，也没有时间调试。后2题干脆没有看。
 晚上回来9点才把题目补完，第二题的bug也调出来了。
 不过时间上应该是超时了。

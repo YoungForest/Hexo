@@ -1,0 +1,10 @@
+version: editorial-comic-v1
+post: source/_posts/life-and-death-fatigue.md
+context: 文章回顾莫言小说带来的时代压迫感与农民的辛苦无奈，并借主人公跨越五十年社会变革的六世轮回，落到放下贪念与仇恨的结尾。
+assets:
+  - id: hero
+    file: source/images/ai/life-and-death-fatigue/zh-hero.webp
+    placement: hero
+    alt: 五只相连的磨损木轮穿过牲畜剪影和时代风暴，末端缠绕的仇恨绳索终于在暖光前松开
+    composition: 不画作者、书封或具体历史人物；用五只相连的磨损木轮依次穿过田地、合作劳作、风暴、工业农场和重新开放的道路，每段只保留不同牲畜的简洁剪影，贯穿轮轴的绳索在终点暖光前松开，表现轮回、时代压迫与放下仇恨。
+    review_status: approved

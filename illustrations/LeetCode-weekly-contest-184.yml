@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-184.md
+context: >-
+  周赛复盘涵盖数组中的子串匹配、把查询元素移到排列首位、用 Trie 自动机解析实体，以及三列网格逐行涂色 DP；作者也反思速度赛中的工具选择。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-184/zh-hero.webp
+    placement: hero
+    alt: Forest 在图案卡、前移令牌、树状解析器和三列彩格之间穿行，比较轻便工具与笨重机关
+    composition: >-
+      使用虚构 Forest。以连续工位表现嵌套图案卡中的子串、机械臂把选中圆片搬到队首、只含叶片和几何物件的树状解析机，以及逐行落入三列网格的兼容色块；同一 Forest 的连续动作强调速度工具链，第三站明显更笨重。画面不含可读字符、代码、语言标志、品牌、假界面或水印。
+    review_status: approved

@@ -6,6 +6,7 @@ tags:
 - 孙子兵法
 categories:
 - 读后感
+description: 从“先胜而后战、知己知彼、谋定后动”理解《孙子兵法》如何进入个人选择、商业与投资。
 translations:
   zh-CN: https://youngforest.github.io/2024/05/06/The-Art-of-War-by-Sunzi/
   en: https://youngforest.github.io/en/2024/05/06/The-Art-of-War-by-Sunzi/
@@ -13,6 +14,12 @@ translations:
 [豆瓣链接](https://book.douban.com/subject/26917969/)
 
 看完《狂飙》，也来看《孙子兵法》。原版看不懂，来看解读。老高的视频也看了，确实牛。高启强一本“孙子兵法”定“京海市”，从一个小鱼贩，成长为一代黑白势力老大。当然只靠孙子兵法有些夸张，但确实是必要条件。读完后，感觉“孙子兵法”就像是武侠小说里的“九阴真经”，虽然是讲兵法，但因为万事万物后面有千丝万缕的联系。其中的不少道理，放在商业，甚至个人生活中也是有用的，尤其是投资理财。之前了解到的一个信息模型：“智慧，知识，和信息”，是从重要到次要，从少到多的。真正的智慧是大道至简的，几句话就能说清楚的。孙子兵法，主要讲的就是智慧和知识，还有如何搜集信息和情报，所以才能五千年经久不衰。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/The-Art-of-War-by-Sunzi/zh-hero.webp" width="1536" height="864" alt="一枚琥珀色棋子在越过战线前依次检查天平、镜面与沙漏，远处的道路因此变得清晰而稳妥" decoding="async">
+</figure>
+
+<!-- more -->
 
 对我启发最大，对普通生活最有价值的几点：
 

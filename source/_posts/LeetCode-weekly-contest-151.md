@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 151
 date: 2019-08-31 20:25:38
+description: 周赛补题：无效交易、最小字符频次、零和链表段删除与多组定容盘栈，也记录夏令营中的竞赛取舍。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2019/08/31/LeetCode-weekly-contest-151/
   en: https://youngforest.github.io/en/2019/08/31/LeetCode-weekly-contest-151/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-151/zh-hero.webp" alt="Forest 带着空白课程卡穿过冲突票据、最小珠频比较、自动抵消珠链和一排盘子栈" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 这周去字节跳动参加夏令营了，周日还需要上课，所以就鸽了周赛。那你怎么能参加kick start呢？毕竟本月的round E是所谓的黄金轮次，对面试获取名额很重要，所以我选择翘掉夏令营。
 
 夏令营结束后，按约补题。不得不说，LeetCode比Kick start的难度还是要低不少的。感觉Kick start的签到题难度是Medium，后2题是Hard。

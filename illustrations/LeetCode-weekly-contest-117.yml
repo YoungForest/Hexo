@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-117.md
+context: >-
+  作者尝试边参加周赛边写博客以提高总结效率，复盘单值二叉树、等差相邻位、元音拼写检查和二叉树摄像头，并规划继续学习基础课程。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-117/zh-hero.webp
+    placement: hero
+    alt: Forest 一边训练一边记录，检查同色树、等距珠链、音形筛选器并在树枝布置观察灯
+    composition: >-
+      使用虚构 Forest。他在限时练习台上用一只手操作模型，另一只手在完全空白的纸页上同步画下无字符形状，表现边做边总结。连续台面依次展示：检查整棵二叉树的果实是否同色、让相邻珠子保持相同距离组成路径、把不同颜色和轮廓的声音波纹片通过三层筛网找到最接近者、在二叉树枝上以最少的观察灯覆盖所有节点。后方是几件没有标题和封面的基础学习工具，不出现具体课程或公司。无可读文字、字母、数字、公式、商标、真实书封、摄像画面、假界面或水印。
+    review_status: approved

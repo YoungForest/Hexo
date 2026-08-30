@@ -5,12 +5,19 @@ tags:
 - RIP
 categories:
 - Life
+description: 悼念左耳朵耗子：回忆从博客和刷题群受到的帮助，也反思程序员长期过劳与珍惜生命的重要性。
 translations:
   zh-CN: https://youngforest.github.io/2023/05/15/rip-hao/
   en: https://youngforest.github.io/en/2023/05/15/rip-hao/
 ---
 R.I.P.
 有幸和 左耳朵耗子 在同一个群里刷题。大家得知消息以为是谣言，还at了他。但多方消息佐证，现在应该是真的了。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/rip-hao/zh-hero.webp" alt="清晨的空程序员书桌旁，一盏熄灭的台灯与仍在延伸的代码积木轨迹，象征一位技术写作者留下的长期影响" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
 
 ![左耳朵耗子 在 佛系刷题群 的聊天历史](/images/hao-foxi.jpg)
 

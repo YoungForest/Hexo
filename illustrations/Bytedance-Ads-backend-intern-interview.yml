@@ -1,0 +1,16 @@
+version: editorial-comic-v1
+post: source/_posts/Bytedance-Ads-backend-intern-interview.md
+context: 作者复盘广告系统后端实习面试，问题覆盖散列表、数据库索引与事务、并发、网络和 RPC；算法题从暴力比较多个字符串的编辑距离，进一步优化为在 Trie 上复用共享前缀的动态规划计算。
+assets:
+  - id: hero
+    file: source/images/ai/Bytedance-Ads-backend-intern-interview/zh-hero.webp
+    placement: hero
+    alt: Forest 在无标识面试桌前依次面对散列桶、索引书架、并发齿轮、网络桥和字符串拼块
+    composition: 让 Forest 坐在无品牌的长桌一端，桌面由左到右布置散列桶、层叠索引架、互锁并发齿轮、两端网络桥和可增删替换的空白字符串拼块；所有元素像一场连续面试关卡，角色保持短黑发、圆眼镜、炭灰外衫和青绿色 T 恤。
+    review_status: approved
+  - id: trie-distance
+    file: source/images/ai/Bytedance-Ads-backend-intern-interview/zh-trie-distance.webp
+    placement: before-trie-optimization
+    alt: 多串无字字符积木汇入共享前缀树，距离算珠沿共同分支复用计算并选出最短路径
+    composition: 多排不同长度的无字方块从左侧进入一棵机械前缀树，相同开头合并为共同枝干；青绿色距离算珠只沿共享枝干计算一次，琥珀光最终标出通往目标轮廓的最短分支，表现 Trie 对动态规划重复计算的复用。
+    review_status: approved

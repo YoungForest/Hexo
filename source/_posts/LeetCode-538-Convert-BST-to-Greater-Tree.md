@@ -4,10 +4,15 @@ date: 2018-09-14 19:15:07
 tags:
 categories:
 - LeetCode
+description: 二叉搜索树累加转换：从递归传值，到反向中序的统一累计量与显式栈迭代。
 translations:
   zh-CN: https://youngforest.github.io/2018/09/14/LeetCode-538-Convert-BST-to-Greater-Tree/
   en: https://youngforest.github.io/en/2018/09/14/LeetCode-538-Convert-BST-to-Greater-Tree/
 ---
+<figure class="editorial-illustration editorial-illustration--hero"><img src="/images/ai/LeetCode-538-Convert-BST-to-Greater-Tree/zh-hero.webp" width="1536" height="864" alt="琥珀光从二叉搜索树最右枝反向流过每个节点，将沿途累积的能量依次传向左侧" decoding="async" fetchpriority="high"></figure>
+
+<!-- more -->
+
 Description: https://leetcode.com/problems/convert-bst-to-greater-tree/description/
 Solution: https://leetcode.com/problems/convert-bst-to-greater-tree/solution/
 Difficulty: Easy

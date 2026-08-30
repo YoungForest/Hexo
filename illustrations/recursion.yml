@@ -1,0 +1,10 @@
+version: editorial-comic-v1
+post: source/_posts/recursion.md
+context: 系统梳理递归的基本原理、递推关系、终止条件、备忘录、复杂度分析、调用栈与尾递归优化。
+assets:
+  - id: hero
+    file: source/images/ai/recursion/zh-hero.webp
+    placement: hero
+    alt: 一座层层缩小的机关工作台递归展开，最小一层的琥珀色终止块开始把结果向上合并，旁边抽屉收纳重复结果
+    composition: 将递归画成一座逐层打开、每层结构相似但更小的机械工作台，最深处以明显不同的琥珀色终止块结束，结果沿层级向上合并；侧边用少量抽屉暗示备忘录，画面不出现代码、公式或标签。
+    review_status: approved

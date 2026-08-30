@@ -1,0 +1,10 @@
+version: editorial-comic-v1
+post: source/_posts/Setup-English-blog.md
+context: 以中文 Hexo 博客为模板建立独立英文仓库，配置不同部署路径和菜单，并让两个站点相互链接。
+assets:
+  - id: hero
+    file: source/images/ai/Setup-English-blog/zh-hero.webp
+    placement: hero
+    alt: 两座由同一套积木搭成的中英文博客屋沿不同轨道部署，并由一座双向桥连接
+    composition: 同一份无文字蓝图生成两座风格一致但环境不同的博客小屋，分别驶向主路径和分支路径，再以双向桥保持互联。
+    review_status: approved

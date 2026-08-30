@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/Effective-Modern-C.md
+context: >-
+  这是作者《Effective Modern C++》书评的索引页，主题是把 C++ 编程实践整理得更现代、更有效。
+assets:
+  - id: hero
+    file: source/images/ai/Effective-Modern-C/zh-hero.webp
+    placement: hero
+    alt: 旧式工具台经过整理后变成紧凑清晰的现代编程工坊，工具各归其位
+    composition: >-
+      不使用 Forest，也不画真实书封。左侧是一张拥挤但仍可用的旧式编程工具台，抽象齿轮、夹具和线轴彼此牵扯；经过中央的整理门后，右侧成为紧凑、清晰、留有安全间距的现代工具工坊，相同工具各归其位并更易组合。只表达实践现代化，不虚构具体书中条目。无可读文字、字母、数字、代码、公式、书名、真实书封、品牌、界面、水印或签名。
+    review_status: approved

@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 142
 date: 2019-06-23 23:09:42
+description: 周赛复盘：大样本统计、拼车容量、山脉数组二分搜索与花括号展开，也记录比较器错误。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2019/06/23/LeetCode-weekly-contest-142/
   en: https://youngforest.github.io/en/2019/06/23/LeetCode-weekly-contest-142/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-142/zh-hero.webp" alt="Forest 修正互相矛盾的排序天平，并操作统计量杯、拼车站台、山路探针和枝状组合解析器" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 | Rank |	Name |	Score |	Finish Time | 	Q1 (5) |	Q2 (5) |	Q3 (8) |	Q4 (8)|
 |--|--|--|--|--|--|--|--|
 | 851 / 4504 |	YoungForest | 13 | 1:39:38 | null |  1:00:12 2 | 1:19:38 2 | null |

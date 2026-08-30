@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-129.md
+context: >-
+  作者因准备另一场比赛错过直播，晚间独立补完四题并重拾信心：三等分数组、只含重复单位的整除数、最佳观光点对和二进制子串覆盖。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-129/zh-hero.webp
+    placement: hero
+    alt: 夜间补题的 Forest 将珠链分成等重三段、旋转单位珠、连接最佳双塔并检查所有组合窗格
+    composition: >-
+      使用虚构 Forest。夜间训练场上，另一条更陡的赛道已熄灯，他回到安静工作台独立完成四个实体谜题：在珠链上找两个切点分出总重相等的三段、让相同的单位珠不断进入余数轮直到闭环、用一根随距离付出代价的绳索连接价值最高的两座观景塔，以及用一排不同长度的窗口检查深浅珠流是否覆盖所需组合。表达受挫后的安慰与继续练习。无可读文字、字母、数字、公式、品牌、假界面或水印。
+    review_status: approved

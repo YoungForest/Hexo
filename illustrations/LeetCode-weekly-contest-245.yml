@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-245.md
+context: >-
+  三道赛内题判断字符能否平均分配、用二分与双指针求最大可删除字符数，并筛选三元组拼成目标；第四题只留下未完成记录。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-245/zh-hero.webp
+    placement: hero
+    alt: 多盘彩色筹码均分进相同抽屉，可移除珠链保住目标次序，三杆组件拼成目标框，最后的对阵台仍未解开
+    composition: >-
+      不使用 Forest。四站算法工坊表现均分、二分删除与子序列、三元组筛选，以及保持未解状态的最早最晚相遇问题。两版候选分别因尺寸箭头和明显渲染破损被拒绝；按单次定向重画上限暂缓，不接入文章。
+    review_status: rejected

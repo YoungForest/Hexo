@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-128.md
+context: >-
+  作者快速完成前三题却未解出最后一题，复盘整数位反转、整分钟歌曲配对、运输能力二分和重复数字计数，并明确长期准备面试基础的目标。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-128/zh-hero.webp
+    placement: hero
+    alt: Forest 在长期训练场翻转明暗珠、配对音乐圆片、二分试装货船并拆解重复图案的计数盒
+    composition: >-
+      使用虚构 Forest。他在长期训练场前段快速通过三座小装置，最后在复杂计数盒前停下复盘：把一排明暗位珠全部翻转、让不同长度的无字音乐圆片在无刻度圆盘上两两补成完整一圈、反复调整货船容量找到能在有限航程内运完箱子的最小刻度，以及把含重复图案的号码物件改为先计算所有图案互异的排列。远方是逐年延伸的基础训练路。无可读文字、字母、数字、公式、品牌、音乐标识、假界面或水印。
+    review_status: approved

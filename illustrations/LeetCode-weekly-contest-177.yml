@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-177.md
+context: >-
+  周赛复盘涵盖计算两个日期的间隔、验证二叉树节点关系、寻找最接近的因数，以及构造最大的三的倍数；文章强调速度与无错实现。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-177/zh-hero.webp
+    placement: hero
+    alt: Forest 站在空白日历踏石、单根树、因数配对拱门和三组彩珠构成的算法花园中
+    composition: >-
+      使用虚构 Forest。连续花园场景以空白日历之间的踏石表示日期差，以只有一个根且没有孤立枝条的连接树表示二叉树验证，以平方根拱门附近逐渐靠近的方块对表示最近因数，再以三组彩珠汇成稳定大球表示最大的三的倍数。无可读文字、数字、公式、品牌、假界面或水印。
+    review_status: approved

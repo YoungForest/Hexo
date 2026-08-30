@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 244
 date: 2021-06-06 15:37:26
+description: 四道题旋转比较矩阵、按排序层级统计归一操作、计算环形交替序列的最少翻转，并用前缀和与二分减少包装浪费。
 tags:
 - Competitive Programming
 categories:
@@ -14,6 +15,10 @@ translations:
 | 142 / 14467 | YoungForest | 18 | 0:51:13 |  0:05:21 | 0:09:54 |  0:30:19 | 0:46:13 🐞1 |
 
 下午约了 [残酷东神](http://leetcode.com/ddoudle) 吃饭，一个rating 2700+的大佬。他本科浙大，在加拿大读研。这个暑假来北京旷视实习。因此我们有机会线下面基。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-244/zh-hero.webp" alt="方格盘旋转对齐模板，阶梯石块逐层归一，双色环带以最少翻片交替，盒子按尺寸包裹物件并收集空隙" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
 
 <!-- more -->
 

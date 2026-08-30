@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 122
 date: 2019-02-04 18:38:09
+description: 除夕补做周赛与面试失利后的复盘：偶数和、叶到根字符串、区间交集、垂序遍历和基础训练。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2019/02/04/LeetCode-weekly-contest-122/
   en: https://youngforest.github.io/en/2019/02/04/LeetCode-weekly-contest-122/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-122/zh-hero.webp" alt="Forest 在节日晚餐前补完训练，维护偶数珠、汇合区间带、攀读叶根树并整理垂直树列" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 由于宅在家里过节，竟然忘记了每天是星期几，只知道农历腊月几日。今天才发现已经到了周一了，错过了每周一度的weekly contest。在此除夕之夜，和家人一起看春晚之前，Forest携全家人一起祝大家新年快乐！快些刷完这4道比赛题目，好安心吃年夜饭。
 
 由于比赛不能用官方的Notes, 写在blog上还是蛮方便的一种替代品。

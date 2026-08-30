@@ -1,0 +1,19 @@
+version: editorial-comic-v1
+post: source/_posts/QDII-off-exchange-to-on-exchange-arbitrage.md
+context: >-
+  文章解释 QDII 场内溢价为何会出现，并以作者实际账户为例，记录查询账户、建立对应关系、获取席位号、转托管与场内卖出的流程。
+assets:
+  - id: hero
+    file: source/images/ai/QDII-off-exchange-to-on-exchange-arbitrage/zh-hero.webp
+    placement: hero
+    alt: 同一篮资产在安静仓库和热闹市场之间出现高度差，一座限流窄桥把两端价格秤连接起来
+    composition: >-
+      把场外与场内画成同一条河两岸：一侧是安静的基金仓库，另一侧是热闹但无品牌的交易市场，同一篮抽象资产在两台无数字价格秤上出现高度差；中间只有一座受限窄桥，表达溢价、流动性限制和套利。不要出现基金代码、货币符号、涨跌数字、真实平台或收益承诺。
+    review_status: approved
+  - id: custody-route
+    file: source/images/ai/QDII-off-exchange-to-on-exchange-arbitrage/zh-custody-route.webp
+    placement: inline-before-steps
+    alt: 一只无字基金箱依次通过账户钥匙、对应桥、席位令牌和托管船闸，最终抵达公开交易码头
+    composition: >-
+      用五段连续但无编号的运河路线概括流程：基金箱先取得账户钥匙，通过对应桥，领取几何席位令牌，经过需要等待的托管船闸，最终抵达公开交易码头。它是段落转场隐喻，不替代正文操作说明；不要画 App 界面、按钮、数字、品牌或保证获利的符号。
+    review_status: approved

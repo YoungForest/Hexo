@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-137.md
+context: >-
+  这场周赛集中考查作者不够熟悉的动态规划；复盘从石头碰撞与相邻消除，走到单词链和把石头分成两组的经典背包问题。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-137/zh-hero.webp
+    placement: hero
+    alt: Forest 走入动态规划工坊，逐步处理碰撞石块、相邻消除珠、递增长链和双篮平衡
+    composition: >-
+      使用虚构 Forest。他站在标志着知识盲区的暖灰转角前，谨慎进入一座动态规划工坊。连贯流水线依次让最大两块石头碰撞、让相邻同色珠在栈筒中成对消失、把长度逐级增加的无字小牌连成最长链，并把石头放入琥珀和青绿两个篮子以最小化天平差距。强调从暴力尝试走向可复用状态的过程。无可读文字、字母、数字、公式、品牌、书封、假界面或水印。
+    review_status: approved

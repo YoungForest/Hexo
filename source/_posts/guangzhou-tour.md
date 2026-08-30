@@ -6,11 +6,18 @@ tags:
 - 游记
 categories:
 - dairy
+description: 记录一次从北京出发的穗港澳旅行：早茶、城市交通、消费与迷路交织，最终也在短暂放松后重新思考漂泊、选择与生活节奏。
 translations:
   zh-CN: https://youngforest.github.io/2018/10/09/guangzhou-tour/
   en: https://youngforest.github.io/en/2018/10/09/guangzhou-tour/
 ---
 国庆节后，我和二师兄有机会前往广东，依次游览了广州、澳门 和 香港。10月6号从北京出发，坐10个小时高铁，来到广州南站，之后落塌广东大厦。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/guangzhou-tour/zh-hero.webp" alt="Forest 和同伴沿一条南方旅行路线经过早茶蒸笼、渡船与陡坡电车，最后乘北行列车回到书桌前" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
 
 ## 广州
 
@@ -67,4 +74,3 @@ translations:
 我从来不是一个能玩会玩的人。这次出门可多地方承蒙二师兄的照顾，很多事情的是他在操心，偶尔我试着操心带带路还带错了。我生来就是不会操心的人，在学习生活中因为这样还经常把事情办砸。当然这样的性格也有很多好处。比如，我可以轻松地专心做一件事情；想的少，相应的烦恼也少。凡事都是双刃剑。我接受这样的自己，但也尝试寻找一个平衡，虽然不会操心，但往往该操的时候还是要操的。
 
 虽然已经在帝都呆了4年了，但最近的我一直有种强烈的感觉：自己以后不会定居在这里。一来，北京居大不易，户口卡的很死；二来，外面的世界诱惑太大，机会也很多。将来会漂泊在何方呢？无论最后的答案是什么，我都希望是自己的选择，在任何地方都要活得精彩。
-

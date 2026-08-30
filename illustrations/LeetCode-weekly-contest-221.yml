@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-221.md
+context: >-
+  周赛四题依次比较字符串两半的元音数量、贪心先吃快过期的苹果、用 DFS 模拟小球穿过斜板迷宫，并用 0-1 Trie 回答最大异或查询；最后一题因 shared_ptr 的常数开销三次超时，换成裸指针后通过。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-221/zh-hero.webp
+    placement: hero
+    alt: 天平比较两盘元音珠，果篮按腐坏先后取用，小球穿过斜板迷宫，二叉树机关甩掉沉重套环后终于顺畅
+    composition: >-
+      不使用 Forest。横向四站算法桌：一架天平比较两个半盘中相同类型的圆润元音珠，但珠子上没有字符；果园传送带优先取走最接近腐坏的苹果，远期苹果整齐等待；几颗小球从上方落入斜板迷宫，有的顺利滑出、有的卡住；末端是一棵由深浅两类分叉组成的 0-1 树形机关，查询珠沿互补颜色分支寻找最远值，最初套着三层沉重机械套环而冒烟，卸下套环后轻快通过终点。禁止人物、字符、字母、数字、公式、代码、箭头、可读文字、时钟刻度、假界面、商标或水印。
+    review_status: approved

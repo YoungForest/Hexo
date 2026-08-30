@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 250
 date: 2021-07-19 09:20:38
+description: 四道题涉及坏键过滤、批量补梯级、优化网格动态规划，以及离线树查询与二进制 Trie。
 tags:
 - Competitive Programming
 categories:
@@ -14,6 +15,12 @@ translations:
 | 192 / 13694 | YoungForest | 18 | 	1:22:27 |  0:03:20 | 0:09:15  🐞1 | 0:28:08 | 1:07:27  🐞2 |
 
 连续2周成绩还不错，前200。导致美服小号rating都要上2400了，以后打起来会更加需要小心翼翼。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-250/zh-hero.webp" alt="坏键筛掉部分无字词块，梯子一次补齐缺级，双向光束扫过积分网格，树路径令牌进入二叉分拣器" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
 
 ## 1935. Maximum Number of Words You Can Type
 

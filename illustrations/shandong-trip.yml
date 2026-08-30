@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/shandong-trip.md
+context: >-
+  作者十年后重游山东，以七天临时旅程穿过莱芜、泰山、青岛和济南；一路的登山、海风、泉水与独自漫游，也让低落心情逐渐转向对未来生活地点的开放想象。
+assets:
+  - id: hero
+    file: source/images/ai/shandong-trip/zh-hero.webp
+    placement: hero
+    alt: Forest 背包走过泰山石阶、青岛海风和济南泉水，展开一段从低落到开阔的七日旅程
+    composition: >-
+      使用虚构 Forest。以折叠成一条连续长卷的旅行路线串起火车硬座、陡峭山阶、海边栈桥与涌泉湖面；Forest 背着简化背包从左侧暖灰阴影走向右侧开阔的琥珀晨光，海风吹散头顶一小团无字阴云。仅作情绪和旅程主视觉，正文中的泰山、青岛、济南真实照片全部保留且不仿造。不得出现地图文字、城市名、品牌、景区标志、真实人物肖像或可识别照片复刻。无可读文字、字母、数字、商标、假界面或水印。
+    review_status: approved

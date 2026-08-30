@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 236
 date: 2021-04-11 16:00:09
+description: 三道题统计乘积符号、求约瑟夫环赢家，并用自底向上的动态规划计算最少侧跳；第四题未展开。
 tags:
 - Competitive Programming
 categories:
@@ -12,6 +13,12 @@ translations:
 | Rank |	Name |	Score |	Finish Time | 	Q1 (3) |	Q2 (5) |	Q3 (5) |	Q4 (6)|
 |--|--|--|--|--|--|--|--|
 | 1513 / 12115 | YoungForest | 12 | 0:45:18 | 0:02:57 | 0:08:59 | 0:40:18  1 | null |
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-236/zh-hero.webp" alt="正负砝码决定天平方向，圆环座位逐轮退出，三车道小车侧跳避障，最后一座工作台仍留空" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
 
 ## 1822. Sign of the Product of an Array
 
@@ -89,4 +96,3 @@ class Solution:
 空间复杂度: O(1).
 
 ## 1825. Finding MK Average
-

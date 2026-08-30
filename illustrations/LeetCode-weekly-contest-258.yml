@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-258.md
+context: >-
+  作者在写过一百多篇中文 LeetCode 比赛复盘后，开始用英文总结周赛和双周赛，为国际面试与职业机会同时练习表达和算法；本场完成三题，第四题未完成。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-258/zh-hero.webp
+    placement: hero
+    alt: Forest 从成叠的竞赛复盘走向新的国际训练桌，带着三件已完成工具和一个空置题位
+    composition: >-
+      使用虚构 Forest。画面左侧是一百多本无字暖灰竞赛练习册组成的高而有序的档案墙；Forest 带着一个算法拼图工具箱跨过小桥，走向右侧更开放的国际训练桌。桌上三座紧凑工具站亮起琥珀光，第四个题位安静留空；两块无字共鸣板用形状和声波暗示表达练习，不用国旗或文化刻板印象。无可读文字、字母、数字、公式、真实榜单、品牌、假界面、水印或签名。
+    review_status: approved

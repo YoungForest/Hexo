@@ -5,6 +5,7 @@ tags:
 - Competitive Programming
 categories:
 - KickStart
+description: 赛后补写的三道算法题解，从网格跳步、矩阵区间到状态压缩，记录暴力思路如何逐步变成更可靠的结构化算法。
 translations:
   zh-CN: https://youngforest.github.io/2019/07/25/kick-start-2019-round-C/
   en: https://youngforest.github.io/en/2019/07/25/kick-start-2019-round-C/
@@ -13,6 +14,12 @@ translations:
 [题目链接](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050ff2)
 
 主要参考的是 旷神 直播的解法，和官方 Analysis的解法。
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/kick-start-2019-round-C/zh-hero.webp" alt="三座无文字的算法工作台分别呈现跳过已走格子的路线、受限电路板和逐步收集线索的最短路径" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
 
 ## Wiggle Walk
 

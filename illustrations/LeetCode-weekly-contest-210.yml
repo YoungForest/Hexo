@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-210.md
+context: >-
+  四道题涉及嵌套深度、城市网络度、拼接回文，以及枚举连通子树并计算直径。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-210/zh-hero.webp
+    placement: hero
+    alt: 同心拱门包围城市枢纽，两座道路塔相连，双向丝带拼成镜桥，树状街区用跨度尺测量
+    composition: >-
+      不使用 Forest。把四道算法题融成一座俯视的微缩城市：左侧同心拱形街区一层层深入中心，表达嵌套深度；中部两座连接道路最多的高塔由一条短路相连，表达网络度；右上两条从相反方向展开的无字丝带在中央拼合成对称镜桥；右下若干树状街区被选中，柔和的跨度尺跨过最远两端，表达连通子树直径。禁止括号字符、字母、数字、公式、代码、可读文字、商标或水印。
+    review_status: approved

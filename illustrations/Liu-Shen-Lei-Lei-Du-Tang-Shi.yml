@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/Liu-Shen-Lei-Lei-Du-Tang-Shi.md
+context: >-
+  作者认为这本唐诗读物兼具类似通俗历史写作的亲切感、金庸式悲悯与借古讽今的表达，在大量现实主义阅读之后尤其显得浪漫动人。
+assets:
+  - id: hero
+    file: source/images/ai/Liu-Shen-Lei-Lei-Du-Tang-Shi/zh-hero.webp
+    placement: hero
+    alt: 一卷无字长卷化成田园、边塞、古迹和送别渡口四条支流，最终汇入一轮温暖明月下的诗意河面
+    composition: >-
+      不画作者、真实诗人、书封或书中文字；让一卷完全空白的长卷在桌面展开，墨色从卷面流出并分成四个简洁景别：安静田园、风沙边塞、残旧古迹和渡口送别，四条支流最后汇入明月下的宽阔河面。用一点现代空椅与打开的窗格暗示借古观今，以浪漫和悲悯为主，不把讽刺画成政治符号。
+    review_status: approved

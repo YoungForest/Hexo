@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-215.md
+context: >-
+  周赛记录用数组和指针实现有序流，以字符集合和频次集合判断两字符串能否变换，转化为保留最长中段来从两端减到目标值；第四题只有“轮廓线 DP”一句，未给出解法。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-215/zh-hero.webp
+    placement: hero
+    alt: 有序包裹等待指针放行，两组彩珠交换位置后保持同样频次，从两端取石留下最长中段，最后的网格城仍锁在柜中
+    composition: >-
+      不使用 Forest。横向四站无字算法桌：编号含义只用大小和形状表达的包裹插入长槽，指针闸门只在连续位置齐全时成批放行；两组不同排列的彩珠可互换位置与颜色，但颜色集合和每种珠子的堆高集合保持一致；一条长石链从左右两端取走若干石块，中央最长连续段被青绿色框保留；末端轮廓线网格城市只有关闭柜门、未接通的模型房屋与整齐工具，明确表示第四题没有展开解法。禁止人物、字符、字母、数字、公式、代码、箭头、可读文字、假界面、商标或水印。
+    review_status: approved

@@ -1,0 +1,10 @@
+version: editorial-comic-v1
+post: source/_posts/The-Gains-and-Losses-of-Emperor-Qianlong-Reign.md
+context: 读《饥饿的盛世》，讨论乾隆时代看似繁华的外壳如何掩盖权力扩张、财产权不稳、社会窒息和闭关带来的长期衰败，并由马嘎尔尼访华补充中西双方的视角。
+assets:
+  - id: hero
+    file: source/images/ai/The-Gains-and-Losses-of-Emperor-Qianlong-Reign/zh-hero.webp
+    placement: hero
+    alt: 金色宫殿外壳像沉重华盖压住下方黯淡的民间工坊，关闭的城门外停着带望远镜的远方使团小船
+    composition: 用不对应真实建筑或人物的双层剖面表现盛世表里，上层是华丽但过重的金色宫殿华盖与空宴席，下层民间工坊被不断伸长的权力管道挤压，侧面城门缓缓关闭，远处一艘小船以望远镜观察；不画皇帝肖像、旗帜或书封。
+    review_status: approved

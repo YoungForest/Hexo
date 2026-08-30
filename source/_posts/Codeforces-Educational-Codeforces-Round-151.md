@@ -1,6 +1,7 @@
 ---
 title: Codeforces Educational Codeforces Round 151
 date: 2023-07-01 16:33:20
+description: 三道题分别通过分类讨论拼出目标、计算两条路径的最长公共段，并贪心寻找不构成子序列的密码。
 tags:
 - codeforces
 - contest
@@ -15,6 +16,12 @@ translations:
 
 做出了前2题，卡在第三题了。
 Rating change: 1407 -> 1378
+
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/Codeforces-Educational-Codeforces-Round-151/zh-hero.webp" alt="允许积木绕过禁用槽拼成目标，两条路线从原点共享后分叉，机械手在珠链范围内不断选择最靠右的珠子" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
 
 ## [A. Forbidden Integer](https://codeforces.com/contest/1845/problem/A)
 

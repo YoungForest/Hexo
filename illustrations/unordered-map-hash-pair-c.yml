@@ -1,0 +1,19 @@
+version: editorial-comic-v1
+post: source/_posts/unordered-map-hash-pair-c.md
+context: >-
+  作者因简单异或组合 pair 的哈希值造成严重碰撞和超时，花一上午定位问题，重新找到经典资料中的 hash_combine，并反思复制粘贴与深入理解之间的差别。
+assets:
+  - id: hero
+    file: source/images/ai/unordered-map-hash-pair-c/zh-hero.webp
+    placement: hero
+    alt: 两组交换顺序的形状钥匙反复掉进同一个拥堵桶，另一侧的多级混合器把组合均匀送往不同槽位
+    composition: >-
+      用物理分拣机表现哈希碰撞：两组由圆形与三角形组成、顺序互换的 pair 钥匙经过一台过度简单的对称合并器后，全都掉进同一个桶并堵塞；另一侧，一台有旋转、偏移和搅拌动作的多级混合器把组合均匀分到多个槽位。画面不出现代码、数学常数、容器名称、产品标志或可读文字。
+    review_status: approved
+  - id: hash-combine
+    file: source/images/ai/unordered-map-hash-pair-c/zh-hash-combine.webp
+    placement: before-correct-implementation
+    alt: 一只落灰的无字工具箱重新打开，多级齿轮把两个组件逐步混合成彼此不同的钥匙纹路
+    composition: >-
+      表现从经典资料中重新找到正确思路：一只落灰但没有书名的老工具箱被打开，里面的多级齿轮装置依次接收两个不同形状组件，经过旋转、位移和累积混合后压出若干纹路各异的钥匙；旁边堆着一张被匆忙复制却导致拥堵的简单对称模具。不要画真实书封、代码、文字、公式或品牌。
+    review_status: approved

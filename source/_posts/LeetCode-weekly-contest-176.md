@@ -1,6 +1,7 @@
 ---
 title: LeetCode weekly contest 176
 date: 2020-02-16 12:07:55
+description: 周赛复盘：有序矩阵计数、区间乘积、贪心活动安排与逆向构造，记录最后关头通过的紧张一场。
 tags:
 - Competitive Programming
 categories:
@@ -9,6 +10,12 @@ translations:
   zh-CN: https://youngforest.github.io/2020/02/16/LeetCode-weekly-contest-176/
   en: https://youngforest.github.io/en/2020/02/16/LeetCode-weekly-contest-176/
 ---
+<figure class="editorial-illustration editorial-illustration--hero">
+  <img src="/images/ai/LeetCode-weekly-contest-176/zh-hero.webp" alt="Forest 跑过有序深浅方格、零点重置珠链、贪心旗标传送带和被起重机拆解的目标方块塔" width="1536" height="864" decoding="async" fetchpriority="high">
+</figure>
+
+<!-- more -->
+
 | Rank |	Name |	Score |	Finish Time | 	Q1 (3) |	Q2 (5) |	Q3 (5) |	Q4 (6)|
 |--|--|--|--|--|--|--|--|
 | 306 / 8105 |	YoungForest | 	19 | 	1:36:07 | 0:02:47 | 0:23:09 | 0:54:53  1 | 1:26:07  1 |

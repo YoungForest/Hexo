@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-254.md
+context: >-
+  四道题依次检查子串、交错排列高低元素、构造最小非零乘积，并用并查集判断洪水网格最后可穿越日期。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-254/zh-hero.webp
+    placement: hero
+    alt: 空白词片穿过长卷筛选，高低石块交错排列，成对齿轮把乘积推向极值，洪水网格由并查集连起两岸
+    composition: >-
+      不使用 Forest。设计一座横向四工位算法水庭：左侧若干没有字符的短纸片在一条长卷轴下滑行，只有完整嵌在长卷图案里的纸片落入青色托盘；中左把排序后的高低石块交错插入起伏轨道，使任意中间石块都不等于两侧高度的平均；中右成对齿轮把一组能量珠尽量重排为大量最小珠与接近最大值的琥珀珠，旁边单独保留一颗最大珠，表现乘积极值但不画公式；右侧洪水逐日淹没方格，反向揭开陆地时相邻地块由连接扣组成集合，最终青色通道连通上下两岸。禁止人物、字符、字母、数字、公式、代码、可读文字、竞赛标志、商标或水印。
+    review_status: approved

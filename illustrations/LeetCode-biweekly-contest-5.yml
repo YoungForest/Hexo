@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-biweekly-contest-5.md
+context: >-
+  作者久违参加双周赛并很快完成四道经典题：找最大唯一数、判断阿姆斯特朗数、用最小生成树连接城市，以及用拓扑排序安排并行课程。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-biweekly-contest-5/zh-hero.webp
+    placement: hero
+    alt: Forest 从重复珠中挑出唯一大珠，并连接城市桥网、拆分位值转轮和课程依赖木架
+    composition: >-
+      使用虚构 Forest。在有充裕余光的竞赛桌上，Forest 很快通过四个经典机械谜题：从成对小珠中挑出一枚最大的孤珠、把一组无数字的位值圆片送入幂次花形转轮、以最少绳桥连接所有小城模型，以及按依赖方向依次释放课程木块。用一只尚未走满的无刻度沙漏表现提前完成。无可读文字、字母、数字、公式、品牌、假界面或水印。
+    review_status: approved

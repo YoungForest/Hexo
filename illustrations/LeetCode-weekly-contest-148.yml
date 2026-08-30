@@ -1,0 +1,12 @@
+version: editorial-comic-v1
+post: source/_posts/LeetCode-weekly-contest-148.md
+context: >-
+  作者在这场周赛重回前百并复盘四题：仅减小元素形成锯齿、二叉树染色博弈、只记录变化的快照数组，以及首尾贪心匹配的分块回文。
+assets:
+  - id: hero
+    file: source/images/ai/LeetCode-weekly-contest-148/zh-hero.webp
+    placement: hero
+    alt: Forest 在前百奖章旁调整锯齿石阶、树枝棋局、快照抽屉和首尾相扣的镜像彩带
+    composition: >-
+      使用虚构 Forest。明亮但克制的竞赛工作台上，一枚无字琥珀奖章暗示久违的前百；Forest 同时检查四个实体谜题：只能向下削的锯齿石阶、由三大分支组成的双色树棋、只在状态改变时增加抽屉片的快照柜，以及从两端逐段扣合的镜像彩带。构图平衡、移动端可读，保留比赛后的轻松喜悦。无可读文字、字母、数字、公式、品牌、假界面或水印。
+    review_status: approved
