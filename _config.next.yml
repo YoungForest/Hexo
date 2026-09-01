@@ -90,16 +90,22 @@ github_banner:
 
 # Disqus
 disqus:
-  enable: true
+  enable: false
   shortname: YoungForest
   count: false
   #post_meta_order: 0
 
 comments:
   style: buttons
-  active: disqus
-  storage: true
+  active: utterances
+  storage: false
   lazyload: true
+
+utterances:
+  enable: true
+  repo: YoungForest/blog-comments
+  issue_term: pathname
+  theme: github-light
 
 motion:
   enable: false

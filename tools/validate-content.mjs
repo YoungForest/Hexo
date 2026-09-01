@@ -8,6 +8,7 @@ const manifestsDir = path.join(root, 'illustrations');
 const errors = [];
 const warnings = [];
 const postRecords = [];
+let legacyCommentCount = 0;
 
 const selected = new Set([
   '2023-summary-and-2024-resolutions.md',
@@ -132,6 +133,67 @@ for (const file of listFiles(postsDir, '.md')) {
   postRecords.push({ file, name, body, data, timestamp: Date.UTC(...(dateParts(data.date) ?? [0, 1, 1]).map((part, index) => index === 1 ? part - 1 : part)) });
 }
 
+const legacyTargets = new Set(postRecords.flatMap(post => {
+  const date = dateParts(post.data.date);
+  if (!date) return [];
+  const [year, month, day] = date;
+  return [`${year}/${String(month).padStart(2, '0')}/${String(day).padStart(2, '0')}/${path.basename(post.name, '.md')}/`];
+}));
+if (fs.existsSync(path.join(root, 'source', 'about', 'index.md'))) legacyTargets.add('about/');
+
+const legacyFile = path.join(root, 'source', '_data', 'legacy-comments.json');
+if (!fs.existsSync(legacyFile)) {
+  report(legacyFile, 'sanitized Disqus archive is missing');
+} else {
+  let legacyData;
+  try {
+    legacyData = JSON.parse(fs.readFileSync(legacyFile, 'utf8'));
+  } catch (error) {
+    report(legacyFile, `invalid JSON (${error.message})`);
+  }
+  if (legacyData) {
+    if (legacyData.version !== 1) report(legacyFile, 'version must be 1');
+    if (!Array.isArray(legacyData.source_forums) || legacyData.source_forums.length === 0) {
+      report(legacyFile, 'source_forums must be a non-empty list');
+    }
+    if (!legacyData.posts || typeof legacyData.posts !== 'object' || Array.isArray(legacyData.posts)) {
+      report(legacyFile, 'posts must be a mapping');
+    } else {
+      const allowedPostKeys = new Set(['comment_count', 'comments']);
+      const allowedCommentKeys = new Set(['author', 'created_at', 'created_at_label', 'message', 'depth']);
+      for (const [postPath, archive] of Object.entries(legacyData.posts)) {
+        if (!legacyTargets.has(postPath)) report(legacyFile, `${postPath} does not match a current page`);
+        for (const key of Object.keys(archive ?? {})) {
+          if (!allowedPostKeys.has(key)) report(legacyFile, `${postPath} contains unexpected field ${key}`);
+        }
+        if (!Array.isArray(archive?.comments)) {
+          report(legacyFile, `${postPath} comments must be a list`);
+          continue;
+        }
+        if (archive.comment_count !== archive.comments.length) {
+          report(legacyFile, `${postPath} comment_count does not match comments`);
+        }
+        legacyCommentCount += archive.comments.length;
+        archive.comments.forEach((comment, index) => {
+          const label = `${postPath} comment ${index + 1}`;
+          for (const key of Object.keys(comment ?? {})) {
+            if (!allowedCommentKeys.has(key)) report(legacyFile, `${label} contains unexpected field ${key}`);
+          }
+          if (!String(comment?.author ?? '').trim()) report(legacyFile, `${label} requires author`);
+          if (!String(comment?.message ?? '').trim()) report(legacyFile, `${label} requires message`);
+          if (!/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}Z$/.test(String(comment?.created_at ?? ''))) {
+            report(legacyFile, `${label} requires a UTC timestamp`);
+          }
+          if (!String(comment?.created_at_label ?? '').trim()) report(legacyFile, `${label} requires a timestamp label`);
+          if (!Number.isInteger(comment?.depth) || comment.depth < 0 || comment.depth > 4) {
+            report(legacyFile, `${label} depth must be an integer from 0 to 4`);
+          }
+        });
+      }
+    }
+  }
+}
+
 for (const post of [...postRecords].sort((a, b) => b.timestamp - a.timestamp).slice(0, 10)) {
   if (!post.body.includes('<!-- more -->')) {
     report(post.file, 'one of the ten newest posts requires an explicit <!-- more --> marker');
@@ -245,4 +307,4 @@ if (errors.length) {
   process.exit(1);
 }
 
-console.log(`Content validation passed: ${postRecords.length} posts, ${approvedAssets.size} approved editorial assets, ${warnings.length} warning(s).`);
+console.log(`Content validation passed: ${postRecords.length} posts, ${approvedAssets.size} approved editorial assets, ${legacyCommentCount} archived comments, ${warnings.length} warning(s).`);
