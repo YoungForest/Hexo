@@ -2,15 +2,15 @@ version: 1
 style_version: editorial-comic-v1
 site: zh-CN
 summary:
-  article_count: 280
+  article_count: 281
   approved_articles: 278
   candidate_articles: 0
-  rejected_articles: 2
+  rejected_articles: 3
   mixed_articles: 0
-  asset_count: 322
+  asset_count: 323
   approved_assets: 320
   candidate_assets: 0
-  rejected_assets: 2
+  rejected_assets: 3
 articles:
   - slug: 2017-resolutions
     post: source/_posts/2017-resolutions.md
@@ -2050,6 +2050,14 @@ articles:
       - id: hero
         file: source/images/ai/Programming-Pearls/zh-hero.webp
         review_status: approved
+  - slug: Project-Hail-Mary
+    post: source/_posts/Project-Hail-Mary.md
+    status: rejected
+    asset_count: 1
+    assets:
+      - id: hero
+        file: source/images/ai/Project-Hail-Mary/zh-hero.webp
+        review_status: rejected
   - slug: QDII-off-exchange-to-on-exchange-arbitrage
     post: source/_posts/QDII-off-exchange-to-on-exchange-arbitrage.md
     status: approved

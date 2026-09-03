@@ -1,0 +1,25 @@
+version: 1
+post: source/_posts/Project-Hail-Mary.md
+assets:
+  - id: book-cover
+    type: official-book-cover
+    file: source/images/books/Project-Hail-Mary/cover.jpg
+    isbn: "9780593135204"
+    source_page: https://www.penguinrandomhouse.com/books/611060/project-hail-mary-movie-tie-in-by-andy-weir/9780593135204/
+    source_image: https://images4.penguinrandomhouse.com/cover/9780593135204
+    retrieved_on: "2026-09-02"
+    width: 298
+    height: 450
+    bytes: 48957
+    transformation: none
+    placement: hero
+    alt: "Andy Weir 的 Project Hail Mary 英文版书封：黑金色背景中漂浮着一名宇航员"
+    credit: "图片来源：Penguin Random House。封面版权归原权利人所有。"
+    review_status: approved
+    review_approved_on: "2026-09-03"
+    rights_status: criticism-review-rationale-recorded-not-licensed
+    rights_reference: https://www.penguinrandomhouse.com/terms/
+    rights_note: "未取得单独转载许可，也不声称属于公有领域。按作品评论中的有限引用使用：一张 298×450 低分辨率书封，仅用于识别本篇具体评论的作品，保留书名、作者、出版社来源及原画面；不提供高分辨率替代品或用于独立商品推广。封面为创造性作品且使用了完整画面，相关例外须结合适用法域及具体事实判断，此记录不是确定的法律结论。"
+    use_basis_references:
+      - https://www.copyright.gov/fair-use/
+      - https://www.npc.gov.cn/c2/c30834/202011/t20201119_308796.html

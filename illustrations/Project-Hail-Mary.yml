@@ -1,0 +1,10 @@
+version: editorial-comic-v1
+post: source/_posts/Project-Hail-Mary.md
+context: 看完《拯救计划》小说和电影后，作者认为影片值得一看，但小说的科学推理、寻找洛奇的过程和细节更打动自己。
+assets:
+  - id: hero
+    file: source/images/ai/Project-Hail-Mary/zh-hero.webp
+    placement: hero
+    alt: 打开的无字书展开成通往星球的推理台阶，一侧电影画框呈现最终的太空景象
+    composition: 一本无字的打开的书展开成几级纸页构成的推理台阶，台阶间有小型摆锤、放大镜与星点，尽头是琥珀色恒星和青绿色行星；一侧简洁的电影画框只框住最终的太空景象。用主题隐喻比较小说的逐步发现与电影的视觉压缩，不重现角色、电影镜头或技术界面。
+    review_status: rejected
