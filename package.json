@@ -8,7 +8,8 @@
     "clean": "hexo clean",
     "deploy": "hexo deploy",
     "server": "hexo server",
-    "validate:content": "node tools/validate-content.mjs"
+    "validate:content": "node tools/validate-content.mjs",
+    "validate:reading": "node tools/test-reading-dates.mjs && node tools/validate-reading.mjs"
   },
   "hexo": {
     "version": "8.1.2"

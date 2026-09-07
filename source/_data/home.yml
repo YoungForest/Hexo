@@ -1,0 +1,40 @@
+{
+  "label": "阅读导览",
+  "intro": "软件工程师，记录技术、阅读、投资与生活",
+  "featured_title": "从这里开始",
+  "featured_path": "start-here/",
+  "latest_title": "最新文章",
+  "topics_title": "主题导览",
+  "featured": [
+    {
+      "title": "硕士3年复盘",
+      "path": "2021/07/03/my-3-years-master/"
+    },
+    {
+      "title": "从北京到都柏林 一名程序员的润欧之旅",
+      "path": "2022/12/09/Find-a-Europe-SDE-job-from-China/"
+    },
+    {
+      "title": "The World I see",
+      "path": "2025/12/31/The-World-I-see/"
+    }
+  ],
+  "topics": [
+    {
+      "title": "技术实践",
+      "path": "topics/technology/"
+    },
+    {
+      "title": "职业与成长",
+      "path": "topics/career-growth/"
+    },
+    {
+      "title": "阅读与思考",
+      "path": "topics/reading/"
+    },
+    {
+      "title": "海外生活",
+      "path": "topics/life-abroad/"
+    }
+  ]
+}

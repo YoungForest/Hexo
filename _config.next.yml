@@ -2,6 +2,8 @@ custom_file_path:
   head: source/_data/head.njk
   bodyEnd: source/_data/body-end.njk
   style: source/_data/styles.styl
+  variable: source/_data/variables.styl
+  postMeta: templates/post-meta.njk
 # Schemes
 # scheme: Muse
 scheme: Mist
@@ -136,14 +138,10 @@ local_search:
 # External url should start with http:// or https://
 menu:
   home: / || fa fa-home
+  从这里开始: /start-here/ || fa fa-compass
+  主题: /topics/ || fa fa-th
   about: /about/ || fa fa-user
-  tags: /tags/ || fa fa-tags
-  categories: /categories/ || fa fa-th
-  archives: /archives/ || fa fa-archive
-  #schedule: /schedule/ || fa fa-calendar
   English: https://youngforest.github.io/en/ || fa fa-globe
-  #sitemap: /sitemap.xml || fa fa-sitemap
-  #commonweal: /404/ || fa fa-heartbeat
 
 # Enable / Disable menu icons / item badges.
 menu_settings:
@@ -177,3 +175,15 @@ math:
     enable: false
     # See: https://github.com/KaTeX/KaTeX/tree/master/contrib/copy-tex
     copy_tex: false
+
+# Reading refresh: retain explicit author dates and wrap long mobile text.
+post_meta:
+  created_at: true
+  updated_at:
+    enable: true
+    another_day: true
+text_align:
+  desktop: justify
+  mobile: left
+toc:
+  wrap: true

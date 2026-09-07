@@ -79,7 +79,7 @@ translations:
 
 ## 读万卷书
 
-今年读了30+本书，[读后感列表](https://youngforest.github.io/categories/%E8%AF%BB%E5%90%8E%E6%84%9F/）。特别喜欢的有：
+今年读了30+本书，[读后感列表](https://youngforest.github.io/categories/%E8%AF%BB%E5%90%8E%E6%84%9F/)。特别喜欢的有：
 - [李飞飞 的《The World I See》](https://youngforest.github.io/2025/12/31/The-World-I-see/)
 - [《A Little History of the World》](https://youngforest.github.io/2026/01/01/Little-history-of-world/)
 - [《比特币标准》](https://youngforest.github.io/2026/01/01/The-Bitcoin-Standard/)

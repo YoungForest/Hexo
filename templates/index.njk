@@ -1,0 +1,26 @@
+{# Based on NeXT v8.27.0 index.njk; compare when upgrading the pinned theme. #}
+{% extends '_layout.njk' %}
+{% import '_macro/sidebar.njk' as sidebar_template with context %}
+{% block title %}{{ title }}{% if theme.index_with_subtitle and subtitle %} - {{ subtitle }}{% endif %}{% endblock %}
+{% block class %}index posts-expand{% endblock %}
+{% block content %}
+  {% if page.current === 1 %}
+    {% set home = site.data.home %}
+    <section class="home-guide" aria-label="{{ home.label | escape }}">
+      <p class="home-intro">{{ home.intro | escape }}</p>
+      <h2><a href="{{ url_for(home.featured_path) | escape }}">{{ home.featured_title | escape }} <span aria-hidden="true">→</span></a></h2>
+      <ul class="home-featured">
+        {% for item in home.featured %}<li><a href="{{ url_for(item.path) | escape }}">{{ item.title | escape }}</a></li>{% endfor %}
+      </ul>
+      <nav class="home-topics" aria-label="{{ home.topics_title | escape }}">
+        {% for item in home.topics %}<a href="{{ url_for(item.path) | escape }}">{{ item.title | escape }}</a>{% endfor %}
+      </nav>
+    </section>
+    <h2 class="home-latest">{{ home.latest_title | escape }}</h2>
+  {% endif %}
+  {% for post in page.posts.toArray() %}
+    {{ partial('_macro/post.njk', {post: post, is_index: true}) }}
+  {% endfor %}
+  {% include '_partials/pagination.njk' %}
+{% endblock %}
+{% block sidebar %}{{ sidebar_template.render(false) }}{% endblock %}
