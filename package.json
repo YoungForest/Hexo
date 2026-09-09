@@ -2,14 +2,20 @@
   "name": "hexo-site",
   "version": "0.0.0",
   "private": true,
+  "engines": {
+    "node": ">=24 <25"
+  },
   "scripts": {
+    "postinstall": "node tools/patch-markdown-renderer.cjs",
+    "prebuild": "node tools/patch-markdown-renderer.cjs && node tools/test-markdown-renderer.cjs",
     "build": "hexo clean && hexo generate",
     "check": "npm run validate:content && npm run build",
     "clean": "hexo clean",
     "deploy": "hexo deploy",
     "server": "hexo server",
     "validate:content": "node tools/validate-content.mjs",
-    "validate:reading": "node tools/test-reading-dates.mjs && node tools/validate-reading.mjs"
+    "validate:reading": "node tools/test-reading-dates.mjs && node tools/validate-reading.mjs",
+    "validate:discovery": "node tools/test-discovery.mjs && node tools/validate-discovery.mjs"
   },
   "hexo": {
     "version": "8.1.2"
@@ -31,10 +37,18 @@
     "@traptitech/markdown-it-katex": "^3.6.0"
   },
   "devDependencies": {
+    "htmlparser2": "6.1.0",
     "hexo-generator-feed": "^4.0.0",
-    "js-yaml": "^4.1.0"
+    "js-yaml": "4.3.2"
   },
   "overrides": {
+    "hexo-server": {
+      "morgan": "1.12.0"
+    },
+    "hexo-renderer-markdown-it": {
+      "markdown-it": "15.0.0",
+      "linkify-it": "6.1.0"
+    },
     "cross-spawn": ">=7.0.6",
     "picomatch": ">=4.0.3",
     "minimatch": ">=3.1.5",

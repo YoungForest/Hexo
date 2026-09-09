@@ -1,0 +1,31 @@
+import assert from 'node:assert/strict';
+import { buildCatalog } from '../lib/discovery.cjs';
+const date={format:()=> '2020-01-02',valueOf:()=> 1577923200000};
+const post=(id,categories=[])=>({source:'_posts/'+id+'.md',path:'2020/01/02/'+id+'/',title:id,description:'Original description',date,categories});
+const posts=[post('book'),post('older'),post('newer'),post('code',['LeetCode']),post('other'),{...post('draft'),published:false}];
+const manifest={version:1,reading:[{post:'book',kind:'book-note',aliases:['别名','Alias']}],series:[{id:'year-in-review',title:'Reviews',items:[{post:'newer',year:2025},{post:'older',year:2024}]}]};
+for(const en of [true,false]) {
+ const data=buildCatalog(manifest,posts,en);
+ assert.equal(data.reading[0].description,'Original description');
+ assert.deepEqual(data.reading[0].aliases,['别名','Alias']);
+ assert.equal(data.series[0].items[0].id,'older');
+ assert.equal(data.metadata.get('older').series.older,undefined);
+ assert.equal(data.metadata.get('older').series.newer.id,'newer');
+ assert.equal(data.metadata.get('newer').series.newer,undefined);
+ assert.equal(data.metadata.get('code').group,'algorithms');
+ assert.equal(data.metadata.get('other').group,'other');
+ assert(!data.metadata.has('draft'));
+ assert.equal(data.metadata.size,5);
+}
+const change=(mutate,regex)=>{const m=structuredClone(manifest);mutate(m);assert.throws(()=>buildCatalog(m,posts),regex);};
+change(m=>m.version=2,/version/);
+change(m=>m.reading[0].post='missing',/Missing/);
+change(m=>m.reading[0].post='../book',/Invalid post/);
+change(m=>m.reading[0].post='draft',/Missing/);
+change(m=>m.reading.push(m.reading[0]),/Duplicate reading/);
+change(m=>m.reading[0].kind='rating',/Invalid reading/);
+change(m=>m.reading[0].aliases=[''],/nonempty/);
+change(m=>m.series[0].items[1].year=2025,/Duplicate year/);
+change(m=>m.series[0].items[1].post='newer',/Duplicate series/);
+change(m=>m.series.push(m.series[0]),/duplicate series/);
+console.log('Discovery unit fixtures passed: references, types, aliases, deterministic order, series boundaries, drafts, groups.');

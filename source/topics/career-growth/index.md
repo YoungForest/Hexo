@@ -25,4 +25,6 @@ translations:
 
 从中国寻找欧洲软件工程师工作的完整复盘：准备、面试、选择与跨国搬迁。
 
+[按年份阅读年度总结](/series/year-in-review/)
+
 [返回主题导览](https://youngforest.github.io/topics/) · [完整归档](https://youngforest.github.io/archives/)

@@ -47,6 +47,8 @@ translations:
 
 [进入这个主题](https://youngforest.github.io/topics/career-growth/)
 
+[按年份阅读年度总结](/series/year-in-review/)
+
 ## 阅读与思考
 
 记录阅读中的启发、疑问与个人反应。
@@ -64,6 +66,8 @@ translations:
 以制度、关键时期与创新为线索，记录阅读《国家为什么失败》的思考。
 
 [进入这个主题](https://youngforest.github.io/topics/reading/)
+
+[查看全部书影音笔记](/reading/)
 
 ## 海外生活
 

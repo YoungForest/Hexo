@@ -1,6 +1,6 @@
 custom_file_path:
   head: source/_data/head.njk
-  bodyEnd: source/_data/body-end.njk
+  bodyEnd: templates/body-end.njk
   style: source/_data/styles.styl
   variable: source/_data/variables.styl
   postMeta: templates/post-meta.njk

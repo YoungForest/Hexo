@@ -1,0 +1,8 @@
+<nav class="discovery-series" aria-label="{{ escape_html(discovery.series.title) }}">
+  <p class="discovery-series-label">{{ escape_html(discovery.series.title) }} · {{ discovery.series.year }}</p>
+  <div class="discovery-series-links">
+    <div>{% if discovery.series.older %}<a href="{{ url_for(discovery.series.older.path) }}" rel="prev"><span>{{ discovery.labels.older }}</span><strong>{{ discovery.series.older.year }}</strong></a>{% endif %}</div>
+    <a class="discovery-series-all" href="{{ url_for('series/' + discovery.series.id + '/') }}">{{ discovery.labels.series }}</a>
+    <div>{% if discovery.series.newer %}<a href="{{ url_for(discovery.series.newer.path) }}" rel="next"><span>{{ discovery.labels.newer }}</span><strong>{{ discovery.series.newer.year }}</strong></a>{% endif %}</div>
+  </div>
+</nav>

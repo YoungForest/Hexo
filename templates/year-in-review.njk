@@ -1,0 +1,11 @@
+{% set catalog = discovery_data() %}
+{% set series = catalog.series[0] %}
+<ol class="discovery-list discovery-years" reversed>
+{% for item in series.descending %}
+  <li class="discovery-year">
+    <span class="discovery-year-label">{{ item.year }}</span>
+    <div><h2><a href="{{ url_for(item.path) }}">{{ escape_html(item.title) }}</a></h2>
+    <p class="discovery-note-meta">{{ catalog.labels.published }} <time datetime="{{ item.date }}">{{ item.date }}</time></p></div>
+  </li>
+{% endfor %}
+</ol>

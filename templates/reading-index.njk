@@ -1,0 +1,17 @@
+{% set catalog = discovery_data() %}
+<section class="discovery-reading" data-discovery-reading data-count-unit="{{ catalog.labels.count }}">
+  <div class="discovery-filters" role="group" aria-label="{{ catalog.labels.filter }}" hidden>
+    <button type="button" data-kind="all" aria-pressed="true">{{ catalog.labels.all }}</button>
+    {% for kind in catalog.kinds %}<button type="button" data-kind="{{ kind }}" aria-pressed="false">{{ catalog.labels[kind] }}</button>{% endfor %}
+  </div>
+  <p class="discovery-count" role="status" aria-live="polite">{{ catalog.reading.length }} {{ catalog.labels.count }}</p>
+  <ul class="discovery-list">
+    {% for book in catalog.reading %}
+    <li class="discovery-note" data-note-kind="{{ book.kind }}">
+      <div class="discovery-note-meta"><span class="discovery-kind">{{ book.kindLabel }}</span><span>{{ catalog.labels.published }} <time datetime="{{ book.date }}">{{ book.date }}</time></span></div>
+      <h2><a href="{{ url_for(book.path) }}">{{ escape_html(book.title) }}</a></h2>
+      <p class="discovery-description">{{ escape_html(book.description) }}</p>
+    </li>
+    {% endfor %}
+  </ul>
+</section>

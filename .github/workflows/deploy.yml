@@ -25,7 +25,7 @@ jobs:
     strategy:
       matrix:
         os: [ubuntu-latest]
-        node_version: [20.x]
+        node_version: [24.x]
 
     steps:
       - name: Checkout
@@ -79,6 +79,9 @@ jobs:
 
       - name: Validate reading experience
         run: npm run validate:reading
+
+      - name: Validate discovery and series
+        run: npm run validate:discovery
 
       - name: Lighthouse mobile thresholds
         if: github.event_name == 'pull_request'

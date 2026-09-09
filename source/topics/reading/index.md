@@ -25,4 +25,6 @@ translations:
 
 以制度、关键时期与创新为线索，记录阅读《国家为什么失败》的思考。
 
+[查看全部书影音笔记](/reading/)
+
 [返回主题导览](https://youngforest.github.io/topics/) · [完整归档](https://youngforest.github.io/archives/)
