@@ -3,6 +3,7 @@ const fs=require('node:fs');
 const path=require('node:path');
 const yaml=require('js-yaml');
 const {buildCatalog}=require('../lib/discovery.cjs');
+const {mobileTocCount,options:mobileTocOptions}=require('../lib/mobile-toc.cjs');
 let catalog;
 function data() {
   if(!catalog) {
@@ -13,7 +14,7 @@ function data() {
 }
 hexo.extend.filter.register('before_generate',()=>{
   catalog=undefined;
-  for(const [view,file] of [['_macro/post.njk','discovery-post.njk'],['page.njk','discovery-page.njk'],['reading-index.njk','reading-index.njk'],['year-in-review.njk','year-in-review.njk'],['series-navigation.njk','series-navigation.njk']]) {
+  for(const [view,file] of [['_macro/post.njk','discovery-post.njk'],['page.njk','discovery-page.njk'],['reading-index.njk','reading-index.njk'],['year-in-review.njk','year-in-review.njk'],['series-navigation.njk','series-navigation.njk'],['related-reading.njk','related-reading.njk']]) {
     hexo.theme.setView(view,fs.readFileSync(path.join(hexo.base_dir,'templates',file),'utf8'));
   }
   data(); // Fail a build on missing references, not when a visitor opens a page.
@@ -21,3 +22,9 @@ hexo.extend.filter.register('before_generate',()=>{
 },20);
 hexo.extend.helper.register('discovery_data',data);
 hexo.extend.helper.register('discovery_post',post=>data().metadata.get(path.basename(post.source||'', '.md')));
+hexo.extend.helper.register('mobile_toc',function(post) {
+  const metadata=data().metadata.get(path.basename(post.source||'', '.md'));
+  const enabled=!metadata?.tocDisabled && post.toc!==false && post.toc?.enable!==false && this.theme.toc?.enable!==false;
+  const count=mobileTocCount(post.content,enabled);
+  return count ? {count,html:this.toc(post.content,mobileTocOptions)} : null;
+});

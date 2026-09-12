@@ -1,0 +1,12 @@
+<nav class="related-reading" aria-labelledby="related-reading-title">
+  <h2 id="related-reading-title">{{ discovery.labels.related }}</h2>
+  <ul>
+    {% for item in discovery.related %}
+      <li>
+        <a href="{{ url_for(item.path) }}">{{ escape_html(item.title) }}</a>
+        <time datetime="{{ item.date }}">{{ discovery.labels.published }} {{ item.date }}</time>
+        <p>{{ escape_html(item.description) }}</p>
+      </li>
+    {% endfor %}
+  </ul>
+</nav>

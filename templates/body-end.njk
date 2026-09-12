@@ -1,5 +1,6 @@
 {# Needs theme render locals; keep outside source/_data's standalone processing. #}
 <script src="{{ url_for('js/discovery.js') }}" defer></script>
+{% if is_post() or page.subscription %}<script src="{{ url_for('js/reading-tools.js') }}" defer></script>{% endif %}
 <script>
   (() => {
     if (window.location.hostname !== 'youngforest.github.io') return;

@@ -64,6 +64,13 @@
     {#################}
     {### POST BODY ###}
     {#################}
+    {% set mobile_contents = mobile_toc(post) if is_post() and not is_index else false %}
+    {% if mobile_contents %}
+      <details class="mobile-toc">
+        <summary>{% if config.root === '/en/' %}On this page · {{ mobile_contents.count }} sections{% else %}文章目录 · {{ mobile_contents.count }} 节{% endif %}</summary>
+        <nav aria-label="{% if config.root === '/en/' %}On this page{% else %}文章目录{% endif %}">{{ mobile_contents.html }}</nav>
+      </details>
+    {% endif %}
     <div class="post-body{% if post.direction and post.direction.toLowerCase() === 'rtl' %} rtl{% endif %}" itemprop="articleBody">
       {%- if is_index %}
         {%- if post.description and theme.excerpt_description %}
@@ -132,7 +139,8 @@
 
         {{ partial('_partials/post/post-share.njk', {}, {cache: theme.cache.enable}) }}
 
-        {%- if theme.post_navigation and (post.prev or post.next) and not (discovery and discovery.series) %}
+        {% if discovery and discovery.related and not discovery.series %}{{ partial('related-reading.njk', {discovery: discovery}) }}{% endif %}
+        {%- if theme.post_navigation and (post.prev or post.next) and not (discovery and (discovery.series or discovery.related)) %}
           {%- set prev = post.prev if theme.post_navigation === 'right' else post.next %}
           {%- set next = post.next if theme.post_navigation === 'right' else post.prev %}
           <div class="post-nav">

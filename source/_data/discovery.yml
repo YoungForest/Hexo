@@ -1,4 +1,36 @@
 version: 1
+# Curated, directional links. Annual-series navigation takes precedence.
+related_reading:
+  - post: my-3-years-master
+    next:
+      - my-4-years-college
+      - Find-a-Europe-SDE-job-from-China
+  - post: Find-a-Europe-SDE-job-from-China
+    next:
+      - foreign-companies-comparision-between-China-Europe
+      - Tencent-WeChat-backend-intern-interview
+  - post: foreign-companies-comparision-between-China-Europe
+    next:
+      - Find-a-Europe-SDE-job-from-China
+      - 2023-summary-and-2024-resolutions
+  - post: Project-Hail-Mary
+    next:
+      - 3-body
+  - post: Antifragile-Things-That-Gain-from-Disorder
+    next:
+      - Skin-in-the-Game-Hidden-Asymmetries-in-Daily-Life
+      - Poor-Charlie-Almanack
+  - post: Why-Nations-fail
+    next:
+      - Guns-Germs-and-Steel
+      - A-Global-History-From-Prehistory-to-the-21st-Century
+  - post: The-World-I-see
+    next:
+      - Elon-Musk
+      - recommender-systems-of-popular-apps
+  - post: Windows-Dev-Improvement
+    next:
+      - terminal-proxy-configuration
 reading:
   - post: 3-body
     kind: book-screen

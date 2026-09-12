@@ -70,7 +70,7 @@ follow_me:
   Twitter: https://twitter.com/youngforest || fab fa-twitter
   #Telegram: https://t.me/channel_name || fab fa-telegram
   # WeChat: /uploads/wechat-qcode.jpg || fab fa-weixin
-  RSS: /atom.xml || fa fa-rss
+  订阅更新: /subscribe/ || fa fa-rss
 # Related popular posts
 # Dependencies: https://github.com/tea3/hexo-related-popular-posts
 related_posts:
@@ -140,6 +140,7 @@ menu:
   home: / || fa fa-home
   从这里开始: /start-here/ || fa fa-compass
   主题: /topics/ || fa fa-th
+  订阅: /subscribe/ || fa fa-rss
   about: /about/ || fa fa-user
   English: https://youngforest.github.io/en/ || fa fa-globe
 
