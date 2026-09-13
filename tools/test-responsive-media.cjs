@@ -1,0 +1,18 @@
+'use strict';
+const assert=require('node:assert/strict');
+const {parseDocument,DomUtils:D}=require('htmlparser2');
+const {renderPhotos,SIZES}=require('../lib/responsive-media.cjs');
+const manifest={posts:['Paris'],photos:[{id:'paris-01',post:'Paris',src:'/images/中文.jpg',width:2000,height:1000,outputs:[{src:'/images/responsive/photo-480.webp',width:480}]}]};
+const original='<h2 id="原有章节">Heading</h2><p>Text<img src="/images/%E4%B8%AD%E6%96%87.jpg" alt="A &amp; B"></p><pre>&lt;img src="/images/中文.jpg"&gt;</pre><img src="/images/ai/hero.webp" width="1536" height="864" fetchpriority="high">';
+const result=renderPhotos(original,'Paris',manifest);
+const doc=parseDocument(result),images=D.findAll(n=>n.name==='img',doc.children);
+assert.equal(images.length,2);assert.equal(images[0].attribs.src,'/images/%E4%B8%AD%E6%96%87.jpg');
+assert.equal(images[0].attribs.sizes,SIZES);assert.equal(images[0].attribs.width,'2000');assert.equal(images[0].attribs.height,'1000');
+assert.equal(images[0].attribs.loading,'lazy');assert.equal(images[0].attribs.alt,'A & B');
+assert.equal(images[1].attribs.fetchpriority,'high');assert(!images[1].attribs.srcset);
+assert(result.includes('查看原图'));assert(renderPhotos(original,'Paris',manifest,true).includes('View original'));
+assert.equal(renderPhotos(original,'Other',manifest),original);
+assert.equal(renderPhotos(result,'Paris',manifest),result,'No duplicate attributes or controls');
+assert(result.includes('<h2 id="原有章节">Heading</h2>'));
+assert(result.includes('<pre>&lt;img src="/images/中文.jpg"&gt;</pre>'));
+console.log('Responsive presentation fixtures passed: whitelist, original URL/alt/hero, Unicode, no duplicates, escaped code, language.');

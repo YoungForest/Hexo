@@ -83,6 +83,12 @@ jobs:
       - name: Validate discovery and series
         run: npm run validate:discovery
 
+      - name: Validate local article links
+        run: npm run validate:links
+
+      - name: Validate responsive media and page tools
+        run: npm run validate:quality
+
       - name: Lighthouse mobile thresholds
         if: github.event_name == 'pull_request'
         continue-on-error: true

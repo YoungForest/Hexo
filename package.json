@@ -15,12 +15,17 @@
     "server": "hexo server",
     "validate:content": "node tools/validate-content.mjs",
     "validate:reading": "node tools/test-reading-dates.mjs && node tools/validate-reading.mjs",
-    "validate:discovery": "node tools/test-discovery.mjs && node tools/validate-discovery.mjs"
+    "validate:discovery": "node tools/test-discovery.mjs && node tools/validate-discovery.mjs",
+    "validate:links": "node tools/test-links.cjs && node tools/validate-links.cjs",
+    "validate:quality": "node tools/test-responsive-media.cjs && node tools/validate-quality.cjs",
+    "report:external-links": "node tools/report-external-links.cjs",
+    "media:generate": "node tools/generate-responsive-media.cjs"
   },
   "hexo": {
     "version": "8.1.2"
   },
   "dependencies": {
+    "@traptitech/markdown-it-katex": "^3.6.0",
     "hexo": "^8.1.0",
     "hexo-deployer-git": "^4.0.0",
     "hexo-excerpt": "^1.1.6",
@@ -33,13 +38,13 @@
     "hexo-renderer-ejs": "^2.0.0",
     "hexo-renderer-markdown-it": "^7.1.1",
     "hexo-renderer-stylus": "^3.0.1",
-    "hexo-server": "^3.0.0",
-    "@traptitech/markdown-it-katex": "^3.6.0"
+    "hexo-server": "^3.0.0"
   },
   "devDependencies": {
-    "htmlparser2": "6.1.0",
     "hexo-generator-feed": "^4.0.0",
-    "js-yaml": "4.3.2"
+    "htmlparser2": "6.1.0",
+    "js-yaml": "4.3.2",
+    "sharp": "0.35.4"
   },
   "overrides": {
     "hexo-server": {

@@ -26,6 +26,6 @@ translations:
 ## Color Scheme
 sublime text 3 默认的主题是`Monokai(dark)`, 感觉还是挺养眼的, 但缺点是markdown的支持特别差. 我还比较喜欢的另一个主题`Solarized(dark)`也是这样, 默认提供的`Solarized`与在vim中的体验相去甚远. 所以我通过`Package Contorl`安装了`Solarized Color Scheme`这个主题, 与vim对照如下, 还是比较养眼.
 
-![Solarized optimized for sublime](../assets/sublime-solarized-optimized.PNG)
+![Solarized optimized for sublime](/assets/sublime-solarized-optimized.PNG)
 
-![Solarized for vim](../assets/vim-solarized.PNG)
+![Solarized for vim](/assets/vim-solarized.PNG)

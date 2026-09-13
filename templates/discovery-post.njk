@@ -1,4 +1,4 @@
-{# Controlled NeXT v8.27.0 override; only discovery metadata/navigation differs. #}
+{# Controlled NeXT v8.27.0 override: discovery, photo presentation and print source. #}
 {% set discovery = discovery_post(post) if is_post() else false %}
 {##################}
 {### POST BLOCK ###}
@@ -64,6 +64,7 @@
     {#################}
     {### POST BODY ###}
     {#################}
+    {% if not is_index %}<p class="print-source">{{ author }} · <a href="{{ post.permalink }}">{{ post.permalink }}</a></p>{% endif %}
     {% set mobile_contents = mobile_toc(post) if is_post() and not is_index else false %}
     {% if mobile_contents %}
       <details class="mobile-toc">
@@ -100,7 +101,7 @@
         {%- endif %}
       {% else %}
         {{- next_inject('postBodyStart') }}
-        {{- post.content }}
+        {{- reading_photos(post) }}
       {%- endif %}
     </div>
 
