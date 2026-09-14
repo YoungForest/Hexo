@@ -1,0 +1,3 @@
+{# Keep the existing CDN matcher and SRI; never load the old UI controller as well. #}
+{{ next_vendors('local_search') }}
+<script src="{{ url_for('js/search-ui.js') }}" defer></script>

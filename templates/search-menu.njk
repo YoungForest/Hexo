@@ -1,0 +1,18 @@
+{# NeXT v8.27.0 menu: native search button with a real archive fallback. #}
+{% import 'menu-item.njk' as menu_item with context %}
+{% set copy = search_ui_labels() %}
+{%- if theme.menu or theme.local_search.enable %}
+<nav class="site-nav">
+  <ul class="main-menu menu">
+    {%- for node in theme.main_menu %}{{- menu_item.render(node) | trim }}{%- endfor %}
+    {% if theme.local_search.enable %}
+      <li class="menu-item menu-item-search">
+        <button type="button" class="popup-trigger" data-search-trigger hidden>
+          {% if theme.menu_settings.icons %}<i class="fa fa-search fa-fw" aria-hidden="true"></i>{% endif %}{{ __('menu.search') }}
+        </button>
+        <a data-search-fallback href="{{ url_for('archives/') }}">{{ copy.archive }}</a>
+      </li>
+    {% endif %}
+  </ul>
+</nav>
+{%- endif %}

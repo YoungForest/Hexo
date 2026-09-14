@@ -1,0 +1,8 @@
+.post-body h2 > .section-link, .post-body h3 > .section-link { display: inline-flex; box-sizing: border-box; width: 44px; height: 44px; margin-left: 4px; align-items: center; justify-content: center; vertical-align: middle; border: 0; color: #28665f; border-radius: 4px; }
+.section-link svg { flex: 0 0 auto; }
+.post-body .section-link:focus-visible { opacity: 1; outline: 2px solid #28665f; outline-offset: -3px; }
+@media (hover: hover) and (pointer: fine) {
+  .post-body h2 > .section-link, .post-body h3 > .section-link { opacity: 0; }
+  .post-body h2:hover > .section-link, .post-body h3:hover > .section-link, .post-body h2 > .section-link:focus-visible, .post-body h3 > .section-link:focus-visible { opacity: 1; }
+}
+@media print { .post-body h2 > .section-link, .post-body h3 > .section-link { display: none !important; } }

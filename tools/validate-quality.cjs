@@ -8,6 +8,8 @@ const manifest=JSON.parse(fs.readFileSync('source/_data/responsive-media.json','
 const en=yaml.load(fs.readFileSync('_config.yml','utf8')).root==='/en/';
 const all=(d,p)=>D.findAll(p,d.children||[]),cls=(n,c)=>(n.attribs?.class||'').split(/\s+/).includes(c);
 async function main() {
+  require('./test-recovery.cjs');
+  require('./validate-recovery.cjs')();
   assert.equal(manifest.assetOwner,'Hexo');assert.equal(manifest.version,1);
   assert.equal(manifest.photos.length,27);assert.equal(new Set(manifest.photos.map(p=>p.src)).size,27);
   assert.equal(manifest.photos.filter(p=>p.post==='Paris').length,15);assert.equal(manifest.photos.filter(p=>p.post==='shandong-trip').length,12);

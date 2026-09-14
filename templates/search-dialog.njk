@@ -1,0 +1,29 @@
+{# Controlled NeXT v8.27.0 override. Only the search shell changes; matcher is retained. #}
+{% set copy = search_ui_labels() %}
+<dialog class="search-popup search-dialog" id="site-search" aria-labelledby="site-search-title">
+  <h2 class="search-visually-hidden" id="site-search-title">{{ copy.title }}</h2>
+  <div class="search-header">
+    <span class="search-icon" aria-hidden="true"><i class="fa fa-search"></i></span>
+    <div class="search-input-container">
+      <label class="search-visually-hidden" for="site-search-input">{{ copy.input }}</label>
+      <input id="site-search-input" autocomplete="off" autocapitalize="off" maxlength="80" placeholder="{{ __('search.placeholder') }}" spellcheck="false" type="search" class="search-input">
+    </div>
+    <button class="popup-btn-close" type="button" aria-label="{{ copy.close }}"><i class="fa fa-times" aria-hidden="true"></i></button>
+  </div>
+  <div class="search-scroll">
+    <p class="search-status" role="status" aria-live="polite" aria-atomic="true"
+       data-empty="{{ copy.empty }}" data-loading="{{ copy.loading }}" data-none="{{ copy['none'] }}"
+       data-error="{{ copy.error }}" data-library-error="{{ copy.libraryError }}">{{ copy.empty }}</p>
+    <div class="search-actions">
+      <button type="button" class="search-retry" hidden>{{ copy.retry }}</button>
+      <button type="button" class="search-reload" hidden>{{ copy.reload }}</button>
+    </div>
+    <nav class="search-browse" aria-label="{{ copy.browse }}">
+      <a href="{{ url_for('archives/') }}">{{ copy.archive }}</a>
+      <a href="{{ url_for('topics/') }}">{{ copy.topics }}</a>
+      <a href="{{ url_for('reading/') }}">{{ copy.reading }}</a>
+      <a href="{{ copy.otherUrl }}" lang="{{ 'zh-CN' if config.root === '/en/' else 'en' }}">{{ copy.other }}</a>
+    </nav>
+    <div class="search-result-container" id="site-search-results"></div>
+  </div>
+</dialog>
