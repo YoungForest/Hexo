@@ -1,0 +1,27 @@
+version: 1
+post: source/_posts/The-Price-of-Time.md
+assets:
+  - id: book-cover
+    type: official-book-cover
+    file: source/images/books/The-Price-of-Time/cover.png
+    edition: English paperback, 2023; not a claim about the edition read
+    source_page: https://www.edwardchancellor.com/books/the-price-of-time
+    source_image: >-
+      https://images.squarespace-cdn.com/content/v1/62b56011d2e4a236a65c30fc/fe332588-d0c2-499c-bf84-30148d78d054/Price-of-time-paperback.png
+    retrieved_on: '2026-10-15'
+    width: 541
+    height: 819
+    bytes: 73922
+    transformation: none
+    placement: hero
+    alt: The Price of Time 英文平装版书封，百分号与引线炸弹图案
+    credit: 图片来源：作者官网。封面版权归原权利人所有。
+    review_status: approved
+    rights_status: criticism-review-rationale-recorded-not-licensed
+    rights_note: >-
+      Single cover used solely to identify the work discussed in this substantive book review. Displayed compactly at 200px width, artwork
+      unchanged and source credited. No separate reproduction license found; official availability is not a license. Publication requires
+      review of this limited criticism/review basis in the applicable context; no jurisdiction-wide assurance is made.
+    use_basis_references:
+      - https://www.copyright.gov/fair-use/
+      - https://www.npc.gov.cn/c2/c30834/202011/t20201119_308796.html
