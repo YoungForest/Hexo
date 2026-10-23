@@ -44,7 +44,7 @@
     "hexo-generator-feed": "^4.0.0",
     "htmlparser2": "6.1.0",
     "js-yaml": "4.3.2",
-    "sharp": "0.35.4"
+    "sharp": "0.35.5"
   },
   "overrides": {
     "hexo-server": {
